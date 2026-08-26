@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1971455974256119979",
+    "created_at": "2025-09-26T06:58:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T07:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971469476169384373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1768339985399480324",
+          "start": 0,
+          "username": "zzzzz337381"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971469476169384373",
+    "in_reply_to_user_id": "1768339985399480324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971455974256119979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzzzz337381 这是正面还是背面☺️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1971455967809187840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1wEweuXMAA14tF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1971455974256119979",
+        "created_at": "2025-09-26T06:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T07:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971469476169384373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1768339985399480324",
+              "start": 0,
+              "username": "zzzzz337381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971469476169384373",
+        "in_reply_to_user_id": "1768339985399480324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971455974256119979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzzzz337381 这是正面还是背面☺️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971455967809187840"
+          ]
+        },
+        "author_id": "1768339985399480324",
+        "conversation_id": "1971455974256119979",
+        "created_at": "2025-09-26T06:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T07:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971455974256119979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cDuGfFMKcV",
+              "end": 33,
+              "expanded_url": "https://x.com/zzzzz337381/status/1971455974256119979/photo/1",
+              "media_key": "3_1971455967809187840",
+              "start": 10,
+              "url": "https://t.co/cDuGfFMKcV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971455974256119979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "130福利？无媚男 https://t.co/cDuGfFMKcV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗七个小号其中之一@dante82682",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "dante82682"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥 day1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2005,
+          "following_count": 241,
+          "like_count": 20035,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 5523
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T18:15:03.000Z",
+        "description": "我的人生就是自残自卑自恋自慰自杀自作多情",
+        "id": "1768339985399480324",
+        "location": "伦敦",
+        "name": "zzzzz",
+        "pinned_tweet_id": "1915356627517280443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969111773795270656/TFJkcHOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 945,
+          "like_count": 6655,
+          "listed_count": 2,
+          "media_count": 207,
+          "tweet_count": 1464
+        },
+        "username": "zzzzz337381",
+        "verified": false
+      }
+    ]
+  }
+}

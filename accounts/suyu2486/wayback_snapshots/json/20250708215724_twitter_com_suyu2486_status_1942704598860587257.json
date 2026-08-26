@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1942588329037267296",
+    "created_at": "2025-07-08T21:57:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T22:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942704598860587257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1785637576902324225",
+          "start": 0,
+          "username": "RonronnzzZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942704598860587257",
+    "in_reply_to_user_id": "1785637576902324225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942588329037267296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RonronnzzZ 很难但我还是…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_1942588323614105600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvV1yb3XIAApDNg.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1942588329037267296",
+        "created_at": "2025-07-08T21:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T22:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942704598860587257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1785637576902324225",
+              "start": 0,
+              "username": "RonronnzzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942704598860587257",
+        "in_reply_to_user_id": "1785637576902324225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942588329037267296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RonronnzzZ 很难但我还是…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942588323614105600"
+          ]
+        },
+        "author_id": "1785637576902324225",
+        "conversation_id": "1942588329037267296",
+        "created_at": "2025-07-08T14:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T15:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942588329037267296"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KCbwlY3Iqw",
+              "end": 28,
+              "expanded_url": "https://x.com/RonronnzzZ/status/1942588329037267296/photo/1",
+              "media_key": "3_1942588323614105600",
+              "start": 5,
+              "url": "https://t.co/KCbwlY3Iqw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942588329037267296",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 720,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/KCbwlY3Iqw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 199,
+          "like_count": 10827,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 3150
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-01T11:49:19.000Z",
+        "description": "07 不约不卡不线下 v只加互关 喊姐姐的死了",
+        "id": "1785637576902324225",
+        "location": "🚪🀄️",
+        "name": "大娘",
+        "pinned_tweet_id": "1920820944571949364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942588308812394497/6eZvniYK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 85,
+          "like_count": 2941,
+          "listed_count": 2,
+          "media_count": 162,
+          "tweet_count": 2187
+        },
+        "username": "RonronnzzZ",
+        "verified": false
+      }
+    ]
+  }
+}

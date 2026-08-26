@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1996099270907494692",
+    "created_at": "2025-12-03T12:00:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T13:00:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996187793698226517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1982016540196339712",
+          "start": 0,
+          "username": "TypeC2i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996187793698226517",
+    "in_reply_to_user_id": "1982016540196339712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996099270907494692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TypeC2i 我的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996099263873646597",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ORtGebgAUvi7x.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1996099270907494692",
+        "created_at": "2025-12-03T12:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T13:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996187793698226517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1982016540196339712",
+              "start": 0,
+              "username": "TypeC2i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996187793698226517",
+        "in_reply_to_user_id": "1982016540196339712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996099270907494692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TypeC2i 我的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996099263873646597"
+          ]
+        },
+        "author_id": "1982016540196339712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1996099270907494692",
+        "created_at": "2025-12-03T06:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T07:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996099270907494692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fN66AByjrp",
+              "end": 29,
+              "expanded_url": "https://x.com/TypeC2i/status/1996099270907494692/photo/1",
+              "media_key": "3_1996099263873646597",
+              "start": 6,
+              "url": "https://t.co/fN66AByjrp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996099270907494692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1038,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁的小鸡鸡 https://t.co/fN66AByjrp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是一个死人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1985888956073066671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2448,
+          "following_count": 268,
+          "like_count": 22718,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 6341
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-25T09:29:27.000Z",
+        "description": "ENFJ！♓️ 大三牲。",
+        "id": "1982016540196339712",
+        "location": "蠢猪离我远点",
+        "name": "充电线",
+        "pinned_tweet_id": "1983014062721261568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982016866026434560/Nic3a_QH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 126,
+          "like_count": 1202,
+          "listed_count": 4,
+          "media_count": 86,
+          "tweet_count": 719
+        },
+        "username": "TypeC2i",
+        "verified": false
+      }
+    ]
+  }
+}

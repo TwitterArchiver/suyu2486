@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1954746744291627398",
+    "created_at": "2025-08-11T08:17:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T09:17:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954819332317286747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1739949301244006400",
+          "start": 0,
+          "username": "GZYZ520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954819332317286747",
+    "in_reply_to_user_id": "1739949301244006400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954772541459070987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GZYZ520 下次我试试英语"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1954746744291627398",
+        "created_at": "2025-08-11T08:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T09:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954819332317286747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1739949301244006400",
+              "start": 0,
+              "username": "GZYZ520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954819332317286747",
+        "in_reply_to_user_id": "1739949301244006400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954772541459070987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GZYZ520 下次我试试英语"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739949301244006400",
+        "conversation_id": "1954746744291627398",
+        "created_at": "2025-08-11T05:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T06:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954772541459070987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954772541459070987",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954746744291627398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 不敢相信这是中文写出来的🤨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1953423119017758926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 200,
+          "like_count": 14373,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 3943
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T10:00:29.000Z",
+        "description": "山还是山 我还是我/INFP小蝴蝶🦋/操粉/聊骚/背刺/低素质/高P/忘本/拜金/哭穷/内耗/150斤/155cm/抽象大师/爱听男🚢/🚪18888",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%A9%97%E7%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%A9%97%E7%A9%971",
+                "start": 0,
+                "url": "https://t.co/ahIxpI0VVj"
+              }
+            ]
+          }
+        },
+        "id": "1739949301244006400",
+        "location": "👉向我提问",
+        "name": "穗穗🤍",
+        "pinned_tweet_id": "1896471295040315591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889393574250422273/pmXtpwMQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 646,
+          "like_count": 1043,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 1720
+        },
+        "url": "https://t.co/ahIxpI0VVj",
+        "username": "GZYZ520",
+        "verified": false
+      }
+    ]
+  }
+}
