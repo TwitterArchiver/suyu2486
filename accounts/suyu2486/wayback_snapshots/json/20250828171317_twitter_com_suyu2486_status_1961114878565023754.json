@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1961103415729422503",
+    "created_at": "2025-08-28T17:13:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T18:13:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961114878565023754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1870067454765838336",
+          "start": 0,
+          "username": "chessi1a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961114878565023754",
+    "in_reply_to_user_id": "1870067454765838336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961103415729422503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chessi1a 可以"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1554,
+        "media_key": "3_1961103372238614528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzc9IG4acAAQfKT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1961103415729422503",
+        "created_at": "2025-08-28T17:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T18:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961114878565023754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1870067454765838336",
+              "start": 0,
+              "username": "chessi1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961114878565023754",
+        "in_reply_to_user_id": "1870067454765838336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961103415729422503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chessi1a 可以"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961103372238614528"
+          ]
+        },
+        "author_id": "1870067454765838336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1250915122278567936",
+              "name": "Obon Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1250915122278567936",
+              "name": "Obon Week"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1323336569109925888",
+              "name": "Tanabata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1961103415729422503",
+        "created_at": "2025-08-28T16:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T17:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961103415729422503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CUSAy5TbiT",
+              "end": 29,
+              "expanded_url": "https://x.com/chessi1a/status/1961103415729422503/photo/1",
+              "media_key": "3_1961103372238614528",
+              "start": 6,
+              "url": "https://t.co/CUSAy5TbiT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961103415729422503",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 683,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "七夕快乐喵 https://t.co/CUSAy5TbiT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个好色的sb男的，双相情感障碍，情感漠视，精神失常，都滚远点别来烦我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "小玉",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 199,
+          "like_count": 17225,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 4576
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T11:23:27.000Z",
+        "description": "08/叫我小娅/私信仅回复过🚪相关/主人@航站楼 /自用vpn：https://t.co/QnxWbh1SjM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn.fnwebnet.sbs/#/register?cod…",
+                "end": 55,
+                "expanded_url": "https://vpn.fnwebnet.sbs/#/register?code=TdtMGihT",
+                "start": 32,
+                "url": "https://t.co/QnxWbh1SjM"
+              }
+            ]
+          }
+        },
+        "id": "1870067454765838336",
+        "location": "🚪88/188/288口令即可",
+        "name": "生物损伤科",
+        "pinned_tweet_id": "1959854998445232310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891054663161565184/LboD5koF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4102,
+          "following_count": 570,
+          "like_count": 11562,
+          "listed_count": 8,
+          "media_count": 402,
+          "tweet_count": 2968
+        },
+        "username": "chessi1a",
+        "verified": false
+      }
+    ]
+  }
+}

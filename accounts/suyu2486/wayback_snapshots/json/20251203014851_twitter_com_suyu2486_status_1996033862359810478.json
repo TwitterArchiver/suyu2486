@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1995748967871873323",
+    "created_at": "2025-12-03T01:48:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T02:48:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996033862359810478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1462285623943966720",
+          "start": 0,
+          "username": "Ruiuiui2002"
+        },
+        {
+          "end": 22,
+          "id": "1931208056580493312",
+          "start": 13,
+          "username": "OKALVMAO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996033862359810478",
+    "in_reply_to_user_id": "1462285623943966720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995748967871873323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruiuiui2002 @OKALVMAO 小夜灯"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50133,
+        "height": 1272,
+        "media_key": "13_1995748836397252609",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1995748836397252609/img/32GevvcwtwVzPiIA.jpg",
+        "public_metrics": {
+          "view_count": 657
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995748836397252609/vid/avc1/320x564/qFOgINc_ImUToW_P.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995748836397252609/vid/avc1/480x848/-aaYCtsrAlHV2LjK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995748836397252609/vid/avc1/720x1272/h47GLU8tYGj93DHM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1995748836397252609/pl/ewuCMLidiU60lePw.m3u8?v=b79"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1995748967871873323",
+        "created_at": "2025-12-03T01:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T02:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996033862359810478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1462285623943966720",
+              "start": 0,
+              "username": "Ruiuiui2002"
+            },
+            {
+              "end": 22,
+              "id": "1931208056580493312",
+              "start": 13,
+              "username": "OKALVMAO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996033862359810478",
+        "in_reply_to_user_id": "1462285623943966720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995748967871873323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruiuiui2002 @OKALVMAO 小夜灯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1995748836397252609"
+          ]
+        },
+        "author_id": "1462285623943966720",
+        "conversation_id": "1995748967871873323",
+        "created_at": "2025-12-02T06:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T07:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995748967871873323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 88,
+              "id": "1931208056580493312",
+              "start": 79,
+              "username": "OKALVMAO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5xKR6ePFlw",
+              "end": 122,
+              "expanded_url": "https://x.com/Ruiuiui2002/status/1995748967871873323/video/1",
+              "media_key": "13_1995748836397252609",
+              "start": 99,
+              "url": "https://t.co/5xKR6ePFlw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995748967871873323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 793,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "测评新玩具 这个玩具好可爱 而且很适合夹腿或者强高 强高的话可以突然按到底 不用再找开关或者一下一下调到最大档了 吮吸头可以拆卸方便清洁 安装也很方便 找她买@OKALVMAO 或者🍑搜伟大的绿毛 https://t.co/5xKR6ePFlw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是一个死人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1985888956073066671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2448,
+          "following_count": 268,
+          "like_count": 22642,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6309
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T05:04:06.000Z",
+        "description": "鸡鸡不论是做成红烧鸡鸡还是爆炒鸡鸡都风味十足，是一道绝佳美食，滋阴补阳，对于家庭聚餐来说是一个不错的选择|不接推广｜过🚪只能加微信无任何福利｜自用VPN高速稳定https://t.co/GvBsCveTun",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "so.sulink.life/#/register?cod…",
+                "end": 103,
+                "expanded_url": "https://so.sulink.life/#/register?code=ayQjF6nx",
+                "start": 80,
+                "url": "https://t.co/GvBsCveTun"
+              }
+            ]
+          }
+        },
+        "id": "1462285623943966720",
+        "location": "精神病院",
+        "name": "我为鸡鸡狂",
+        "pinned_tweet_id": "1860458766967406659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966524165521092608/pRvxsfbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24435,
+          "following_count": 295,
+          "like_count": 43462,
+          "listed_count": 24,
+          "media_count": 3029,
+          "tweet_count": 11977
+        },
+        "username": "Ruiuiui2002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-07T04:34:26.000Z",
+        "description": "🍑淘（直接搜索）：伟大的绿毛/希望在女生DIY这件事上成为伟大的每一位。/全网同名",
+        "id": "1931208056580493312",
+        "location": "Yau Tsim Mong District",
+        "name": "伟大的绿毛（🍑同名版",
+        "pinned_tweet_id": "1989244716848976176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989137305240809472/2Xe1TiH2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 33,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 29
+        },
+        "username": "OKALVMAO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1957414628583215555",
+    "created_at": "2025-08-18T23:38:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T00:38:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957587860803973394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1883727989671944192",
+          "start": 0,
+          "username": "linnyii8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957587860803973394",
+    "in_reply_to_user_id": "1883727989671944192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957414628583215555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linnyii8964 好好好，我让你搞流量，你在这玩起泡胶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1957414619758407680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyoiOdDbMAA6xbw.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1957414628583215555",
+        "created_at": "2025-08-18T23:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T00:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957587860803973394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883727989671944192",
+              "start": 0,
+              "username": "linnyii8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957587860803973394",
+        "in_reply_to_user_id": "1883727989671944192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957414628583215555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linnyii8964 好好好，我让你搞流量，你在这玩起泡胶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957414619758407680"
+          ]
+        },
+        "author_id": "1883727989671944192",
+        "conversation_id": "1957414628583215555",
+        "created_at": "2025-08-18T12:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T13:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957414628583215555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/de4b74jx2G",
+              "end": 27,
+              "expanded_url": "https://x.com/linnyii8964/status/1957414628583215555/photo/1",
+              "media_key": "3_1957414619758407680",
+              "start": 4,
+              "url": "https://t.co/de4b74jx2G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957414628583215555",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5341,
+          "like_count": 90,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "起泡胶 https://t.co/de4b74jx2G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 200,
+          "like_count": 16053,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 4260
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T04:05:33.000Z",
+        "description": "🚪188/830 另一个我:@nidiemasile 我要守护的女孩@jiangqidawang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "nidiemasile"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "jiangqidawang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=ngr2J6c5",
+                "start": 0,
+                "url": "https://t.co/y74iEgGmI5"
+              }
+            ]
+          }
+        },
+        "id": "1883727989671944192",
+        "location": "蜂鸟vpn",
+        "name": "只是爱乱说话",
+        "pinned_tweet_id": "1957404213199393142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883728141543436288/FoLOuEY8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5813,
+          "following_count": 946,
+          "like_count": 14988,
+          "listed_count": 9,
+          "media_count": 952,
+          "tweet_count": 10614
+        },
+        "url": "https://t.co/y74iEgGmI5",
+        "username": "linnyii8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952101221877125120"
+      ]
+    },
+    "author_id": "1910715228523831296",
+    "conversation_id": "1951945160671244715",
+    "created_at": "2025-08-03T20:16:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T21:16:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952101290537820608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1644761277900951552",
+          "start": 0,
+          "username": "4rocky9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xBgujM9GkE",
+          "end": 45,
+          "expanded_url": "https://x.com/suyu2486/status/1952101290537820608/photo/1",
+          "media_key": "3_1952101221877125120",
+          "start": 22,
+          "url": "https://t.co/xBgujM9GkE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952101290537820608",
+    "in_reply_to_user_id": "1644761277900951552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951945160671244715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4rocky9 导管恶魔…这奖我给你了… https://t.co/xBgujM9GkE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1638,
+        "media_key": "3_1952101221877125120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxdBt_eXkAAtWIi.jpg",
+        "width": 1026
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952101221877125120"
+          ]
+        },
+        "author_id": "1910715228523831296",
+        "conversation_id": "1951945160671244715",
+        "created_at": "2025-08-03T20:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T21:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952101290537820608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1644761277900951552",
+              "start": 0,
+              "username": "4rocky9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xBgujM9GkE",
+              "end": 45,
+              "expanded_url": "https://x.com/suyu2486/status/1952101290537820608/photo/1",
+              "media_key": "3_1952101221877125120",
+              "start": 22,
+              "url": "https://t.co/xBgujM9GkE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952101290537820608",
+        "in_reply_to_user_id": "1644761277900951552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951945160671244715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4rocky9 导管恶魔…这奖我给你了… https://t.co/xBgujM9GkE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644761277900951552",
+        "conversation_id": "1951945160671244715",
+        "created_at": "2025-08-03T09:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T10:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951945160671244715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/4rocky9/status…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/4rocky9/status/1951903356215013429",
+              "start": 38,
+              "url": "https://t.co/dppIHOVacS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951945160671244715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4807,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951903356215013429",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "明后天指定戒，我这次真认真了，明后两天我要是导了今年必破财，我就这么认真！ https://t.co/dppIHOVacS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1951649210652135765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 200,
+          "like_count": 13059,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 3584
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T17:57:16.000Z",
+        "description": "乐意骚扰人，给钱随便你骂，整抽象的，乐意说点屌话，喜欢看美女",
+        "id": "1644761277900951552",
+        "location": "🚪52/520/5200",
+        "name": "建龙哥",
+        "pinned_tweet_id": "1670098097735860259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920824521441046528/hyICLTe0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4345,
+          "following_count": 392,
+          "like_count": 41892,
+          "listed_count": 2,
+          "media_count": 340,
+          "tweet_count": 15938
+        },
+        "username": "4rocky9",
+        "verified": false
+      }
+    ]
+  }
+}

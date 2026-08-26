@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1942507220295639129",
+    "created_at": "2025-07-08T19:46:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T20:46:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942671553172496798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1926260885363769344",
+          "start": 0,
+          "username": "Sakiooo424463"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942671553172496798",
+    "in_reply_to_user_id": "1926260885363769344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942507220295639129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakiooo424463 避雷！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942507211592437760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvUsBGCaEAAkE-6.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1942507220295639129",
+        "created_at": "2025-07-08T19:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T20:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942671553172496798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1926260885363769344",
+              "start": 0,
+              "username": "Sakiooo424463"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942671553172496798",
+        "in_reply_to_user_id": "1926260885363769344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942507220295639129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakiooo424463 避雷！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942507211592437760"
+          ]
+        },
+        "author_id": "1926260885363769344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1942507220295639129",
+        "created_at": "2025-07-08T08:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T09:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942507220295639129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lNaWUuJ5uW",
+              "end": 37,
+              "expanded_url": "https://x.com/Sakiooo424463/status/1942507220295639129/photo/1",
+              "media_key": "3_1942507211592437760",
+              "start": 14,
+              "url": "https://t.co/lNaWUuJ5uW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942507220295639129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 845,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个红油干拌不是很好吃谢谢 https://t.co/lNaWUuJ5uW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 199,
+          "like_count": 10801,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 3142
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T12:56:40.000Z",
+        "description": "会自主使用智能手机，早上会刷牙洗脸，困了会睡觉，饿了会吃饭，匿名提问箱https://t.co/yznfindKdJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakio10704",
+                "end": 58,
+                "expanded_url": "https://ngl.link/sakio10704",
+                "start": 35,
+                "url": "https://t.co/yznfindKdJ"
+              }
+            ]
+          }
+        },
+        "id": "1926260885363769344",
+        "name": "丘比中式油醋汁",
+        "pinned_tweet_id": "1934255666367213852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926262045604802560/EpKS3J3H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1375,
+          "following_count": 255,
+          "like_count": 3935,
+          "listed_count": 4,
+          "media_count": 98,
+          "tweet_count": 1047
+        },
+        "username": "Sakiooo424463",
+        "verified": false
+      }
+    ]
+  }
+}

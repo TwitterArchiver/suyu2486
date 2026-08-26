@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988871480525070336",
+        "3_1988871494307663872"
+      ],
+      "media_source_tweet_id": [
+        "1988871506131144910",
+        "1988871506131144910"
+      ]
+    },
+    "author_id": "1910715228523831296",
+    "conversation_id": "1988875912113176808",
+    "created_at": "2025-11-13T07:45:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T08:45:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988875912113176808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1900530554694758400",
+          "start": 3,
+          "username": "qyxrwit85371388"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xRMWHNf423",
+          "end": 123,
+          "expanded_url": "https://x.com/qyxrwit85371388/status/1988871506131144910/photo/1",
+          "media_key": "3_1988871480525070336",
+          "start": 100,
+          "url": "https://t.co/xRMWHNf423"
+        },
+        {
+          "display_url": "pic.x.com/xRMWHNf423",
+          "end": 123,
+          "expanded_url": "https://x.com/qyxrwit85371388/status/1988871506131144910/photo/1",
+          "media_key": "3_1988871494307663872",
+          "start": 100,
+          "url": "https://t.co/xRMWHNf423"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988875912113176808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988871506131144910",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qyxrwit85371388: 最近网上的办公室吃瓜视频刷屏了，仔细一想，都是人性使然啊！神仙才没欲望，我们凡人偶尔失控很正常。\n\n我今天也来浅浅COS一下，你们爱看的话就点评一下怎么样？ https://t.co/xRMWHNf423"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1988875912113176808].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1988875912113176808",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1988875912113176808"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1988871480525070336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5nkEvSaIAA_iJL.jpg",
+        "width": 960
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1988871494307663872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5nkFiob0AAhFrA.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988871480525070336",
+            "3_1988871494307663872"
+          ]
+        },
+        "author_id": "1900530554694758400",
+        "conversation_id": "1988871506131144910",
+        "created_at": "2025-11-13T07:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T08:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988871506131144910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xRMWHNf423",
+              "end": 102,
+              "expanded_url": "https://x.com/qyxrwit85371388/status/1988871506131144910/photo/1",
+              "media_key": "3_1988871480525070336",
+              "start": 79,
+              "url": "https://t.co/xRMWHNf423"
+            },
+            {
+              "display_url": "pic.x.com/xRMWHNf423",
+              "end": 102,
+              "expanded_url": "https://x.com/qyxrwit85371388/status/1988871506131144910/photo/1",
+              "media_key": "3_1988871494307663872",
+              "start": 79,
+              "url": "https://t.co/xRMWHNf423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988871506131144910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2082,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "最近网上的办公室吃瓜视频刷屏了，仔细一想，都是人性使然啊！神仙才没欲望，我们凡人偶尔失控很正常。\n\n我今天也来浅浅COS一下，你们爱看的话就点评一下怎么样？ https://t.co/xRMWHNf423"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "06，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2412,
+          "following_count": 264,
+          "like_count": 22393,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 6300
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T12:52:57.000Z",
+        "description": "丞丞妈妈，是我的第一身份，孩他爸长期在外地工作，我就是家里的天花板、地板和顶梁柱，来这里是当个树洞，我太需要一个能听我吐槽、懂我寂寞、能一起做点“又刺激”事情的人，喜欢我的留下你的足迹........... 私信礼貌性都会回复",
+        "id": "1900530554694758400",
+        "location": "60.21km",
+        "name": "丞丞妈妈",
+        "pinned_tweet_id": "1987784577574916357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986010849228820481/TDmNPqAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5963,
+          "following_count": 19,
+          "like_count": 78,
+          "listed_count": 5,
+          "media_count": 19,
+          "tweet_count": 26
+        },
+        "username": "qyxrwit85371388",
+        "verified": true
+      }
+    ]
+  }
+}

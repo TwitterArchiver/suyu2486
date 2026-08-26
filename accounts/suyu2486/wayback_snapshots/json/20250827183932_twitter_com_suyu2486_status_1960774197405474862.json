@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1960740215116681475",
+    "created_at": "2025-08-27T18:39:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T19:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960774197405474862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1644761277900951552",
+          "start": 0,
+          "username": "4rocky9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960774197405474862",
+    "in_reply_to_user_id": "1644761277900951552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960740215116681475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4rocky9 天天🦌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1074,
+        "media_key": "3_1960740194015174664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzXy0Wka4AgCHw5.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1960740215116681475",
+        "created_at": "2025-08-27T18:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T19:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960774197405474862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1644761277900951552",
+              "start": 0,
+              "username": "4rocky9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960774197405474862",
+        "in_reply_to_user_id": "1644761277900951552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960740215116681475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4rocky9 天天🦌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960740194015174664"
+          ]
+        },
+        "author_id": "1644761277900951552",
+        "conversation_id": "1960740215116681475",
+        "created_at": "2025-08-27T16:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T17:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960740215116681475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kZOW5tRMLU",
+              "end": 33,
+              "expanded_url": "https://x.com/4rocky9/status/1960740215116681475/photo/1",
+              "media_key": "3_1960740194015174664",
+              "start": 10,
+              "url": "https://t.co/kZOW5tRMLU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960740215116681475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 726,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "敏感的点是在哪？！ https://t.co/kZOW5tRMLU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个好色的sb男的，双相情感障碍，情感漠视，精神失常，都滚远点别来烦我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "小玉",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1356,
+          "following_count": 197,
+          "like_count": 16975,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 4515
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T17:57:16.000Z",
+        "description": "乐意骚扰人，给钱随便你骂，整抽象的，乐意说点屌话，喜欢看美女",
+        "id": "1644761277900951552",
+        "location": "🚪52/520/5200",
+        "name": "建龙哥",
+        "pinned_tweet_id": "1670098097735860259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920824521441046528/hyICLTe0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5242,
+          "following_count": 398,
+          "like_count": 43843,
+          "listed_count": 4,
+          "media_count": 355,
+          "tweet_count": 16521
+        },
+        "username": "4rocky9",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960740813497098240"
+      ]
+    },
+    "author_id": "1910715228523831296",
+    "conversation_id": "1960740849215791408",
+    "created_at": "2025-08-27T16:27:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T17:27:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960740849215791408"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DqtL1FlKzN",
+          "end": 45,
+          "expanded_url": "https://x.com/suyu2486/status/1960740849215791408/photo/1",
+          "media_key": "3_1960740813497098240",
+          "start": 22,
+          "url": "https://t.co/DqtL1FlKzN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960740849215791408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的几把（真是几把，不想看到的别点！！！） https://t.co/DqtL1FlKzN"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1960740849215791408].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1960740849215791408",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1960740849215791408"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960740813497098240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzXzYaUa4AAutTu.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个好色的sb男的，双相情感障碍，情感漠视，精神失常，都滚远点别来烦我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "小玉",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1361,
+          "following_count": 198,
+          "like_count": 16936,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 4487
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1967680151086567588",
+    "created_at": "2025-09-16T05:11:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T06:11:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967818642462326975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1862557266890956800",
+          "start": 0,
+          "username": "lzb_haishui"
+        },
+        {
+          "end": 23,
+          "id": "1666618184932155395",
+          "start": 13,
+          "username": "doggy_oeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967818642462326975",
+    "in_reply_to_user_id": "1862557266890956800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967814260802851321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lzb_haishui @doggy_oeo 装啥呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1967680151086567588",
+        "created_at": "2025-09-16T05:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T06:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967818642462326975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1862557266890956800",
+              "start": 0,
+              "username": "lzb_haishui"
+            },
+            {
+              "end": 23,
+              "id": "1666618184932155395",
+              "start": 13,
+              "username": "doggy_oeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967818642462326975",
+        "in_reply_to_user_id": "1862557266890956800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967814260802851321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzb_haishui @doggy_oeo 装啥呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862557266890956800",
+        "conversation_id": "1967680151086567588",
+        "created_at": "2025-09-16T04:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T05:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967814260802851321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1666618184932155395",
+              "start": 0,
+              "username": "doggy_oeo"
+            },
+            {
+              "end": 20,
+              "id": "1910715228523831296",
+              "start": 11,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967814260802851321",
+        "in_reply_to_user_id": "1666618184932155395",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967732850935165169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doggy_oeo @suyu2486 乖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗七个小号其中之一@dante82682",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "dante82682"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1591,
+          "following_count": 238,
+          "like_count": 19507,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 5375
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-29T18:00:42.000Z",
+        "description": "不要讨厌我好吗",
+        "id": "1862557266890956800",
+        "name": "一直游到海水变蓝",
+        "pinned_tweet_id": "1967603363815846320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956750131401023488/nY2PObOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9600,
+          "following_count": 568,
+          "like_count": 30969,
+          "listed_count": 13,
+          "media_count": 141,
+          "tweet_count": 4602
+        },
+        "username": "lzb_haishui",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T01:28:44.000Z",
+        "description": "06 在🇬🇧 加联系入🚪188无福利 一个悲哀的喜欢碎碎念的阴暗死肥宅^ ^小号：@kittywanioi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "kittywanioi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=VKJKiOH3",
+                "start": 0,
+                "url": "https://t.co/0r6XfkGIAN"
+              }
+            ]
+          }
+        },
+        "id": "1666618184932155395",
+        "location": "推荐自用蜂鸟vpn 超级流畅 注册免费试用哦",
+        "name": "一颗丸",
+        "pinned_tweet_id": "1965799178598256856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924071368485744640/VpZkr1h3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33968,
+          "following_count": 23,
+          "like_count": 6000,
+          "listed_count": 120,
+          "media_count": 382,
+          "tweet_count": 4390
+        },
+        "url": "https://t.co/0r6XfkGIAN",
+        "username": "doggy_oeo",
+        "verified": true
+      }
+    ]
+  }
+}

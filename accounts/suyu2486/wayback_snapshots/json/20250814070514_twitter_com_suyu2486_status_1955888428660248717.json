@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1955788031086223368",
+    "created_at": "2025-08-14T07:05:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T08:05:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955888428660248717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1916432911152316416",
+          "start": 0,
+          "username": "kaneki586001"
+        },
+        {
+          "end": 30,
+          "id": "1884652077676453889",
+          "start": 14,
+          "username": "shutiaoNofanqie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955888428660248717",
+    "in_reply_to_user_id": "1916432911152316416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955843873772855624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kaneki586001 @shutiaoNofanqie 结扎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1955788031086223368",
+        "created_at": "2025-08-14T07:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T08:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955888428660248717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1916432911152316416",
+              "start": 0,
+              "username": "kaneki586001"
+            },
+            {
+              "end": 30,
+              "id": "1884652077676453889",
+              "start": 14,
+              "username": "shutiaoNofanqie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955888428660248717",
+        "in_reply_to_user_id": "1916432911152316416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955843873772855624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaneki586001 @shutiaoNofanqie 结扎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916432911152316416",
+        "conversation_id": "1955788031086223368",
+        "created_at": "2025-08-14T04:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T05:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955843873772855624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            },
+            {
+              "end": 26,
+              "id": "1884652077676453889",
+              "start": 10,
+              "username": "shutiaoNofanqie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955843873772855624",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955788903539204143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 @shutiaoNofanqie 🥹🥹🦅酱，有没有体面的方法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1955773434958352438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1286,
+          "following_count": 200,
+          "like_count": 15440,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 4178
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T10:03:15.000Z",
+        "description": "Just a deformed and utter failure of a person，Understanding me is unnecessary. Witness my farce, if you will",
+        "id": "1916432911152316416",
+        "location": "my house",
+        "name": "kaneki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933568430395043841/Y3yMx8UO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 495,
+          "like_count": 1304,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 202
+        },
+        "username": "kaneki586001",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T17:17:34.000Z",
+        "description": "今天的上网冲浪时间到此结束我们明天再见",
+        "id": "1884652077676453889",
+        "location": "我就爱讲点废话对不起我先给你道歉",
+        "name": "薯条不要沾番茄酱",
+        "pinned_tweet_id": "1943282226139181555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954433512066752512/wqrQbYWY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207,
+          "following_count": 364,
+          "like_count": 20989,
+          "listed_count": 5,
+          "media_count": 297,
+          "tweet_count": 9730
+        },
+        "username": "shutiaoNofanqie",
+        "verified": false
+      }
+    ]
+  }
+}

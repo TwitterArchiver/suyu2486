@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1936654454918627363",
+    "created_at": "2025-06-22T05:31:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T06:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936658269277192312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1889200694986756096",
+          "start": 0,
+          "username": "OvOxiaomi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936658269277192312",
+    "in_reply_to_user_id": "1889200694986756096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936654454918627363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvOxiaomi 依旧迷人./"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1936654447679012864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuBg9ZaWgAA7KGV.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1936654454918627363",
+        "created_at": "2025-06-22T05:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T06:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936658269277192312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1889200694986756096",
+              "start": 0,
+              "username": "OvOxiaomi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936658269277192312",
+        "in_reply_to_user_id": "1889200694986756096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936654454918627363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvOxiaomi 依旧迷人./"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936654447679012864"
+          ]
+        },
+        "author_id": "1889200694986756096",
+        "conversation_id": "1936654454918627363",
+        "created_at": "2025-06-22T05:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T06:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936654454918627363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vidtjAf35W",
+              "end": 34,
+              "expanded_url": "https://x.com/OvOxiaomi/status/1936654454918627363/photo/1",
+              "media_key": "3_1936654447679012864",
+              "start": 11,
+              "url": "https://t.co/vidtjAf35W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936654454918627363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当我抬起头你正看向我 https://t.co/vidtjAf35W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，不喜欢可以喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1936571107319980306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 193,
+          "like_count": 7279,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 2125
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T06:32:08.000Z",
+        "description": "infp04双子｜只回小女孩私信o(≧v≦)o｜互关+v｜@OnOxiaomi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 29,
+                "username": "OnOxiaomi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%96%B5%E5%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%96%B5%E5%96%B5%E5%96%B556588",
+                "start": 0,
+                "url": "https://t.co/bFvbqgw3Nk"
+              }
+            ]
+          }
+        },
+        "id": "1889200694986756096",
+        "location": "瓦罗兰特",
+        "name": "一只只只只只咪",
+        "pinned_tweet_id": "1932070847780663584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930649745632231425/LhVTFJZC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 147,
+          "like_count": 8848,
+          "listed_count": 5,
+          "media_count": 183,
+          "tweet_count": 2714
+        },
+        "url": "https://t.co/bFvbqgw3Nk",
+        "username": "OvOxiaomi",
+        "verified": false
+      }
+    ]
+  }
+}

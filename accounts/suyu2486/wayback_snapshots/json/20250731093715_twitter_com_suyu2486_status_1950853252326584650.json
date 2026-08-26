@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1950519404049190970",
+    "created_at": "2025-07-31T09:37:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T10:37:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950853252326584650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1534187424678498304",
+          "start": 0,
+          "username": "xihuanni030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950853252326584650",
+    "in_reply_to_user_id": "1534187424678498304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950519404049190970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xihuanni030 又左右脑互搏了…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1950519395928977408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxGjDmnbMAAPJlN.jpg",
+        "width": 936
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1950519395937316864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxGjDmpacAASqAh.jpg",
+        "width": 802
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1950519404049190970",
+        "created_at": "2025-07-31T09:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T10:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950853252326584650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1534187424678498304",
+              "start": 0,
+              "username": "xihuanni030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950853252326584650",
+        "in_reply_to_user_id": "1534187424678498304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950519404049190970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xihuanni030 又左右脑互搏了…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950519395928977408",
+            "3_1950519395937316864"
+          ]
+        },
+        "author_id": "1534187424678498304",
+        "conversation_id": "1950519404049190970",
+        "created_at": "2025-07-30T11:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T12:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950519404049190970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FXPBwGwd8z",
+              "end": 39,
+              "expanded_url": "https://x.com/xihuanni030/status/1950519404049190970/photo/1",
+              "media_key": "3_1950519395928977408",
+              "start": 16,
+              "url": "https://t.co/FXPBwGwd8z"
+            },
+            {
+              "display_url": "pic.x.com/FXPBwGwd8z",
+              "end": 39,
+              "expanded_url": "https://x.com/xihuanni030/status/1950519404049190970/photo/1",
+              "media_key": "3_1950519395937316864",
+              "start": 16,
+              "url": "https://t.co/FXPBwGwd8z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950519404049190970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12956,
+          "like_count": 106,
+          "quote_count": 0,
+          "reply_count": 42,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“好喜欢你”😚\n\n“下头女”🙄 https://t.co/FXPBwGwd8z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男，可以叫我小玉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1948457851778990521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 198,
+          "like_count": 12466,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 3447
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-07T14:56:14.000Z",
+        "description": "私信只回复口令&礼貌宝宝｜brat｜isfp｜04-162-113 🎯90｜分享日常🧩&一些奇奇怪怪的想法💭｜提问👉 https://t.co/UlL9D1Kp4T｜喜欢我的话可以投喂我 让我去买自嘲熊吗｜🚪188/288/520｜主页置顶自辨",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/poeowo",
+                "end": 82,
+                "expanded_url": "http://ngl.link/poeowo",
+                "start": 59,
+                "url": "https://t.co/UlL9D1Kp4T"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=Qtnpi4fi",
+                "start": 0,
+                "url": "https://t.co/d1WvOjRPNo"
+              }
+            ]
+          }
+        },
+        "id": "1534187424678498304",
+        "location": "自用蜂鸟vpn➡️",
+        "name": "糯米侠",
+        "pinned_tweet_id": "1950846505407136152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926636590253686784/y5qd0Lx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4622,
+          "following_count": 133,
+          "like_count": 2692,
+          "listed_count": 12,
+          "media_count": 66,
+          "tweet_count": 2439
+        },
+        "url": "https://t.co/d1WvOjRPNo",
+        "username": "xihuanni030",
+        "verified": false
+      }
+    ]
+  }
+}

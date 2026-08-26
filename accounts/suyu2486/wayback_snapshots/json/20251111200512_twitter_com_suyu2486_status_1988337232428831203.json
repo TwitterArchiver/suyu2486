@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1988316910757572681",
+    "created_at": "2025-11-11T20:05:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T21:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988337232428831203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1753002882880925696",
+          "start": 0,
+          "username": "3344592649K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988337232428831203",
+    "in_reply_to_user_id": "1753002882880925696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988316910757572681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3344592649K 我恨你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1914,
+        "media_key": "3_1988316900787683328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5frr8xbAAAgkfb.jpg",
+        "width": 1007
+      },
+      {
+        "height": 1723,
+        "media_key": "3_1988316900791906305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5frr8ybcAELMn3.jpg",
+        "width": 1004
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1988316910757572681",
+        "created_at": "2025-11-11T20:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T21:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988337232428831203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1753002882880925696",
+              "start": 0,
+              "username": "3344592649K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988337232428831203",
+        "in_reply_to_user_id": "1753002882880925696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988316910757572681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3344592649K 我恨你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988316900787683328",
+            "3_1988316900791906305"
+          ]
+        },
+        "author_id": "1753002882880925696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1988316910757572681",
+        "created_at": "2025-11-11T18:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T19:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988316910757572681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1TTq9q8d6L",
+              "end": 34,
+              "expanded_url": "https://x.com/3344592649K/status/1988316910757572681/photo/1",
+              "media_key": "3_1988316900787683328",
+              "start": 11,
+              "url": "https://t.co/1TTq9q8d6L"
+            },
+            {
+              "display_url": "pic.x.com/1TTq9q8d6L",
+              "end": 34,
+              "expanded_url": "https://x.com/3344592649K/status/1988316910757572681/photo/1",
+              "media_key": "3_1988316900791906305",
+              "start": 11,
+              "url": "https://t.co/1TTq9q8d6L"
+            },
+            {
+              "display_url": "x.com/suyu2486/statu…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/suyu2486/status/1988115204866273579",
+              "start": 35,
+              "url": "https://t.co/INWySGiFKu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988316910757572681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988115204866273579",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁想来被我当狗玩一下 https://t.co/1TTq9q8d6L https://t.co/INWySGiFKu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "06，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2227,
+          "following_count": 263,
+          "like_count": 22096,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 6214
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T10:30:44.000Z",
+        "description": "我就是特别特别吵，来推特只是想发一下朋友圈发不了牢骚，现实搞纯爱的看到我假装不认识好吗求求你们了",
+        "id": "1753002882880925696",
+        "location": "明天见",
+        "name": "世界第一萌萌物（izzzzz版）",
+        "pinned_tweet_id": "1987718093901275627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987894121173057537/YrsoXD9x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 13,
+          "like_count": 236,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 347
+        },
+        "username": "3344592649K",
+        "verified": false
+      }
+    ]
+  }
+}

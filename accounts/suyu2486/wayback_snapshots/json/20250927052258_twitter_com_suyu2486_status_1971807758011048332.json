@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1971766171709198377",
+    "created_at": "2025-09-27T05:22:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T06:22:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971807758011048332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1887110932360572928",
+          "start": 0,
+          "username": "wngh393194"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971807758011048332",
+    "in_reply_to_user_id": "1887110932360572928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971766171709198377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngh393194 可以变成狮子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1971766171709198377",
+        "created_at": "2025-09-27T05:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T06:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971807758011048332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1887110932360572928",
+              "start": 0,
+              "username": "wngh393194"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971807758011048332",
+        "in_reply_to_user_id": "1887110932360572928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971766171709198377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngh393194 可以变成狮子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887110932360572928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Leo",
+              "id": "1138872470562172928",
+              "name": "Leo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Leo",
+              "id": "1138872470562172928",
+              "name": "Leo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1971766171709198377",
+        "created_at": "2025-09-27T02:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T03:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971766171709198377"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971766171709198377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 427,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现实中能不能让我接触一下狮子男？我身边没有狮子男……听说和我挺配的（信星座这块～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗七个小号其中之一@dante82682",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "dante82682"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥 day1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2039,
+          "following_count": 241,
+          "like_count": 20129,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 5551
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T12:08:28.000Z",
+        "description": "话多，爱炒冷饭，盗图挡灾（不线下，不聊骚，过门闲聊，私信只回复有礼貌的）宝宝们可以向我提问https://t.co/Yyio20uWMc |",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lzs666",
+                "end": 68,
+                "expanded_url": "https://ngl.link/lzs666",
+                "start": 45,
+                "url": "https://t.co/Yyio20uWMc"
+              }
+            ]
+          }
+        },
+        "id": "1887110932360572928",
+        "location": "有💚🚪",
+        "name": "荔枝水",
+        "pinned_tweet_id": "1963113945176396189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887111161105002496/YN7-peAH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5561,
+          "following_count": 91,
+          "like_count": 6949,
+          "listed_count": 15,
+          "media_count": 416,
+          "tweet_count": 4782
+        },
+        "username": "wngh393194",
+        "verified": false
+      }
+    ]
+  }
+}

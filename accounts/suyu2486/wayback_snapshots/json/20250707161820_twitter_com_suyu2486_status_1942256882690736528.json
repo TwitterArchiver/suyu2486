@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1942146301199614396",
+    "created_at": "2025-07-07T16:18:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T17:18:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942256882690736528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1932859825156993028",
+          "start": 0,
+          "username": "chuhezhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942256882690736528",
+    "in_reply_to_user_id": "1932859825156993028",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942229780482625593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuhezhi 人之常情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1942146301199614396",
+        "created_at": "2025-07-07T16:18:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T17:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942256882690736528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1932859825156993028",
+              "start": 0,
+              "username": "chuhezhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942256882690736528",
+        "in_reply_to_user_id": "1932859825156993028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942229780482625593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuhezhi 人之常情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932859825156993028",
+        "conversation_id": "1942146301199614396",
+        "created_at": "2025-07-07T14:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T15:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942229780482625593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942229780482625593",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942146301199614396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 你的梦给我家高人看死了你知道吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 197,
+          "like_count": 10704,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 3110
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-11T17:58:03.000Z",
+        "description": "我的抑郁症是微信免费小程序自测的",
+        "id": "1932859825156993028",
+        "name": "拉屎要擦屁股",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935403004116484096/yb-wXzdR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 49,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 69
+        },
+        "username": "chuhezhi",
+        "verified": false
+      }
+    ]
+  }
+}

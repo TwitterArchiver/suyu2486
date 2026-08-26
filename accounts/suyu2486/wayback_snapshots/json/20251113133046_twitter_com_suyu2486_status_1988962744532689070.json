@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1988921423478370538",
+    "created_at": "2025-11-13T13:30:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T14:30:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988962744532689070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1938108852752502784",
+          "start": 0,
+          "username": "520Seulgi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988962744532689070",
+    "in_reply_to_user_id": "1938108852752502784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988921423478370538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520Seulgi 诡秘，你像一个年老色衰的40多岁的物理老师，你知道吗？💅🏼💅🏼💅🏼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988921411206017024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5oRfFkacAAISyM.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1988921411256348674",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5oRfFwacAIuI_8.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1988921411239550976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5oRfFsaIAAPcW5.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1988921423478370538",
+        "created_at": "2025-11-13T13:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T14:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988962744532689070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1938108852752502784",
+              "start": 0,
+              "username": "520Seulgi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988962744532689070",
+        "in_reply_to_user_id": "1938108852752502784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988921423478370538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520Seulgi 诡秘，你像一个年老色衰的40多岁的物理老师，你知道吗？💅🏼💅🏼💅🏼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988921411206017024",
+            "3_1988921411256348674",
+            "3_1988921411239550976"
+          ]
+        },
+        "author_id": "1938108852752502784",
+        "conversation_id": "1988921423478370538",
+        "created_at": "2025-11-13T10:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T11:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988921423478370538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GxjT5h87vJ",
+              "end": 35,
+              "expanded_url": "https://x.com/520Seulgi/status/1988921423478370538/photo/1",
+              "media_key": "3_1988921411206017024",
+              "start": 12,
+              "url": "https://t.co/GxjT5h87vJ"
+            },
+            {
+              "display_url": "pic.x.com/GxjT5h87vJ",
+              "end": 35,
+              "expanded_url": "https://x.com/520Seulgi/status/1988921423478370538/photo/1",
+              "media_key": "3_1988921411256348674",
+              "start": 12,
+              "url": "https://t.co/GxjT5h87vJ"
+            },
+            {
+              "display_url": "pic.x.com/GxjT5h87vJ",
+              "end": 35,
+              "expanded_url": "https://x.com/520Seulgi/status/1988921423478370538/photo/1",
+              "media_key": "3_1988921411239550976",
+              "start": 12,
+              "url": "https://t.co/GxjT5h87vJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988921423478370538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 219,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "物理⚛️\n放过我好不好 https://t.co/GxjT5h87vJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "06，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2432,
+          "following_count": 265,
+          "like_count": 22416,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 6304
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T05:35:41.000Z",
+        "description": "爱做饭 爱分享 爱姜涩琪  不是直男（纯绿冲浪🏄 随心情互关 私信）",
+        "id": "1938108852752502784",
+        "location": "在姜涩琪怀里",
+        "name": "鸡腿加点辣",
+        "pinned_tweet_id": "1987849129599611266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948655968755359744/-MCjuM5A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2742,
+          "following_count": 225,
+          "like_count": 5809,
+          "listed_count": 2,
+          "media_count": 1325,
+          "tweet_count": 3623
+        },
+        "username": "520Seulgi",
+        "verified": false
+      }
+    ]
+  }
+}

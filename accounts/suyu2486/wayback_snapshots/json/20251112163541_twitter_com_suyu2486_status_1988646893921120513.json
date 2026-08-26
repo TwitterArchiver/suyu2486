@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1988625401908785456",
+    "created_at": "2025-11-12T16:35:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T17:35:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988646893921120513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1712477803252432897",
+          "start": 0,
+          "username": "jingyu813363"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988646893921120513",
+    "in_reply_to_user_id": "1712477803252432897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988625401908785456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingyu813363 来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1650,
+        "media_key": "3_1988625385953886208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5kEQJkbAAAhCWj.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1988625401908785456",
+        "created_at": "2025-11-12T16:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T17:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988646893921120513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1712477803252432897",
+              "start": 0,
+              "username": "jingyu813363"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988646893921120513",
+        "in_reply_to_user_id": "1712477803252432897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988625401908785456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingyu813363 来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988625385953886208"
+          ]
+        },
+        "author_id": "1712477803252432897",
+        "conversation_id": "1988625401908785456",
+        "created_at": "2025-11-12T15:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T16:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988625401908785456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ls1ltqBBl6",
+              "end": 34,
+              "expanded_url": "https://x.com/jingyu813363/status/1988625401908785456/photo/1",
+              "media_key": "3_1988625385953886208",
+              "start": 11,
+              "url": "https://t.co/ls1ltqBBl6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988625401908785456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 676,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有m喝我的洗脚水 https://t.co/ls1ltqBBl6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "06，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2368,
+          "following_count": 263,
+          "like_count": 22291,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 6278
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-12T14:38:55.000Z",
+        "description": "我有厌蠢症 喜欢请打赏ouo 推广自辨",
+        "id": "1712477803252432897",
+        "location": "有🚪 私信只回门槛",
+        "name": "iyue",
+        "pinned_tweet_id": "1988280275814805718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985407630597378048/5PL_oqnD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6029,
+          "following_count": 652,
+          "like_count": 9740,
+          "listed_count": 6,
+          "media_count": 196,
+          "tweet_count": 2322
+        },
+        "username": "jingyu813363",
+        "verified": false
+      }
+    ]
+  }
+}

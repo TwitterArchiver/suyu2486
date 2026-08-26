@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1939321984258646230",
+    "created_at": "2025-06-30T05:38:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T06:38:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939559261660733874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1761721255999238145",
+          "start": 0,
+          "username": "YunMeng1103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939559261660733874",
+    "in_reply_to_user_id": "1761721255999238145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939555874651177436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YunMeng1103 我会的，下次不给你喝了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1939321984258646230",
+        "created_at": "2025-06-30T05:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T06:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939559261660733874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761721255999238145",
+              "start": 0,
+              "username": "YunMeng1103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939559261660733874",
+        "in_reply_to_user_id": "1761721255999238145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939555874651177436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YunMeng1103 我会的，下次不给你喝了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761721255999238145",
+        "conversation_id": "1939321984258646230",
+        "created_at": "2025-06-30T05:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T06:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939555874651177436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939555874651177436",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939321984258646230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 下次多吃點菠蘿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1923458019305660813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 200,
+          "like_count": 9548,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2783
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T11:54:47.000Z",
+        "description": "infj",
+        "id": "1761721255999238145",
+        "location": "广州",
+        "name": "講話",
+        "pinned_tweet_id": "1772277129117364554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773302421449580544/0QJLWPrC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 18,
+          "like_count": 941,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 95
+        },
+        "username": "YunMeng1103",
+        "verified": false
+      }
+    ]
+  }
+}

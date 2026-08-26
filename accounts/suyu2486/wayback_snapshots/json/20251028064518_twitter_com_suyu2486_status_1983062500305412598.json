@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1982724607271735724",
+    "created_at": "2025-10-28T06:45:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T07:45:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983062500305412598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1768558050615668736",
+          "start": 0,
+          "username": "nhzj_ooo"
+        },
+        {
+          "end": 23,
+          "id": "1615014463194947586",
+          "start": 10,
+          "username": "Wang04846602"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983062500305412598",
+    "in_reply_to_user_id": "1768558050615668736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982737785313477039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nhzj_ooo @Wang04846602 由不得你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1982724607271735724",
+        "created_at": "2025-10-28T06:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T07:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983062500305412598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1768558050615668736",
+              "start": 0,
+              "username": "nhzj_ooo"
+            },
+            {
+              "end": 23,
+              "id": "1615014463194947586",
+              "start": 10,
+              "username": "Wang04846602"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983062500305412598",
+        "in_reply_to_user_id": "1768558050615668736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982737785313477039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nhzj_ooo @Wang04846602 由不得你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768558050615668736",
+        "conversation_id": "1982724607271735724",
+        "created_at": "2025-10-27T09:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T10:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982737785313477039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1615014463194947586",
+              "start": 0,
+              "username": "Wang04846602"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982737785313477039",
+        "in_reply_to_user_id": "1615014463194947586",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982724607271735724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wang04846602 我不要跑八百"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "神鹰🦅，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "pinned_tweet_id": "1977439230432555047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981015242827087872/axAcZvEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2149,
+          "following_count": 262,
+          "like_count": 21549,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 6011
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T08:41:21.000Z",
+        "description": "此女子负能量爆棚\n不约不线下(*´I`*)\n不接推广",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/Vera3766995223…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/Vera3766995223781763",
+                "start": 0,
+                "url": "https://t.co/9tyHlvRapu"
+              }
+            ]
+          }
+        },
+        "id": "1768558050615668736",
+        "location": "🚪 88 💚好友位 可闲聊，pyq开放",
+        "name": "黄金薯饼",
+        "pinned_tweet_id": "1977344435642916980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951313587097546757/tfJaZwXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2607,
+          "following_count": 646,
+          "like_count": 55271,
+          "listed_count": 5,
+          "media_count": 292,
+          "tweet_count": 10112
+        },
+        "url": "https://t.co/9tyHlvRapu",
+        "username": "nhzj_ooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-16T15:53:59.000Z",
+        "description": "谢谢各位，我是直男。",
+        "id": "1615014463194947586",
+        "name": "Nike zoom",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908837736531808256/VeDjR6uG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7379,
+          "following_count": 1897,
+          "like_count": 15361,
+          "listed_count": 24,
+          "media_count": 257,
+          "tweet_count": 3662
+        },
+        "username": "Wang04846602",
+        "verified": false
+      }
+    ]
+  }
+}

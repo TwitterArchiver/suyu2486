@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1953128150268887096",
+    "created_at": "2025-08-06T16:42:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T17:42:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953134636592160908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1573169818345172992",
+          "start": 0,
+          "username": "gaga20220923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953134636592160908",
+    "in_reply_to_user_id": "1573169818345172992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953128150268887096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaga20220923 其实哪怕不准写了比继续写投票高，他还是会写并且使用群发助手发给每个人…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1953128150268887096",
+        "created_at": "2025-08-06T16:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T17:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953134636592160908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1573169818345172992",
+              "start": 0,
+              "username": "gaga20220923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953134636592160908",
+        "in_reply_to_user_id": "1573169818345172992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953128150268887096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaga20220923 其实哪怕不准写了比继续写投票高，他还是会写并且使用群发助手发给每个人…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1953128148499087361"
+          ]
+        },
+        "author_id": "1573169818345172992",
+        "conversation_id": "1953128150268887096",
+        "created_at": "2025-08-06T16:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T17:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953128150268887096"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953128150268887096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要不要继续写下海日记。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1952327381869338999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 199,
+          "like_count": 13482,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 3715
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-23T04:38:15.000Z",
+        "description": "业余男喘   🚪13145200     \n欢迎投稿猎奇文案，有空就读。\n一天拉屎五次纪录保持者。\n自用蜂鸟VPN：https://t.co/CYB6lgRXK0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 81,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=bCYCjNHY",
+                "start": 58,
+                "url": "https://t.co/CYB6lgRXK0"
+              }
+            ]
+          }
+        },
+        "id": "1573169818345172992",
+        "location": "厕所",
+        "name": "牛逼的人名字都要取13个字（还有17天离职版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915059386894123008/blcEBMv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2359,
+          "following_count": 548,
+          "like_count": 84299,
+          "listed_count": 10,
+          "media_count": 146,
+          "tweet_count": 7997
+        },
+        "username": "gaga20220923",
+        "verified": false
+      }
+    ]
+  }
+}

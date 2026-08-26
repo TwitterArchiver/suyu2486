@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1937639010756886646",
+    "created_at": "2025-06-24T22:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T23:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937646695237689701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1422457573358202883",
+          "start": 0,
+          "username": "boliangkiying_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937646695237689701",
+    "in_reply_to_user_id": "1422457573358202883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937645748662993342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boliangkiying_ 我要听！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1776,
+        "media_key": "3_1937645745424990211",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuPmihSagAMNcFf.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1937639010756886646",
+        "created_at": "2025-06-24T22:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T23:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937646695237689701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1422457573358202883",
+              "start": 0,
+              "username": "boliangkiying_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937646695237689701",
+        "in_reply_to_user_id": "1422457573358202883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937645748662993342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boliangkiying_ 我要听！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937645745424990211"
+          ]
+        },
+        "author_id": "1422457573358202883",
+        "conversation_id": "1937639010756886646",
+        "created_at": "2025-06-24T22:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T23:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937645748662993342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1L0tllxqJH",
+              "end": 23,
+              "expanded_url": "https://x.com/boliangkiying_/status/1937645748662993342/photo/1",
+              "media_key": "3_1937645745424990211",
+              "start": 0,
+              "url": "https://t.co/1L0tllxqJH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937645748662993342",
+        "in_reply_to_user_id": "1422457573358202883",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937639010756886646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/1L0tllxqJH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1936734143804735662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 195,
+          "like_count": 8173,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 2276
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-03T07:21:38.000Z",
+        "description": "大家好我是二次元刀哥/全是干货/",
+        "id": "1422457573358202883",
+        "location": "0.7km",
+        "name": "二次元刀哥",
+        "pinned_tweet_id": "1931866155830112566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928069675637952517/nmiD9jVn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1662,
+          "following_count": 261,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 448
+        },
+        "username": "boliangkiying_",
+        "verified": false
+      }
+    ]
+  }
+}

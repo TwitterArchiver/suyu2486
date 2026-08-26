@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1963289749256638788",
+    "created_at": "2025-09-03T23:07:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T00:07:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963378429153472751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1802142643457331200",
+          "start": 0,
+          "username": "kyr0715"
+        },
+        {
+          "end": 17,
+          "id": "1806939258906902528",
+          "start": 9,
+          "username": "CCctaro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963378429153472751",
+    "in_reply_to_user_id": "1802142643457331200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963377635230449891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyr0715 @CCctaro 那种大黑粗是溅不起水的，因为就那样直直的入水了，最容易溅起水花的断断续续的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1963289749256638788",
+        "created_at": "2025-09-03T23:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T00:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963378429153472751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1802142643457331200",
+              "start": 0,
+              "username": "kyr0715"
+            },
+            {
+              "end": 17,
+              "id": "1806939258906902528",
+              "start": 9,
+              "username": "CCctaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963378429153472751",
+        "in_reply_to_user_id": "1802142643457331200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963377635230449891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyr0715 @CCctaro 那种大黑粗是溅不起水的，因为就那样直直的入水了，最容易溅起水花的断断续续的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802142643457331200",
+        "conversation_id": "1963289749256638788",
+        "created_at": "2025-09-03T23:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T00:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963377635230449891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            },
+            {
+              "end": 18,
+              "id": "1806939258906902528",
+              "start": 10,
+              "username": "CCctaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963377635230449891",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963291166792978573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 @CCctaro 那我拉大黑粗直接给纸干爆了怎么办呢小小玉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱无章，不定期活跃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "飞向全宇宙",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 212,
+          "like_count": 18577,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 4973
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-16T00:54:57.000Z",
+        "description": "我很擅长吃麦当劳",
+        "id": "1802142643457331200",
+        "name": "科圆润",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802583073013534720/0XC9gGm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 134,
+          "like_count": 553,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 323
+        },
+        "username": "kyr0715",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T06:34:33.000Z",
+        "description": "如果你是小雨滴 那我愿意生活在雨季",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sherry70050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sherry70050",
+                "start": 0,
+                "url": "https://t.co/nMKRCfq6pW"
+              }
+            ]
+          }
+        },
+        "id": "1806939258906902528",
+        "location": "萌萌的一生",
+        "name": "c c",
+        "pinned_tweet_id": "1925005699127578653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959825804944433152/NOTzQSpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 150,
+          "like_count": 2840,
+          "listed_count": 3,
+          "media_count": 350,
+          "tweet_count": 3344
+        },
+        "url": "https://t.co/nMKRCfq6pW",
+        "username": "CCctaro",
+        "verified": false
+      }
+    ]
+  }
+}

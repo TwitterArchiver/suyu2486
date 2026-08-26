@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1956022849757700249",
+    "created_at": "2025-08-15T07:25:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T08:25:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956256007589372010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1857093685923504128",
+          "start": 0,
+          "username": "10txxx7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956256007589372010",
+    "in_reply_to_user_id": "1857093685923504128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956022849757700249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@10txxx7 那戴一个吧，不然不处…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1956022833467015168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyUwZ1FawAA8-n6.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1956022849757700249",
+        "created_at": "2025-08-15T07:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T08:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956256007589372010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1857093685923504128",
+              "start": 0,
+              "username": "10txxx7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956256007589372010",
+        "in_reply_to_user_id": "1857093685923504128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956022849757700249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10txxx7 那戴一个吧，不然不处…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956022833467015168"
+          ]
+        },
+        "author_id": "1857093685923504128",
+        "conversation_id": "1956022849757700249",
+        "created_at": "2025-08-14T15:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T16:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956022849757700249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QoY2yCk9pb",
+              "end": 39,
+              "expanded_url": "https://x.com/10txxx7/status/1956022849757700249/photo/1",
+              "media_key": "3_1956022833467015168",
+              "start": 16,
+              "url": "https://t.co/QoY2yCk9pb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956022849757700249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5038,
+          "like_count": 116,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是男的 谁处 微瑕 少了根雕 https://t.co/QoY2yCk9pb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1955773434958352438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 201,
+          "like_count": 15750,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 4297
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T16:10:24.000Z",
+        "description": "isfp 双子 分享我的日常 烦人 ｜匿名信💌：https://t.co/v9xFjsxLQf 我兄弟@xibeimuqi 自用VPN⬇️ 推广置顶关评是广告别点⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "xibeimuqi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/10t56713",
+                "end": 47,
+                "expanded_url": "https://ngl.link/10t56713",
+                "start": 24,
+                "url": "https://t.co/v9xFjsxLQf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=aw3JiEQF",
+                "start": 0,
+                "url": "https://t.co/S6I3UfeD5s"
+              }
+            ]
+          }
+        },
+        "id": "1857093685923504128",
+        "location": "只回夸我的和小女孩",
+        "name": "10T",
+        "pinned_tweet_id": "1955898782664810683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928090635208445952/Sx5MmswD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4463,
+          "following_count": 83,
+          "like_count": 2205,
+          "listed_count": 4,
+          "media_count": 137,
+          "tweet_count": 1030
+        },
+        "url": "https://t.co/S6I3UfeD5s",
+        "username": "10txxx7",
+        "verified": false
+      }
+    ]
+  }
+}

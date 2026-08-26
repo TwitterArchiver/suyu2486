@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952361003284316160"
+      ]
+    },
+    "author_id": "1910715228523831296",
+    "conversation_id": "1952327381869338999",
+    "created_at": "2025-08-04T13:28:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T14:28:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952361006832791699"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CILuUN3dRS",
+          "end": 31,
+          "expanded_url": "https://x.com/suyu2486/status/1952361006832791699/photo/1",
+          "media_key": "3_1952361003284316160",
+          "start": 8,
+          "url": "https://t.co/CILuUN3dRS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952361006832791699",
+    "in_reply_to_user_id": "1910715228523831296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952327381869338999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢主人大人🥵 https://t.co/CILuUN3dRS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_1952361003284316160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxgt_QoWQAAsabU.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1952327375590391808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxgPZ3tWAAAyXrq.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952361003284316160"
+          ]
+        },
+        "author_id": "1910715228523831296",
+        "conversation_id": "1952327381869338999",
+        "created_at": "2025-08-04T13:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T14:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952361006832791699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CILuUN3dRS",
+              "end": 31,
+              "expanded_url": "https://x.com/suyu2486/status/1952361006832791699/photo/1",
+              "media_key": "3_1952361003284316160",
+              "start": 8,
+              "url": "https://t.co/CILuUN3dRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952361006832791699",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952327381869338999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢主人大人🥵 https://t.co/CILuUN3dRS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952327375590391808"
+          ]
+        },
+        "author_id": "1910715228523831296",
+        "conversation_id": "1952327381869338999",
+        "created_at": "2025-08-04T11:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T12:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952327381869338999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xAD1u10SEu",
+              "end": 55,
+              "expanded_url": "https://x.com/suyu2486/status/1952327381869338999/photo/1",
+              "media_key": "3_1952327375590391808",
+              "start": 32,
+              "url": "https://t.co/xAD1u10SEu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952327381869338999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 492,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "集资晚上网吧包夜打瓦脚麻麻，有钱的捧个钱场，没钱的也捧个钱场🚬 https://t.co/xAD1u10SEu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1952327381869338999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1030,
+          "following_count": 201,
+          "like_count": 13232,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 3642
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      }
+    ]
+  }
+}

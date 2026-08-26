@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1958068836948705349",
+    "created_at": "2025-08-20T14:21:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T15:21:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958172426245648546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1748645500537229312",
+          "start": 0,
+          "username": "dsahkla34377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958172426245648546",
+    "in_reply_to_user_id": "1748645500537229312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958095486847692968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dsahkla34377 依旧得排队啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1958068836948705349",
+        "created_at": "2025-08-20T14:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T15:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958172426245648546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1748645500537229312",
+              "start": 0,
+              "username": "dsahkla34377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958172426245648546",
+        "in_reply_to_user_id": "1748645500537229312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958095486847692968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dsahkla34377 依旧得排队啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748645500537229312",
+        "conversation_id": "1958068836948705349",
+        "created_at": "2025-08-20T09:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T10:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958095486847692968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958095486847692968",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958068836948705349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 ?我求你了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1331,
+          "following_count": 200,
+          "like_count": 16279,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 4312
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T09:56:02.000Z",
+        "description": "ISTP人类。想互关的私信除了被自动划到屏蔽的驻波一般都会看看主页，无帖子或者有什么人身攻击物化人类这样子让驻波不爽的不会回关……还有最重要的❗❗❗可以骚扰我但是丑的敢发你就死定了😠😠😠😠😠😠😠//绵绵冰的收件箱https://t.co/ExfNcdV2ks",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dshakla34377",
+                "end": 129,
+                "expanded_url": "https://ngl.link/dshakla34377",
+                "start": 106,
+                "url": "https://t.co/ExfNcdV2ks"
+              }
+            ]
+          }
+        },
+        "id": "1748645500537229312",
+        "name": "全世界最最好吃绵绵冰🧊（day3",
+        "pinned_tweet_id": "1930915932769255784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910906342304362496/coNEWFES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 254,
+          "like_count": 2629,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 2484
+        },
+        "username": "dsahkla34377",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1956019665160851638",
+    "created_at": "2025-08-14T15:46:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T16:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956019665160851638"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1956019665160851638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天店里来了两个外国客人，站人面前还是要靠翻译，明明自己已经很努力的在学英语了，我还学了在餐厅点餐的英语什么的，还是开不了口，他们说的好快我也听不懂，背了两个单词又不知道天高地厚了，我提升自己了些什么？我的那些豪言壮语都好好笑，还是啥也做不到，我好内疚，我到底在干嘛，我好讨厌北京"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1956019665160851638",
+        "created_at": "2025-08-14T15:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T16:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956019665160851638"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956019665160851638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天店里来了两个外国客人，站人面前还是要靠翻译，明明自己已经很努力的在学英语了，我还学了在餐厅点餐的英语什么的，还是开不了口，他们说的好快我也听不懂，背了两个单词又不知道天高地厚了，我提升自己了些什么？我的那些豪言壮语都好好笑，还是啥也做不到，我好内疚，我到底在干嘛，我好讨厌北京"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1955773434958352438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 199,
+          "like_count": 15599,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 4245
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      }
+    ]
+  }
+}

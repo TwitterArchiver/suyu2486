@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1958068836948705349",
+    "created_at": "2025-08-20T14:20:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T15:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958172199073833416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1735706832226721792",
+          "start": 0,
+          "username": "JIDannnTAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958172199073833416",
+    "in_reply_to_user_id": "1735706832226721792",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958070558161268849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JIDannnTAT ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1958068836948705349",
+        "created_at": "2025-08-20T14:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T15:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958172199073833416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1735706832226721792",
+              "start": 0,
+              "username": "JIDannnTAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958172199073833416",
+        "in_reply_to_user_id": "1735706832226721792",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958070558161268849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JIDannnTAT ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735706832226721792",
+        "conversation_id": "1958068836948705349",
+        "created_at": "2025-08-20T07:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T08:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958070558161268849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958070558161268849",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958068836948705349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 ？ 你他妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1331,
+          "following_count": 200,
+          "like_count": 16279,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 4308
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T17:02:27.000Z",
+        "description": "？宝宝你说什么呢我不是很可爱吗 叫我吉蛋行不行 / infj/要互关的美女宝宝私信我 / 不定时爆更乱七八糟碎碎念 别觉得我烦好不好🥺",
+        "id": "1735706832226721792",
+        "location": "半绿不绿🚪52/88/188/520",
+        "name": "普通人操蛋的一辈子",
+        "pinned_tweet_id": "1941535821414474172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938289539937931265/wu79WV2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 132,
+          "like_count": 2223,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1345
+        },
+        "username": "JIDannnTAT",
+        "verified": false
+      }
+    ]
+  }
+}

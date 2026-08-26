@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1952338586541388049",
+    "created_at": "2025-08-04T13:27:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T14:27:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952360628989116686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1703585455915048960",
+          "start": 0,
+          "username": "MianBaobb07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952360628989116686",
+    "in_reply_to_user_id": "1703585455915048960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952352498108309784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MianBaobb07 美神啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1952338586541388049",
+        "created_at": "2025-08-04T13:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T14:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952360628989116686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1703585455915048960",
+              "start": 0,
+              "username": "MianBaobb07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952360628989116686",
+        "in_reply_to_user_id": "1703585455915048960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952352498108309784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MianBaobb07 美神啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703585455915048960",
+        "conversation_id": "1952338586541388049",
+        "created_at": "2025-08-04T12:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T13:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952352498108309784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952352498108309784",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952339420713226662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 神鹰吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1952327381869338999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1030,
+          "following_count": 201,
+          "like_count": 13231,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 3641
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-18T01:43:28.000Z",
+        "description": "纯颜控 不闲聊 不线下不约谢谢🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻置顶推广自辨💧碎碎念看小号@MianBao09876",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 44,
+                "username": "MianBao09876"
+              }
+            ]
+          }
+        },
+        "id": "1703585455915048960",
+        "location": "有🚪",
+        "name": "面包🍞",
+        "pinned_tweet_id": "1935560414323966166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870921957669044224/cyQ99dZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11614,
+          "following_count": 220,
+          "like_count": 1058,
+          "listed_count": 28,
+          "media_count": 191,
+          "tweet_count": 1371
+        },
+        "username": "MianBaobb07",
+        "verified": false
+      }
+    ]
+  }
+}

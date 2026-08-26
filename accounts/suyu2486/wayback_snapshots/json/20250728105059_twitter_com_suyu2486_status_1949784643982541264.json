@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1949724635790246369",
+    "created_at": "2025-07-28T10:50:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T11:50:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949784643982541264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1900490269960601600",
+          "start": 0,
+          "username": "jitui78"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949784643982541264",
+    "in_reply_to_user_id": "1900490269960601600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949724635790246369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jitui78 初夜在16岁的一个夜晚被怂恿和一个素不相识的社会姐一夜三次懊悔不已的我是这个👎🏻👎🏻👎🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1949724635790246369",
+        "created_at": "2025-07-28T10:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T11:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949784643982541264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1900490269960601600",
+              "start": 0,
+              "username": "jitui78"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949784643982541264",
+        "in_reply_to_user_id": "1900490269960601600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949724635790246369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jitui78 初夜在16岁的一个夜晚被怂恿和一个素不相识的社会姐一夜三次懊悔不已的我是这个👎🏻👎🏻👎🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900490269960601600",
+        "conversation_id": "1949724635790246369",
+        "created_at": "2025-07-28T06:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T07:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949724635790246369"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949724635790246369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8665,
+          "like_count": 107,
+          "quote_count": 8,
+          "reply_count": 45,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "玩推初牵 初抱 初吻还在的是这个👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男，可以叫我小玉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1948457851778990521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 200,
+          "like_count": 12157,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 3400
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T10:13:02.000Z",
+        "description": "当朋友圈发",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ji%E2%80%86tui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ji%E2%80%86tui",
+                "start": 0,
+                "url": "https://t.co/PUdCeaTUCL"
+              }
+            ]
+          }
+        },
+        "id": "1900490269960601600",
+        "location": "月球",
+        "name": "kalli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927926186606481411/xfOUAhbW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 27,
+          "like_count": 426,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 153
+        },
+        "url": "https://t.co/PUdCeaTUCL",
+        "username": "jitui78",
+        "verified": false
+      }
+    ]
+  }
+}

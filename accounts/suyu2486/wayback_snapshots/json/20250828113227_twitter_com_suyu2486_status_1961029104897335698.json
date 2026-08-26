@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1960953606125019307",
+    "created_at": "2025-08-28T11:32:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T12:32:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961029104897335698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1960949460714053632",
+          "start": 0,
+          "username": "xmmOvO1003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961029104897335698",
+    "in_reply_to_user_id": "1960949460714053632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960953606125019307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xmmOvO1003 我要喝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960953603163873286",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gza06Zma4AYnvSc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1960953606125019307",
+        "created_at": "2025-08-28T11:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T12:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961029104897335698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1960949460714053632",
+              "start": 0,
+              "username": "xmmOvO1003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961029104897335698",
+        "in_reply_to_user_id": "1960949460714053632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960953606125019307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xmmOvO1003 我要喝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960953603163873286"
+          ]
+        },
+        "author_id": "1960949460714053632",
+        "conversation_id": "1960953606125019307",
+        "created_at": "2025-08-28T06:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T07:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960953606125019307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K1sLc3JHOF",
+              "end": 60,
+              "expanded_url": "https://x.com/xmmOvO1003/status/1960953606125019307/photo/1",
+              "media_key": "3_1960953603163873286",
+              "start": 37,
+              "url": "https://t.co/K1sLc3JHOF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960953606125019307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1601,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "瑞幸柚c美式好喝死了！！！\n评论区抽2个粉丝小宝宝请你喝，可能今晚开吧！ https://t.co/K1sLc3JHOF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个好色的sb男的，双相情感障碍，情感漠视，精神失常，都滚远点别来烦我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "小玉",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1363,
+          "following_count": 198,
+          "like_count": 17085,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 4535
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-28T06:16:11.000Z",
+        "description": "大号@xiaoguai041003",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "xiaoguai041003"
+              }
+            ]
+          }
+        },
+        "id": "1960949460714053632",
+        "name": "毛米的小世界",
+        "pinned_tweet_id": "1960953113986170901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960949566251134976/-Gj1xWWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 56,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 26
+        },
+        "username": "xmmOvO1003",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1956041887032258853",
+    "created_at": "2025-08-15T01:28:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T02:28:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956166163596972485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1266711219425034241",
+          "start": 0,
+          "username": "Mcdonaldism_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956166163596972485",
+    "in_reply_to_user_id": "1266711219425034241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956068246857375959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mcdonaldism_ 唉我，又整上主观评价和客观事实了，到现在大部分女的还不够激进，那我真没话说了，我只是发表自己的观点言论，我上哪整贡献去，一个人发表一些言论就能扯上贡献这一块，那任谁说一点点话就能改变国内格局，实在恐怖了麻姐😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1956041887032258853",
+        "created_at": "2025-08-15T01:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T02:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956166163596972485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1266711219425034241",
+              "start": 0,
+              "username": "Mcdonaldism_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956166163596972485",
+        "in_reply_to_user_id": "1266711219425034241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956068246857375959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mcdonaldism_ 唉我，又整上主观评价和客观事实了，到现在大部分女的还不够激进，那我真没话说了，我只是发表自己的观点言论，我上哪整贡献去，一个人发表一些言论就能扯上贡献这一块，那任谁说一点点话就能改变国内格局，实在恐怖了麻姐😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266711219425034241",
+        "conversation_id": "1956041887032258853",
+        "created_at": "2025-08-14T18:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T19:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956068246857375959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956068246857375959",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956064660978901344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 对女的说的是你的主观评价，对男的说的是客观事实。女权的客观事实是大部分女不够激进，不足以推翻现状建立起新秩序，而男的即使意识到男权社会的错误但没有动力改这个现状的惯性就还要持续几百年，而你打俩字儿发一段招笑瑞萍文拉偏架就觉得自己是对平权有贡献了，那也是很有贡献了😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1955773434958352438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1288,
+          "following_count": 200,
+          "like_count": 15669,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 4261
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-30T12:41:23.000Z",
+        "description": "功利主义导向的思考方式往往使我们忘却了生命的本质是一场历程 ｜无论你是否是麦神的信徒，无论你的种族肤色性别，无论今天是星期几，你都可以享用13.9元麦当劳神教的1+1圣餐，麦神平等的爱世人，麦门🙏｜🐧相关❌盗图❌搬运",
+        "id": "1266711219425034241",
+        "location": "无所谓我会在网上到处拉屎",
+        "name": "AAA麻姐麦当劳薯条批发🍟🍟🍟",
+        "pinned_tweet_id": "1936044152061665678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920432920826687488/Qhhz0NjZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6121,
+          "following_count": 1013,
+          "like_count": 39274,
+          "listed_count": 21,
+          "media_count": 730,
+          "tweet_count": 13142
+        },
+        "username": "Mcdonaldism_",
+        "verified": false
+      }
+    ]
+  }
+}

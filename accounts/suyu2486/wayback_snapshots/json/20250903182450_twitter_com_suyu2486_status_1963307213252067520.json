@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1963305743802929201",
+    "created_at": "2025-09-03T18:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T19:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963307213252067520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1881733931588022272",
+          "start": 0,
+          "username": "70021160kslslk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963307213252067520",
+    "in_reply_to_user_id": "1881733931588022272",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963307164254257241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@70021160kslslk ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1963305743802929201",
+        "created_at": "2025-09-03T18:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T19:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963307213252067520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1881733931588022272",
+              "start": 0,
+              "username": "70021160kslslk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963307213252067520",
+        "in_reply_to_user_id": "1881733931588022272",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963307164254257241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@70021160kslslk ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881733931588022272",
+        "conversation_id": "1963305743802929201",
+        "created_at": "2025-09-03T18:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T19:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963307164254257241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963307164254257241",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963305743802929201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 对是我操的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗不定期活跃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "飞向全宇宙",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1420,
+          "following_count": 210,
+          "like_count": 18416,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 4927
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-21T16:01:57.000Z",
+        "description": "我脾气不好不要惹我",
+        "id": "1881733931588022272",
+        "name": "^_给我一瓶开塞露",
+        "pinned_tweet_id": "1960988644077891779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947265612184735744/_QkashaV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14973,
+          "following_count": 127,
+          "like_count": 464,
+          "listed_count": 19,
+          "media_count": 86,
+          "tweet_count": 387
+        },
+        "username": "70021160kslslk",
+        "verified": false
+      }
+    ]
+  }
+}

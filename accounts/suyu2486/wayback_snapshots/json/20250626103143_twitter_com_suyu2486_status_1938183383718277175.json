@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938183378626396161"
+      ]
+    },
+    "author_id": "1910715228523831296",
+    "conversation_id": "1938183383718277175",
+    "created_at": "2025-06-26T10:31:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T11:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938183383718277175"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qw6TlCa0Nw",
+          "end": 117,
+          "expanded_url": "https://x.com/suyu2486/status/1938183383718277175/photo/1",
+          "media_key": "3_1938183378626396161",
+          "start": 94,
+          "url": "https://t.co/qw6TlCa0Nw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938183383718277175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我最近真的特别内耗，我不知道是哪里出了问题，就是干什么都提不起兴趣，每天浑浑噩噩，也没胃口吃饭，他们都说我生病了，需要好好休息，可我觉得，只要这个时候有人愿意v我50吃疯狂星期四就好了😔 https://t.co/qw6TlCa0Nw"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1938183383718277175].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1938183383718277175",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1938183383718277175"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1213,
+        "media_key": "3_1938183378626396161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuXPg5CXwAEiJ08.jpg",
+        "width": 1213
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1936734143804735662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 198,
+          "like_count": 8560,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 2422
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      }
+    ]
+  }
+}

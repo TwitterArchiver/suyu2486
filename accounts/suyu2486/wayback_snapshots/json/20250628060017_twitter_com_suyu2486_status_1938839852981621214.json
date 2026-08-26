@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1938600153243361677",
+    "created_at": "2025-06-28T06:00:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T07:00:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938839852981621214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "888456526150512640",
+          "start": 0,
+          "username": "xiaotianbing11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938839852981621214",
+    "in_reply_to_user_id": "888456526150512640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938833066165780504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaotianbing11 m吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1938600153243361677",
+        "created_at": "2025-06-28T06:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T07:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938839852981621214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "888456526150512640",
+              "start": 0,
+              "username": "xiaotianbing11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938839852981621214",
+        "in_reply_to_user_id": "888456526150512640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938833066165780504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaotianbing11 m吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "888456526150512640",
+        "conversation_id": "1938600153243361677",
+        "created_at": "2025-06-28T05:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T06:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938833066165780504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938833066165780504",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938600153243361677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 我一嘴人就给我引流 让人来骂我🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1938601372837913057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 197,
+          "like_count": 8965,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2560
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-21T17:51:57.000Z",
+        "description": "首先祝你开心 其次都是其次 / 星露谷皇帝 女性主义探索中 无添加人类 / 点赞代表喜欢你🫶 / 无门槛不提供任何服务 单纯记录和分享 / 纯爱党 陌生人不闲聊不约不谈不线下不搞暧昧不找搭子不搞小团体 / 📪：https://t.co/dNAttjOElF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mmjbxgqs",
+                "end": 128,
+                "expanded_url": "https://ngl.link/mmjbxgqs",
+                "start": 105,
+                "url": "https://t.co/dNAttjOElF"
+              }
+            ]
+          }
+        },
+        "id": "888456526150512640",
+        "name": "老婆爱上gay出走的那个雨夜",
+        "pinned_tweet_id": "1934286602743992390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853440925780893697/mkyu3Bnl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 214,
+          "like_count": 7224,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 2290
+        },
+        "username": "xiaotianbing11",
+        "verified": false
+      }
+    ]
+  }
+}

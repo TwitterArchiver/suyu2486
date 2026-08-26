@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2001257252058279936"
+      ]
+    },
+    "author_id": "1910715228523831296",
+    "conversation_id": "2001257293665722449",
+    "created_at": "2025-12-17T11:44:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T12:44:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001257293665722449"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QDJBTmVJhR",
+          "end": 30,
+          "expanded_url": "https://x.com/suyu2486/status/2001257293665722449/video/1",
+          "media_key": "7_2001257252058279936",
+          "start": 7,
+          "url": "https://t.co/QDJBTmVJhR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001257293665722449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "变个魔术，喵 https://t.co/QDJBTmVJhR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14166,
+        "height": 1280,
+        "media_key": "7_2001257252058279936",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2001257252058279936/pu/img/JxJlb6xBkyVY24mt.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2001257252058279936/pu/vid/avc1/320x568/UGYcYobWdwppPU_x.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2001257252058279936/pu/vid/avc1/480x852/xcUYTX_gjS9Sn4nM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2001257252058279936/pu/vid/avc1/720x1280/6i0N-CAU2p0t5oV2.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2001257252058279936/pu/pl/vhYk8f55SKKkDoLv.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2001257252058279936"
+          ]
+        },
+        "author_id": "1910715228523831296",
+        "conversation_id": "2001257293665722449",
+        "created_at": "2025-12-17T11:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T12:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001257293665722449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QDJBTmVJhR",
+              "end": 30,
+              "expanded_url": "https://x.com/suyu2486/status/2001257293665722449/video/1",
+              "media_key": "7_2001257252058279936",
+              "start": 7,
+              "url": "https://t.co/QDJBTmVJhR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001257293665722449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "变个魔术，喵 https://t.co/QDJBTmVJhR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是一个死人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1985888956073066671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997944714021216256/QFoLaxLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2442,
+          "following_count": 278,
+          "like_count": 23226,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 6508
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      }
+    ]
+  }
+}

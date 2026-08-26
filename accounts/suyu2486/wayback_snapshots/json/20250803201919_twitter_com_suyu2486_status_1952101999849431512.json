@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1951917489534685460",
+    "created_at": "2025-08-03T20:19:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T21:19:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952101999849431512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1703585455915048960",
+          "start": 0,
+          "username": "MianBaobb07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952101999849431512",
+    "in_reply_to_user_id": "1703585455915048960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951917489534685460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MianBaobb07 美女"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1476,
+        "media_key": "3_1951917476511416320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxaammpXAAAUIjF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1951917489534685460",
+        "created_at": "2025-08-03T20:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T21:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952101999849431512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1703585455915048960",
+              "start": 0,
+              "username": "MianBaobb07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952101999849431512",
+        "in_reply_to_user_id": "1703585455915048960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951917489534685460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MianBaobb07 美女"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951917476511416320"
+          ]
+        },
+        "author_id": "1703585455915048960",
+        "conversation_id": "1951917489534685460",
+        "created_at": "2025-08-03T08:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T09:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951917489534685460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P4GMW8ZerE",
+              "end": 47,
+              "expanded_url": "https://x.com/MianBaobb07/status/1951917489534685460/photo/1",
+              "media_key": "3_1951917476511416320",
+              "start": 24,
+              "url": "https://t.co/P4GMW8ZerE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951917489534685460",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7551,
+          "like_count": 204,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "生活就像POTATO，去掉P，就只剩oTATo https://t.co/P4GMW8ZerE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1951649210652135765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 200,
+          "like_count": 13063,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 3586
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-18T01:43:28.000Z",
+        "description": "纯颜控 不闲聊 不线下不约谢谢🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻置顶推广自辨💧碎碎念看小号@MianBao09876",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 44,
+                "username": "MianBao09876"
+              }
+            ]
+          }
+        },
+        "id": "1703585455915048960",
+        "location": "有🚪",
+        "name": "面包🍞",
+        "pinned_tweet_id": "1935560414323966166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870921957669044224/cyQ99dZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11612,
+          "following_count": 216,
+          "like_count": 1053,
+          "listed_count": 28,
+          "media_count": 190,
+          "tweet_count": 1352
+        },
+        "username": "MianBaobb07",
+        "verified": false
+      }
+    ]
+  }
+}

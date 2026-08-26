@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1955143460123758686",
+    "created_at": "2025-08-12T23:18:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T00:18:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955408644658671965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1788854643163877376",
+          "start": 0,
+          "username": "fffffffx286556"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955408644658671965",
+    "in_reply_to_user_id": "1788854643163877376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955143460123758686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fffffffx286556 有村架纯来了…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1955143453228273664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyIQnKaaEAAsnlG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1955143460123758686",
+        "created_at": "2025-08-12T23:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T00:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955408644658671965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1788854643163877376",
+              "start": 0,
+              "username": "fffffffx286556"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955408644658671965",
+        "in_reply_to_user_id": "1788854643163877376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955143460123758686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fffffffx286556 有村架纯来了…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955143453228273664"
+          ]
+        },
+        "author_id": "1788854643163877376",
+        "conversation_id": "1955143460123758686",
+        "created_at": "2025-08-12T05:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T06:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955143460123758686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qKf73t1LMb",
+              "end": 30,
+              "expanded_url": "https://x.com/fffffffx286556/status/1955143460123758686/photo/1",
+              "media_key": "3_1955143453228273664",
+              "start": 7,
+              "url": "https://t.co/qKf73t1LMb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955143460123758686",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 9369,
+          "like_count": 319,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "驯服ccd中 https://t.co/qKf73t1LMb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1953423119017758926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1256,
+          "following_count": 197,
+          "like_count": 15029,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 4105
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-10T08:52:45.000Z",
+        "description": "不赚钱不接推广也不加联系方式 （女孩可以^_^",
+        "id": "1788854643163877376",
+        "location": "Hong Kong",
+        "name": "伤心猕猴桃",
+        "pinned_tweet_id": "1950921703770693732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890388842987077633/LeBW2kFV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6063,
+          "following_count": 43,
+          "like_count": 684,
+          "listed_count": 11,
+          "media_count": 50,
+          "tweet_count": 318
+        },
+        "username": "fffffffx286556",
+        "verified": false
+      }
+    ]
+  }
+}

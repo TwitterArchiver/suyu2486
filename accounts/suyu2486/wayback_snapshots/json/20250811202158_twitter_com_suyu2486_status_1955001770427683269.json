@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1954746744291627398",
+    "created_at": "2025-08-11T20:21:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T21:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955001770427683269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1320982035968618496",
+          "start": 0,
+          "username": "CandCLover"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955001770427683269",
+    "in_reply_to_user_id": "1320982035968618496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954962156354728180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CandCLover 既要又要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1954746744291627398",
+        "created_at": "2025-08-11T20:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T21:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955001770427683269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1320982035968618496",
+              "start": 0,
+              "username": "CandCLover"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955001770427683269",
+        "in_reply_to_user_id": "1320982035968618496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954962156354728180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CandCLover 既要又要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320982035968618496",
+        "conversation_id": "1954746744291627398",
+        "created_at": "2025-08-11T17:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T18:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954962156354728180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954962156354728180",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954746744291627398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 你应该支付我阅读这段文字的费用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1953423119017758926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 200,
+          "like_count": 14532,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 4033
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-27T06:54:03.000Z",
+        "description": "她很爱我我也很爱她 @kk_k9rabbit",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "kk_k9rabbit"
+              }
+            ]
+          }
+        },
+        "id": "1320982035968618496",
+        "name": "重生之空空大爆射",
+        "pinned_tweet_id": "1753433124011446742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904591126037954560/FhxAXNql_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 674,
+          "like_count": 18150,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 463
+        },
+        "username": "CandCLover",
+        "verified": false
+      }
+    ]
+  }
+}

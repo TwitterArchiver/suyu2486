@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2021907709956960355",
+    "created_at": "2026-02-12T14:44:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T15:44:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021958481532924387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1883727989671944192",
+          "start": 0,
+          "username": "nimasilehiahia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021958481532924387",
+    "in_reply_to_user_id": "1883727989671944192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021907709956960355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nimasilehiahia 这期神了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2021907709956960355].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2021907709956960355",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2021907709956960355"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2021907709956960355",
+        "created_at": "2026-02-12T14:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T15:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021958481532924387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1883727989671944192",
+              "start": 0,
+              "username": "nimasilehiahia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021958481532924387",
+        "in_reply_to_user_id": "1883727989671944192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021907709956960355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nimasilehiahia 这期神了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2302,
+          "following_count": 202,
+          "like_count": 22640,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 6538
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T04:05:33.000Z",
+        "description": "我真的是照片本人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=ngr2J6c5",
+                "start": 0,
+                "url": "https://t.co/y74iEgFOSx"
+              }
+            ]
+          }
+        },
+        "id": "1883727989671944192",
+        "location": "蜂鸟vpn",
+        "name": "中推守护者",
+        "pinned_tweet_id": "2010852753753719262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006271833587486720/JdqbtqJM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 11083,
+          "following_count": 1048,
+          "like_count": 21806,
+          "listed_count": 21,
+          "media_count": 1483,
+          "tweet_count": 12880
+        },
+        "url": "https://t.co/y74iEgFOSx",
+        "username": "nimasilehiahia",
+        "verified": false
+      }
+    ]
+  }
+}

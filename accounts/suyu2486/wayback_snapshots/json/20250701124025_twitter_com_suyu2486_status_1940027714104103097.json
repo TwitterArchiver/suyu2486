@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1939847270284890437",
+    "created_at": "2025-07-01T12:40:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T13:40:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940027714104103097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1644270988216115200",
+          "start": 0,
+          "username": "yingruo321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940027714104103097",
+    "in_reply_to_user_id": "1644270988216115200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939996769238352307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yingruo321 越来越好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1939847270284890437",
+        "created_at": "2025-07-01T12:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T13:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940027714104103097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1644270988216115200",
+              "start": 0,
+              "username": "yingruo321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940027714104103097",
+        "in_reply_to_user_id": "1644270988216115200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939996769238352307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yingruo321 越来越好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644270988216115200",
+        "conversation_id": "1939847270284890437",
+        "created_at": "2025-07-01T10:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T11:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939996769238352307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939996769238352307",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939847270284890437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 抱抱你已经是个很善良的孩子了，不要对自己苛求太多，你还很年轻，做什么都不晚，你也有了提升自己的意识，以后会越来越好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1923458019305660813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 199,
+          "like_count": 10010,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2921
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T09:29:04.000Z",
+        "description": "又菜又爱玩，yy最开心.https://t.co/FJU8rMwDRh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qihanxiaoka",
+                "end": 35,
+                "expanded_url": "https://ngl.link/qihanxiaoka",
+                "start": 12,
+                "url": "https://t.co/FJU8rMwDRh"
+              }
+            ]
+          }
+        },
+        "id": "1644270988216115200",
+        "location": "尼辛离",
+        "name": "小柒",
+        "pinned_tweet_id": "1933025638379892780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933011905377153027/rrlZKINq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 210,
+          "like_count": 1353,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 640
+        },
+        "username": "yingruo321",
+        "verified": false
+      }
+    ]
+  }
+}

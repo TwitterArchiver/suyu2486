@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2083922697407320497",
+    "created_at": "2026-08-03T02:30:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T03:30:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084104703558979752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1784985181511712769",
+          "start": 0,
+          "username": "bbdsmdbzd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084104703558979752",
+    "in_reply_to_user_id": "1784985181511712769",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083922697407320497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbdsmdbzd 我靠"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7244,
+        "height": 1440,
+        "media_key": "13_2083922653836869632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083922653836869632/img/tM4HAs4FJnY9TMee.jpg",
+        "public_metrics": {
+          "view_count": 16482
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083922653836869632/vid/avc1/480x270/0p-KnbNiVxHvoJIF.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083922653836869632/vid/avc1/640x360/vvqvIMQCoReG9gFw.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083922653836869632/vid/avc1/1280x720/68C_YtVARsIVrBgZ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083922653836869632/pl/540ajPBdyQopJH7t.m3u8?tag=14"
+          }
+        ],
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2083922697407320497",
+        "created_at": "2026-08-03T02:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084104703558979752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1784985181511712769",
+              "start": 0,
+              "username": "bbdsmdbzd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084104703558979752",
+        "in_reply_to_user_id": "1784985181511712769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083922697407320497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbdsmdbzd 我靠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083922653836869632"
+          ]
+        },
+        "author_id": "1784985181511712769",
+        "conversation_id": "2083922697407320497",
+        "created_at": "2026-08-02T14:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083922697407320497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/08OoLdbXet",
+              "end": 34,
+              "expanded_url": "https://x.com/bbdsmdbzd/status/2083922697407320497/video/1",
+              "media_key": "13_2083922653836869632",
+              "start": 11,
+              "url": "https://t.co/08OoLdbXet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083922697407320497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 172,
+          "impression_count": 37821,
+          "like_count": 1397,
+          "quote_count": 3,
+          "reply_count": 29,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "是不是嘛～对不对嘛～ https://t.co/08OoLdbXet"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2066,
+          "following_count": 190,
+          "like_count": 21262,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6648
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-29T16:36:58.000Z",
+        "description": "",
+        "id": "1784985181511712769",
+        "name": "冰清玉洁",
+        "pinned_tweet_id": "2062538112698323020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037931870827282432/oTuU02xT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48173,
+          "following_count": 195,
+          "like_count": 12962,
+          "listed_count": 66,
+          "media_count": 180,
+          "tweet_count": 5514
+        },
+        "url": "",
+        "username": "bbdsmdbzd",
+        "verified": false
+      }
+    ]
+  }
+}

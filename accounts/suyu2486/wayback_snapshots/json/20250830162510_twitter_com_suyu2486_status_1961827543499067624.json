@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1961528072467038691",
+    "created_at": "2025-08-30T16:25:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T17:25:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961827543499067624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1938154000907702273",
+          "start": 0,
+          "username": "O3Opia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961827543499067624",
+    "in_reply_to_user_id": "1938154000907702273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961528072467038691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@O3Opia 三个立了吗我都快出来了，其实也不用你，多看几遍就行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1961528072467038691",
+        "created_at": "2025-08-30T16:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T17:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961827543499067624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1938154000907702273",
+              "start": 0,
+              "username": "O3Opia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961827543499067624",
+        "in_reply_to_user_id": "1938154000907702273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961528072467038691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@O3Opia 三个立了吗我都快出来了，其实也不用你，多看几遍就行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938154000907702273",
+        "conversation_id": "1961528072467038691",
+        "created_at": "2025-08-29T20:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T21:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961528072467038691"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961528072467038691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4077,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "立了吗👋立了吗👋立了吗👋\n好的立了我先睡了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "叫我小玉，男的，infp，可以匿名信或者直接私信找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "🤗",
+        "name": "小玉",
+        "pinned_tweet_id": "1961524810619748717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1362,
+          "following_count": 200,
+          "like_count": 17567,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 4678
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T08:35:09.000Z",
+        "description": "隐藏相册@O3OWhite ｜话都说给msk了不私聊。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "O3OWhite"
+              }
+            ]
+          }
+        },
+        "id": "1938154000907702273",
+        "name": "Plan B",
+        "pinned_tweet_id": "1961302443196662211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960220483758211072/d8Z8DoPW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5589,
+          "following_count": 100,
+          "like_count": 2134,
+          "listed_count": 13,
+          "media_count": 337,
+          "tweet_count": 1897
+        },
+        "username": "O3Opia",
+        "verified": true
+      }
+    ]
+  }
+}

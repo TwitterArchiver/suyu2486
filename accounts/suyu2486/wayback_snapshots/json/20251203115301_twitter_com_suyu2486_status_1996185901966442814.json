@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1996184133979234625",
+    "created_at": "2025-12-03T11:53:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T12:53:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996185901966442814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1947634203358543873",
+          "start": 0,
+          "username": "uxehNv2zpB70937"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996185901966442814",
+    "in_reply_to_user_id": "1947634203358543873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996184133979234625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uxehNv2zpB70937 给你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1996184133979234625",
+        "created_at": "2025-12-03T11:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T12:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996185901966442814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1947634203358543873",
+              "start": 0,
+              "username": "uxehNv2zpB70937"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996185901966442814",
+        "in_reply_to_user_id": "1947634203358543873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996184133979234625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uxehNv2zpB70937 给你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947634203358543873",
+        "conversation_id": "1996184133979234625",
+        "created_at": "2025-12-03T11:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T12:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996184133979234625"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996184133979234625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近好想吃韭菜盒子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是一个死人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1985888956073066671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2448,
+          "following_count": 268,
+          "like_count": 22706,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 6332
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T12:26:11.000Z",
+        "description": "幸福日记本/欢迎来找我聊天/会发身材照且不定期删除/成分极其复杂无法表达 全是乱七八糟的回复和推文/请多夸夸我好吗 我是夸夸脑/骂我就销号跑路/本来就是废墟别对我有期待/只想搞黄 冒犯到你我只能说抱歉 屏蔽双取随意🙇",
+        "id": "1947634203358543873",
+        "location": "距离您0.1km",
+        "name": "岁星",
+        "pinned_tweet_id": "1975894285024481482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955658680114044928/OlfF5_8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 163,
+          "like_count": 1675,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 2872
+        },
+        "username": "uxehNv2zpB70937",
+        "verified": false
+      }
+    ]
+  }
+}

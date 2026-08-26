@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1938192073230062066",
+    "created_at": "2025-06-27T23:53:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T00:53:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938747636254732609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1422457573358202883",
+          "start": 0,
+          "username": "boliangkiying_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938747636254732609",
+    "in_reply_to_user_id": "1422457573358202883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938192073230062066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boliangkiying_ 很难，但我还是出来了，谢谢刀"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 112260,
+        "height": 1280,
+        "media_key": "7_1938192030586560513",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1938192030586560513/pu/img/xEAms16hM1N_KLgW.jpg",
+        "public_metrics": {
+          "view_count": 656
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1938192030586560513/pu/vid/avc1/320x710/lHhFdoSBUJPHBJFc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1938192030586560513/pu/vid/avc1/480x1066/8u_kaH95KoZBUWOi.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1938192030586560513/pu/vid/avc1/576x1280/D7JJefziwYeKEkR_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1938192030586560513/pu/pl/4OTYlTQcAh7LboKG.m3u8?tag=12&v=fd7"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1938192073230062066",
+        "created_at": "2025-06-27T23:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T00:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938747636254732609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1422457573358202883",
+              "start": 0,
+              "username": "boliangkiying_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938747636254732609",
+        "in_reply_to_user_id": "1422457573358202883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938192073230062066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boliangkiying_ 很难，但我还是出来了，谢谢刀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1938192030586560513"
+          ]
+        },
+        "author_id": "1422457573358202883",
+        "conversation_id": "1938192073230062066",
+        "created_at": "2025-06-26T11:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T12:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938192073230062066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bf3qMs900T",
+              "end": 23,
+              "expanded_url": "https://x.com/boliangkiying_/status/1938192073230062066/video/1",
+              "media_key": "7_1938192030586560513",
+              "start": 0,
+              "url": "https://t.co/Bf3qMs900T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938192073230062066",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1967,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Bf3qMs900T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1938601372837913057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 196,
+          "like_count": 8903,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2525
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-03T07:21:38.000Z",
+        "description": "大家好我是二次元刀哥/全是干货/",
+        "id": "1422457573358202883",
+        "location": "0.7km",
+        "name": "二次元刀哥",
+        "pinned_tweet_id": "1931866155830112566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928069675637952517/nmiD9jVn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1713,
+          "following_count": 264,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 501
+        },
+        "username": "boliangkiying_",
+        "verified": false
+      }
+    ]
+  }
+}

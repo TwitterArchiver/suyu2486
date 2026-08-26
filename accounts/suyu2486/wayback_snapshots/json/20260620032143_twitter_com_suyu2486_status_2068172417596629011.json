@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2067933785963000073",
+    "created_at": "2026-06-20T03:21:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T04:21:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068172417596629011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1935291951894691840",
+          "start": 0,
+          "username": "edithjoe8511"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068172417596629011",
+    "in_reply_to_user_id": "1935291951894691840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067933785963000073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@edithjoe8511 牛逼"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2067933785963000073].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2067933785963000073",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2067933785963000073"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2067933785963000073",
+        "created_at": "2026-06-20T03:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T04:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068172417596629011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1935291951894691840",
+              "start": 0,
+              "username": "edithjoe8511"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068172417596629011",
+        "in_reply_to_user_id": "1935291951894691840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067933785963000073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@edithjoe8511 牛逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2102,
+          "following_count": 190,
+          "like_count": 21225,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 6582
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T11:02:24.000Z",
+        "description": "原号龙眼山竹泡芙（@kawanarideonyou）仅过曾经的互关｜曾写给aki的情书与日记本｜某天你再想起我，我就在你的29岁｜Everything I have slips away far too easily, so I'll just let it be.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "kawanarideonyou"
+              }
+            ]
+          }
+        },
+        "id": "1935291951894691840",
+        "location": "9452km",
+        "name": "荔枝龙眼泡芙",
+        "pinned_tweet_id": "2024809478252851388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059990351432347648/nJo8k2Ps_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 231,
+          "like_count": 7766,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 2013
+        },
+        "url": "",
+        "username": "edithjoe8511",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1959540404467929144",
+    "created_at": "2025-08-24T13:49:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T14:49:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959613939513217350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592865779241734144",
+          "start": 0,
+          "username": "yuanyuan774"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959613939513217350",
+    "in_reply_to_user_id": "1592865779241734144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959540404467929144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanyuan774 这啥啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1959540404467929144",
+        "created_at": "2025-08-24T13:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T14:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959613939513217350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592865779241734144",
+              "start": 0,
+              "username": "yuanyuan774"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959613939513217350",
+        "in_reply_to_user_id": "1592865779241734144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959540404467929144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanyuan774 这啥啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592865779241734144",
+        "conversation_id": "1959540404467929144",
+        "created_at": "2025-08-24T08:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T09:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959540404467929144"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959540404467929144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1070,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“大屁”\n“是屎～”（气泡音）\n“大屁”\n“是屎”\n“大屁…”（委屈）\n“唉……噗噗噗噗噗”（邪魅一笑）\n                                         —————《屎屁》"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个好色的sb男的，双相情感障碍，情感漠视，精神失常，都滚远点别来烦我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1354,
+          "following_count": 198,
+          "like_count": 16702,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 4439
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T13:03:00.000Z",
+        "description": "小号 转喜欢看的片的。@CaTwTuoo。 有🚪💚 喜欢就打钱😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "CaTwTuoo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pan.quark.cn/s/543a993bb2b4",
+                "end": 23,
+                "expanded_url": "https://pan.quark.cn/s/543a993bb2b4",
+                "start": 0,
+                "url": "https://t.co/TWDgw2qLmx"
+              }
+            ]
+          }
+        },
+        "id": "1592865779241734144",
+        "location": "放了些小福利在网盘里，喜欢的话自取👇🏻",
+        "name": "欠",
+        "pinned_tweet_id": "1954424521848410592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956501546482421760/f-zpB3QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29915,
+          "following_count": 289,
+          "like_count": 27832,
+          "listed_count": 49,
+          "media_count": 1396,
+          "tweet_count": 25526
+        },
+        "url": "https://t.co/TWDgw2qLmx",
+        "username": "yuanyuan774",
+        "verified": false
+      }
+    ]
+  }
+}

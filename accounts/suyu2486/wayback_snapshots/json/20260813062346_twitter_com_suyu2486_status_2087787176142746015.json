@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2087467508492374286",
+    "created_at": "2026-08-13T06:23:46.000Z",
+    "display_text_range": [
+      11,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T07:23:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087787176142746015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2067291245492518912",
+          "start": 0,
+          "username": "XIDUOXING"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087787176142746015",
+    "in_reply_to_user_id": "2067291245492518912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087467508492374286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XIDUOXING 太棒了光荣上榜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2087467508492374286",
+        "created_at": "2026-08-13T06:23:46.000Z",
+        "display_text_range": [
+          11,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T07:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087787176142746015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2067291245492518912",
+              "start": 0,
+              "username": "XIDUOXING"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087787176142746015",
+        "in_reply_to_user_id": "2067291245492518912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087467508492374286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIDUOXING 太棒了光荣上榜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067291245492518912",
+        "conversation_id": "2087467508492374286",
+        "created_at": "2026-08-12T09:13:31.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T10:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087467508492374286"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087467508492374286",
+        "lang": "zh",
+        "note_request_suggestions": [
+          {
+            "suggestion": "台湾はタイワン。Taiwanだ\n2度と間違えるなよ翻訳機能",
+            "suggestion_id": "2087737769343029740"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3074,
+          "impression_count": 5420491,
+          "like_count": 60647,
+          "quote_count": 1074,
+          "reply_count": 1978,
+          "retweet_count": 6539
+        },
+        "reply_settings": "everyone",
+        "text": "中国人是傻逼，台湾人是傻逼，日本人是傻逼，韩国人是傻逼，意大利人是傻逼，美国人是傻逼，法国人是傻逼，德国人是傻逼，英国人是傻逼，西班牙人是傻逼，蒙古人是傻逼，俄罗斯人是傻逼，克罗地亚人是傻逼，澳大利亚人是傻逼，菲律宾人是傻逼，越南人是傻逼，我也是傻逼，全球各地的人都是大傻逼🙌🏻🙌🏻🙌🏻"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "is_identity_verified": false,
+        "location": "自用蜂鸟vpn",
+        "most_recent_tweet_id": "2087787176142746015",
+        "name": "小玉",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910715228523831296/1766048126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2057,
+          "following_count": 184,
+          "like_count": 21440,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6706
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-17T17:01:29.000Z",
+        "description": "maimai愛好家\nrating 14170\n男/175cm/60kg\n音ゲームが大好きです！！！\n非台独分子，一切指名道姓台湾的都是针对青鸟的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/bAl9h3V",
+                "end": 23,
+                "expanded_url": "https://b23.tv/bAl9h3V",
+                "start": 0,
+                "url": "https://t.co/wFhYtZJlvA"
+              }
+            ]
+          }
+        },
+        "id": "2067291245492518912",
+        "is_identity_verified": false,
+        "location": "中国遼寧省瀋陽市在住",
+        "most_recent_tweet_id": "2087770144693223728",
+        "name": "samatato",
+        "pinned_tweet_id": "2087467508492374286",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2067291245492518912/1782290977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087749357617700864/A_svpzve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 62,
+          "like_count": 1228,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 228
+        },
+        "url": "https://t.co/wFhYtZJlvA",
+        "username": "XIDUOXING",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1941524569602523465",
+    "created_at": "2025-07-05T17:32:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T18:32:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941550833923166212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1926115911276146688",
+          "start": 0,
+          "username": "mirro50150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941550833923166212",
+    "in_reply_to_user_id": "1926115911276146688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941524569602523465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mirro50150 会不会有点太白了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1423,
+        "media_key": "3_1941524557136900096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvGuTE7XsAAWmmG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1941524569602523465",
+        "created_at": "2025-07-05T17:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T18:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941550833923166212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1926115911276146688",
+              "start": 0,
+              "username": "mirro50150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941550833923166212",
+        "in_reply_to_user_id": "1926115911276146688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941524569602523465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mirro50150 会不会有点太白了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941524557136900096"
+          ]
+        },
+        "author_id": "1926115911276146688",
+        "conversation_id": "1941524569602523465",
+        "created_at": "2025-07-05T15:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T16:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941524569602523465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HxTgkmkueO",
+              "end": 41,
+              "expanded_url": "https://x.com/mirro50150/status/1941524569602523465/photo/1",
+              "media_key": "3_1941524557136900096",
+              "start": 18,
+              "url": "https://t.co/HxTgkmkueO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941524569602523465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 683,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我萌死了这张，像大块的白面馒头呵呵 https://t.co/HxTgkmkueO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 198,
+          "like_count": 10604,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 3087
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T03:20:05.000Z",
+        "description": "我的情绪垃圾桶。没有福利不磕炮不找鸡 私信看情况回 互关随缘 蜂鸟VPN在下面👇 https://t.co/e5xtdzDPWh提问箱。   置顶推广自辨",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mirro50150",
+                "end": 64,
+                "expanded_url": "https://ngl.link/mirro50150",
+                "start": 41,
+                "url": "https://t.co/e5xtdzDPWh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=24cHl6Sm",
+                "start": 0,
+                "url": "https://t.co/EajfOmmHzq"
+              }
+            ]
+          }
+        },
+        "id": "1926115911276146688",
+        "location": "有🚪纯绿不线下没福利",
+        "name": "ivee",
+        "pinned_tweet_id": "1941000696599662684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929532345033564160/70Usr7wy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2411,
+          "following_count": 48,
+          "like_count": 5877,
+          "listed_count": 6,
+          "media_count": 76,
+          "tweet_count": 1142
+        },
+        "url": "https://t.co/EajfOmmHzq",
+        "username": "mirro50150",
+        "verified": false
+      }
+    ]
+  }
+}

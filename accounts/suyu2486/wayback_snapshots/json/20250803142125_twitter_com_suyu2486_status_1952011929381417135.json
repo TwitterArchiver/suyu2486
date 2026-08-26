@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1951971194036437307",
+    "created_at": "2025-08-03T14:21:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T15:21:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952011929381417135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1387311832025616386",
+          "start": 0,
+          "username": "Jw2C5JFyphJSXgl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952011929381417135",
+    "in_reply_to_user_id": "1387311832025616386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952004586199535989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jw2C5JFyphJSXgl 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1951971194036437307",
+        "created_at": "2025-08-03T14:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T15:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952011929381417135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1387311832025616386",
+              "start": 0,
+              "username": "Jw2C5JFyphJSXgl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952011929381417135",
+        "in_reply_to_user_id": "1387311832025616386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952004586199535989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jw2C5JFyphJSXgl 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1387311832025616386",
+        "conversation_id": "1951971194036437307",
+        "created_at": "2025-08-03T13:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T14:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952004586199535989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952004586199535989",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951971194036437307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 丽丽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1951649210652135765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 200,
+          "like_count": 12831,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 3539
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-28T07:44:57.000Z",
+        "description": "我想成为你的之死靡它",
+        "id": "1387311832025616386",
+        "name": "手指和眼眶谁先湿润",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950849520092479488/4tDyrvnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 36,
+          "like_count": 1557,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 101
+        },
+        "username": "Jw2C5JFyphJSXgl",
+        "verified": false
+      }
+    ]
+  }
+}

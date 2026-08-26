@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2087608581826687304",
+    "created_at": "2026-08-13T07:13:24.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T08:13:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087799666918527486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2295096444",
+          "start": 0,
+          "username": "giftedrascal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087799666918527486",
+    "in_reply_to_user_id": "2295096444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087608581826687304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@giftedrascal 没绷住"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8916,
+        "height": 1280,
+        "media_key": "13_2087608550302318592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087608550302318592/img/-nrR36RSXLIQ1v3C.jpg",
+        "public_metrics": {
+          "view_count": 603458
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087608550302318592/vid/avc1/320x568/HbftwWEZTPPmYdpT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087608550302318592/vid/avc1/480x852/h2PIM8GmmNoWecNA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087608550302318592/vid/avc1/720x1280/tJFMw0TfHkbjKmO9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087608550302318592/pl/f2ngbilhS26H9B0V.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2087608581826687304",
+        "created_at": "2026-08-13T07:13:24.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T08:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087799666918527486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2295096444",
+              "start": 0,
+              "username": "giftedrascal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087799666918527486",
+        "in_reply_to_user_id": "2295096444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087608581826687304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@giftedrascal 没绷住"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087608550302318592"
+          ]
+        },
+        "author_id": "2295096444",
+        "conversation_id": "2087608581826687304",
+        "created_at": "2026-08-12T18:34:06.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T19:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087608581826687304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QcpzhWqafX",
+              "end": 31,
+              "expanded_url": "https://x.com/giftedrascal/status/2087608581826687304/video/1",
+              "media_key": "13_2087608550302318592",
+              "start": 8,
+              "url": "https://t.co/QcpzhWqafX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087608581826687304",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2087608550302318592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3469,
+          "impression_count": 1928126,
+          "like_count": 56746,
+          "quote_count": 766,
+          "reply_count": 325,
+          "retweet_count": 7769
+        },
+        "reply_settings": "everyone",
+        "text": "Eclipse https://t.co/QcpzhWqafX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "is_identity_verified": false,
+        "location": "自用蜂鸟vpn",
+        "most_recent_tweet_id": "2087799666918527486",
+        "name": "小玉",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910715228523831296/1766048126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2057,
+          "following_count": 184,
+          "like_count": 21451,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6710
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-01-16T22:24:33.000Z",
+        "description": "My knob is the same size as a Greggs sausage roll. I'm no longer allowed in Greggs.",
+        "id": "2295096444",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087627155790274636",
+        "name": "Jon",
+        "pinned_tweet_id": "1465960636572123144",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2295096444/1774198620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057422565669306368/ZfeihGpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5908,
+          "following_count": 1775,
+          "like_count": 30585,
+          "listed_count": 23,
+          "media_count": 14226,
+          "tweet_count": 103194
+        },
+        "url": "",
+        "username": "giftedrascal",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

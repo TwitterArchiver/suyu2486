@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1953470978803253658",
+    "created_at": "2025-08-07T22:43:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T23:43:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953587789251170562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1666114460875124742",
+          "start": 0,
+          "username": "mentaikokaraage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953587789251170562",
+    "in_reply_to_user_id": "1666114460875124742",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953470978803253658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mentaikokaraage 好事啊"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1953470978803253658].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1953470978803253658",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1953470978803253658"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1953470978803253658",
+        "created_at": "2025-08-07T22:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T23:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953587789251170562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1666114460875124742",
+              "start": 0,
+              "username": "mentaikokaraage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953587789251170562",
+        "in_reply_to_user_id": "1666114460875124742",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953470978803253658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mentaikokaraage 好事啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1953423119017758926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1127,
+          "following_count": 200,
+          "like_count": 13772,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 3771
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-06T16:07:46.000Z",
+        "description": "₊˚‧(๑σ̴̶̷̥́ ₃σ̴̶̷̀ू)·˚₊我是卷卷@bukeyannnshuo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "bukeyannnshuo"
+              }
+            ]
+          }
+        },
+        "id": "1666114460875124742",
+        "name": "明᳐太子炸鸡᳐੭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900017150745821184/uQcfRGI8_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 242,
+          "like_count": 3112,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 619
+        },
+        "username": "mentaikokaraage",
+        "verified": false
+      }
+    ]
+  }
+}

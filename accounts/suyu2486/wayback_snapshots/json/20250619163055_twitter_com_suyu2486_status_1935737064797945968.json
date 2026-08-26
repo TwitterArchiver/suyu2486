@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1935733092561625482",
+    "created_at": "2025-06-19T16:30:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T17:30:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935737064797945968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1417765133749678080",
+          "start": 0,
+          "username": "MinSY_miss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935737064797945968",
+    "in_reply_to_user_id": "1417765133749678080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935733092561625482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinSY_miss 人穿这种裙子都坐的是迈巴赫后座，你电瓶车不卷你的裙子卷谁的🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1483,
+        "media_key": "3_1935733080150409218",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt0a-v5WgAIcD_V.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1639,
+        "media_key": "3_1935733080506982400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt0a-xOXYAAHaFN.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1935733092561625482",
+        "created_at": "2025-06-19T16:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T17:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935737064797945968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1417765133749678080",
+              "start": 0,
+              "username": "MinSY_miss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935737064797945968",
+        "in_reply_to_user_id": "1417765133749678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935733092561625482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinSY_miss 人穿这种裙子都坐的是迈巴赫后座，你电瓶车不卷你的裙子卷谁的🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935733080150409218",
+            "3_1935733080506982400"
+          ]
+        },
+        "author_id": "1417765133749678080",
+        "conversation_id": "1935733092561625482",
+        "created_at": "2025-06-19T16:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T17:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935733092561625482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rTqlzlHQRy",
+              "end": 54,
+              "expanded_url": "https://x.com/MinSY_miss/status/1935733092561625482/photo/1",
+              "media_key": "3_1935733080150409218",
+              "start": 31,
+              "url": "https://t.co/rTqlzlHQRy"
+            },
+            {
+              "display_url": "pic.x.com/rTqlzlHQRy",
+              "end": 54,
+              "expanded_url": "https://x.com/MinSY_miss/status/1935733092561625482/photo/1",
+              "media_key": "3_1935733080506982400",
+              "start": 31,
+              "url": "https://t.co/rTqlzlHQRy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935733092561625482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买了这个裙子 希望可以日常穿出去\n\n会卷到我电动车里么（！） https://t.co/rTqlzlHQRy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "name": "小玉",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928709552171610112/x9fXi0Ew_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 175,
+          "like_count": 6392,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 1795
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-21T08:35:37.000Z",
+        "description": "呜呜呜呜我2025没吃上饭 我恨死了！！！！！ 来和我做朋友     今年能吃上饭么",
+        "id": "1417765133749678080",
+        "location": "Mapo-gu, Republic of Korea",
+        "name": "你也是来上网的么？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915983017782505472/5fMiepne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 211,
+          "like_count": 961,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 211
+        },
+        "username": "MinSY_miss",
+        "verified": false
+      }
+    ]
+  }
+}

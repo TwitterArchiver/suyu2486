@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1965291824651907454",
+    "created_at": "2025-09-16T06:52:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T07:52:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967844062280798593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929598660561805312",
+          "start": 0,
+          "username": "GunNiMa_886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967844062280798593",
+    "in_reply_to_user_id": "1929598660561805312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965291824651907454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GunNiMa_886 妈呀，好有活力"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14133,
+        "height": 1280,
+        "media_key": "13_1965291758499364867",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1965291758499364867/img/Ea4XMU_Iymd4FPL1.jpg",
+        "public_metrics": {
+          "view_count": 429
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965291758499364867/vid/avc1/320x568/2lKxgCJN4OKwnqFn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965291758499364867/vid/avc1/480x852/i7InvPNTeJ2j2Wri.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965291758499364867/vid/avc1/720x1280/gDzGd48IewYq797h.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1965291758499364867/pl/RF58dUAEH7SJwFlH.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1965291824651907454",
+        "created_at": "2025-09-16T06:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T07:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967844062280798593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929598660561805312",
+              "start": 0,
+              "username": "GunNiMa_886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967844062280798593",
+        "in_reply_to_user_id": "1929598660561805312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965291824651907454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GunNiMa_886 妈呀，好有活力"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1965291758499364867"
+          ]
+        },
+        "author_id": "1929598660561805312",
+        "conversation_id": "1965291824651907454",
+        "created_at": "2025-09-09T05:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T06:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965291824651907454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kos76DKEEm",
+              "end": 43,
+              "expanded_url": "https://x.com/GunNiMa_886/status/1965291824651907454/video/1",
+              "media_key": "13_1965291758499364867",
+              "start": 20,
+              "url": "https://t.co/kos76DKEEm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965291824651907454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 857,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我非常喜欢这个裙子，很性感，可惜太大了 https://t.co/kos76DKEEm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗七个小号其中之一@dante82682",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "dante82682"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1594,
+          "following_count": 238,
+          "like_count": 19517,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 5377
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T17:59:25.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%86%9C%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%86%9C%E6%B0%91",
+                "start": 0,
+                "url": "https://t.co/b3bJJHxuxc"
+              }
+            ]
+          }
+        },
+        "id": "1929598660561805312",
+        "name": "一个老实农民",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929598843827769352/CpA13yM-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 69,
+          "like_count": 700,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 576
+        },
+        "url": "https://t.co/b3bJJHxuxc",
+        "username": "GunNiMa_886",
+        "verified": false
+      }
+    ]
+  }
+}

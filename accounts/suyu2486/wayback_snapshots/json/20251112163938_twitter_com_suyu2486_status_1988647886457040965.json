@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1988646126153859163",
+    "created_at": "2025-11-12T16:39:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T17:39:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988647886457040965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1874895356452130816",
+          "start": 0,
+          "username": "newkitty412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988647886457040965",
+    "in_reply_to_user_id": "1874895356452130816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988647340463505538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@newkitty412 你在逗我雷霆吗？😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1988646126153859163",
+        "created_at": "2025-11-12T16:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T17:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988647886457040965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874895356452130816",
+              "start": 0,
+              "username": "newkitty412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988647886457040965",
+        "in_reply_to_user_id": "1874895356452130816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988647340463505538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@newkitty412 你在逗我雷霆吗？😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874895356452130816",
+        "conversation_id": "1988646126153859163",
+        "created_at": "2025-11-12T16:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T17:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988647340463505538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988647340463505538",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988646126153859163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 完全没有吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "06，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2368,
+          "following_count": 263,
+          "like_count": 22296,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 6281
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T19:07:49.000Z",
+        "description": "置顶推广自辩 | 抽象毁一辈子 日记本@yeeeyme0688 自用vpn➡️https://t.co/Pwcci2PkyA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "yeeeyme0688"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cmespeed.com/#/register?cod…",
+                "end": 62,
+                "expanded_url": "https://cmespeed.com/#/register?code=R9BuoZgK",
+                "start": 39,
+                "url": "https://t.co/Pwcci2PkyA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oinml",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oinml",
+                "start": 0,
+                "url": "https://t.co/5ZgSd7Ojrl"
+              }
+            ]
+          }
+        },
+        "id": "1874895356452130816",
+        "location": "🚪52/88  右边匿名信箱📭",
+        "name": "活着真豆不容易",
+        "pinned_tweet_id": "1968227499294568467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969336716940230656/aNawclHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3349,
+          "following_count": 299,
+          "like_count": 8680,
+          "listed_count": 8,
+          "media_count": 103,
+          "tweet_count": 2923
+        },
+        "url": "https://t.co/5ZgSd7Ojrl",
+        "username": "newkitty412",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1942844731299618871",
+    "created_at": "2025-07-09T07:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T08:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942845241398288415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1597150281711882242",
+          "start": 0,
+          "username": "dingzhen03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942845241398288415",
+    "in_reply_to_user_id": "1597150281711882242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942844731299618871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dingzhen03 我呢…giao的你们孤立我是吗…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 661,
+        "media_key": "3_1942844726769770500",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvZe_EDaYAQn0g0.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1942844731299618871",
+        "created_at": "2025-07-09T07:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T08:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942845241398288415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597150281711882242",
+              "start": 0,
+              "username": "dingzhen03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942845241398288415",
+        "in_reply_to_user_id": "1597150281711882242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942844731299618871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dingzhen03 我呢…giao的你们孤立我是吗…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942844726769770500"
+          ]
+        },
+        "author_id": "1597150281711882242",
+        "conversation_id": "1942844731299618871",
+        "created_at": "2025-07-09T07:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T08:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942844731299618871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Ever wondered who lingers on your Twitter profile in the shadows? Prepare to discover your silent admirers or curious stalkers!",
+              "display_url": "infintytweet.me/secret-stalker…",
+              "end": 47,
+              "expanded_url": "https://infintytweet.me/secret-stalker?lang=zh",
+              "start": 24,
+              "status": 200,
+              "title": "Secret Stalkers • Infinitweet",
+              "unwound_url": "https://infintytweet.me/secret-stalker?lang=zh",
+              "url": "https://t.co/qx8K89O4nT"
+            },
+            {
+              "display_url": "pic.x.com/ntsd0EDEm8",
+              "end": 71,
+              "expanded_url": "https://x.com/dingzhen03/status/1942844731299618871/photo/1",
+              "media_key": "3_1942844726769770500",
+              "start": 48,
+              "url": "https://t.co/ntsd0EDEm8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942844731299618871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚刚发现谁访问了我的推特个人资料！\n\n⠀➡️ https://t.co/qx8K89O4nT https://t.co/ntsd0EDEm8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 200,
+          "like_count": 10910,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 3182
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T08:48:05.000Z",
+        "description": "一giao我勒giao",
+        "id": "1597150281711882242",
+        "location": "6km",
+        "name": "阿Giao",
+        "pinned_tweet_id": "1702708832173199735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780128271512002560/rNSBiWrw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 77,
+          "like_count": 1597,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 521
+        },
+        "username": "dingzhen03",
+        "verified": false
+      }
+    ]
+  }
+}

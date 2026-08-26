@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1937113547349332381",
+    "created_at": "2025-06-23T19:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T20:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937231090193957305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1644761277900951552",
+          "start": 0,
+          "username": "4rocky9"
+        },
+        {
+          "end": 19,
+          "id": "1597240703070793731",
+          "start": 9,
+          "username": "sngzhhu21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937231090193957305",
+    "in_reply_to_user_id": "1644761277900951552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937156685933473852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4rocky9 @sngzhhu21 最恶毒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1937113547349332381",
+        "created_at": "2025-06-23T19:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T20:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937231090193957305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1644761277900951552",
+              "start": 0,
+              "username": "4rocky9"
+            },
+            {
+              "end": 19,
+              "id": "1597240703070793731",
+              "start": 9,
+              "username": "sngzhhu21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937231090193957305",
+        "in_reply_to_user_id": "1644761277900951552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937156685933473852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4rocky9 @sngzhhu21 最恶毒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644761277900951552",
+        "conversation_id": "1937113547349332381",
+        "created_at": "2025-06-23T14:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T15:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937156685933473852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597240703070793731",
+              "start": 0,
+              "username": "sngzhhu21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937156685933473852",
+        "in_reply_to_user_id": "1597240703070793731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 465,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937113547349332381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sngzhhu21 感觉袜子破洞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1936734143804735662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 194,
+          "like_count": 7815,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 2206
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T17:57:16.000Z",
+        "description": "乐意骚扰人，随便你骂，整抽象的，乐意说点屌话，喜欢看美女",
+        "id": "1644761277900951552",
+        "location": "🚪52/520/5200",
+        "name": "建龙哥",
+        "pinned_tweet_id": "1670098097735860259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920824521441046528/hyICLTe0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2661,
+          "following_count": 397,
+          "like_count": 35828,
+          "listed_count": 3,
+          "media_count": 288,
+          "tweet_count": 13656
+        },
+        "username": "4rocky9",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T14:47:35.000Z",
+        "description": "喜欢我就给我打钱 我不闲聊（给我打钱的除外）不聊骚 傻逼男屌丝给我滚",
+        "id": "1597240703070793731",
+        "location": "肯德基",
+        "name": "一枚纯净的屌丝",
+        "pinned_tweet_id": "1929592910908919965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930100728397475841/HfMKSHxa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 147,
+          "like_count": 2735,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 2288
+        },
+        "username": "sngzhhu21",
+        "verified": false
+      }
+    ]
+  }
+}

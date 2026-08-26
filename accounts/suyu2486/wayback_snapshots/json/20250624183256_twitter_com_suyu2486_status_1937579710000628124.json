@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1937551407089140012",
+    "created_at": "2025-06-24T18:32:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T19:32:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937579710000628124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1833812823866277889",
+          "start": 0,
+          "username": "Pptao369"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937579710000628124",
+    "in_reply_to_user_id": "1833812823866277889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937551407089140012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pptao369 早说这么帅啊，杂cao的，晚上来我房间！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2105,
+        "media_key": "3_1937551402051731458",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuOQvA1agAIYVJx.jpg",
+        "width": 1796
+      },
+      {
+        "height": 1911,
+        "media_key": "3_1937551402534060032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuOQvCoaQAAZ5GM.jpg",
+        "width": 1996
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1937551407089140012",
+        "created_at": "2025-06-24T18:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T19:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937579710000628124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1833812823866277889",
+              "start": 0,
+              "username": "Pptao369"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937579710000628124",
+        "in_reply_to_user_id": "1833812823866277889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937551407089140012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pptao369 早说这么帅啊，杂cao的，晚上来我房间！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937551402051731458",
+            "3_1937551402534060032"
+          ]
+        },
+        "author_id": "1833812823866277889",
+        "conversation_id": "1937551407089140012",
+        "created_at": "2025-06-24T16:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T17:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937551407089140012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w4VsbWzOvr",
+              "end": 38,
+              "expanded_url": "https://x.com/Pptao369/status/1937551407089140012/photo/1",
+              "media_key": "3_1937551402051731458",
+              "start": 15,
+              "url": "https://t.co/w4VsbWzOvr"
+            },
+            {
+              "display_url": "pic.x.com/w4VsbWzOvr",
+              "end": 38,
+              "expanded_url": "https://x.com/Pptao369/status/1937551407089140012/photo/1",
+              "media_key": "3_1937551402534060032",
+              "start": 15,
+              "url": "https://t.co/w4VsbWzOvr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937551407089140012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然散完了，但是还是很满意😋 https://t.co/w4VsbWzOvr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1936734143804735662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 193,
+          "like_count": 7990,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 2225
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T10:20:34.000Z",
+        "description": "世界破破烂烂，有人缝缝补补",
+        "id": "1833812823866277889",
+        "name": "陈十一",
+        "pinned_tweet_id": "1928792376627089486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923786160918122496/3vIWo1bE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 74,
+          "like_count": 1054,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 373
+        },
+        "username": "Pptao369",
+        "verified": false
+      }
+    ]
+  }
+}

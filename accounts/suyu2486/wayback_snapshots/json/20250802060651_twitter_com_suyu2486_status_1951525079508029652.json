@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1951510148557701454",
+    "created_at": "2025-08-02T06:06:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T07:06:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951525079508029652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1644761277900951552",
+          "start": 0,
+          "username": "4rocky9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951525079508029652",
+    "in_reply_to_user_id": "1644761277900951552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951524961748918547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4rocky9 好吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1951510148557701454",
+        "created_at": "2025-08-02T06:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T07:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951525079508029652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1644761277900951552",
+              "start": 0,
+              "username": "4rocky9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951525079508029652",
+        "in_reply_to_user_id": "1644761277900951552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951524961748918547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4rocky9 好吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644761277900951552",
+        "conversation_id": "1951510148557701454",
+        "created_at": "2025-08-02T06:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T07:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951524961748918547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951524961748918547",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951524873609592847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 这样再那样就行了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男，可以叫我小玉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1948457851778990521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 199,
+          "like_count": 12599,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 3485
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T17:57:16.000Z",
+        "description": "乐意骚扰人，给钱随便你骂，整抽象的，乐意说点屌话，喜欢看美女",
+        "id": "1644761277900951552",
+        "location": "🚪52/520/5200",
+        "name": "建龙哥",
+        "pinned_tweet_id": "1670098097735860259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920824521441046528/hyICLTe0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4194,
+          "following_count": 390,
+          "like_count": 41551,
+          "listed_count": 2,
+          "media_count": 338,
+          "tweet_count": 15861
+        },
+        "username": "4rocky9",
+        "verified": false
+      }
+    ]
+  }
+}

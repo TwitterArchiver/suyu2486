@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1952234508377583710",
+    "created_at": "2025-08-04T06:33:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T07:33:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952256647658680801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1802116593767284736",
+          "start": 0,
+          "username": "xiaoshe_xiaoshe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952256647658680801",
+    "in_reply_to_user_id": "1802116593767284736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952234508377583710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoshe_xiaoshe 行"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1436,
+        "media_key": "3_1952234480045043712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxe66o1asAAcLWP.jpg",
+        "width": 1436
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1952234508377583710",
+        "created_at": "2025-08-04T06:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T07:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952256647658680801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1802116593767284736",
+              "start": 0,
+              "username": "xiaoshe_xiaoshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952256647658680801",
+        "in_reply_to_user_id": "1802116593767284736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952234508377583710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoshe_xiaoshe 行"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952234480045043712"
+          ]
+        },
+        "author_id": "1802116593767284736",
+        "conversation_id": "1952234508377583710",
+        "created_at": "2025-08-04T05:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T06:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952234508377583710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fo2Km5fmCG",
+              "end": 148,
+              "expanded_url": "https://x.com/xiaoshe_xiaoshe/status/1952234508377583710/photo/1",
+              "media_key": "3_1952234480045043712",
+              "start": 125,
+              "url": "https://t.co/fo2Km5fmCG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952234508377583710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我擦 自残？！冷静啊姑娘，千万不要想不开呀，自残是愚蠢的行为，我们身为新时代的领导者，就算遇到困难，也要坚持不懈，攻破他，要知道，自残有风险啊！有什么想不开的可以找我倾诉啊！自残很可怕的，不要再这样做了，小姑娘，我会帮助你的，对了，可以看看下面吗？ https://t.co/fo2Km5fmCG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1951649210652135765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 201,
+          "like_count": 13171,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 3625
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T23:11:01.000Z",
+        "description": "女的",
+        "id": "1802116593767284736",
+        "name": "小小小小舌",
+        "pinned_tweet_id": "1867560062975180937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950318677007749122/Cbz9uYZz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 70,
+          "like_count": 1809,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 407
+        },
+        "username": "xiaoshe_xiaoshe",
+        "verified": false
+      }
+    ]
+  }
+}

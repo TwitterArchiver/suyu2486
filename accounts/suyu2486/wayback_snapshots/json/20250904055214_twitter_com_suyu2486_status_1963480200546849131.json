@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1963155662663249960",
+    "created_at": "2025-09-04T05:52:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T06:52:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963480200546849131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1934894049099735042",
+          "start": 0,
+          "username": "Continuing1405"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963480200546849131",
+    "in_reply_to_user_id": "1934894049099735042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963155662663249960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Continuing1405 鸡吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 904,
+        "media_key": "3_1963155644233732096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz6HqD1a0AAGDEq.jpg",
+        "width": 678
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1963155662663249960",
+        "created_at": "2025-09-04T05:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T06:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963480200546849131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1934894049099735042",
+              "start": 0,
+              "username": "Continuing1405"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963480200546849131",
+        "in_reply_to_user_id": "1934894049099735042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963155662663249960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Continuing1405 鸡吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963155644233732096"
+          ]
+        },
+        "author_id": "1934894049099735042",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1963155662663249960",
+        "created_at": "2025-09-03T08:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T09:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963155662663249960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xz3lvd8bXc",
+              "end": 45,
+              "expanded_url": "https://x.com/Continuing1405/status/1963155662663249960/photo/1",
+              "media_key": "3_1963155644233732096",
+              "start": 22,
+              "url": "https://t.co/Xz3lvd8bXc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963155662663249960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3419,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打雞蛋的時候發現的，這是什麼？就在雞蛋裡面 https://t.co/Xz3lvd8bXc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱无章，不定期活跃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "飞向全宇宙",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1448,
+          "following_count": 214,
+          "like_count": 18707,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 5017
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-17T08:42:57.000Z",
+        "description": "",
+        "id": "1934894049099735042",
+        "name": "TusheNews（互fo互讚100%）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938454729346199552/qLN21qAs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 44,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 217
+        },
+        "username": "Continuing1405",
+        "verified": false
+      }
+    ]
+  }
+}

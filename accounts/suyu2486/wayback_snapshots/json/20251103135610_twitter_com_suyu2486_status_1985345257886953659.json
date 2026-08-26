@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1985337956241158653",
+    "created_at": "2025-11-03T13:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T14:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985345257886953659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1788854643163877376",
+          "start": 0,
+          "username": "fffffffx286556"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985345257886953659",
+    "in_reply_to_user_id": "1788854643163877376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985337956241158653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fffffffx286556 对不起，我0.01秒"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18408,
+        "height": 1280,
+        "media_key": "13_1985337817338413056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1985337817338413056/img/aSBxBXTyQDLlmgCd.jpg",
+        "public_metrics": {
+          "view_count": 361
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985337817338413056/vid/avc1/320x568/QJDRAem5Q6NOEYt6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985337817338413056/vid/avc1/480x852/qiAePMhUCMshstp9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985337817338413056/vid/avc1/720x1280/woMmzYWGQyELtrRc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1985337817338413056/pl/CJmaWUCNGAyiQA8O.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1985337956241158653",
+        "created_at": "2025-11-03T13:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T14:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985345257886953659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1788854643163877376",
+              "start": 0,
+              "username": "fffffffx286556"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985345257886953659",
+        "in_reply_to_user_id": "1788854643163877376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985337956241158653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fffffffx286556 对不起，我0.01秒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1985337817338413056"
+          ]
+        },
+        "author_id": "1788854643163877376",
+        "conversation_id": "1985337956241158653",
+        "created_at": "2025-11-03T13:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T14:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985337956241158653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CyFvzjye8v",
+              "end": 30,
+              "expanded_url": "https://x.com/fffffffx286556/status/1985337956241158653/video/1",
+              "media_key": "13_1985337817338413056",
+              "start": 7,
+              "url": "https://t.co/CyFvzjye8v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985337956241158653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1025,
+          "like_count": 104,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "18秒爱上我 https://t.co/CyFvzjye8v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "神鹰🦅，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "pinned_tweet_id": "1977439230432555047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981015242827087872/axAcZvEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2162,
+          "following_count": 260,
+          "like_count": 21737,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 6117
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-10T08:52:45.000Z",
+        "description": "猕猴桃朋友圈",
+        "id": "1788854643163877376",
+        "name": "伤心猕猴桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890388842987077633/LeBW2kFV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24629,
+          "following_count": 65,
+          "like_count": 2199,
+          "listed_count": 40,
+          "media_count": 142,
+          "tweet_count": 995
+        },
+        "username": "fffffffx286556",
+        "verified": false
+      }
+    ]
+  }
+}

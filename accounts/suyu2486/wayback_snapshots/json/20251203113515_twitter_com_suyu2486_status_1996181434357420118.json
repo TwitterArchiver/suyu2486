@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1996156048420618281",
+    "created_at": "2025-12-03T11:35:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T12:35:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996181434357420118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1610608094886727680",
+          "start": 0,
+          "username": "cowmumu87020"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996181434357420118",
+    "in_reply_to_user_id": "1610608094886727680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996174796670095577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cowmumu87020 我去，我是个蛋的型男…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1996156048420618281",
+        "created_at": "2025-12-03T11:35:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T12:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996181434357420118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1610608094886727680",
+              "start": 0,
+              "username": "cowmumu87020"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996181434357420118",
+        "in_reply_to_user_id": "1610608094886727680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996174796670095577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cowmumu87020 我去，我是个蛋的型男…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1610608094886727680",
+        "conversation_id": "1996156048420618281",
+        "created_at": "2025-12-03T11:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T12:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996174796670095577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996174796670095577",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996156048420618281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 神鹰哥你咋是型男"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是一个死人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1985888956073066671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2447,
+          "following_count": 268,
+          "like_count": 22692,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 6323
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-04T12:04:41.000Z",
+        "description": "清水",
+        "id": "1610608094886727680",
+        "location": "牛棚",
+        "name": "铁牛",
+        "pinned_tweet_id": "1994856624901751141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986117660082638848/3QGkALev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 46,
+          "like_count": 1463,
+          "listed_count": 2,
+          "media_count": 210,
+          "tweet_count": 1042
+        },
+        "username": "cowmumu87020",
+        "verified": false
+      }
+    ]
+  }
+}

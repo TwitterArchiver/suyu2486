@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1942850054412460130",
+    "created_at": "2025-07-09T12:50:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T13:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942929331518394597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1925122887310262272",
+          "start": 0,
+          "username": "Hexuqing_0505"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942929331518394597",
+    "in_reply_to_user_id": "1925122887310262272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942850054412460130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hexuqing_0505 原来我是小丑啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942850051170037760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvZj0-_W8AAZ-iV.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1942850054412460130",
+        "created_at": "2025-07-09T12:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T13:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942929331518394597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1925122887310262272",
+              "start": 0,
+              "username": "Hexuqing_0505"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942929331518394597",
+        "in_reply_to_user_id": "1925122887310262272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942850054412460130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hexuqing_0505 原来我是小丑啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942850051170037760"
+          ]
+        },
+        "author_id": "1925122887310262272",
+        "conversation_id": "1942850054412460130",
+        "created_at": "2025-07-09T07:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T08:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942850054412460130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n2BecOk4JF",
+              "end": 40,
+              "expanded_url": "https://x.com/Hexuqing_0505/status/1942850054412460130/photo/1",
+              "media_key": "3_1942850051170037760",
+              "start": 17,
+              "url": "https://t.co/n2BecOk4JF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942850054412460130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 362,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想让叔叔用大分数填满你的小学历吗 https://t.co/n2BecOk4JF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 200,
+          "like_count": 11006,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 3202
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-21T09:34:23.000Z",
+        "description": "09高一/ 🈚🚪不定时清互关",
+        "id": "1925122887310262272",
+        "location": "死无葬身之地",
+        "name": "H",
+        "pinned_tweet_id": "1939710783186997755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925404539131502594/nv5QFgPZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1619,
+          "following_count": 54,
+          "like_count": 1826,
+          "listed_count": 8,
+          "media_count": 37,
+          "tweet_count": 95
+        },
+        "username": "Hexuqing_0505",
+        "verified": false
+      }
+    ]
+  }
+}

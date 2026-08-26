@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1958530262520008738",
+    "created_at": "2025-08-21T14:41:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T15:41:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958539874916524089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1824731467815010305",
+          "start": 0,
+          "username": "ChunQingXiaoQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958539874916524089",
+    "in_reply_to_user_id": "1824731467815010305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958530262520008738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChunQingXiaoQ 姐夫这个仔细…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 540,
+        "media_key": "16_1958530160241614848",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gy4YzdMXIAAV2Iu.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gy4YzdMXIAAV2Iu.mp4"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1958530160287703040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy4YzdXWYAAwkuD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1958530160266739712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy4YzdSWgAAyOLi.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1958530262520008738",
+        "created_at": "2025-08-21T14:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T15:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958539874916524089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1824731467815010305",
+              "start": 0,
+              "username": "ChunQingXiaoQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958539874916524089",
+        "in_reply_to_user_id": "1824731467815010305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958530262520008738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChunQingXiaoQ 姐夫这个仔细…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1958530160241614848",
+            "3_1958530160287703040",
+            "3_1958530160266739712"
+          ]
+        },
+        "author_id": "1824731467815010305",
+        "conversation_id": "1958530262520008738",
+        "created_at": "2025-08-21T14:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T15:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958530262520008738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nib9oMLQlr",
+              "end": 35,
+              "expanded_url": "https://x.com/ChunQingXiaoQ/status/1958530262520008738/photo/1",
+              "media_key": "16_1958530160241614848",
+              "start": 12,
+              "url": "https://t.co/Nib9oMLQlr"
+            },
+            {
+              "display_url": "pic.x.com/Nib9oMLQlr",
+              "end": 35,
+              "expanded_url": "https://x.com/ChunQingXiaoQ/status/1958530262520008738/photo/1",
+              "media_key": "3_1958530160287703040",
+              "start": 12,
+              "url": "https://t.co/Nib9oMLQlr"
+            },
+            {
+              "display_url": "pic.x.com/Nib9oMLQlr",
+              "end": 35,
+              "expanded_url": "https://x.com/ChunQingXiaoQ/status/1958530262520008738/photo/1",
+              "media_key": "3_1958530160266739712",
+              "start": 12,
+              "url": "https://t.co/Nib9oMLQlr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958530262520008738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 16328,
+          "like_count": 222,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这是一条日常plog～ https://t.co/Nib9oMLQlr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 202,
+          "like_count": 16629,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 4391
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T08:54:30.000Z",
+        "description": "记录和老公的恋/do爱碎片丨情侣丨不接推广 匿名信箱：https://t.co/nXJUhYtfCt丨只此一个号无完整版丨不玩墙内社交软件",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hhh98288",
+                "end": 50,
+                "expanded_url": "https://ngl.link/hhh98288",
+                "start": 27,
+                "url": "https://t.co/nXJUhYtfCt"
+              }
+            ]
+          }
+        },
+        "id": "1824731467815010305",
+        "location": "要你掏钱的都是假号",
+        "name": "纯情小泉",
+        "pinned_tweet_id": "1842552749784719846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824732452017065984/PqfsByEz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658241,
+          "following_count": 35,
+          "like_count": 3898,
+          "listed_count": 1050,
+          "media_count": 136,
+          "tweet_count": 3000
+        },
+        "username": "ChunQingXiaoQ",
+        "verified": true
+      }
+    ]
+  }
+}

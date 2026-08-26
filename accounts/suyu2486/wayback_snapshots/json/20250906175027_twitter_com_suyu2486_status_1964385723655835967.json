@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1964163552807112990",
+    "created_at": "2025-09-06T17:50:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T18:50:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964385723655835967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1716325928479903744",
+          "start": 0,
+          "username": "qiu_song60259"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964385723655835967",
+    "in_reply_to_user_id": "1716325928479903744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964163552807112990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiu_song60259 画质看的我好爽…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1964163542073946112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0IcVb4XMAAB5cF.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1964163552807112990",
+        "created_at": "2025-09-06T17:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T18:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964385723655835967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1716325928479903744",
+              "start": 0,
+              "username": "qiu_song60259"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964385723655835967",
+        "in_reply_to_user_id": "1716325928479903744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964163552807112990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiu_song60259 画质看的我好爽…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964163542073946112"
+          ]
+        },
+        "author_id": "1716325928479903744",
+        "conversation_id": "1964163552807112990",
+        "created_at": "2025-09-06T03:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T04:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964163552807112990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BnKudusunR",
+              "end": 29,
+              "expanded_url": "https://x.com/qiu_song60259/status/1964163552807112990/photo/1",
+              "media_key": "3_1964163542073946112",
+              "start": 6,
+              "url": "https://t.co/BnKudusunR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964163552807112990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 768,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你看你又买 https://t.co/BnKudusunR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。我三观有问题，是个烂人，本身就是废墟🤗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1963477103296614437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1557,
+          "following_count": 222,
+          "like_count": 19191,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 5131
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-23T05:29:38.000Z",
+        "description": "齐司礼拒一切  开学淡推 纯清水 不看私信 不加v 小号过熟人 @Kuguadawang6677匿名：https://t.co/YLzBwcux6c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "Kuguadawang6677"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 74,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 51,
+                "url": "https://t.co/YLzBwcux6c"
+              }
+            ]
+          }
+        },
+        "id": "1716325928479903744",
+        "location": "苦瓜田 ",
+        "name": "大运上道撞谁谁死",
+        "pinned_tweet_id": "1955626693571543295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959989471383785472/Y_XqslVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2291,
+          "following_count": 863,
+          "like_count": 8951,
+          "listed_count": 9,
+          "media_count": 267,
+          "tweet_count": 4825
+        },
+        "username": "qiu_song60259",
+        "verified": false
+      }
+    ]
+  }
+}

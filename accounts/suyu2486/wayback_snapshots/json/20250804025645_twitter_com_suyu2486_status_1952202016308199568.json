@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952201980706705408"
+      ]
+    },
+    "author_id": "1910715228523831296",
+    "conversation_id": "1952202016308199568",
+    "created_at": "2025-08-04T02:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T03:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952202016308199568"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BGpHPOUuLp",
+          "end": 58,
+          "expanded_url": "https://x.com/suyu2486/status/1952202016308199568/photo/1",
+          "media_key": "3_1952201980706705408",
+          "start": 35,
+          "url": "https://t.co/BGpHPOUuLp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952202016308199568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可喜可贺！可喜可贺！这个玉1000fo了！不抽东西哈，只是感谢陪伴！ https://t.co/BGpHPOUuLp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1372,
+        "media_key": "3_1952201980706705408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxedW7XWUAA29nR.jpg",
+        "width": 1263
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952201980706705408"
+          ]
+        },
+        "author_id": "1910715228523831296",
+        "conversation_id": "1952202016308199568",
+        "created_at": "2025-08-04T02:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T03:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952202016308199568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BGpHPOUuLp",
+              "end": 58,
+              "expanded_url": "https://x.com/suyu2486/status/1952202016308199568/photo/1",
+              "media_key": "3_1952201980706705408",
+              "start": 35,
+              "url": "https://t.co/BGpHPOUuLp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952202016308199568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可喜可贺！可喜可贺！这个玉1000fo了！不抽东西哈，只是感谢陪伴！ https://t.co/BGpHPOUuLp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1951649210652135765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 200,
+          "like_count": 13113,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 3604
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      }
+    ]
+  }
+}

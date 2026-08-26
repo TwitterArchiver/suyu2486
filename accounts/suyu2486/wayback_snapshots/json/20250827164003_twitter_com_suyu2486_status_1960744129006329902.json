@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1960730374105129385",
+    "created_at": "2025-08-27T16:40:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T17:40:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960744129006329902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1904100303315812352",
+          "start": 0,
+          "username": "HQYyY74907"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960744129006329902",
+    "in_reply_to_user_id": "1904100303315812352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960743531385118747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HQYyY74907 没错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1960730374105129385",
+        "created_at": "2025-08-27T16:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T17:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960744129006329902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904100303315812352",
+              "start": 0,
+              "username": "HQYyY74907"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960744129006329902",
+        "in_reply_to_user_id": "1904100303315812352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960743531385118747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HQYyY74907 没错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904100303315812352",
+        "conversation_id": "1960730374105129385",
+        "created_at": "2025-08-27T16:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T17:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960743531385118747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960743531385118747",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960730374105129385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 把🦌管打成🦒管，是为了显得更长吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个好色的sb男的，双相情感障碍，情感漠视，精神失常，都滚远点别来烦我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "小玉",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1359,
+          "following_count": 198,
+          "like_count": 16950,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 4499
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-24T09:17:56.000Z",
+        "description": "",
+        "id": "1904100303315812352",
+        "location": "Pennsylvania, USA",
+        "name": "我们好像渐行渐远了，朋友",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913986203436900352/7D7pSYM6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 1025,
+          "like_count": 605,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1211
+        },
+        "username": "HQYyY74907",
+        "verified": false
+      }
+    ]
+  }
+}

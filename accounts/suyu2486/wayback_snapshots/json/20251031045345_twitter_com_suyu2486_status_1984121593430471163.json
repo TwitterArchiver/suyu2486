@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1983963663884284166",
+    "created_at": "2025-10-31T04:53:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T05:53:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984121593430471163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1747651350123466752",
+          "start": 0,
+          "username": "Raccoonxin1231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984121593430471163",
+    "in_reply_to_user_id": "1747651350123466752",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984046345708302488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raccoonxin1231 …"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1984046345708302488].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1984046345708302488",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1984046345708302488"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1983963663884284166",
+        "created_at": "2025-10-31T04:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T05:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984121593430471163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1747651350123466752",
+              "start": 0,
+              "username": "Raccoonxin1231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984121593430471163",
+        "in_reply_to_user_id": "1747651350123466752",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984046345708302488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raccoonxin1231 …"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "神鹰🦅，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "pinned_tweet_id": "1977439230432555047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981015242827087872/axAcZvEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2144,
+          "following_count": 261,
+          "like_count": 21652,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 6056
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-17T16:05:36.000Z",
+        "description": "05/ISFP🔁INFP/护理生/可以叫我浣熊或者包子/没养浣熊，别问了/喜欢唱歌🎤/很喜欢平井桃和泰勒斯威夫特",
+        "id": "1747651350123466752",
+        "location": "404_Not Found",
+        "name": "重生归来之浣熊捡到一个棉花糖放到水里洗没了伤心的拿起武器用智慧的大脑统治人类建立浣熊帝国然后成功上岸",
+        "pinned_tweet_id": "1948221630846804300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942573121036234752/P7psmNrK_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1495,
+          "following_count": 851,
+          "like_count": 39622,
+          "listed_count": 8,
+          "media_count": 1277,
+          "tweet_count": 8185
+        },
+        "username": "Raccoonxin1231",
+        "verified": false
+      }
+    ]
+  }
+}

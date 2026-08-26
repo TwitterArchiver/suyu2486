@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2001557783792283759",
+    "created_at": "2025-12-18T08:02:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T09:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001563756896411816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1644761277900951552",
+          "start": 0,
+          "username": "IMLoneyLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001563756896411816",
+    "in_reply_to_user_id": "1644761277900951552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001557783792283759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IMLoneyLiu 丽丽别理他们就行了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2001557783792283759",
+        "created_at": "2025-12-18T08:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T09:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001563756896411816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1644761277900951552",
+              "start": 0,
+              "username": "IMLoneyLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001563756896411816",
+        "in_reply_to_user_id": "1644761277900951552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001557783792283759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IMLoneyLiu 丽丽别理他们就行了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644761277900951552",
+        "conversation_id": "2001557783792283759",
+        "created_at": "2025-12-18T07:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T08:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001557783792283759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001557783792283759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 305,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我求求那些收到过我几把照的能发出来给我看看吗？我真的被气到神智不清了，我甚至都怀疑我是不是真的给别人私信乱发几把了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是一个死人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1985888956073066671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997944714021216256/QFoLaxLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2442,
+          "following_count": 278,
+          "like_count": 23250,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 6516
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T17:57:16.000Z",
+        "description": "乐意骚扰人，给钱随便你骂，整抽象的，乐意说点屌话，喜欢看美女",
+        "id": "1644761277900951552",
+        "location": "🚪52/520/5200",
+        "name": "建龙哥",
+        "pinned_tweet_id": "1994346071615525012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997941051492093952/GbPSvu13_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8011,
+          "following_count": 443,
+          "like_count": 56299,
+          "listed_count": 5,
+          "media_count": 315,
+          "tweet_count": 23673
+        },
+        "username": "IMLoneyLiu",
+        "verified": false
+      }
+    ]
+  }
+}

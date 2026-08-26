@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943523181303672832"
+      ]
+    },
+    "author_id": "1910715228523831296",
+    "conversation_id": "1943220141116002386",
+    "created_at": "2025-07-11T04:10:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T05:10:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943523184784904508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1889200694986756096",
+          "start": 0,
+          "username": "OvOxiaomi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UHDuWom9Kb",
+          "end": 45,
+          "expanded_url": "https://x.com/suyu2486/status/1943523184784904508/photo/1",
+          "media_key": "3_1943523181303672832",
+          "start": 22,
+          "url": "https://t.co/UHDuWom9Kb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943523184784904508",
+    "in_reply_to_user_id": "1889200694986756096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943522648140714379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvOxiaomi 这并不难，我的朋友… https://t.co/UHDuWom9Kb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943523181303672832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvjICUJXsAAIGfI.jpg",
+        "width": 994
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943523181303672832"
+          ]
+        },
+        "author_id": "1910715228523831296",
+        "conversation_id": "1943220141116002386",
+        "created_at": "2025-07-11T04:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T05:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943523184784904508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1889200694986756096",
+              "start": 0,
+              "username": "OvOxiaomi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UHDuWom9Kb",
+              "end": 45,
+              "expanded_url": "https://x.com/suyu2486/status/1943523184784904508/photo/1",
+              "media_key": "3_1943523181303672832",
+              "start": 22,
+              "url": "https://t.co/UHDuWom9Kb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943523184784904508",
+        "in_reply_to_user_id": "1889200694986756096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943522648140714379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvOxiaomi 这并不难，我的朋友… https://t.co/UHDuWom9Kb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889200694986756096",
+        "conversation_id": "1943220141116002386",
+        "created_at": "2025-07-11T04:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T05:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943522648140714379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943522648140714379",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943476270916080004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 帮我讲帮我讲帮我讲帮我讲帮我讲帮我讲帮我讲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 201,
+          "like_count": 11362,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 3255
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T06:32:08.000Z",
+        "description": "@OnOxiaomi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "OnOxiaomi"
+              }
+            ]
+          }
+        },
+        "id": "1889200694986756096",
+        "location": "瓦罗兰特",
+        "name": "一只只只只只咪",
+        "pinned_tweet_id": "1937140021968191962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938410072658587648/QRHtIiYO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 145,
+          "like_count": 8732,
+          "listed_count": 5,
+          "media_count": 189,
+          "tweet_count": 2834
+        },
+        "username": "OvOxiaomi",
+        "verified": false
+      }
+    ]
+  }
+}

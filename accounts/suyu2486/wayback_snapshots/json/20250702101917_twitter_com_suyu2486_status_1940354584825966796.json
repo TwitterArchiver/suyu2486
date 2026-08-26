@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1940266945900945592",
+    "created_at": "2025-07-02T10:19:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T11:19:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940354584825966796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1801534903626121216",
+          "start": 0,
+          "username": "qngshu988723424"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940354584825966796",
+    "in_reply_to_user_id": "1801534903626121216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940266945900945592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qngshu988723424 下次整点金酒！金汤力好喝！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1940266926011252736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu02fT5XAAAO2YM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1940266945900945592",
+        "created_at": "2025-07-02T10:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T11:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940354584825966796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1801534903626121216",
+              "start": 0,
+              "username": "qngshu988723424"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940354584825966796",
+        "in_reply_to_user_id": "1801534903626121216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940266945900945592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qngshu988723424 下次整点金酒！金汤力好喝！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940266926011252736"
+          ]
+        },
+        "author_id": "1801534903626121216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1940266945900945592",
+        "created_at": "2025-07-02T04:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T05:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940266945900945592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qoUrdCAnKH",
+              "end": 36,
+              "expanded_url": "https://x.com/qngshu988723424/status/1940266945900945592/photo/1",
+              "media_key": "3_1940266926011252736",
+              "start": 13,
+              "url": "https://t.co/qoUrdCAnKH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940266945900945592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 312,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天野格兑的汤力水，好喝 https://t.co/qoUrdCAnKH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1923458019305660813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 198,
+          "like_count": 10265,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 2966
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-14T08:39:35.000Z",
+        "description": "和鸟每天抢吃的。\n匿名箱https://t.co/tm4URv7pxk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qngshu988723424",
+                "end": 35,
+                "expanded_url": "https://ngl.link/qngshu988723424",
+                "start": 12,
+                "url": "https://t.co/tm4URv7pxk"
+              }
+            ]
+          }
+        },
+        "id": "1801534903626121216",
+        "name": "rotaka",
+        "pinned_tweet_id": "1915208248921329773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886064402417475584/qFYmPUu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 217,
+          "like_count": 1678,
+          "listed_count": 0,
+          "media_count": 272,
+          "tweet_count": 2713
+        },
+        "username": "qngshu988723424",
+        "verified": false
+      }
+    ]
+  }
+}

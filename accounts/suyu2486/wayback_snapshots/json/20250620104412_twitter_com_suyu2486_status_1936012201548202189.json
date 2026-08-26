@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1935994970457919802",
+    "created_at": "2025-06-20T10:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T11:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936012201548202189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "955592495852789760",
+          "start": 0,
+          "username": "whiplashkit"
+        },
+        {
+          "end": 20,
+          "id": "1873274216096972800",
+          "start": 13,
+          "username": "wovvna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936012201548202189",
+    "in_reply_to_user_id": "955592495852789760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936011550504239243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whiplashkit @wovvna 哎我c了，老铁，我瞅你帖子发的是韩文英语，名字也整的英语，点开回复一瞅，哎我去，全是中文啊，搁这儿也是洋腔洋调整上了，你要跨越阶级呀？这张照片是p的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1935994970457919802",
+        "created_at": "2025-06-20T10:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T11:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936012201548202189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "955592495852789760",
+              "start": 0,
+              "username": "whiplashkit"
+            },
+            {
+              "end": 20,
+              "id": "1873274216096972800",
+              "start": 13,
+              "username": "wovvna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936012201548202189",
+        "in_reply_to_user_id": "955592495852789760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936011550504239243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whiplashkit @wovvna 哎我c了，老铁，我瞅你帖子发的是韩文英语，名字也整的英语，点开回复一瞅，哎我去，全是中文啊，搁这儿也是洋腔洋调整上了，你要跨越阶级呀？这张照片是p的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "955592495852789760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Skin Care",
+              "id": "855107826351357952",
+              "name": "Skin care"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Skin Care",
+              "id": "855107826351357952",
+              "name": "Skin care"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Skin Care",
+              "id": "855107826351357952",
+              "name": "Skin care"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Face Care",
+              "id": "850395727494660096",
+              "name": "Face Care"
+            }
+          }
+        ],
+        "conversation_id": "1935994970457919802",
+        "created_at": "2025-06-20T10:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T11:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936011550504239243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            },
+            {
+              "end": 17,
+              "id": "1873274216096972800",
+              "start": 10,
+              "username": "wovvna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936011550504239243",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936007031653073115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 @wovvna omg😱 her face is so tender what a gorgeous skin care"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的，我将做回神鹰，爱说点c语言，不喜欢可以喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 181,
+          "like_count": 6662,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1889
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-23T00:06:19.000Z",
+        "description": "♂| Rocketpuncher 🚀",
+        "id": "955592495852789760",
+        "location": "부산",
+        "name": "Whiplash Kit",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934710978144616448/X7mVC9PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1418,
+          "following_count": 290,
+          "like_count": 2467,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 69
+        },
+        "username": "whiplashkit",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-29T07:46:17.000Z",
+        "description": "04/绿推/海量碎碎念微量身材照/即将变成社畜/性冷淡/🚪123(纯绿)（绿的不能再绿的绿)（花钱躺列表里)（十分不划算不建议入☺️☺️☺️）",
+        "id": "1873274216096972800",
+        "name": "邪恶牛奶巧克力酱（宇宙无敌超级炫酷高冷龙傲天是也）",
+        "pinned_tweet_id": "1920678112427180096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934943956229586944/-W0K3hWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2741,
+          "following_count": 187,
+          "like_count": 12206,
+          "listed_count": 7,
+          "media_count": 607,
+          "tweet_count": 4978
+        },
+        "username": "wovvna",
+        "verified": false
+      }
+    ]
+  }
+}

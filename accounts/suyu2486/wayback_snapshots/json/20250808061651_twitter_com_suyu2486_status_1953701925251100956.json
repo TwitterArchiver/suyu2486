@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1953424824539218271",
+    "created_at": "2025-08-08T06:16:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T07:16:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953701925251100956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1899021424121065472",
+          "start": 0,
+          "username": "Tom_joseph23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953701925251100956",
+    "in_reply_to_user_id": "1899021424121065472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953424824539218271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tom_joseph23 呵呵，其实你家开情趣用品店的对吗？装什么…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1953424824539218271",
+        "created_at": "2025-08-08T06:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T07:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953701925251100956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1899021424121065472",
+              "start": 0,
+              "username": "Tom_joseph23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953701925251100956",
+        "in_reply_to_user_id": "1899021424121065472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953424824539218271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tom_joseph23 呵呵，其实你家开情趣用品店的对吗？装什么…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899021424121065472",
+        "conversation_id": "1953424824539218271",
+        "created_at": "2025-08-07T11:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T12:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953424824539218271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Tom_joseph23/s…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/Tom_joseph23/status/1952633796550865346",
+              "start": 45,
+              "url": "https://t.co/8CEgMBpceP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953424824539218271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 869,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952633796550865346",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每次说自己只谈了几个没人信，我现在干脆说我谈了1000个，2026年我打算达到千人斩目标 https://t.co/8CEgMBpceP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1953423119017758926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1133,
+          "following_count": 200,
+          "like_count": 13859,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 3802
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-10T08:56:14.000Z",
+        "description": "2月水瓶♒entp  switch  可以叫我joseph也可以叫我小jo",
+        "id": "1899021424121065472",
+        "name": "joseph",
+        "pinned_tweet_id": "1949627046231195913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923779133554761728/Vic_4C2m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 291,
+          "like_count": 41434,
+          "listed_count": 0,
+          "media_count": 659,
+          "tweet_count": 5152
+        },
+        "username": "Tom_joseph23",
+        "verified": false
+      }
+    ]
+  }
+}

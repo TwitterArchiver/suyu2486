@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1952280094673866874",
+    "created_at": "2025-08-04T12:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T13:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952339931470168568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1503641238851014656",
+          "start": 0,
+          "username": "B1oomOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952339931470168568",
+    "in_reply_to_user_id": "1503641238851014656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952280094673866874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B1oomOvO 没事的，傻人有傻福"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6950,
+        "height": 960,
+        "media_key": "13_1952279987698180096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1952279987698180096/img/sfFTkGhj9qcoD7iE.jpg",
+        "public_metrics": {
+          "view_count": 476
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952279987698180096/vid/avc1/320x568/8XIY4KTVaT7MLoal.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952279987698180096/vid/avc1/480x852/pppxr0Nq-n__AxrV.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952279987698180096/vid/avc1/540x960/3WCgJDsWnJXU1byZ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1952279987698180096/pl/GyrrMTZL7D1UL9YT.m3u8?tag=14"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1952280094673866874",
+        "created_at": "2025-08-04T12:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T13:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952339931470168568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1503641238851014656",
+              "start": 0,
+              "username": "B1oomOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952339931470168568",
+        "in_reply_to_user_id": "1503641238851014656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952280094673866874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B1oomOvO 没事的，傻人有傻福"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1952279987698180096"
+          ]
+        },
+        "author_id": "1503641238851014656",
+        "conversation_id": "1952280094673866874",
+        "created_at": "2025-08-04T08:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T09:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952280094673866874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YnlaCFeTAK",
+              "end": 34,
+              "expanded_url": "https://x.com/B1oomOvO/status/1952280094673866874/video/1",
+              "media_key": "13_1952279987698180096",
+              "start": 11,
+              "url": "https://t.co/YnlaCFeTAK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952280094673866874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2713,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每天都在拍傻逼视频 https://t.co/YnlaCFeTAK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1952327381869338999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 201,
+          "like_count": 13225,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 3640
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-15T07:56:35.000Z",
+        "description": "所见即我",
+        "id": "1503641238851014656",
+        "location": "Bloom",
+        "name": "鲨鱼辣椒XD",
+        "pinned_tweet_id": "1672682551281086464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794909869021204480/XN6uFpoQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5209,
+          "following_count": 196,
+          "like_count": 4568,
+          "listed_count": 16,
+          "media_count": 47,
+          "tweet_count": 137
+        },
+        "username": "B1oomOvO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1988408882667086151",
+    "created_at": "2025-11-12T15:32:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T16:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988630872908575143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1870791960505761792",
+          "start": 0,
+          "username": "saobiLiuQi"
+        },
+        {
+          "end": 28,
+          "id": "1940717294776471552",
+          "start": 12,
+          "username": "AO2gzAdOFT23147"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988630872908575143",
+    "in_reply_to_user_id": "1870791960505761792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988625199097323815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saobiLiuQi @AO2gzAdOFT23147 行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1988408882667086151",
+        "created_at": "2025-11-12T15:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T16:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988630872908575143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1870791960505761792",
+              "start": 0,
+              "username": "saobiLiuQi"
+            },
+            {
+              "end": 28,
+              "id": "1940717294776471552",
+              "start": 12,
+              "username": "AO2gzAdOFT23147"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988630872908575143",
+        "in_reply_to_user_id": "1870791960505761792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988625199097323815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saobiLiuQi @AO2gzAdOFT23147 行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870791960505761792",
+        "conversation_id": "1988408882667086151",
+        "created_at": "2025-11-12T15:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T16:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988625199097323815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            },
+            {
+              "end": 26,
+              "id": "1940717294776471552",
+              "start": 10,
+              "username": "AO2gzAdOFT23147"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988625199097323815",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988578549264240819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 @AO2gzAdOFT23147 能预留个吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "06，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2360,
+          "following_count": 263,
+          "like_count": 22256,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 6273
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-22T11:22:25.000Z",
+        "description": "颜控",
+        "id": "1870791960505761792",
+        "location": "3.8km",
+        "name": "柳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870792294384943105/ZaZPqkC-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 402,
+          "like_count": 4039,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 97
+        },
+        "username": "saobiLiuQi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-03T10:20:46.000Z",
+        "description": "我通过了你的法友验证请求，现在我们可以开始法法了",
+        "id": "1940717294776471552",
+        "location": "辽宁沈阳",
+        "name": "久吞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986334580413194240/i_zsmIcI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 42,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 79
+        },
+        "username": "AO2gzAdOFT23147",
+        "verified": false
+      }
+    ]
+  }
+}

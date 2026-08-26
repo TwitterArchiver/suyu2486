@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1958289000072204544",
+    "created_at": "2025-08-21T13:46:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T14:46:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958526245932601350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1792178181996421120",
+          "start": 0,
+          "username": "198964bj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958526245932601350",
+    "in_reply_to_user_id": "1792178181996421120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958289000072204544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@198964bj 666拉屎不叫我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1958288989691224064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy09de4aoAAeW9A.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1958289000072204544",
+        "created_at": "2025-08-21T13:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T14:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958526245932601350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1792178181996421120",
+              "start": 0,
+              "username": "198964bj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958526245932601350",
+        "in_reply_to_user_id": "1792178181996421120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958289000072204544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@198964bj 666拉屎不叫我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958288989691224064"
+          ]
+        },
+        "author_id": "1792178181996421120",
+        "conversation_id": "1958289000072204544",
+        "created_at": "2025-08-20T22:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T23:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958289000072204544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KXjqPjZ1I6",
+              "end": 27,
+              "expanded_url": "https://x.com/198964bj/status/1958289000072204544/photo/1",
+              "media_key": "3_1958288989691224064",
+              "start": 4,
+              "url": "https://t.co/KXjqPjZ1I6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958289000072204544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 12412,
+          "like_count": 270,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "陪陪我 https://t.co/KXjqPjZ1I6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1348,
+          "following_count": 203,
+          "like_count": 16575,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 4381
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T12:59:19.000Z",
+        "description": "16岁你回来好不好 我保证我这次乖乖的 24h营业 绿色｜非绿色 仅回复门槛🙀🙀",
+        "id": "1792178181996421120",
+        "location": "北京🚪288/666",
+        "name": "坏坏坏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908480197046968320/j4-10G-w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5285,
+          "following_count": 140,
+          "like_count": 711,
+          "listed_count": 13,
+          "media_count": 19,
+          "tweet_count": 52
+        },
+        "username": "198964bj",
+        "verified": false
+      }
+    ]
+  }
+}

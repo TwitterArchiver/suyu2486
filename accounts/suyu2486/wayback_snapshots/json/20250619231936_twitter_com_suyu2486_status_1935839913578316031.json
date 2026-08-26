@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1935837911255277733",
+    "created_at": "2025-06-19T23:19:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T00:19:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935839913578316031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1727748567555837953",
+          "start": 0,
+          "username": "hvyfjj70529"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935839913578316031",
+    "in_reply_to_user_id": "1727748567555837953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935837911255277733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hvyfjj70529 这期是我定制的失败的man"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935837907283054592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt16UfZXkAAuTcJ.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1935837911255277733",
+        "created_at": "2025-06-19T23:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T00:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935839913578316031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1727748567555837953",
+              "start": 0,
+              "username": "hvyfjj70529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935839913578316031",
+        "in_reply_to_user_id": "1727748567555837953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935837911255277733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hvyfjj70529 这期是我定制的失败的man"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935837907283054592"
+          ]
+        },
+        "author_id": "1727748567555837953",
+        "conversation_id": "1935837911255277733",
+        "created_at": "2025-06-19T23:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T00:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935837911255277733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NMW119b0T0",
+              "end": 92,
+              "expanded_url": "https://x.com/hvyfjj70529/status/1935837911255277733/photo/1",
+              "media_key": "3_1935837907283054592",
+              "start": 69,
+              "url": "https://t.co/NMW119b0T0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935837911255277733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去我还是要发这个。这张是视频里的截图。当时发pyq之后才发现怎么鼓了这么大的包。因为没硬也没什么所以没注意。只屏蔽了家人老师。好尴尬。 https://t.co/NMW119b0T0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的，我将做回神鹰😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 176,
+          "like_count": 6469,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 1835
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-23T17:59:03.000Z",
+        "description": "欢迎提问👇🏻我是男的 直男！！\n就是发牢骚 碎碎念 点点赞 发发言 看看美女帅哥 可以取关我\n小号发点日常照片 和生活琐事 眼熟的会放@M22lso\n只有这两个号！！其他的是假的！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 67,
+                "username": "M22lso"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chaoren2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chaoren2",
+                "start": 0,
+                "url": "https://t.co/1SvsPkyBTY"
+              }
+            ]
+          }
+        },
+        "id": "1727748567555837953",
+        "location": "西安",
+        "name": "迈迈迈卡",
+        "pinned_tweet_id": "1918965840579641703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916383035324518400/8olq74GV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2599,
+          "following_count": 431,
+          "like_count": 52222,
+          "listed_count": 5,
+          "media_count": 859,
+          "tweet_count": 13924
+        },
+        "url": "https://t.co/1SvsPkyBTY",
+        "username": "hvyfjj70529",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1963283905664225666",
+    "created_at": "2025-09-03T16:55:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T17:55:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963284735880462648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1504533137661038606",
+          "start": 0,
+          "username": "xx7i2th34"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963284735880462648",
+    "in_reply_to_user_id": "1504533137661038606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963283905664225666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xx7i2th34 很难做到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1963283905664225666",
+        "created_at": "2025-09-03T16:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T17:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963284735880462648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1504533137661038606",
+              "start": 0,
+              "username": "xx7i2th34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963284735880462648",
+        "in_reply_to_user_id": "1504533137661038606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963283905664225666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx7i2th34 很难做到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504533137661038606",
+        "conversation_id": "1963283905664225666",
+        "created_at": "2025-09-03T16:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T17:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963283905664225666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/suyu2486/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/suyu2486/status/1963124866581717386",
+              "start": 18,
+              "url": "https://t.co/G02wDDoiAP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963283905664225666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963124866581717386",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我特别想要一睡醒老公就吃我的奶子。 https://t.co/G02wDDoiAP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗不定期活跃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "飞向全宇宙",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1409,
+          "following_count": 208,
+          "like_count": 18248,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 4871
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-17T19:00:40.000Z",
+        "description": "",
+        "id": "1504533137661038606",
+        "location": "有🚪",
+        "name": "25212",
+        "pinned_tweet_id": "1929163716248977439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916200553933377539/rLGjaXjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25432,
+          "following_count": 46,
+          "like_count": 13239,
+          "listed_count": 60,
+          "media_count": 104,
+          "tweet_count": 6075
+        },
+        "username": "xx7i2th34",
+        "verified": false
+      }
+    ]
+  }
+}

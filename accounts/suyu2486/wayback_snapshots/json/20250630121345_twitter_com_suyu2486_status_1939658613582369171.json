@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1939655277713703009",
+    "created_at": "2025-06-30T12:13:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T13:13:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939658613582369171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1745396254446862336",
+          "start": 0,
+          "username": "Bread_ka0723"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939658613582369171",
+    "in_reply_to_user_id": "1745396254446862336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939658179656515813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bread_ka0723 会有的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1939655277713703009",
+        "created_at": "2025-06-30T12:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T13:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939658613582369171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1745396254446862336",
+              "start": 0,
+              "username": "Bread_ka0723"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939658613582369171",
+        "in_reply_to_user_id": "1745396254446862336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939658179656515813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bread_ka0723 会有的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745396254446862336",
+        "conversation_id": "1939655277713703009",
+        "created_at": "2025-06-30T12:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T13:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939658179656515813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939658179656515813",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939655277713703009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 到底谁有强烈要求"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1923458019305660813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 200,
+          "like_count": 9712,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 2832
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-11T10:45:03.000Z",
+        "description": "如果有人愿意送我白色桔梗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/breadka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/breadka",
+                "start": 0,
+                "url": "https://t.co/Do10uBfNtO"
+              }
+            ]
+          }
+        },
+        "id": "1745396254446862336",
+        "location": "面包加工厂",
+        "name": "面包小ka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935385253352456194/mT1-0sUL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 135,
+          "like_count": 1693,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 150
+        },
+        "url": "https://t.co/Do10uBfNtO",
+        "username": "Bread_ka0723",
+        "verified": false
+      }
+    ]
+  }
+}

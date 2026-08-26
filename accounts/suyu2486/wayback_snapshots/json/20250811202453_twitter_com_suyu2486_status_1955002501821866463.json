@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1954746744291627398",
+    "created_at": "2025-08-11T20:24:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T21:24:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955002501821866463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1629058457222656001",
+          "start": 0,
+          "username": "nursenika1840"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955002501821866463",
+    "in_reply_to_user_id": "1629058457222656001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954939660171710666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nursenika1840 转墙内的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1954746744291627398",
+        "created_at": "2025-08-11T20:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T21:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955002501821866463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1629058457222656001",
+              "start": 0,
+              "username": "nursenika1840"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955002501821866463",
+        "in_reply_to_user_id": "1629058457222656001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954939660171710666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nursenika1840 转墙内的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629058457222656001",
+        "conversation_id": "1954746744291627398",
+        "created_at": "2025-08-11T16:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T17:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954939660171710666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954939660171710666",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954746744291627398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 看了最新的视频，去药店测血糖，空腹8.2  还行啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1953423119017758926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 200,
+          "like_count": 14569,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 4043
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-24T09:59:45.000Z",
+        "description": "如有移民问题可以私信，只能力所能及回答。",
+        "id": "1629058457222656001",
+        "name": "澳洲护士卡子弟",
+        "pinned_tweet_id": "1791700234860740900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648533563825082369/SW0QqoYh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50617,
+          "following_count": 358,
+          "like_count": 5912,
+          "listed_count": 193,
+          "media_count": 636,
+          "tweet_count": 11955
+        },
+        "username": "nursenika1840",
+        "verified": true
+      }
+    ]
+  }
+}

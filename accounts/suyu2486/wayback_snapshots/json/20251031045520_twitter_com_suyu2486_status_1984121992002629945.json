@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1984093944314261767",
+    "created_at": "2025-10-31T04:55:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T05:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984121992002629945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1916074220108582912",
+          "start": 0,
+          "username": "GlyndaMcdo97923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984121992002629945",
+    "in_reply_to_user_id": "1916074220108582912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984093944314261767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GlyndaMcdo97923 这个真不接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1179,
+        "media_key": "3_1984093935120347141",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4jq6_va8AU4Lbw.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1984093944314261767",
+        "created_at": "2025-10-31T04:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T05:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984121992002629945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1916074220108582912",
+              "start": 0,
+              "username": "GlyndaMcdo97923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984121992002629945",
+        "in_reply_to_user_id": "1916074220108582912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984093944314261767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GlyndaMcdo97923 这个真不接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984093935120347141"
+          ]
+        },
+        "author_id": "1916074220108582912",
+        "conversation_id": "1984093944314261767",
+        "created_at": "2025-10-31T03:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T04:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984093944314261767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ACVvfLEka8",
+              "end": 27,
+              "expanded_url": "https://x.com/GlyndaMcdo97923/status/1984093944314261767/photo/1",
+              "media_key": "3_1984093935120347141",
+              "start": 4,
+              "url": "https://t.co/ACVvfLEka8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984093944314261767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁接？ https://t.co/ACVvfLEka8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "神鹰🦅，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "pinned_tweet_id": "1977439230432555047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981015242827087872/axAcZvEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2144,
+          "following_count": 261,
+          "like_count": 21656,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 6060
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T10:17:56.000Z",
+        "description": "すべてのかわいいものが好きです!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=pG2Mmfa4",
+                "start": 0,
+                "url": "https://t.co/NkM164DItX"
+              }
+            ]
+          }
+        },
+        "id": "1916074220108582912",
+        "location": "蜂鸟VPN",
+        "name": "一直在后悔",
+        "pinned_tweet_id": "1980485856843694289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970285436217245696/_z3tMn3H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 58,
+          "like_count": 680,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 789
+        },
+        "url": "https://t.co/NkM164DItX",
+        "username": "GlyndaMcdo97923",
+        "verified": false
+      }
+    ]
+  }
+}

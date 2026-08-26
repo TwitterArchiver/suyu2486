@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1955931773889863757",
+    "created_at": "2025-08-14T13:10:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T14:10:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955980471323521534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1893825605839589376",
+          "start": 0,
+          "username": "eq7hsw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955980471323521534",
+    "in_reply_to_user_id": "1893825605839589376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955968526180852104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eq7hsw 我暗恋你…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1955931773889863757",
+        "created_at": "2025-08-14T13:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T14:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955980471323521534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1893825605839589376",
+              "start": 0,
+              "username": "eq7hsw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955980471323521534",
+        "in_reply_to_user_id": "1893825605839589376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955968526180852104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eq7hsw 我暗恋你…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893825605839589376",
+        "conversation_id": "1955931773889863757",
+        "created_at": "2025-08-14T12:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T13:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955968526180852104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955968526180852104",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955931773889863757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 我去，咋没人暗恋我…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1955773434958352438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1289,
+          "following_count": 200,
+          "like_count": 15571,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 4230
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-24T00:50:18.000Z",
+        "description": "",
+        "id": "1893825605839589376",
+        "name": "小小怪",
+        "pinned_tweet_id": "1955887593020854620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954213138880217089/RHjxOigs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 103,
+          "like_count": 554,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 856
+        },
+        "username": "eq7hsw",
+        "verified": false
+      }
+    ]
+  }
+}

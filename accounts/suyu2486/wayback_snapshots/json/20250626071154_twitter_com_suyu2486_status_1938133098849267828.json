@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1938075748562268594",
+    "created_at": "2025-06-26T07:11:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T08:11:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938133098849267828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1752648749422358528",
+          "start": 0,
+          "username": "BiteOnYour_Lips"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938133098849267828",
+    "in_reply_to_user_id": "1752648749422358528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938075748562268594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BiteOnYour_Lips 好枪！鼠的！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16471,
+        "height": 720,
+        "media_key": "13_1938075611769278465",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1938075611769278465/img/pjQc_pA1sxaxrXZF.jpg",
+        "public_metrics": {
+          "view_count": 54
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938075611769278465/vid/avc1/404x270/kQhfBMSl9ZuzNbQH.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938075611769278465/vid/avc1/540x360/DQ_BS4JxT537dhyS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938075611769278465/vid/avc1/1080x720/hXLmj4o6BUX6-gj0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1938075611769278465/pl/nJiMLhm6dm1ZI_Qc.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1938075748562268594",
+        "created_at": "2025-06-26T07:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T08:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938133098849267828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1752648749422358528",
+              "start": 0,
+              "username": "BiteOnYour_Lips"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938133098849267828",
+        "in_reply_to_user_id": "1752648749422358528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938075748562268594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BiteOnYour_Lips 好枪！鼠的！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1938075611769278465"
+          ]
+        },
+        "author_id": "1752648749422358528",
+        "conversation_id": "1938075748562268594",
+        "created_at": "2025-06-26T03:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T04:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938075748562268594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kKATjHgrwu",
+              "end": 36,
+              "expanded_url": "https://x.com/BiteOnYour_Lips/status/1938075748562268594/video/1",
+              "media_key": "13_1938075611769278465",
+              "start": 13,
+              "url": "https://t.co/kKATjHgrwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938075748562268594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 301,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蹲扫这辈子也是有了😉☝️ https://t.co/kKATjHgrwu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1936734143804735662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 198,
+          "like_count": 8497,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 2402
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T11:03:47.000Z",
+        "description": "不约不处 不搞黄色 单纯分享日常纯绿色 偶尔小擦一下🤓 上网只为看男推🤤不礼貌普信下头男敢骚扰私信我的死全家🫩也别找我聊黄 可以跟我分享日常我会回的 也可以找我友好闲聊",
+        "id": "1752648749422358528",
+        "location": "中国",
+        "name": "鼠",
+        "pinned_tweet_id": "1937172582471737681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889046894422138880/i1kTQh3q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 105,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 91
+        },
+        "username": "BiteOnYour_Lips",
+        "verified": false
+      }
+    ]
+  }
+}

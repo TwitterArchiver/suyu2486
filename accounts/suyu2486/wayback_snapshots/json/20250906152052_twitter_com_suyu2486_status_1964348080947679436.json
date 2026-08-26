@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1963873503477670249",
+    "created_at": "2025-09-06T15:20:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T16:20:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964348080947679436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1831042430449471488",
+          "start": 0,
+          "username": "x57688"
+        },
+        {
+          "end": 20,
+          "id": "1821312171923644416",
+          "start": 8,
+          "username": "jagaimo6681"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964348080947679436",
+    "in_reply_to_user_id": "1831042430449471488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964341490693657086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x57688 @jagaimo6681 你是文字暴露癖…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1963873503477670249",
+        "created_at": "2025-09-06T15:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T16:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964348080947679436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1831042430449471488",
+              "start": 0,
+              "username": "x57688"
+            },
+            {
+              "end": 20,
+              "id": "1821312171923644416",
+              "start": 8,
+              "username": "jagaimo6681"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964348080947679436",
+        "in_reply_to_user_id": "1831042430449471488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964341490693657086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x57688 @jagaimo6681 你是文字暴露癖…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831042430449471488",
+        "conversation_id": "1963873503477670249",
+        "created_at": "2025-09-06T14:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T15:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964341490693657086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1821312171923644416",
+              "start": 0,
+              "username": "jagaimo6681"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964341490693657086",
+        "in_reply_to_user_id": "1821312171923644416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963873503477670249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jagaimo6681 我就依靠暴露隐私活着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。我三观有问题，是个烂人，本身就是废墟🤗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1963477103296614437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 222,
+          "like_count": 19135,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 5114
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T18:52:28.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=W1K03lm9",
+                "start": 0,
+                "url": "https://t.co/Vdo50AAOrZ"
+              }
+            ]
+          }
+        },
+        "id": "1831042430449471488",
+        "location": "自用蜂鸟VPN",
+        "name": "香芋派",
+        "pinned_tweet_id": "1926365201269444810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928837612439220232/7cwXX9oR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5735,
+          "following_count": 239,
+          "like_count": 13549,
+          "listed_count": 3,
+          "media_count": 197,
+          "tweet_count": 8696
+        },
+        "url": "https://t.co/Vdo50AAOrZ",
+        "username": "x57688",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T22:27:26.000Z",
+        "description": "どうでもいいよ^ω^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "picawang.com",
+                "end": 23,
+                "expanded_url": "https://picawang.com/",
+                "start": 0,
+                "url": "https://t.co/F3AUMZjoSQ"
+              }
+            ]
+          }
+        },
+        "id": "1821312171923644416",
+        "name": "喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920799424902819842/ALcbB3ce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1222,
+          "following_count": 409,
+          "like_count": 16889,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 4821
+        },
+        "url": "https://t.co/F3AUMZjoSQ",
+        "username": "jagaimo6681",
+        "verified": false
+      }
+    ]
+  }
+}

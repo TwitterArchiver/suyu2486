@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2087645421191745700",
+    "created_at": "2026-08-13T07:23:48.000Z",
+    "display_text_range": [
+      14,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T08:23:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087802284663021980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1847703287065415680",
+          "start": 0,
+          "username": "Puzipuzi0821"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087802284663021980",
+    "in_reply_to_user_id": "1847703287065415680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087645421191745700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Puzipuzi0821 红发就是最吊的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14066,
+        "height": 1280,
+        "media_key": "13_2087645385053601792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087645385053601792/img/ItUj0VQ573-AJIll.jpg",
+        "public_metrics": {
+          "view_count": 7820
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087645385053601792/vid/avc1/320x568/-y_jsq3zY4h4xiR0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087645385053601792/vid/avc1/480x852/R7JUxsdo5nPa2Iev.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087645385053601792/vid/avc1/720x1280/KnoGrsDf1qVnOpiF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087645385053601792/pl/hnFPGcaWM46FEUs_.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2087645421191745700",
+        "created_at": "2026-08-13T07:23:48.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T08:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087802284663021980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1847703287065415680",
+              "start": 0,
+              "username": "Puzipuzi0821"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087802284663021980",
+        "in_reply_to_user_id": "1847703287065415680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087645421191745700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Puzipuzi0821 红发就是最吊的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087645385053601792"
+          ]
+        },
+        "author_id": "1847703287065415680",
+        "conversation_id": "2087645421191745700",
+        "created_at": "2026-08-12T21:00:29.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T22:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087645421191745700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gZRp777GJG",
+              "end": 31,
+              "expanded_url": "https://x.com/Puzipuzi0821/status/2087645421191745700/video/1",
+              "media_key": "13_2087645385053601792",
+              "start": 8,
+              "url": "https://t.co/gZRp777GJG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087645421191745700",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087645385053601792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 19747,
+          "like_count": 748,
+          "quote_count": 0,
+          "reply_count": 156,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "游泳圈又怎样🫪 https://t.co/gZRp777GJG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "is_identity_verified": false,
+        "location": "自用蜂鸟vpn",
+        "most_recent_tweet_id": "2087802284663021980",
+        "name": "小玉",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910715228523831296/1766048126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2057,
+          "following_count": 184,
+          "like_count": 21457,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6713
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-19T18:16:34.000Z",
+        "description": "不线下不约p(*^^*)有🚪不入勿扰，只有推小号@misamisaLOVE777 其他不是本人。不玩墙内软件，谨防被骗，盗我图和辱骂我的替我挡灾，谢谢喜欢。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 24,
+                "username": "misamisaLOVE777"
+              }
+            ]
+          }
+        },
+        "id": "1847703287065415680",
+        "is_identity_verified": false,
+        "location": "不11不定制   私信只回过🚪",
+        "most_recent_tweet_id": "2087645421191745700",
+        "name": "misamisa",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1847703287065415680/1783028759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087632215790538752/ZIPDmIdN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83435,
+          "following_count": 5,
+          "like_count": 873,
+          "listed_count": 179,
+          "media_count": 149,
+          "tweet_count": 540
+        },
+        "url": "",
+        "username": "Puzipuzi0821",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

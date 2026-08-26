@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1964993087224390004",
+    "created_at": "2025-09-08T16:48:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T17:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965094967900254401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1899591811859197952",
+          "start": 0,
+          "username": "kissme_catt"
+        },
+        {
+          "end": 24,
+          "id": "1922942952948822016",
+          "start": 13,
+          "username": "dante82682"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965094967900254401",
+    "in_reply_to_user_id": "1899591811859197952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965028321072460027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kissme_catt @dante82682 谢谢，但是我提前就看到了🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1964993087224390004",
+        "created_at": "2025-09-08T16:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T17:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965094967900254401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1899591811859197952",
+              "start": 0,
+              "username": "kissme_catt"
+            },
+            {
+              "end": 24,
+              "id": "1922942952948822016",
+              "start": 13,
+              "username": "dante82682"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965094967900254401",
+        "in_reply_to_user_id": "1899591811859197952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965028321072460027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kissme_catt @dante82682 谢谢，但是我提前就看到了🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899591811859197952",
+        "conversation_id": "1964993087224390004",
+        "created_at": "2025-09-08T12:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T13:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965028321072460027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1922942952948822016",
+              "start": 0,
+              "username": "dante82682"
+            },
+            {
+              "end": 21,
+              "id": "1910715228523831296",
+              "start": 12,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965028321072460027",
+        "in_reply_to_user_id": "1922942952948822016",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964993087224390004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dante82682 @suyu2486"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1963477103296614437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1566,
+          "following_count": 224,
+          "like_count": 19227,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 5156
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-11T22:42:46.000Z",
+        "description": "置顶推广自辨",
+        "id": "1899591811859197952",
+        "name": "放屁像炸弹",
+        "pinned_tweet_id": "1964932687694807231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929321121410682880/rDctXABg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4776,
+          "following_count": 1,
+          "like_count": 8417,
+          "listed_count": 4,
+          "media_count": 362,
+          "tweet_count": 9180
+        },
+        "username": "kissme_catt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-15T09:12:07.000Z",
+        "description": "🤔",
+        "id": "1922942952948822016",
+        "name": "dante",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922943720279703554/UzLn0zfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 29,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 40
+        },
+        "username": "dante82682",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1935626992344539330",
+    "created_at": "2025-06-19T09:15:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T10:15:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935627480582217754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1450669249337430017",
+          "start": 0,
+          "username": "hht61886512"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935627480582217754",
+    "in_reply_to_user_id": "1450669249337430017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935627396721291433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hht61886512 没错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1935626992344539330",
+        "created_at": "2025-06-19T09:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T10:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935627480582217754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1450669249337430017",
+              "start": 0,
+              "username": "hht61886512"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935627480582217754",
+        "in_reply_to_user_id": "1450669249337430017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935627396721291433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hht61886512 没错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1450669249337430017",
+        "conversation_id": "1935626992344539330",
+        "created_at": "2025-06-19T09:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T10:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935627396721291433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935627396721291433",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935626992344539330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 又看广告复活了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "name": "小玉",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928709552171610112/x9fXi0Ew_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 174,
+          "like_count": 6331,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1769
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-20T03:44:44.000Z",
+        "description": "色令智昏（188/888🚪不回私信除非打赏）",
+        "id": "1450669249337430017",
+        "location": "许愿天天开心",
+        "name": "许鸢",
+        "pinned_tweet_id": "1935232373618278404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933164773044326401/gwYbbLpS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 4,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 76
+        },
+        "username": "hht61886512",
+        "verified": false
+      }
+    ]
+  }
+}

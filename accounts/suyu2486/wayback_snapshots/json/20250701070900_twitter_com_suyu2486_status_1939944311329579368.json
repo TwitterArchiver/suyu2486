@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1939847270284890437",
+    "created_at": "2025-07-01T07:09:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T08:09:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939944311329579368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1499418332398710785",
+          "start": 0,
+          "username": "dwqqcom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939944311329579368",
+    "in_reply_to_user_id": "1499418332398710785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939899435712225497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dwqqcom 加油！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1264,
+        "media_key": "3_1939899423372296192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuvoP14XQAAoU6H.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1939847270284890437",
+        "created_at": "2025-07-01T07:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T08:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939944311329579368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1499418332398710785",
+              "start": 0,
+              "username": "dwqqcom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939944311329579368",
+        "in_reply_to_user_id": "1499418332398710785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939899435712225497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dwqqcom 加油！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939899423372296192"
+          ]
+        },
+        "author_id": "1499418332398710785",
+        "conversation_id": "1939847270284890437",
+        "created_at": "2025-07-01T04:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T05:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939899435712225497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OHvxcwgEIe",
+              "end": 57,
+              "expanded_url": "https://x.com/dwqqcom/status/1939899435712225497/photo/1",
+              "media_key": "3_1939899423372296192",
+              "start": 34,
+              "url": "https://t.co/OHvxcwgEIe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939899435712225497",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939847270284890437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 虽然我是文盲，但是我用耳朵看完了，没毛病，加油 https://t.co/OHvxcwgEIe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1923458019305660813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 199,
+          "like_count": 9885,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2903
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T16:16:15.000Z",
+        "description": "",
+        "id": "1499418332398710785",
+        "name": "Let_not",
+        "pinned_tweet_id": "1939527897959829564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939525598554058752/L45KY-wi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 5,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 37
+        },
+        "username": "dwqqcom",
+        "verified": false
+      }
+    ]
+  }
+}

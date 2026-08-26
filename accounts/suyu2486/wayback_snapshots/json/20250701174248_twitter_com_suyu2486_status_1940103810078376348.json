@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1940094864001298673",
+    "created_at": "2025-07-01T17:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T18:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940103810078376348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1802116593767284736",
+          "start": 0,
+          "username": "xiaoshe_xiaoshe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940103810078376348",
+    "in_reply_to_user_id": "1802116593767284736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940094864001298673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoshe_xiaoshe 我c了舌的，太漂亮了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2035,
+        "media_key": "3_1940094839141363712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuyZ-iWW8AA4e2J.jpg",
+        "width": 1526
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1940094864001298673",
+        "created_at": "2025-07-01T17:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T18:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940103810078376348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1802116593767284736",
+              "start": 0,
+              "username": "xiaoshe_xiaoshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940103810078376348",
+        "in_reply_to_user_id": "1802116593767284736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940094864001298673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoshe_xiaoshe 我c了舌的，太漂亮了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940094839141363712"
+          ]
+        },
+        "author_id": "1802116593767284736",
+        "conversation_id": "1940094864001298673",
+        "created_at": "2025-07-01T17:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T18:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940094864001298673"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "试衣"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GMGxPsUOSa",
+              "end": 31,
+              "expanded_url": "https://x.com/xiaoshe_xiaoshe/status/1940094864001298673/photo/1",
+              "media_key": "3_1940094839141363712",
+              "start": 8,
+              "url": "https://t.co/GMGxPsUOSa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940094864001298673",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "UMR！#试衣 https://t.co/GMGxPsUOSa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1923458019305660813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 198,
+          "like_count": 10151,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 2948
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T23:11:01.000Z",
+        "description": "叫我小舌就好｜不聊骚｜女的｜骂我的等着被毕业吧🎓",
+        "id": "1802116593767284736",
+        "location": "૮₍ ´ ꒳ `₎ა",
+        "name": "小小小小舌",
+        "pinned_tweet_id": "1867560062975180937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937628490461003776/wkUuBviq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 252,
+          "like_count": 1582,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 443
+        },
+        "username": "xiaoshe_xiaoshe",
+        "verified": false
+      }
+    ]
+  }
+}

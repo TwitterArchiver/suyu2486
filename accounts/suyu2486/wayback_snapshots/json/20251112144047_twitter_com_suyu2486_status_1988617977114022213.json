@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988617942360346624",
+        "3_1988617937746583552"
+      ]
+    },
+    "author_id": "1910715228523831296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1988617977114022213",
+    "created_at": "2025-11-12T14:40:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T15:40:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988617977114022213"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hDUxfuD2zc",
+          "end": 56,
+          "expanded_url": "https://x.com/suyu2486/status/1988617977114022213/photo/1",
+          "media_key": "3_1988617942360346624",
+          "start": 33,
+          "url": "https://t.co/hDUxfuD2zc"
+        },
+        {
+          "display_url": "pic.x.com/hDUxfuD2zc",
+          "end": 56,
+          "expanded_url": "https://x.com/suyu2486/status/1988617977114022213/photo/1",
+          "media_key": "3_1988617937746583552",
+          "start": 33,
+          "url": "https://t.co/hDUxfuD2zc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988617977114022213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "处理一些尸体…你们是真没见过黑社会啊？！让你们飞起来（物理飞升） https://t.co/hDUxfuD2zc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1988617942360346624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5j9e4BbUAA3xSm.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1988617937746583552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5j9em1a4AA_hNH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988617942360346624",
+            "3_1988617937746583552"
+          ]
+        },
+        "author_id": "1910715228523831296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1988617977114022213",
+        "created_at": "2025-11-12T14:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T15:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988617977114022213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hDUxfuD2zc",
+              "end": 56,
+              "expanded_url": "https://x.com/suyu2486/status/1988617977114022213/photo/1",
+              "media_key": "3_1988617942360346624",
+              "start": 33,
+              "url": "https://t.co/hDUxfuD2zc"
+            },
+            {
+              "display_url": "pic.x.com/hDUxfuD2zc",
+              "end": 56,
+              "expanded_url": "https://x.com/suyu2486/status/1988617977114022213/photo/1",
+              "media_key": "3_1988617937746583552",
+              "start": 33,
+              "url": "https://t.co/hDUxfuD2zc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988617977114022213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "处理一些尸体…你们是真没见过黑社会啊？！让你们飞起来（物理飞升） https://t.co/hDUxfuD2zc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "06，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2357,
+          "following_count": 263,
+          "like_count": 22212,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 6265
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      }
+    ]
+  }
+}

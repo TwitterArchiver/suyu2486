@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1935976227627843927",
+    "created_at": "2025-06-20T08:22:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T09:22:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935976567424819697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1634028785497702401",
+          "start": 0,
+          "username": "uYuQWKzYqZJpomk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935976567424819697",
+    "in_reply_to_user_id": "1634028785497702401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935976227627843927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uYuQWKzYqZJpomk 铜锣湾这一块"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1935976214235430913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt34HA8bwAEZhmP.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1935976227627843927",
+        "created_at": "2025-06-20T08:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T09:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935976567424819697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1634028785497702401",
+              "start": 0,
+              "username": "uYuQWKzYqZJpomk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935976567424819697",
+        "in_reply_to_user_id": "1634028785497702401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935976227627843927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uYuQWKzYqZJpomk 铜锣湾这一块"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935976214235430913"
+          ]
+        },
+        "author_id": "1634028785497702401",
+        "conversation_id": "1935976227627843927",
+        "created_at": "2025-06-20T08:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T09:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935976227627843927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/camODoZyfD",
+              "end": 37,
+              "expanded_url": "https://x.com/uYuQWKzYqZJpomk/status/1935976227627843927/photo/1",
+              "media_key": "3_1935976214235430913",
+              "start": 14,
+              "url": "https://t.co/camODoZyfD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935976227627843927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "豆包还是太权威了，还能纹身 https://t.co/camODoZyfD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的，我将做回神鹰😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 177,
+          "like_count": 6532,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 1862
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-10T03:10:08.000Z",
+        "description": "06男幼🚬                                                                             \n\n不开心可以抽根电子烟🚬，不伤身",
+        "id": "1634028785497702401",
+        "name": "斑马还没睡.",
+        "pinned_tweet_id": "1920508608644562961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915033941016260608/oUFV3Q5d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 323,
+          "like_count": 336,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 709
+        },
+        "username": "uYuQWKzYqZJpomk",
+        "verified": false
+      }
+    ]
+  }
+}

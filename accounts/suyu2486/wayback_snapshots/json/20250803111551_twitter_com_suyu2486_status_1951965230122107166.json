@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1951240067240042617",
+    "created_at": "2025-08-03T11:15:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T12:15:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951965230122107166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1933086270114471936",
+          "start": 0,
+          "username": "CuiShu77006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951965230122107166",
+    "in_reply_to_user_id": "1933086270114471936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951240067240042617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuiShu77006 外娱何尝不是呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1951240067240042617",
+        "created_at": "2025-08-03T11:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T12:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951965230122107166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1933086270114471936",
+              "start": 0,
+              "username": "CuiShu77006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951965230122107166",
+        "in_reply_to_user_id": "1933086270114471936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951240067240042617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuiShu77006 外娱何尝不是呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933086270114471936",
+        "conversation_id": "1951240067240042617",
+        "created_at": "2025-08-01T11:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T12:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951240067240042617"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951240067240042617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 45636,
+          "like_count": 579,
+          "quote_count": 2,
+          "reply_count": 48,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "男的在这个破内娱真他娘的好混。🖕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1951649210652135765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 200,
+          "like_count": 12774,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 3522
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T08:57:49.000Z",
+        "description": "03｜isfp｜白羊座小女孩儿｜颜控｜喜欢拍拍拍分享我的日常｜碎碎念｜爱追剧 请私信我给我推荐剧谢谢｜欢迎女孩子私信找我玩儿🥹🤲｜男的别给我发你的牛子谢谢。谁发拉黑谁 腹肌可以发我尤其薄肌谢谢。｜匿名箱📮：https://t.co/J92behR6Qt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cuishu77006",
+                "end": 126,
+                "expanded_url": "https://ngl.link/cuishu77006",
+                "start": 103,
+                "url": "https://t.co/J92behR6Qt"
+              }
+            ]
+          }
+        },
+        "id": "1933086270114471936",
+        "name": "脆薯饼",
+        "pinned_tweet_id": "1947193319672742083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933086727846944768/YMUFM2XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 78,
+          "like_count": 1462,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 704
+        },
+        "username": "CuiShu77006",
+        "verified": false
+      }
+    ]
+  }
+}

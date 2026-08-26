@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1974854862958735791",
+    "created_at": "2025-10-06T03:18:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T04:18:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975038037714456666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1771855891656327168",
+          "start": 0,
+          "username": "kaisoeTvT"
+        },
+        {
+          "end": 23,
+          "id": "1688397365336850432",
+          "start": 11,
+          "username": "hongpigu980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975038037714456666",
+    "in_reply_to_user_id": "1771855891656327168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974865005616189760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kaisoeTvT @hongpigu980 表妹我出来了哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1974854862958735791",
+        "created_at": "2025-10-06T03:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T04:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975038037714456666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1771855891656327168",
+              "start": 0,
+              "username": "kaisoeTvT"
+            },
+            {
+              "end": 23,
+              "id": "1688397365336850432",
+              "start": 11,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975038037714456666",
+        "in_reply_to_user_id": "1771855891656327168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974865005616189760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaisoeTvT @hongpigu980 表妹我出来了哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771855891656327168",
+        "conversation_id": "1974854862958735791",
+        "created_at": "2025-10-05T15:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T16:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974865005616189760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1688397365336850432",
+              "start": 0,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974865005616189760",
+        "in_reply_to_user_id": "1688397365336850432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1181,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974854862958735791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongpigu980 表妹我进去了喔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我玊玉，叫玉是因为英文名是jade，玊（su）是有瑕疵的玉的意思，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1972598608924143996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2075,
+          "following_count": 261,
+          "like_count": 20702,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 5756
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T11:05:51.000Z",
+        "description": "随缘上线",
+        "id": "1771855891656327168",
+        "location": "886",
+        "name": "他说炸成淀粉肠都不给我",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919271253275512832/lUloCEPd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2534,
+          "following_count": 56,
+          "like_count": 1167,
+          "listed_count": 8,
+          "media_count": 11,
+          "tweet_count": 3313
+        },
+        "username": "kaisoeTvT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”推广自辨/关评为广 🥇全球外围质量最高选➡️ @yunle1289",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "yunle1289"
+              }
+            ]
+          }
+        },
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1971228496501538879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80744,
+          "following_count": 77,
+          "like_count": 87,
+          "listed_count": 83,
+          "media_count": 1311,
+          "tweet_count": 1714
+        },
+        "username": "hongpigu980",
+        "verified": true
+      }
+    ]
+  }
+}

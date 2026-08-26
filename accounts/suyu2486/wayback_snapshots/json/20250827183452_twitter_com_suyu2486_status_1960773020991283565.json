@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1960740849215791408",
+    "created_at": "2025-08-27T18:34:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T19:34:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960773020991283565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1768339985399480324",
+          "start": 0,
+          "username": "zzzzz337381"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960773020991283565",
+    "in_reply_to_user_id": "1768339985399480324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960766857105039866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzzzz337381 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1960740849215791408",
+        "created_at": "2025-08-27T18:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T19:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960773020991283565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1768339985399480324",
+              "start": 0,
+              "username": "zzzzz337381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960773020991283565",
+        "in_reply_to_user_id": "1768339985399480324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960766857105039866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzzzz337381 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768339985399480324",
+        "conversation_id": "1960740849215791408",
+        "created_at": "2025-08-27T18:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T19:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960766857105039866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960766857105039866",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960740849215791408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 蘑菇🍄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个好色的sb男的，双相情感障碍，情感漠视，精神失常，都滚远点别来烦我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "小玉",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1356,
+          "following_count": 197,
+          "like_count": 16965,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 4505
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T18:15:03.000Z",
+        "description": "名为你的一场雨 淋的我一病不起",
+        "id": "1768339985399480324",
+        "name": "zzzzz",
+        "pinned_tweet_id": "1915356627517280443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958255145202151424/kblL757A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 823,
+          "like_count": 6132,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 1095
+        },
+        "username": "zzzzz337381",
+        "verified": false
+      }
+    ]
+  }
+}

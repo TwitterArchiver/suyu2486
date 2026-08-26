@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1986255975897296900",
+    "created_at": "2025-11-06T05:43:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T06:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986308488776327430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1926115911276146688",
+          "start": 0,
+          "username": "mirro50150y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986308488776327430",
+    "in_reply_to_user_id": "1926115911276146688",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986255975897296900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mirro50150y rap"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1986255975897296900",
+        "created_at": "2025-11-06T05:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T06:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986308488776327430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1926115911276146688",
+              "start": 0,
+              "username": "mirro50150y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986308488776327430",
+        "in_reply_to_user_id": "1926115911276146688",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986255975897296900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mirro50150y rap"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926115911276146688",
+        "conversation_id": "1986255975897296900",
+        "created_at": "2025-11-06T02:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T03:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986255975897296900"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986255975897296900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 261,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "堕落程度坏药丸😏性别参考小攸婵😜脸像鹅妈妈变馒😭嘴像韩露一样馋😋目前长相吉他张🤪心理状态给到夯😝每天都假装忧伤😢活得老鼠般窝囊😒恋爱脑堪比小帕🥰脆弱程度索菲亚🤕胃袋良子一般大🥴素质在少羽上下😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "06，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1977439230432555047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2148,
+          "following_count": 261,
+          "like_count": 21840,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 6158
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T03:20:05.000Z",
+        "description": "一个很坏的小女孩 ｜置顶锁评是广 本人无✈️",
+        "id": "1926115911276146688",
+        "location": "不约炮｜不聊骚",
+        "name": "ivee",
+        "pinned_tweet_id": "1984525399465103725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929532345033564160/70Usr7wy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6267,
+          "following_count": 47,
+          "like_count": 9248,
+          "listed_count": 14,
+          "media_count": 117,
+          "tweet_count": 1947
+        },
+        "username": "mirro50150y",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1987116398762668384",
+    "created_at": "2025-11-09T06:48:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T07:48:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987412074365133133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1663516164306382852",
+          "start": 0,
+          "username": "Yooeuh121590"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987412074365133133",
+    "in_reply_to_user_id": "1663516164306382852",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987116398762668384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yooeuh121590 点了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1987116398762668384",
+        "created_at": "2025-11-09T06:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T07:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987412074365133133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1663516164306382852",
+              "start": 0,
+              "username": "Yooeuh121590"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987412074365133133",
+        "in_reply_to_user_id": "1663516164306382852",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987116398762668384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yooeuh121590 点了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663516164306382852",
+        "conversation_id": "1987116398762668384",
+        "created_at": "2025-11-08T11:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T12:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987116398762668384"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987116398762668384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1144,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真觉得女生就没有丑的，拾掇拾掇都很漂亮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "06，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1977439230432555047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2160,
+          "following_count": 263,
+          "like_count": 22019,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 6185
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T12:02:42.000Z",
+        "description": "您的虚拟助手",
+        "id": "1663516164306382852",
+        "location": "转帖为广，请自鉴！！",
+        "name": "豆包",
+        "pinned_tweet_id": "1984607734952776048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949456276330860544/XRYr0Aq5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6247,
+          "following_count": 95,
+          "like_count": 11047,
+          "listed_count": 5,
+          "media_count": 252,
+          "tweet_count": 4841
+        },
+        "username": "Yooeuh121590",
+        "verified": false
+      }
+    ]
+  }
+}

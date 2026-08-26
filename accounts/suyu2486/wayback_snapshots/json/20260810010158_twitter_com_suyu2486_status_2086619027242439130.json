@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2086449004267831736",
+    "created_at": "2026-08-10T01:01:58.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T02:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086619027242439130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1862557266890956800",
+          "start": 0,
+          "username": "bei_haishui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086619027242439130",
+    "in_reply_to_user_id": "1862557266890956800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086449004267831736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bei_haishui 你帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10702,
+        "height": 1280,
+        "media_key": "13_2086448908872601600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086448908872601600/img/Cthc0L5THAOaGil1.jpg",
+        "public_metrics": {
+          "view_count": 105
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086448908872601600/vid/avc1/320x568/evgFfhyFa-uUG6LA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086448908872601600/vid/avc1/480x852/8vBoFl2TbUM8mnr9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086448908872601600/vid/avc1/720x1280/IoaPhTMtdHlSx2mm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086448908872601600/pl/oeWvHT1cyoQ7RWqB.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2086449004267831736",
+        "created_at": "2026-08-10T01:01:58.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T02:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086619027242439130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1862557266890956800",
+              "start": 0,
+              "username": "bei_haishui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086619027242439130",
+        "in_reply_to_user_id": "1862557266890956800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086449004267831736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bei_haishui 你帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086448908872601600"
+          ]
+        },
+        "author_id": "1862557266890956800",
+        "conversation_id": "2086449004267831736",
+        "created_at": "2026-08-09T13:46:21.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T14:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086449004267831736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QTViDXnifv",
+              "end": 30,
+              "expanded_url": "https://x.com/bei_haishui/status/2086449004267831736/video/1",
+              "media_key": "13_2086448908872601600",
+              "start": 7,
+              "url": "https://t.co/QTViDXnifv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086449004267831736",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2086448908872601600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 667,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天就这样： https://t.co/QTViDXnifv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "is_identity_verified": false,
+        "location": "自用蜂鸟vpn",
+        "most_recent_tweet_id": "2086619027242439130",
+        "name": "小玉",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910715228523831296/1766048126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2058,
+          "following_count": 183,
+          "like_count": 21423,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6699
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-29T18:00:42.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "1862557266890956800",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086518400789217539",
+        "name": "错水刃",
+        "pinned_tweet_id": "2078406862995951707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1862557266890956800/1763103526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077744170450726912/iCUPM3Zv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9738,
+          "following_count": 394,
+          "like_count": 54584,
+          "listed_count": 9,
+          "media_count": 211,
+          "tweet_count": 6708
+        },
+        "url": "",
+        "username": "bei_haishui",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

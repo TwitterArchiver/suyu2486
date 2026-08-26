@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1938601372837913057",
+    "created_at": "2025-06-28T05:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T06:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938837585977319625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1762494323231469568",
+          "start": 0,
+          "username": "Palmiercake4929"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938837585977319625",
+    "in_reply_to_user_id": "1762494323231469568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938775455886414029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Palmiercake4929 那是牛的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1938601372837913057",
+        "created_at": "2025-06-28T05:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T06:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938837585977319625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1762494323231469568",
+              "start": 0,
+              "username": "Palmiercake4929"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938837585977319625",
+        "in_reply_to_user_id": "1762494323231469568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938775455886414029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Palmiercake4929 那是牛的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762494323231469568",
+        "conversation_id": "1938601372837913057",
+        "created_at": "2025-06-28T01:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T02:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938775455886414029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938775455886414029",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938601372837913057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 天赋异禀啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1938601372837913057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 196,
+          "like_count": 8923,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2536
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T15:06:22.000Z",
+        "description": "#les 我是女孩子， #喜欢女的",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "les"
+              },
+              {
+                "end": 17,
+                "start": 12,
+                "tag": "喜欢女的"
+              }
+            ]
+          }
+        },
+        "id": "1762494323231469568",
+        "location": "马来西亚",
+        "name": "蝴蝶酥小蛋糕",
+        "pinned_tweet_id": "1908526781898100849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933376159481540611/-XXqoaDZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4039,
+          "following_count": 44,
+          "like_count": 830,
+          "listed_count": 6,
+          "media_count": 106,
+          "tweet_count": 331
+        },
+        "username": "Palmiercake4929",
+        "verified": false
+      }
+    ]
+  }
+}

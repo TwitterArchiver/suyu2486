@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1936373460135182413",
+    "created_at": "2025-06-21T10:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T11:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936375417205563678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1802116593767284736",
+          "start": 0,
+          "username": "xiaoshe_xiaoshe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936375417205563678",
+    "in_reply_to_user_id": "1802116593767284736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936373460135182413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoshe_xiaoshe 唉我c了，舌的怎么又整美丽这出"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1936373442841845760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt9hYw0WoAAwrYC.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1936373442812522496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt9hYwtXMAAE-Va.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1936373460135182413",
+        "created_at": "2025-06-21T10:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T11:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936375417205563678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1802116593767284736",
+              "start": 0,
+              "username": "xiaoshe_xiaoshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936375417205563678",
+        "in_reply_to_user_id": "1802116593767284736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936373460135182413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoshe_xiaoshe 唉我c了，舌的怎么又整美丽这出"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936373442841845760",
+            "3_1936373442812522496"
+          ]
+        },
+        "author_id": "1802116593767284736",
+        "conversation_id": "1936373460135182413",
+        "created_at": "2025-06-21T10:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T11:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936373460135182413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eQM4JPP0zl",
+              "end": 44,
+              "expanded_url": "https://x.com/xiaoshe_xiaoshe/status/1936373460135182413/photo/1",
+              "media_key": "3_1936373442841845760",
+              "start": 21,
+              "url": "https://t.co/eQM4JPP0zl"
+            },
+            {
+              "display_url": "pic.x.com/eQM4JPP0zl",
+              "end": 44,
+              "expanded_url": "https://x.com/xiaoshe_xiaoshe/status/1936373460135182413/photo/1",
+              "media_key": "3_1936373442812522496",
+              "start": 21,
+              "url": "https://t.co/eQM4JPP0zl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936373460135182413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你也会夸那个女孩可爱对吗？算了我不问了。 https://t.co/eQM4JPP0zl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的，我将做回神鹰，爱说点c语言，不喜欢可以喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 188,
+          "like_count": 6952,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1998
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T23:11:01.000Z",
+        "description": "叫我小舌就好｜不聊骚｜女的｜骂我的等着被毕业吧🎓",
+        "id": "1802116593767284736",
+        "location": "૮₍ ´ ꒳ `₎ა",
+        "name": "小小小小舌",
+        "pinned_tweet_id": "1867560062975180937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931772553791680512/bW_1JWAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 250,
+          "like_count": 1575,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 441
+        },
+        "username": "xiaoshe_xiaoshe",
+        "verified": false
+      }
+    ]
+  }
+}

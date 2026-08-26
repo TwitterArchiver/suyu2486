@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1937987961758642265",
+    "created_at": "2025-06-27T14:51:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T15:51:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938611147642745103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1804798539332980736",
+          "start": 0,
+          "username": "aa333444555666"
+        },
+        {
+          "end": 26,
+          "id": "1686873444460494849",
+          "start": 16,
+          "username": "Ainanazi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938611147642745103",
+    "in_reply_to_user_id": "1804798539332980736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938609031373099107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aa333444555666 @Ainanazi1 笑死我了，你要毁了她吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1937987961758642265",
+        "created_at": "2025-06-27T14:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T15:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938611147642745103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1804798539332980736",
+              "start": 0,
+              "username": "aa333444555666"
+            },
+            {
+              "end": 26,
+              "id": "1686873444460494849",
+              "start": 16,
+              "username": "Ainanazi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938611147642745103",
+        "in_reply_to_user_id": "1804798539332980736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938609031373099107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aa333444555666 @Ainanazi1 笑死我了，你要毁了她吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804798539332980736",
+        "conversation_id": "1937987961758642265",
+        "created_at": "2025-06-27T14:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T15:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938609031373099107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1686873444460494849",
+              "start": 0,
+              "username": "Ainanazi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938609031373099107",
+        "in_reply_to_user_id": "1686873444460494849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937987961758642265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ainanazi1 他夸你是因为你免费啊，大妹子……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1930824661660516687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 196,
+          "like_count": 8753,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2454
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T08:48:08.000Z",
+        "description": "ENFP  说点废话 发点骚照🚪131.4（纯绿色微信).    520.（电子女友）\n非要给我发屌就先给我转点钱（骚扰我同理）",
+        "id": "1804798539332980736",
+        "name": "🦋",
+        "pinned_tweet_id": "1909965786724413791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910349937289904129/uXW9LKgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13247,
+          "following_count": 158,
+          "like_count": 9508,
+          "listed_count": 66,
+          "media_count": 39,
+          "tweet_count": 3556
+        },
+        "username": "aa333444555666",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-02T22:55:53.000Z",
+        "description": "46+私人v 聊天和更新日常",
+        "id": "1686873444460494849",
+        "name": "桃子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905670830027419648/ravyPAws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51234,
+          "following_count": 6,
+          "like_count": 140,
+          "listed_count": 69,
+          "media_count": 82,
+          "tweet_count": 113
+        },
+        "username": "Ainanazi1",
+        "verified": false
+      }
+    ]
+  }
+}

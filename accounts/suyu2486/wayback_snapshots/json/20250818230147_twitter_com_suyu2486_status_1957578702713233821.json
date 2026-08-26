@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1957467300682187194",
+    "created_at": "2025-08-18T23:01:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T00:01:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957578702713233821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1834931258461503495",
+          "start": 0,
+          "username": "imnotsoojin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957578702713233821",
+    "in_reply_to_user_id": "1834931258461503495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957467300682187194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imnotsoojin 点了，朋友变恋人会很尴尬，从一个身份转变另一个身份后聊天也会拘束。分手后当朋友的，那种若即若离的感觉让人更恶心。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1957467300682187194",
+        "created_at": "2025-08-18T23:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T00:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957578702713233821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1834931258461503495",
+              "start": 0,
+              "username": "imnotsoojin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957578702713233821",
+        "in_reply_to_user_id": "1834931258461503495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957467300682187194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imnotsoojin 点了，朋友变恋人会很尴尬，从一个身份转变另一个身份后聊天也会拘束。分手后当朋友的，那种若即若离的感觉让人更恶心。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834931258461503495",
+        "conversation_id": "1957467300682187194",
+        "created_at": "2025-08-18T15:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T16:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957467300682187194"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957467300682187194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对身边人的身份划分的很清楚，我就是觉得朋友不能变成恋人，恋人分手后也不可能成为朋友，所以炮友向我分享日常的时候我就会不耐烦额，我不想介入他的生活我也不会让他介入我的生活，我们能只纯粹的打炮吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 200,
+          "like_count": 15961,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 4240
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-14T12:24:47.000Z",
+        "description": "性 购物 睡觉 宅家老鼠人 偶尔会很想出去玩",
+        "id": "1834931258461503495",
+        "name": "我不是小猫",
+        "pinned_tweet_id": "1957462888928702690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953131885472956419/fhmd1IH2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 77,
+          "like_count": 3031,
+          "listed_count": 2,
+          "media_count": 917,
+          "tweet_count": 4921
+        },
+        "username": "imnotsoojin",
+        "verified": false
+      }
+    ]
+  }
+}

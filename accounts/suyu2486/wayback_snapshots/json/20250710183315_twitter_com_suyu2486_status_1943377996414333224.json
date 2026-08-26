@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1943356263586230719",
+    "created_at": "2025-07-10T18:33:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T19:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943377996414333224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1625547806357454848",
+          "start": 0,
+          "username": "uvuxvx43"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943377996414333224",
+    "in_reply_to_user_id": "1625547806357454848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943356263586230719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uvuxvx43 谁敢想这样的头像背后是如此权威的脸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943356243609030657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvgwNQxakAE7Jok.jpg",
+        "width": 1592
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1943356243273302016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvgwNPhXwAA6LgX.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1943356243361374208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvgwNP2XoAAU6dk.jpg",
+        "width": 1537
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1943356243000565760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvgwNOgWIAAHBxR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1943356263586230719",
+        "created_at": "2025-07-10T18:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T19:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943377996414333224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1625547806357454848",
+              "start": 0,
+              "username": "uvuxvx43"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943377996414333224",
+        "in_reply_to_user_id": "1625547806357454848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943356263586230719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uvuxvx43 谁敢想这样的头像背后是如此权威的脸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943356243609030657",
+            "3_1943356243273302016",
+            "3_1943356243361374208",
+            "3_1943356243000565760"
+          ]
+        },
+        "author_id": "1625547806357454848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1943356263586230719",
+        "created_at": "2025-07-10T17:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T18:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943356263586230719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TWETLy6AAf",
+              "end": 23,
+              "expanded_url": "https://x.com/uvuxvx43/status/1943356263586230719/photo/1",
+              "media_key": "3_1943356243609030657",
+              "start": 0,
+              "url": "https://t.co/TWETLy6AAf"
+            },
+            {
+              "display_url": "pic.x.com/TWETLy6AAf",
+              "end": 23,
+              "expanded_url": "https://x.com/uvuxvx43/status/1943356263586230719/photo/1",
+              "media_key": "3_1943356243273302016",
+              "start": 0,
+              "url": "https://t.co/TWETLy6AAf"
+            },
+            {
+              "display_url": "pic.x.com/TWETLy6AAf",
+              "end": 23,
+              "expanded_url": "https://x.com/uvuxvx43/status/1943356263586230719/photo/1",
+              "media_key": "3_1943356243361374208",
+              "start": 0,
+              "url": "https://t.co/TWETLy6AAf"
+            },
+            {
+              "display_url": "pic.x.com/TWETLy6AAf",
+              "end": 23,
+              "expanded_url": "https://x.com/uvuxvx43/status/1943356263586230719/photo/1",
+              "media_key": "3_1943356243000565760",
+              "start": 0,
+              "url": "https://t.co/TWETLy6AAf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943356263586230719",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TWETLy6AAf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 201,
+          "like_count": 11292,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 3240
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-14T17:29:39.000Z",
+        "description": "信奉运气",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uvuxvx43",
+                "end": 23,
+                "expanded_url": "https://ngl.link/uvuxvx43",
+                "start": 0,
+                "url": "https://t.co/PMMSWnOm4R"
+              }
+            ]
+          }
+        },
+        "id": "1625547806357454848",
+        "location": "垃圾堆旁的沙发上",
+        "name": "uv43",
+        "pinned_tweet_id": "1920829063930765458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938130173125398532/9evEH9ME_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 226,
+          "like_count": 24379,
+          "listed_count": 6,
+          "media_count": 172,
+          "tweet_count": 1123
+        },
+        "url": "https://t.co/PMMSWnOm4R",
+        "username": "uvuxvx43",
+        "verified": false
+      }
+    ]
+  }
+}

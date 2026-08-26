@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1957689577122197712",
+    "created_at": "2025-08-19T07:59:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T08:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957714032888279530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1564088613427712000",
+          "start": 0,
+          "username": "FicoKts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957714032888279530",
+    "in_reply_to_user_id": "1564088613427712000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957689577122197712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FicoKts 瓦学弟奔现吗…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1957689560261115904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyscSGPawAAjmZV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1957689577122197712",
+        "created_at": "2025-08-19T07:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T08:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957714032888279530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1564088613427712000",
+              "start": 0,
+              "username": "FicoKts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957714032888279530",
+        "in_reply_to_user_id": "1564088613427712000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957689577122197712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FicoKts 瓦学弟奔现吗…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957689560261115904"
+          ]
+        },
+        "author_id": "1564088613427712000",
+        "conversation_id": "1957689577122197712",
+        "created_at": "2025-08-19T06:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T07:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957689577122197712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C5QqeVEvbL",
+              "end": 32,
+              "expanded_url": "https://x.com/FicoKts/status/1957689577122197712/photo/1",
+              "media_key": "3_1957689560261115904",
+              "start": 9,
+              "url": "https://t.co/C5QqeVEvbL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957689577122197712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在路上融化了… https://t.co/C5QqeVEvbL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1322,
+          "following_count": 200,
+          "like_count": 16134,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 4270
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-29T03:12:49.000Z",
+        "description": "当小号乱发",
+        "id": "1564088613427712000",
+        "name": "我爱吃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935520511410241536/iMukrK1c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 128,
+          "like_count": 2591,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 578
+        },
+        "username": "FicoKts",
+        "verified": false
+      }
+    ]
+  }
+}

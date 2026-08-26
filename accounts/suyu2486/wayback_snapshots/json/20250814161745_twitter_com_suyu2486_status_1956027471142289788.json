@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1956020579733058010",
+    "created_at": "2025-08-14T16:17:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T17:17:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956027471142289788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1831042430449471488",
+          "start": 0,
+          "username": "x57688"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956027471142289788",
+    "in_reply_to_user_id": "1831042430449471488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956026820568162374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x57688 我不知道了，我想一步登天，这太不现实又恶心，我在自己恶心自己，我太想进步了，又没有办法，在一点点内耗中变的难过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1956020579733058010",
+        "created_at": "2025-08-14T16:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T17:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956027471142289788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1831042430449471488",
+              "start": 0,
+              "username": "x57688"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956027471142289788",
+        "in_reply_to_user_id": "1831042430449471488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956026820568162374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x57688 我不知道了，我想一步登天，这太不现实又恶心，我在自己恶心自己，我太想进步了，又没有办法，在一点点内耗中变的难过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831042430449471488",
+        "conversation_id": "1956020579733058010",
+        "created_at": "2025-08-14T16:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T17:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956026820568162374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956026820568162374",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956020579733058010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 小玉你把自己想得太大了，我们就算做小小的事又如何呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1955773434958352438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1288,
+          "following_count": 199,
+          "like_count": 15617,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 4247
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T18:52:28.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=W1K03lm9",
+                "start": 0,
+                "url": "https://t.co/Vdo50AAOrZ"
+              }
+            ]
+          }
+        },
+        "id": "1831042430449471488",
+        "location": "自用蜂鸟VPN",
+        "name": "香芋派",
+        "pinned_tweet_id": "1926365201269444810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928837612439220232/7cwXX9oR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5820,
+          "following_count": 241,
+          "like_count": 13664,
+          "listed_count": 2,
+          "media_count": 196,
+          "tweet_count": 8650
+        },
+        "url": "https://t.co/Vdo50AAOrZ",
+        "username": "x57688",
+        "verified": false
+      }
+    ]
+  }
+}

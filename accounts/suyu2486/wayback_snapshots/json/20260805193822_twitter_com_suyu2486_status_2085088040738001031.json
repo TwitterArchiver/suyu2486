@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2084855377938804746",
+    "created_at": "2026-08-05T19:38:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T20:38:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085088040738001031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1912326279468122112",
+          "start": 0,
+          "username": "opitia255274"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085088040738001031",
+    "in_reply_to_user_id": "1912326279468122112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084855377938804746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@opitia255274 笑得我肚子疼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 857,
+        "media_key": "3_2084854868129497088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO7kdN8aQAA18Mt.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2084855377938804746",
+        "created_at": "2026-08-05T19:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T20:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085088040738001031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1912326279468122112",
+              "start": 0,
+              "username": "opitia255274"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085088040738001031",
+        "in_reply_to_user_id": "1912326279468122112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084855377938804746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@opitia255274 笑得我肚子疼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084854868129497088"
+          ]
+        },
+        "author_id": "1912326279468122112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084855377938804746",
+        "created_at": "2026-08-05T04:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T05:11:54.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084854887800782925",
+          "2084855377938804746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BxfEZrBvJT",
+              "end": 79,
+              "expanded_url": "https://x.com/opitia255274/status/2084855377938804746/photo/1",
+              "media_key": "3_2084854868129497088",
+              "start": 56,
+              "url": "https://t.co/BxfEZrBvJT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084855377938804746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 412,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底是哪个贱畜一直在问这些问题？\np1:你妈喜欢\np2:你妈有过\np3:你妈喜欢\n以后ngl不会再回复这类问题 https://t.co/BxfEZrBvJT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "pinned_tweet_id": "2084166896371511380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2069,
+          "following_count": 191,
+          "like_count": 21402,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6693
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T02:05:00.000Z",
+        "description": "宝贝：@violetfiutf \n我所有的帖子都是乱说的\n可以叫我戒仙或者虾仁猪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "violetfiutf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/opitia255274",
+                "end": 23,
+                "expanded_url": "https://ngl.link/opitia255274",
+                "start": 0,
+                "url": "https://t.co/7xoQEQvPtZ"
+              }
+            ]
+          }
+        },
+        "id": "1912326279468122112",
+        "location": "Paradise",
+        "name": "戒撸的仙人",
+        "pinned_tweet_id": "2079043430265782654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070712493975257089/ms7gsNiz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6205,
+          "following_count": 359,
+          "like_count": 9074,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 3430
+        },
+        "url": "https://t.co/7xoQEQvPtZ",
+        "username": "opitia255274",
+        "verified": true
+      }
+    ]
+  }
+}

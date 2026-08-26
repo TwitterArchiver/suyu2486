@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1976807786328768920",
+    "created_at": "2025-10-11T08:26:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T09:26:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976927357991789013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1462285623943966720",
+          "start": 0,
+          "username": "Ruiuiui2002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976927357991789013",
+    "in_reply_to_user_id": "1462285623943966720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976807786328768920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruiuiui2002 爽冲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1146,
+        "media_key": "3_1976807774345736192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G28IMnsbsAANGOi.jpg",
+        "width": 926
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1976807774295408643",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G28IMngbwAMf-6J.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1976807774589009921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G28IMombwAE1L2J.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1976807774521901059",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G28IMoWbwAMN2R4.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1976807786328768920",
+        "created_at": "2025-10-11T08:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T09:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976927357991789013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1462285623943966720",
+              "start": 0,
+              "username": "Ruiuiui2002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976927357991789013",
+        "in_reply_to_user_id": "1462285623943966720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976807786328768920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruiuiui2002 爽冲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976807774345736192",
+            "3_1976807774295408643",
+            "3_1976807774589009921",
+            "3_1976807774521901059"
+          ]
+        },
+        "author_id": "1462285623943966720",
+        "conversation_id": "1976807786328768920",
+        "created_at": "2025-10-11T00:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T01:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976807786328768920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lM3RDWKyZB",
+              "end": 36,
+              "expanded_url": "https://x.com/Ruiuiui2002/status/1976807786328768920/photo/1",
+              "media_key": "3_1976807774345736192",
+              "start": 13,
+              "url": "https://t.co/lM3RDWKyZB"
+            },
+            {
+              "display_url": "pic.x.com/lM3RDWKyZB",
+              "end": 36,
+              "expanded_url": "https://x.com/Ruiuiui2002/status/1976807786328768920/photo/1",
+              "media_key": "3_1976807774295408643",
+              "start": 13,
+              "url": "https://t.co/lM3RDWKyZB"
+            },
+            {
+              "display_url": "pic.x.com/lM3RDWKyZB",
+              "end": 36,
+              "expanded_url": "https://x.com/Ruiuiui2002/status/1976807786328768920/photo/1",
+              "media_key": "3_1976807774589009921",
+              "start": 13,
+              "url": "https://t.co/lM3RDWKyZB"
+            },
+            {
+              "display_url": "pic.x.com/lM3RDWKyZB",
+              "end": 36,
+              "expanded_url": "https://x.com/Ruiuiui2002/status/1976807786328768920/photo/1",
+              "media_key": "3_1976807774521901059",
+              "start": 13,
+              "url": "https://t.co/lM3RDWKyZB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976807786328768920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1107,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "裸照没有 后面那种免费！ https://t.co/lM3RDWKyZB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我玊玉，叫玉是因为英文名是jade，玊（su）是有瑕疵的玉的意思，男的，infp，装逼让你飞起来，机舱开🚪中，座位费20一位（一包黑兰州的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗     🎼  转帖、置顶推广关评自辩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1976463304324419641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2150,
+          "following_count": 261,
+          "like_count": 21040,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 5849
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T05:04:06.000Z",
+        "description": "鸡鸡不论是做成红烧鸡鸡还是爆炒鸡鸡都风味十足，是一道绝佳美食，滋阴补阳，对于家庭聚餐来说是一个不错的选择|不接推广｜过🚪只能加微信无任何福利｜自用VPN高速稳定https://t.co/GvBsCvfrjV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "so.sulink.life/#/register?cod…",
+                "end": 103,
+                "expanded_url": "https://so.sulink.life/#/register?code=ayQjF6nx",
+                "start": 80,
+                "url": "https://t.co/GvBsCvfrjV"
+              }
+            ]
+          }
+        },
+        "id": "1462285623943966720",
+        "location": "精神病院",
+        "name": "我为鸡鸡狂",
+        "pinned_tweet_id": "1860458766967406659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966524165521092608/pRvxsfbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25370,
+          "following_count": 298,
+          "like_count": 43348,
+          "listed_count": 23,
+          "media_count": 2926,
+          "tweet_count": 11641
+        },
+        "username": "Ruiuiui2002",
+        "verified": false
+      }
+    ]
+  }
+}

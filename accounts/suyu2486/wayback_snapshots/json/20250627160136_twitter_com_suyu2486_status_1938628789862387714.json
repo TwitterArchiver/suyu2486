@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1938344197645602963",
+    "created_at": "2025-06-27T16:01:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T17:01:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938628789862387714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1491279928561524737",
+          "start": 0,
+          "username": "qreewwe2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938628789862387714",
+    "in_reply_to_user_id": "1491279928561524737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938344197645602963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qreewwe2 我c了，老铁这几天就想这一口啊，又给我馋着了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938344175419707393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuZhwfxW0AEKPN2.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1938344197645602963",
+        "created_at": "2025-06-27T16:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T17:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938628789862387714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1491279928561524737",
+              "start": 0,
+              "username": "qreewwe2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938628789862387714",
+        "in_reply_to_user_id": "1491279928561524737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938344197645602963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qreewwe2 我c了，老铁这几天就想这一口啊，又给我馋着了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938344175419707393"
+          ]
+        },
+        "author_id": "1491279928561524737",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1938344197645602963",
+        "created_at": "2025-06-26T21:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T22:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938344197645602963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/93W90H28EA",
+              "end": 32,
+              "expanded_url": "https://x.com/qreewwe2/status/1938344197645602963/photo/1",
+              "media_key": "3_1938344175419707393",
+              "start": 9,
+              "url": "https://t.co/93W90H28EA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938344197645602963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太带派了老铁17 https://t.co/93W90H28EA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1938601372837913057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 196,
+          "like_count": 8774,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2467
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T05:16:59.000Z",
+        "description": "好友费5.20",
+        "id": "1491279928561524737",
+        "location": "-0.98km",
+        "name": "しか",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934597756221607937/_E5Z9K3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 208,
+          "like_count": 14257,
+          "listed_count": 3,
+          "media_count": 278,
+          "tweet_count": 3815
+        },
+        "username": "qreewwe2",
+        "verified": false
+      }
+    ]
+  }
+}

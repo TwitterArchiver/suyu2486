@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1949440914646249950",
+    "created_at": "2025-07-27T17:18:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T18:18:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949519696010576248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1883157644711796736",
+          "start": 0,
+          "username": "TvTbreak"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949519696010576248",
+    "in_reply_to_user_id": "1883157644711796736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949440914646249950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TvTbreak 美的失语"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1949440866646470656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw3OI78XsAAq1lu.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1949440914646249950",
+        "created_at": "2025-07-27T17:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T18:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949519696010576248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883157644711796736",
+              "start": 0,
+              "username": "TvTbreak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949519696010576248",
+        "in_reply_to_user_id": "1883157644711796736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949440914646249950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TvTbreak 美的失语"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949440866646470656"
+          ]
+        },
+        "author_id": "1883157644711796736",
+        "conversation_id": "1949440914646249950",
+        "created_at": "2025-07-27T12:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T13:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949440914646249950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n83v7zgeJF",
+              "end": 28,
+              "expanded_url": "https://x.com/TvTbreak/status/1949440914646249950/photo/1",
+              "media_key": "3_1949440866646470656",
+              "start": 5,
+              "url": "https://t.co/n83v7zgeJF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949440914646249950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4594,
+          "like_count": 128,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很不一样 https://t.co/n83v7zgeJF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男，可以叫我小玉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1948457851778990521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 199,
+          "like_count": 11992,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 3379
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T14:19:15.000Z",
+        "description": "分享生活｜不搞黄色请不要打扰我",
+        "id": "1883157644711796736",
+        "location": "喜欢我请给我钱",
+        "name": "薄情寡义之人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946528454934933506/2586Y6Ja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2841,
+          "following_count": 88,
+          "like_count": 4928,
+          "listed_count": 12,
+          "media_count": 76,
+          "tweet_count": 2088
+        },
+        "username": "TvTbreak",
+        "verified": false
+      }
+    ]
+  }
+}

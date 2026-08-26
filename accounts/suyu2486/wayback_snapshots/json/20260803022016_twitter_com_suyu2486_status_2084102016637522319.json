@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2083875279861104940",
+    "created_at": "2026-08-03T02:20:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T03:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084102016637522319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1996748013834997761",
+          "start": 0,
+          "username": "KA926493"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084102016637522319",
+    "in_reply_to_user_id": "1996748013834997761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083875279861104940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KA926493 烧爆了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2083875268649742336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtphBgW8AA6Pr8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2083875279861104940",
+        "created_at": "2026-08-03T02:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084102016637522319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1996748013834997761",
+              "start": 0,
+              "username": "KA926493"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084102016637522319",
+        "in_reply_to_user_id": "1996748013834997761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083875279861104940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KA926493 烧爆了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083875268649742336"
+          ]
+        },
+        "author_id": "1996748013834997761",
+        "conversation_id": "2083875279861104940",
+        "created_at": "2026-08-02T11:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083875279861104940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BBqoTWqJ4v",
+              "end": 27,
+              "expanded_url": "https://x.com/KA926493/status/2083875279861104940/photo/1",
+              "media_key": "3_2083875268649742336",
+              "start": 4,
+              "url": "https://t.co/BBqoTWqJ4v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083875279861104940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 14540,
+          "like_count": 1298,
+          "quote_count": 4,
+          "reply_count": 94,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "烧吗？ https://t.co/BBqoTWqJ4v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2066,
+          "following_count": 190,
+          "like_count": 21253,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6643
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-05T01:06:57.000Z",
+        "description": "拍摄题材而已，不要当真，no sm no 4i no gay。\n🔗：https://t.co/0m6SQL3zSK\n\n万一号没了的话👉🏻@KA9264931🥹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 68,
+                "username": "KA9264931"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ka926493",
+                "end": 57,
+                "expanded_url": "https://ngl.link/ka926493",
+                "start": 34,
+                "url": "https://t.co/0m6SQL3zSK"
+              }
+            ]
+          }
+        },
+        "id": "1996748013834997761",
+        "location": "北京",
+        "name": "KA",
+        "pinned_tweet_id": "1998325891529953403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027074531547107329/2QvFcmQJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1371,
+          "following_count": 156,
+          "like_count": 26494,
+          "listed_count": 7,
+          "media_count": 73,
+          "tweet_count": 1601
+        },
+        "url": "",
+        "username": "KA926493",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1948031788850245968",
+    "created_at": "2025-07-23T21:35:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T22:35:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948134902118928548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1803642368949886976",
+          "start": 0,
+          "username": "xiaoguai041003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948134902118928548",
+    "in_reply_to_user_id": "1803642368949886976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948031788850245968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoguai041003 呕吐物"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1948031782382977024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwjMlcAbwAA5VVK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1948031788850245968",
+        "created_at": "2025-07-23T21:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T22:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948134902118928548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1803642368949886976",
+              "start": 0,
+              "username": "xiaoguai041003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948134902118928548",
+        "in_reply_to_user_id": "1803642368949886976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948031788850245968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoguai041003 呕吐物"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948031782382977024"
+          ]
+        },
+        "author_id": "1803642368949886976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1948031788850245968",
+        "created_at": "2025-07-23T14:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T15:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948031788850245968"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "黄金"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QsgFF3GDDu",
+              "end": 40,
+              "expanded_url": "https://x.com/xiaoguai041003/status/1948031788850245968/photo/1",
+              "media_key": "3_1948031782382977024",
+              "start": 17,
+              "url": "https://t.co/QsgFF3GDDu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948031788850245968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2008,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操啊这个酸奶长得像屎！ #黄金 https://t.co/QsgFF3GDDu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 200,
+          "like_count": 11828,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 3357
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T04:14:02.000Z",
+        "description": "毛儿的日记本|属性brat  星座天秤 |🚪52/188（没有区别就是想圈钱）纯绿 |日常and碎碎念|不线下不约 |推广自辨不是本人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=vnxE36SC",
+                "start": 0,
+                "url": "https://t.co/NtKvOP3zLM"
+              }
+            ]
+          }
+        },
+        "id": "1803642368949886976",
+        "location": " Tokyo 无广告干扰，机场节点随便挑，蜂鸟VPN",
+        "name": "小毛米",
+        "pinned_tweet_id": "1947964942461612239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941726080655593472/ydrsm3AW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9017,
+          "following_count": 243,
+          "like_count": 31324,
+          "listed_count": 13,
+          "media_count": 398,
+          "tweet_count": 7365
+        },
+        "url": "https://t.co/NtKvOP3zLM",
+        "username": "xiaoguai041003",
+        "verified": false
+      }
+    ]
+  }
+}

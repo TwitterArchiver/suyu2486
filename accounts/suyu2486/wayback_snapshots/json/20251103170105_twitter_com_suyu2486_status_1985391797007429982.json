@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1985344661729464470",
+    "created_at": "2025-11-03T17:01:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T18:01:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985391797007429982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1462285623943966720",
+          "start": 0,
+          "username": "Ruiuiui2002"
+        },
+        {
+          "end": 24,
+          "id": "1815511051338997760",
+          "start": 13,
+          "username": "jieli09876"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985391797007429982",
+    "in_reply_to_user_id": "1462285623943966720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985389337111097460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruiuiui2002 @jieli09876 艳丽是个入物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1985344661729464470",
+        "created_at": "2025-11-03T17:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T18:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985391797007429982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1462285623943966720",
+              "start": 0,
+              "username": "Ruiuiui2002"
+            },
+            {
+              "end": 24,
+              "id": "1815511051338997760",
+              "start": 13,
+              "username": "jieli09876"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985391797007429982",
+        "in_reply_to_user_id": "1462285623943966720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985389337111097460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruiuiui2002 @jieli09876 艳丽是个入物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462285623943966720",
+        "conversation_id": "1985344661729464470",
+        "created_at": "2025-11-03T16:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T17:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985389337111097460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1815511051338997760",
+              "start": 0,
+              "username": "jieli09876"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985389337111097460",
+        "in_reply_to_user_id": "1815511051338997760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985344661729464470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jieli09876 老公几把根往上一点有颗痣 我每次舔他几把都会亲下那里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "神鹰🦅，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "pinned_tweet_id": "1977439230432555047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981015242827087872/axAcZvEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2162,
+          "following_count": 261,
+          "like_count": 21737,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 6125
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T05:04:06.000Z",
+        "description": "鸡鸡不论是做成红烧鸡鸡还是爆炒鸡鸡都风味十足，是一道绝佳美食，滋阴补阳，对于家庭聚餐来说是一个不错的选择|不接推广｜过🚪只能加微信无任何福利｜自用VPN高速稳定https://t.co/GvBsCveTun",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "so.sulink.life/#/register?cod…",
+                "end": 103,
+                "expanded_url": "https://so.sulink.life/#/register?code=ayQjF6nx",
+                "start": 80,
+                "url": "https://t.co/GvBsCveTun"
+              }
+            ]
+          }
+        },
+        "id": "1462285623943966720",
+        "location": "精神病院",
+        "name": "我为鸡鸡狂",
+        "pinned_tweet_id": "1860458766967406659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966524165521092608/pRvxsfbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24854,
+          "following_count": 299,
+          "like_count": 43613,
+          "listed_count": 22,
+          "media_count": 2987,
+          "tweet_count": 11843
+        },
+        "username": "Ruiuiui2002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-22T22:15:52.000Z",
+        "description": "男的不要给我发私信行不行好恶心 已婚有老公不约不聊不交朋友给我发私信的傻逼男全部死全家",
+        "id": "1815511051338997760",
+        "location": "美国人",
+        "name": "你是不是想死",
+        "pinned_tweet_id": "1985372083006898226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982444242933780480/-727fkku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 270,
+          "like_count": 2795,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1101
+        },
+        "username": "jieli09876",
+        "verified": false
+      }
+    ]
+  }
+}

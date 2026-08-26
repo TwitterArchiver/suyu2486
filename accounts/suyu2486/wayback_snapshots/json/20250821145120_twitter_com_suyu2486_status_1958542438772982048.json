@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1957821581134295204",
+    "created_at": "2025-08-21T14:51:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T15:51:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958542438772982048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1899252805371834368",
+          "start": 0,
+          "username": "JanOnly_u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958542438772982048",
+    "in_reply_to_user_id": "1899252805371834368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957821581134295204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JanOnly_u 这几把啥…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 477,
+        "media_key": "3_1957821573148397568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyuUWQkbUAAJPsk.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1957821581134295204",
+        "created_at": "2025-08-21T14:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T15:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958542438772982048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1899252805371834368",
+              "start": 0,
+              "username": "JanOnly_u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958542438772982048",
+        "in_reply_to_user_id": "1899252805371834368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957821581134295204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanOnly_u 这几把啥…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957821573148397568"
+          ]
+        },
+        "author_id": "1899252805371834368",
+        "conversation_id": "1957821581134295204",
+        "created_at": "2025-08-19T15:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T16:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957821581134295204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CenNtzgHxI",
+              "end": 41,
+              "expanded_url": "https://x.com/JanOnly_u/status/1957821581134295204/photo/1",
+              "media_key": "3_1957821573148397568",
+              "start": 18,
+              "url": "https://t.co/CenNtzgHxI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957821581134295204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 97766,
+          "like_count": 714,
+          "quote_count": 7,
+          "reply_count": 120,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "妈呀这个世界上真的有我不懂的xp🤮 https://t.co/CenNtzgHxI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1348,
+          "following_count": 202,
+          "like_count": 16646,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 4397
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-11T00:15:41.000Z",
+        "description": "半黄推｜主页屎尿屁逼奶屌含量极高｜取关/双取/屏蔽随意｜不站队不参与吃点瓜｜颜控卡颜把自己卡住惹｜不线下不卖任何不聊黄｜点赞关注评论已是我最大的主动我真的是个内向小女孩来的🫶｜私信只回过门消息除了门哥和互关我根本不想认识你们🙏",
+        "id": "1899252805371834368",
+        "location": "🚪  52好友位  188/388/520纯绿",
+        "name": "小u",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953800006957510656/tNu1nEcp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16376,
+          "following_count": 317,
+          "like_count": 40895,
+          "listed_count": 50,
+          "media_count": 450,
+          "tweet_count": 5370
+        },
+        "username": "JanOnly_u",
+        "verified": false
+      }
+    ]
+  }
+}

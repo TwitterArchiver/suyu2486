@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1951644474876305698",
+    "created_at": "2025-08-03T11:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T12:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951964263137919015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1225274552940318720",
+          "start": 0,
+          "username": "realOliverSama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951964263137919015",
+    "in_reply_to_user_id": "1225274552940318720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951644474876305698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realOliverSama 反复洗的过程算龟责吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1951644474876305698",
+        "created_at": "2025-08-03T11:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T12:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951964263137919015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1225274552940318720",
+              "start": 0,
+              "username": "realOliverSama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951964263137919015",
+        "in_reply_to_user_id": "1225274552940318720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951644474876305698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realOliverSama 反复洗的过程算龟责吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1225274552940318720",
+        "conversation_id": "1951644474876305698",
+        "created_at": "2025-08-02T14:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T15:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951644474876305698"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951644474876305698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 34313,
+          "like_count": 361,
+          "quote_count": 0,
+          "reply_count": 50,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "洗澡记得洗龟头"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1951649210652135765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 200,
+          "like_count": 12760,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 3518
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-06T04:26:49.000Z",
+        "description": "Is it safe to just be who we are? / @Zerlight0653",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 36,
+                "username": "Zerlight0653"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kogabyoliver?s…",
+                "end": 23,
+                "expanded_url": "https://x.com/kogabyoliver?s=21",
+                "start": 0,
+                "url": "https://t.co/wqRTCJu30G"
+              }
+            ]
+          }
+        },
+        "id": "1225274552940318720",
+        "location": "Ocean Blvd.",
+        "name": "Oliver",
+        "pinned_tweet_id": "1937872726984949967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937512196399071236/7RzrBo8X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15449,
+          "following_count": 879,
+          "like_count": 54982,
+          "listed_count": 19,
+          "media_count": 300,
+          "tweet_count": 1687
+        },
+        "url": "https://t.co/wqRTCJu30G",
+        "username": "realOliverSama",
+        "verified": false
+      }
+    ]
+  }
+}

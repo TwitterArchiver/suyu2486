@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1986090555361870014",
+    "created_at": "2025-11-12T14:36:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T15:36:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988616953523810322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1950937649948344320",
+          "start": 0,
+          "username": "CC003322"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988616953523810322",
+    "in_reply_to_user_id": "1950937649948344320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988586846893556026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CC003322 可丑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1986090555361870014",
+        "created_at": "2025-11-12T14:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T15:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988616953523810322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1950937649948344320",
+              "start": 0,
+              "username": "CC003322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988616953523810322",
+        "in_reply_to_user_id": "1950937649948344320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988586846893556026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CC003322 可丑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950937649948344320",
+        "conversation_id": "1986090555361870014",
+        "created_at": "2025-11-12T12:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T13:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988586846893556026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988586846893556026",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986090555361870014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 你为啥这么帅？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "06，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2357,
+          "following_count": 263,
+          "like_count": 22208,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 6261
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-31T15:12:45.000Z",
+        "description": "不加不聊不接推广陌生人私信已关 骂我的替我挡灾 只发日常 不发黄色内容 不爱看的麻烦屏蔽我 谢谢",
+        "id": "1950937649948344320",
+        "name": "曲奇🍪",
+        "pinned_tweet_id": "1984988066386493577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982988265641869312/CQxT-Wef_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1824,
+          "following_count": 117,
+          "like_count": 11390,
+          "listed_count": 5,
+          "media_count": 16,
+          "tweet_count": 1355
+        },
+        "username": "CC003322",
+        "verified": true
+      }
+    ]
+  }
+}

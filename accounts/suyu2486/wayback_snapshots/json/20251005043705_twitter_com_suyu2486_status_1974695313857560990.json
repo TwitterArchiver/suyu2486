@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1974634023990472909",
+    "created_at": "2025-10-05T04:37:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T05:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974695313857560990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1462285623943966720",
+          "start": 0,
+          "username": "Ruiuiui2002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974695313857560990",
+    "in_reply_to_user_id": "1462285623943966720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974634023990472909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruiuiui2002 艳丽，你这个真的很有意义！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1974633972857765888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2dPIuGbAAAyMko.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1974633987453956096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2dPJkebMAAT-Gv.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1974633997348286464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2dPKJVasAAQJrL.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1974633973554024448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2dPIwsbEAAW_jl.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1974634023990472909",
+        "created_at": "2025-10-05T04:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T05:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974695313857560990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1462285623943966720",
+              "start": 0,
+              "username": "Ruiuiui2002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974695313857560990",
+        "in_reply_to_user_id": "1462285623943966720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974634023990472909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruiuiui2002 艳丽，你这个真的很有意义！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974633972857765888",
+            "3_1974633987453956096",
+            "3_1974633997348286464",
+            "3_1974633973554024448"
+          ]
+        },
+        "author_id": "1462285623943966720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1974634023990472909",
+        "created_at": "2025-10-05T00:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T01:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974634023990472909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EuqfHqcOhI",
+              "end": 170,
+              "expanded_url": "https://x.com/Ruiuiui2002/status/1974634023990472909/photo/1",
+              "media_key": "3_1974633972857765888",
+              "start": 147,
+              "url": "https://t.co/EuqfHqcOhI"
+            },
+            {
+              "display_url": "pic.x.com/EuqfHqcOhI",
+              "end": 170,
+              "expanded_url": "https://x.com/Ruiuiui2002/status/1974634023990472909/photo/1",
+              "media_key": "3_1974633987453956096",
+              "start": 147,
+              "url": "https://t.co/EuqfHqcOhI"
+            },
+            {
+              "display_url": "pic.x.com/EuqfHqcOhI",
+              "end": 170,
+              "expanded_url": "https://x.com/Ruiuiui2002/status/1974634023990472909/photo/1",
+              "media_key": "3_1974633997348286464",
+              "start": 147,
+              "url": "https://t.co/EuqfHqcOhI"
+            },
+            {
+              "display_url": "pic.x.com/EuqfHqcOhI",
+              "end": 170,
+              "expanded_url": "https://x.com/Ruiuiui2002/status/1974634023990472909/photo/1",
+              "media_key": "3_1974633973554024448",
+              "start": 147,
+              "url": "https://t.co/EuqfHqcOhI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974634023990472909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2676,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家都很慷慨地付出金币和爱 都是很善良的人 谢谢宝宝们 我不知道应该怎样讲了 谢谢大家 大家实在太好了 爱你们 小程序里有项目执行情况 每次活动进展都会更新  我一直觉得孩子们的心理健康也应该得到重视 因为你们 孩子们的童年更温暖了 在思想方面也不会落后太多了 祝大家幸福 再次感谢宝宝们🥺🥺 https://t.co/EuqfHqcOhI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我玊玉，叫玉是因为英文名是jade，玊（su）是有瑕疵的玉的意思，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗七个小号其中之一@dante82682",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 131,
+                "username": "dante82682"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1972598608924143996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2060,
+          "following_count": 254,
+          "like_count": 20511,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 5678
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T05:04:06.000Z",
+        "description": "鸡鸡不论是做成红烧鸡鸡还是爆炒鸡鸡都风味十足，是一道绝佳美食，滋阴补阳，对于家庭聚餐来说是一个不错的选择|不接推广｜过🚪只能加微信无任何福利｜自用VPN高速稳定https://t.co/GvBsCvfrjV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "so.sulink.life/#/register?cod…",
+                "end": 103,
+                "expanded_url": "https://so.sulink.life/#/register?code=ayQjF6nx",
+                "start": 80,
+                "url": "https://t.co/GvBsCvfrjV"
+              }
+            ]
+          }
+        },
+        "id": "1462285623943966720",
+        "location": "精神病院",
+        "name": "我为鸡鸡狂",
+        "pinned_tweet_id": "1860458766967406659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966524165521092608/pRvxsfbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25513,
+          "following_count": 299,
+          "like_count": 43321,
+          "listed_count": 23,
+          "media_count": 2901,
+          "tweet_count": 11593
+        },
+        "username": "Ruiuiui2002",
+        "verified": false
+      }
+    ]
+  }
+}

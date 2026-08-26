@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1983963663884284166",
+    "created_at": "2025-10-31T12:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T13:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984235031381107168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1620152561826242560",
+          "start": 0,
+          "username": "yng31653612"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984235031381107168",
+    "in_reply_to_user_id": "1620152561826242560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984231774197797294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yng31653612 的确味…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1983963663884284166",
+        "created_at": "2025-10-31T12:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T13:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984235031381107168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1620152561826242560",
+              "start": 0,
+              "username": "yng31653612"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984235031381107168",
+        "in_reply_to_user_id": "1620152561826242560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984231774197797294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yng31653612 的确味…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620152561826242560",
+        "conversation_id": "1983963663884284166",
+        "created_at": "2025-10-31T12:11:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T13:11:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984231774197797294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984231774197797294",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983963663884284166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 住宿舍都这么懒  跟他住一起的也太惨了吧 不敢想这宿舍得多味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "神鹰🦅，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "pinned_tweet_id": "1977439230432555047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981015242827087872/axAcZvEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2153,
+          "following_count": 261,
+          "like_count": 21714,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 6090
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-30T20:11:01.000Z",
+        "description": "1",
+        "id": "1620152561826242560",
+        "name": "青",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946581243203665920/tOb3s8kB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 49,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 21
+        },
+        "username": "yng31653612",
+        "verified": false
+      }
+    ]
+  }
+}

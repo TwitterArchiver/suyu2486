@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1937559593493712990",
+    "created_at": "2025-06-24T18:44:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T19:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937582562357965171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1888230641973727232",
+          "start": 0,
+          "username": "DuvetV2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937582562357965171",
+    "in_reply_to_user_id": "1888230641973727232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937559593493712990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DuvetV2 你啥意思！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1937559593493712990",
+        "created_at": "2025-06-24T18:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T19:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937582562357965171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1888230641973727232",
+              "start": 0,
+              "username": "DuvetV2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937582562357965171",
+        "in_reply_to_user_id": "1888230641973727232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937559593493712990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DuvetV2 你啥意思！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888230641973727232",
+        "conversation_id": "1937559593493712990",
+        "created_at": "2025-06-24T17:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T18:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937559593493712990"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937559593493712990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "长得丑的男生留长发只会显得很不利落  如果皮肤比较黑还会显脏显邋遢。给人的印象只会是觉得这人天天不洗澡不洗头懒得打理才留得长发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1936734143804735662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 193,
+          "like_count": 8013,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 2233
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-08T14:17:48.000Z",
+        "description": "自拍碎碎念推︱顺性别bi︱休学中︱08 170 130︱脑子有病︱电吉他learning︱线下查无此人︱打扰我墙内的不得好死︱提问箱：https://t.co/836ZU8u1x3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duvetv2",
+                "end": 90,
+                "expanded_url": "https://ngl.link/duvetv2",
+                "start": 67,
+                "url": "https://t.co/836ZU8u1x3"
+              }
+            ]
+          }
+        },
+        "id": "1888230641973727232",
+        "location": "🚪52/88/188/288",
+        "name": "睡前喝牛奶",
+        "pinned_tweet_id": "1934286826296225889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915037559572619264/Ex5w04iS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1752,
+          "following_count": 536,
+          "like_count": 4728,
+          "listed_count": 7,
+          "media_count": 446,
+          "tweet_count": 2870
+        },
+        "username": "DuvetV2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2017614406759444743",
+    "created_at": "2026-02-02T11:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T12:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018291457594183939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1553278286796451840",
+          "start": 0,
+          "username": "XuanZai12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018291457594183939",
+    "in_reply_to_user_id": "1553278286796451840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017614406759444743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XuanZai12138 泡泡…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2017614393425727491",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAABmd3bEAM4WnD.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2017614406759444743",
+        "created_at": "2026-02-02T11:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T12:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018291457594183939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1553278286796451840",
+              "start": 0,
+              "username": "XuanZai12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018291457594183939",
+        "in_reply_to_user_id": "1553278286796451840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017614406759444743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XuanZai12138 泡泡…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017614393425727491"
+          ]
+        },
+        "author_id": "1553278286796451840",
+        "conversation_id": "2017614406759444743",
+        "created_at": "2026-01-31T15:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T16:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017614406759444743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8iSTNnXnYc",
+              "end": 31,
+              "expanded_url": "https://x.com/XuanZai12138/status/2017614406759444743/photo/1",
+              "media_key": "3_2017614393425727491",
+              "start": 8,
+              "url": "https://t.co/8iSTNnXnYc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017614406759444743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 822,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就这样奖励自己 https://t.co/8iSTNnXnYc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2336,
+          "following_count": 274,
+          "like_count": 22655,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 6524
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-30T07:16:29.000Z",
+        "description": "我叫小鸡丨空前绝后的幸运小孩丨是郭德纲是曹云金@huang_h07丨接一点点🔮和其他玄学业务 家是出马的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "huang_h07"
+              }
+            ]
+          }
+        },
+        "id": "1553278286796451840",
+        "name": "十九岁帅到邻居想报警",
+        "pinned_tweet_id": "2007144622808805763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004221024544681984/2j7KPplv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 124,
+          "like_count": 1998,
+          "listed_count": 3,
+          "media_count": 157,
+          "tweet_count": 1010
+        },
+        "username": "XuanZai12138",
+        "verified": false
+      }
+    ]
+  }
+}

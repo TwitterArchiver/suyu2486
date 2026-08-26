@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1937915341818015840",
+    "created_at": "2025-06-26T07:49:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T08:49:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938142580534816972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1534187424678498304",
+          "start": 0,
+          "username": "xihuanni030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938142580534816972",
+    "in_reply_to_user_id": "1534187424678498304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938142330789499378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xihuanni030 啊啊啊？什么事什么事！（慌张左右摇头查看）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1937915341818015840",
+        "created_at": "2025-06-26T07:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T08:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938142580534816972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1534187424678498304",
+              "start": 0,
+              "username": "xihuanni030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938142580534816972",
+        "in_reply_to_user_id": "1534187424678498304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938142330789499378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xihuanni030 啊啊啊？什么事什么事！（慌张左右摇头查看）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1534187424678498304",
+        "conversation_id": "1937915341818015840",
+        "created_at": "2025-06-26T07:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T08:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938142330789499378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938142330789499378",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938141933517607256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 出大事了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1936734143804735662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 198,
+          "like_count": 8528,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 2412
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-07T14:56:14.000Z",
+        "description": "别嫌我话多好嘛｜brat｜isfp｜04-162-109 🎯90｜分享日常🧩&一些奇奇怪怪的想法💭｜提问👉 https://t.co/UlL9D1Kp4T ｜喜欢我可以给我打钱了(´▽｀)｜🚪66/188/288/520",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/poeowo",
+                "end": 77,
+                "expanded_url": "http://ngl.link/poeowo",
+                "start": 54,
+                "url": "https://t.co/UlL9D1Kp4T"
+              }
+            ]
+          }
+        },
+        "id": "1534187424678498304",
+        "location": "跪求神秘数字",
+        "name": "糯米侠（今天好好减肥了吗）",
+        "pinned_tweet_id": "1930235138421731338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926636590253686784/y5qd0Lx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 103,
+          "like_count": 1933,
+          "listed_count": 3,
+          "media_count": 148,
+          "tweet_count": 1362
+        },
+        "username": "xihuanni030",
+        "verified": false
+      }
+    ]
+  }
+}

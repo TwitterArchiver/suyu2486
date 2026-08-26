@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1975743231821554064",
+    "created_at": "2025-10-08T06:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T07:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975810649474437238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1663516164306382852",
+          "start": 0,
+          "username": "Yooeuh121590"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975810649474437238",
+    "in_reply_to_user_id": "1663516164306382852",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975764192381837408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yooeuh121590 你开一个不完事了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1975743231821554064",
+        "created_at": "2025-10-08T06:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T07:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975810649474437238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1663516164306382852",
+              "start": 0,
+              "username": "Yooeuh121590"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975810649474437238",
+        "in_reply_to_user_id": "1663516164306382852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975764192381837408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yooeuh121590 你开一个不完事了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663516164306382852",
+        "conversation_id": "1975743231821554064",
+        "created_at": "2025-10-08T03:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T04:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975764192381837408"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975764192381837408",
+        "in_reply_to_user_id": "1663516164306382852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1524,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975743231821554064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人发现在字错误了吗？看的我好难受，但是我没会员编辑不了字"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我玊玉，叫玉是因为英文名是jade，玊（su）是有瑕疵的玉的意思，男的，infp，装逼让你飞起来，机舱开🚪中，座位费20一位（一包黑兰州的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗     🎼  转帖、置顶推广关评自辩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1975034794699538547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2137,
+          "following_count": 263,
+          "like_count": 20899,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 5800
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T12:02:42.000Z",
+        "description": "您的虚拟助手 | 眼熟的回关 不喜欢我请屏蔽",
+        "id": "1663516164306382852",
+        "location": "robot 🚪52",
+        "name": "豆包",
+        "pinned_tweet_id": "1974272384061616193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949456276330860544/XRYr0Aq5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4341,
+          "following_count": 96,
+          "like_count": 8557,
+          "listed_count": 2,
+          "media_count": 198,
+          "tweet_count": 3763
+        },
+        "username": "Yooeuh121590",
+        "verified": false
+      }
+    ]
+  }
+}

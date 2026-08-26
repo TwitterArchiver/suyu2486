@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1975483503497388549",
+    "created_at": "2025-10-07T13:37:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T14:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975556111769174214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1883727989671944192",
+          "start": 0,
+          "username": "nimasilehiahia"
+        },
+        {
+          "end": 21,
+          "id": "1720665183188922368",
+          "start": 16,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975556111769174214",
+    "in_reply_to_user_id": "1883727989671944192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975483503497388549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nimasilehiahia @grok 为什么没有18cm，我不上榜是有原因的懂不"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1975483503497388549",
+        "created_at": "2025-10-07T13:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T14:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975556111769174214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1883727989671944192",
+              "start": 0,
+              "username": "nimasilehiahia"
+            },
+            {
+              "end": 21,
+              "id": "1720665183188922368",
+              "start": 16,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975556111769174214",
+        "in_reply_to_user_id": "1883727989671944192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975483503497388549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nimasilehiahia @grok 为什么没有18cm，我不上榜是有原因的懂不"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883727989671944192",
+        "conversation_id": "1975483503497388549",
+        "created_at": "2025-10-07T08:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T09:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975483503497388549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 43,
+              "id": "1720665183188922368",
+              "start": 38,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975483503497388549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1012,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "参考我在和我互相关注的人中的推文，也包括我的推文，只用昵称告诉我，不要用@\n@grok\n\n几把10cm：\n几把9cm：\n几把8cm：\n几把7cm：\n几把6cm：\n几把5cm：\n几把4cm：\n几把3cm：\n几把2cm：\n几把1cm：\n几把0cm："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我玊玉，叫玉是因为英文名是jade，玊（su）是有瑕疵的玉的意思，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗     🎼  转帖、置顶推广关评自辩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1975034794699538547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2124,
+          "following_count": 262,
+          "like_count": 20813,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 5778
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T04:05:33.000Z",
+        "description": "关我屁事，关你屁事？  | 推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=ngr2J6c5",
+                "start": 0,
+                "url": "https://t.co/y74iEgGmI5"
+              }
+            ]
+          }
+        },
+        "id": "1883727989671944192",
+        "location": "蜂鸟vpn",
+        "name": "讨厌的人死了爹妈",
+        "pinned_tweet_id": "1974763735052156962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883728141543436288/FoLOuEY8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11258,
+          "following_count": 1035,
+          "like_count": 17207,
+          "listed_count": 18,
+          "media_count": 1259,
+          "tweet_count": 12239
+        },
+        "url": "https://t.co/y74iEgGmI5",
+        "username": "nimasilehiahia",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6403354,
+          "following_count": 3,
+          "like_count": 79,
+          "listed_count": 5042,
+          "media_count": 2687612,
+          "tweet_count": 54673413
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

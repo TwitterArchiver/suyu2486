@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1965229361675776204",
+    "created_at": "2025-09-09T11:59:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T12:59:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965384463615131964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1529448037885833216",
+          "start": 0,
+          "username": "WoShiGaoYuliang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965384463615131964",
+    "in_reply_to_user_id": "1529448037885833216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965229361675776204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WoShiGaoYuliang 高书记言之有理，您看我进组里那事…✍🏼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1965229361675776204",
+        "created_at": "2025-09-09T11:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T12:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965384463615131964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1529448037885833216",
+              "start": 0,
+              "username": "WoShiGaoYuliang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965384463615131964",
+        "in_reply_to_user_id": "1529448037885833216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965229361675776204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WoShiGaoYuliang 高书记言之有理，您看我进组里那事…✍🏼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529448037885833216",
+        "conversation_id": "1965229361675776204",
+        "created_at": "2025-09-09T01:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T02:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965229361675776204"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965229361675776204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5097,
+          "like_count": 137,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得厌蠢的人很正常，但到处标榜自己厌蠢的十有八九也是个蠢货"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗七个小号其中之一@dante82682",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "dante82682"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1963477103296614437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 225,
+          "like_count": 19277,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 5177
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-25T13:03:35.000Z",
+        "description": "2001年5月至2004年4月，任汉东省吕州市政法委副书记。\n2004年4月至2010年3月，担任汉东省吕州市委常委、政法委书记，并兼任吕州市政府副市长、党组副书记。\n2013年5月至2013年7月，担任汉东省委副书记、吕州市委书记。\n2013年7月至今，担任汉东省委常委、省委副书记、政法委书记。",
+        "id": "1529448037885833216",
+        "location": "汉东省 京州市 省委大院",
+        "name": "高育良",
+        "pinned_tweet_id": "1941784806347747656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829749016302919680/epgAdANi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1260,
+          "following_count": 507,
+          "like_count": 22685,
+          "listed_count": 5,
+          "media_count": 633,
+          "tweet_count": 7860
+        },
+        "username": "WoShiGaoYuliang",
+        "verified": false
+      }
+    ]
+  }
+}

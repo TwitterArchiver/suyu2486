@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1936283195663908943",
+    "created_at": "2025-06-21T05:47:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T06:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936299852725383618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1899312164738928640",
+          "start": 0,
+          "username": "ovoyi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936299852725383618",
+    "in_reply_to_user_id": "1899312164738928640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936283195663908943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ovoyi_ 唉我c了老铁，这玩意还是人啊，我要给他妈杀了，我的眼睛我的脑子…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14966,
+        "height": 1280,
+        "media_key": "13_1936283120229101568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1936283120229101568/img/t3qDDjlwzkmcI93F.jpg",
+        "public_metrics": {
+          "view_count": 191
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936283120229101568/vid/avc1/320x694/0VU0EVZu3zIb-yQC.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936283120229101568/vid/avc1/480x1040/84tLvPyeP4ctUHG8.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936283120229101568/vid/avc1/590x1280/AUZTC7zMyIK8J5so.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1936283120229101568/pl/VaIym9ww6fSZ8WBc.m3u8?tag=14"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1936283195663908943",
+        "created_at": "2025-06-21T05:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T06:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936299852725383618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1899312164738928640",
+              "start": 0,
+              "username": "ovoyi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936299852725383618",
+        "in_reply_to_user_id": "1899312164738928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936283195663908943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ovoyi_ 唉我c了老铁，这玩意还是人啊，我要给他妈杀了，我的眼睛我的脑子…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1936283120229101568"
+          ]
+        },
+        "author_id": "1899312164738928640",
+        "conversation_id": "1936283195663908943",
+        "created_at": "2025-06-21T04:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T05:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936283195663908943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jo5jMqrZ1F",
+              "end": 34,
+              "expanded_url": "https://x.com/ovoyi_/status/1936283195663908943/video/1",
+              "media_key": "13_1936283120229101568",
+              "start": 11,
+              "url": "https://t.co/Jo5jMqrZ1F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936283195663908943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 592,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "吃包皮垢视频。慎点。 https://t.co/Jo5jMqrZ1F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的，我将做回神鹰，爱说点c语言，不喜欢可以喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 183,
+          "like_count": 6806,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1939
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-11T04:11:33.000Z",
+        "description": "今天的怨气撒完了。拜拜🥰喵https://t.co/gyTLCHNXCO ｜推广自辨",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovoyi_",
+                "end": 36,
+                "expanded_url": "https://ngl.link/ovoyi_",
+                "start": 13,
+                "url": "https://t.co/gyTLCHNXCO"
+              }
+            ]
+          }
+        },
+        "id": "1899312164738928640",
+        "location": "脑袋只有五岁(=・ω・=)",
+        "name": "四滴泪",
+        "pinned_tweet_id": "1936043689765486782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911285969296216064/wxZ1Ts57_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1998,
+          "following_count": 141,
+          "like_count": 6556,
+          "listed_count": 5,
+          "media_count": 171,
+          "tweet_count": 3644
+        },
+        "username": "ovoyi_",
+        "verified": false
+      }
+    ]
+  }
+}

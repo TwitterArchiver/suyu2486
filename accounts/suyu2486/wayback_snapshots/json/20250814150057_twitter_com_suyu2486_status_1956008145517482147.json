@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1955788031086223368",
+    "created_at": "2025-08-14T15:00:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T16:00:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956008145517482147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1340737574",
+          "start": 0,
+          "username": "dajiba2012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956008145517482147",
+    "in_reply_to_user_id": "1340737574",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956007585301049383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dajiba2012 不给"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1955788031086223368",
+        "created_at": "2025-08-14T15:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T16:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956008145517482147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1340737574",
+              "start": 0,
+              "username": "dajiba2012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956008145517482147",
+        "in_reply_to_user_id": "1340737574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956007585301049383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dajiba2012 不给"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1340737574",
+        "conversation_id": "1955788031086223368",
+        "created_at": "2025-08-14T14:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T15:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956007585301049383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956007585301049383",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955788031086223368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 握日"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1955773434958352438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1289,
+          "following_count": 200,
+          "like_count": 15572,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 4235
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-10T01:44:02.000Z",
+        "description": "Oh！…Ooh！……Oohlala！",
+        "id": "1340737574",
+        "location": "East of Eden",
+        "name": "Kusunoki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/432916741442658304/pvaJOve4_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 2599,
+          "like_count": 29518,
+          "listed_count": 7,
+          "media_count": 73,
+          "tweet_count": 14966
+        },
+        "username": "dajiba2012",
+        "verified": false
+      }
+    ]
+  }
+}

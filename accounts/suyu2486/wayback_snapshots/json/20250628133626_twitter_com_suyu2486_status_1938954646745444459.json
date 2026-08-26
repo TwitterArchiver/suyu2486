@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1938259899911213396",
+    "created_at": "2025-06-28T13:36:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T14:36:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938954646745444459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1859613114875973632",
+          "start": 0,
+          "username": "OxOlasiss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938954646745444459",
+    "in_reply_to_user_id": "1859613114875973632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 41,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938259899911213396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OxOlasiss 老是刷不到乳姐，我搜过来看…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1938259825328099328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuYVCrMXkAAEVm6.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1938259825286078464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuYVCrCWYAAfGl7.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1938259825290342400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuYVCrDXcAAdooo.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1938259825298640896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuYVCrFWEAAj8tA.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1938259899911213396",
+        "created_at": "2025-06-28T13:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T14:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938954646745444459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1859613114875973632",
+              "start": 0,
+              "username": "OxOlasiss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938954646745444459",
+        "in_reply_to_user_id": "1859613114875973632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938259899911213396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OxOlasiss 老是刷不到乳姐，我搜过来看…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938259825328099328",
+            "3_1938259825286078464",
+            "3_1938259825290342400",
+            "3_1938259825298640896"
+          ]
+        },
+        "author_id": "1859613114875973632",
+        "conversation_id": "1938259899911213396",
+        "created_at": "2025-06-26T15:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T16:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938259899911213396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YyvxKP5kJS",
+              "end": 51,
+              "expanded_url": "https://x.com/OxOlasiss/status/1938259899911213396/photo/1",
+              "media_key": "3_1938259825328099328",
+              "start": 28,
+              "url": "https://t.co/YyvxKP5kJS"
+            },
+            {
+              "display_url": "pic.x.com/YyvxKP5kJS",
+              "end": 51,
+              "expanded_url": "https://x.com/OxOlasiss/status/1938259899911213396/photo/1",
+              "media_key": "3_1938259825286078464",
+              "start": 28,
+              "url": "https://t.co/YyvxKP5kJS"
+            },
+            {
+              "display_url": "pic.x.com/YyvxKP5kJS",
+              "end": 51,
+              "expanded_url": "https://x.com/OxOlasiss/status/1938259899911213396/photo/1",
+              "media_key": "3_1938259825290342400",
+              "start": 28,
+              "url": "https://t.co/YyvxKP5kJS"
+            },
+            {
+              "display_url": "pic.x.com/YyvxKP5kJS",
+              "end": 51,
+              "expanded_url": "https://x.com/OxOlasiss/status/1938259899911213396/photo/1",
+              "media_key": "3_1938259825298640896",
+              "start": 28,
+              "url": "https://t.co/YyvxKP5kJS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938259899911213396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1008,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可爱死了，我拍了好多好多照片可惜推特只能发4张图片。， https://t.co/YyvxKP5kJS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1938601372837913057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 198,
+          "like_count": 9286,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2663
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T15:01:39.000Z",
+        "description": "一个悲伤的女同性恋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=1h0ko8Gy",
+                "start": 0,
+                "url": "https://t.co/TQatFMWqQO"
+              }
+            ]
+          }
+        },
+        "id": "1859613114875973632",
+        "name": "孙笑川乳汁狂飙",
+        "pinned_tweet_id": "1932073813610512580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922265486420783104/-UCXELHh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 465,
+          "like_count": 8904,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 4377
+        },
+        "url": "https://t.co/TQatFMWqQO",
+        "username": "OxOlasiss",
+        "verified": false
+      }
+    ]
+  }
+}

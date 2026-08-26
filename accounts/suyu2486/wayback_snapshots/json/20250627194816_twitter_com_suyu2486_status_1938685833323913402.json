@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1938674467401564515",
+    "created_at": "2025-06-27T19:48:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T20:48:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938685833323913402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1858054876212903936",
+          "start": 0,
+          "username": "liuqqql"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938685833323913402",
+    "in_reply_to_user_id": "1858054876212903936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938682465918607681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuqqql 快睡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1938674467401564515",
+        "created_at": "2025-06-27T19:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T20:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938685833323913402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1858054876212903936",
+              "start": 0,
+              "username": "liuqqql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938685833323913402",
+        "in_reply_to_user_id": "1858054876212903936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938682465918607681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuqqql 快睡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858054876212903936",
+        "conversation_id": "1938674467401564515",
+        "created_at": "2025-06-27T19:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T20:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938682465918607681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938682465918607681",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938674467401564515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 ！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1938601372837913057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 196,
+          "like_count": 8849,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2506
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T07:49:47.000Z",
+        "description": "我要稳稳的幸福/喜欢自言自语/不加任何人墙外联系方式 除非钞能力…/十分鱿鱼的一个入",
+        "id": "1858054876212903936",
+        "location": "超级菠萝包",
+        "name": "小想",
+        "pinned_tweet_id": "1919734614140322173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911473594430783489/2R9CrSeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 55,
+          "like_count": 6040,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1250
+        },
+        "username": "liuqqql",
+        "verified": false
+      }
+    ]
+  }
+}

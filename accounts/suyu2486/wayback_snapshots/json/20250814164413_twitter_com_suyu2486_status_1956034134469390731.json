@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1956020579733058010",
+    "created_at": "2025-08-14T16:44:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T17:44:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956034134469390731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1834931258461503495",
+          "start": 0,
+          "username": "imnotsoojin"
+        },
+        {
+          "end": 20,
+          "id": "1831042430449471488",
+          "start": 13,
+          "username": "x57688"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956034134469390731",
+    "in_reply_to_user_id": "1834931258461503495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956029605237940714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imnotsoojin @x57688 谢谢你小猫😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1956020579733058010",
+        "created_at": "2025-08-14T16:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T17:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956034134469390731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1834931258461503495",
+              "start": 0,
+              "username": "imnotsoojin"
+            },
+            {
+              "end": 20,
+              "id": "1831042430449471488",
+              "start": 13,
+              "username": "x57688"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956034134469390731",
+        "in_reply_to_user_id": "1834931258461503495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956029605237940714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imnotsoojin @x57688 谢谢你小猫😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834931258461503495",
+        "conversation_id": "1956020579733058010",
+        "created_at": "2025-08-14T16:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T17:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956029605237940714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            },
+            {
+              "end": 17,
+              "id": "1831042430449471488",
+              "start": 10,
+              "username": "x57688"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956029605237940714",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956027471142289788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 @x57688 小玉🫂🫂 现在你做的好多事情像种树，根扎得深，后面才长得高长得稳，现在做的每一步，都是在扎扎实实地打基础，这本身就很值得肯定呀，你也才差不多20岁，人生才刚刚开始呢，那些做成“大事”的人，故事里都提到“长期主义”，把每一步走好，时间会站在我们这边的🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1955773434958352438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1288,
+          "following_count": 199,
+          "like_count": 15621,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 4248
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-14T12:24:47.000Z",
+        "description": "性 购物 睡觉 宅家老鼠人 偶尔会很想出去玩",
+        "id": "1834931258461503495",
+        "name": "我不是小猫",
+        "pinned_tweet_id": "1926142112287883625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953131885472956419/fhmd1IH2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 77,
+          "like_count": 2937,
+          "listed_count": 2,
+          "media_count": 1118,
+          "tweet_count": 5081
+        },
+        "username": "imnotsoojin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T18:52:28.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=W1K03lm9",
+                "start": 0,
+                "url": "https://t.co/Vdo50AAOrZ"
+              }
+            ]
+          }
+        },
+        "id": "1831042430449471488",
+        "location": "自用蜂鸟VPN",
+        "name": "香芋派",
+        "pinned_tweet_id": "1926365201269444810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928837612439220232/7cwXX9oR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5820,
+          "following_count": 241,
+          "like_count": 13665,
+          "listed_count": 2,
+          "media_count": 196,
+          "tweet_count": 8650
+        },
+        "url": "https://t.co/Vdo50AAOrZ",
+        "username": "x57688",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1953331823892738522",
+    "created_at": "2025-08-07T05:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T06:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953333488976863353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1899021424121065472",
+          "start": 0,
+          "username": "Tom_joseph23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953333488976863353",
+    "in_reply_to_user_id": "1899021424121065472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953331823892738522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tom_joseph23 中（哈哈哈哈哈）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1953331823892738522",
+        "created_at": "2025-08-07T05:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T06:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953333488976863353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1899021424121065472",
+              "start": 0,
+              "username": "Tom_joseph23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953333488976863353",
+        "in_reply_to_user_id": "1899021424121065472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953331823892738522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tom_joseph23 中（哈哈哈哈哈）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899021424121065472",
+        "conversation_id": "1953331823892738522",
+        "created_at": "2025-08-07T05:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T06:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953331823892738522"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953331823892738522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识：河南人说中的时候不会笑（自古中笑两难全）😄😄😄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1952327381869338999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 199,
+          "like_count": 13579,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 3738
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-10T08:56:14.000Z",
+        "description": "2月水瓶♒entp  switch  可以叫我joseph也可以叫我小jo",
+        "id": "1899021424121065472",
+        "name": "j᳐oseph᳐੭",
+        "pinned_tweet_id": "1949627046231195913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923779133554761728/Vic_4C2m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 286,
+          "like_count": 40171,
+          "listed_count": 0,
+          "media_count": 657,
+          "tweet_count": 5004
+        },
+        "username": "Tom_joseph23",
+        "verified": false
+      }
+    ]
+  }
+}

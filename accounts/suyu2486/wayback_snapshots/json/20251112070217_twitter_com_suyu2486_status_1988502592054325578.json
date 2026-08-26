@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1988408882667086151",
+    "created_at": "2025-11-12T07:02:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T08:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988502592054325578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1976876519441285124",
+          "start": 0,
+          "username": "ysheep_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988502592054325578",
+    "in_reply_to_user_id": "1976876519441285124",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988494557458428298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ysheep_x 啊？不是啥意思啊…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1988408882667086151",
+        "created_at": "2025-11-12T07:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T08:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988502592054325578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1976876519441285124",
+              "start": 0,
+              "username": "ysheep_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988502592054325578",
+        "in_reply_to_user_id": "1976876519441285124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988494557458428298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ysheep_x 啊？不是啥意思啊…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976876519441285124",
+        "conversation_id": "1988408882667086151",
+        "created_at": "2025-11-12T06:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T07:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988494557458428298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988494557458428298",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988408882667086151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 主播哪里人啊 这么抽象 避雷那个地方指定有点说法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "06，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2282,
+          "following_count": 263,
+          "like_count": 22157,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 6245
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T05:04:36.000Z",
+        "description": "我将把推当成发疯软件😿",
+        "id": "1976876519441285124",
+        "name": "kitty",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976982769226895360/40rKeav1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 30,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 57
+        },
+        "username": "ysheep_x",
+        "verified": false
+      }
+    ]
+  }
+}

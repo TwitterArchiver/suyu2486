@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1961466523463430477",
+    "created_at": "2025-08-29T18:25:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T19:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961495374138310978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1878173784462761984",
+          "start": 0,
+          "username": "XyuuuBB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961495374138310978",
+    "in_reply_to_user_id": "1878173784462761984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961466523463430477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XyuuuBB 别这样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1961466507881582592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GziHZYkbkAAEZEu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1961466523463430477",
+        "created_at": "2025-08-29T18:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T19:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961495374138310978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1878173784462761984",
+              "start": 0,
+              "username": "XyuuuBB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961495374138310978",
+        "in_reply_to_user_id": "1878173784462761984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961466523463430477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XyuuuBB 别这样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961466507881582592"
+          ]
+        },
+        "author_id": "1878173784462761984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1961466523463430477",
+        "created_at": "2025-08-29T16:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T17:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961466523463430477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l1kmHmId9Y",
+              "end": 85,
+              "expanded_url": "https://x.com/XyuuuBB/status/1961466523463430477/photo/1",
+              "media_key": "3_1961466507881582592",
+              "start": 62,
+              "url": "https://t.co/l1kmHmId9Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961466523463430477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对我好疏远是怎么啦 有时很冷漠是怎么啦 突然很生气是怎么啦 说什么让你不开心吗 我怕你不再问我怎么啦 以后都不关心我怎么啦 https://t.co/l1kmHmId9Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个死人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "亚海悬城",
+        "name": "小玉",
+        "pinned_tweet_id": "1961296394242965841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 201,
+          "like_count": 17471,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 4660
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T20:15:10.000Z",
+        "description": "喜欢我请给我打钱 -ω- @oYuYo0218大号冻结 请移步这里",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "oYuYo0218"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oyuyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oyuyo",
+                "start": 0,
+                "url": "https://t.co/mdl9r650xd"
+              }
+            ]
+          }
+        },
+        "id": "1878173784462761984",
+        "location": "🚪108有福利 过门不退 提问箱👉🏻",
+        "name": "晕菜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958807040962568196/8vO5VxWR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 40,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 11
+        },
+        "url": "https://t.co/mdl9r650xd",
+        "username": "XyuuuBB",
+        "verified": false
+      }
+    ]
+  }
+}

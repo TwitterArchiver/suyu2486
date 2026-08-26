@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1939847270284890437",
+    "created_at": "2025-07-02T13:03:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T14:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940395843322098035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1842443903561338880",
+          "start": 0,
+          "username": "A3k938"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940395843322098035",
+    "in_reply_to_user_id": "1842443903561338880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940394362338492527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A3k938 晒太阳吗，最近会不会太晒了哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1939847270284890437",
+        "created_at": "2025-07-02T13:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T14:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940395843322098035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1842443903561338880",
+              "start": 0,
+              "username": "A3k938"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940395843322098035",
+        "in_reply_to_user_id": "1842443903561338880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940394362338492527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A3k938 晒太阳吗，最近会不会太晒了哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842443903561338880",
+        "conversation_id": "1939847270284890437",
+        "created_at": "2025-07-02T12:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T13:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940394362338492527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940394362338492527",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939847270284890437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 感觉你很厉害，我也不会安慰人啥的 祝你天天开心 想做的事情很顺利！你可以多晒晒太阳 对身体和情绪都很好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1923458019305660813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 199,
+          "like_count": 10314,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 2986
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T05:57:27.000Z",
+        "description": "日记本⸝⸝ ᳐ʚ̴̶̷̷ ‧̫ ʚ̴̶̷̷ ᳐⸝⸝  漂亮的小女孩太多了 我只想天天开心",
+        "id": "1842443903561338880",
+        "name": "枳枳大人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936009865693929472/YKhjQQIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 82,
+          "like_count": 553,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 263
+        },
+        "username": "A3k938",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1961093733832949993",
+    "created_at": "2025-08-28T15:50:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T16:50:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961093990033605043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1768339985399480324",
+          "start": 0,
+          "username": "zzzzz337381"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961093990033605043",
+    "in_reply_to_user_id": "1768339985399480324",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961093733832949993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzzzz337381 可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1961093733832949993",
+        "created_at": "2025-08-28T15:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T16:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961093990033605043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1768339985399480324",
+              "start": 0,
+              "username": "zzzzz337381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961093990033605043",
+        "in_reply_to_user_id": "1768339985399480324",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961093733832949993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzzzz337381 可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768339985399480324",
+        "conversation_id": "1961093733832949993",
+        "created_at": "2025-08-28T15:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T16:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961093733832949993"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961093733832949993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要给你活剥 我要吃了你的肉  我要吃了你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个好色的sb男的，双相情感障碍，情感漠视，精神失常，都滚远点别来烦我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "小玉",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1362,
+          "following_count": 199,
+          "like_count": 17178,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 4562
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T18:15:03.000Z",
+        "description": "名为你的一场雨 淋的我一病不起",
+        "id": "1768339985399480324",
+        "name": "zzzzz",
+        "pinned_tweet_id": "1915356627517280443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958255145202151424/kblL757A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 824,
+          "like_count": 6141,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 1106
+        },
+        "username": "zzzzz337381",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2084265322459136449",
+    "created_at": "2026-08-03T16:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T17:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084310985796649003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1553278286796451840",
+          "start": 0,
+          "username": "XuanZai12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084310985796649003",
+    "in_reply_to_user_id": "1553278286796451840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084265322459136449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XuanZai12138 好萌好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084265310803107840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzMQdwWoAAP5hU.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2084265322459136449",
+        "created_at": "2026-08-03T16:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084310985796649003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1553278286796451840",
+              "start": 0,
+              "username": "XuanZai12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084310985796649003",
+        "in_reply_to_user_id": "1553278286796451840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084265322459136449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XuanZai12138 好萌好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084265310803107840"
+          ]
+        },
+        "author_id": "1553278286796451840",
+        "conversation_id": "2084265322459136449",
+        "created_at": "2026-08-03T13:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084265322459136449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2zZqbhqXvB",
+              "end": 27,
+              "expanded_url": "https://x.com/XuanZai12138/status/2084265322459136449/photo/1",
+              "media_key": "3_2084265310803107840",
+              "start": 4,
+              "url": "https://t.co/2zZqbhqXvB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084265322459136449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们好 https://t.co/2zZqbhqXvB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "pinned_tweet_id": "2084166896371511380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2072,
+          "following_count": 192,
+          "like_count": 21337,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6675
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-30T07:16:29.000Z",
+        "description": "此账号皮下是一个有躯体化的活珠子丨性别男 取向男 接占卜烧香点蜡法事 塔罗师从龙女 家是出马的\n⬆️广告营业发在：@LeviCha61174973",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 57,
+                "username": "LeviCha61174973"
+              }
+            ]
+          }
+        },
+        "id": "1553278286796451840",
+        "location": "碎碎念的地方 别骂我",
+        "name": "十九岁帅到邻居想报警",
+        "pinned_tweet_id": "2039733988387139754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080887195540611073/MObzTCaU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1942,
+          "following_count": 104,
+          "like_count": 12974,
+          "listed_count": 7,
+          "media_count": 431,
+          "tweet_count": 5204
+        },
+        "url": "",
+        "username": "XuanZai12138",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1958374376245543083",
+    "created_at": "2025-08-21T06:37:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T07:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958418184341438581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1571835424729104385",
+          "start": 0,
+          "username": "xing50062753"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958418184341438581",
+    "in_reply_to_user_id": "1571835424729104385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958374376245543083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xing50062753 廉价这一块…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1958374376245543083",
+        "created_at": "2025-08-21T06:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T07:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958418184341438581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1571835424729104385",
+              "start": 0,
+              "username": "xing50062753"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958418184341438581",
+        "in_reply_to_user_id": "1571835424729104385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958374376245543083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xing50062753 廉价这一块…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571835424729104385",
+        "conversation_id": "1958374376245543083",
+        "created_at": "2025-08-21T03:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T04:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958374376245543083"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958374376245543083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 228,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我上班四十块钱一天 如何呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 201,
+          "like_count": 16458,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 4350
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-19T12:15:58.000Z",
+        "description": "",
+        "id": "1571835424729104385",
+        "location": "❤️",
+        "name": "空",
+        "pinned_tweet_id": "1954191100052197410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957809269845422081/x9vkmsjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 292,
+          "like_count": 27825,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 354
+        },
+        "username": "xing50062753",
+        "verified": false
+      }
+    ]
+  }
+}

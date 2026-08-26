@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1958068836948705349",
+    "created_at": "2025-08-20T14:21:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T15:21:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958172472085295499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1898301720931033088",
+          "start": 0,
+          "username": "ljx570129"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958172472085295499",
+    "in_reply_to_user_id": "1898301720931033088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958126444900708838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ljx570129 咋不割？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1958068836948705349",
+        "created_at": "2025-08-20T14:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T15:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958172472085295499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1898301720931033088",
+              "start": 0,
+              "username": "ljx570129"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958172472085295499",
+        "in_reply_to_user_id": "1898301720931033088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958126444900708838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ljx570129 咋不割？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898301720931033088",
+        "conversation_id": "1958068836948705349",
+        "created_at": "2025-08-20T11:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T12:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958126444900708838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958126444900708838",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958068836948705349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 没事我bp长😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1331,
+          "following_count": 200,
+          "like_count": 16279,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 4313
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T09:17:21.000Z",
+        "description": "intp     高中生😁",
+        "id": "1898301720931033088",
+        "name": "Edwase",
+        "pinned_tweet_id": "1953365213400756425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953773172467367936/ulT0Vrn3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 158,
+          "like_count": 369,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 229
+        },
+        "username": "ljx570129",
+        "verified": false
+      }
+    ]
+  }
+}

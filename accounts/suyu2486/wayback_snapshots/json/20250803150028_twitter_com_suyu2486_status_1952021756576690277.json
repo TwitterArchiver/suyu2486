@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1951644474876305698",
+    "created_at": "2025-08-03T15:00:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T16:00:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952021756576690277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1900466634957160449",
+          "start": 0,
+          "username": "lmng5986051"
+        },
+        {
+          "end": 28,
+          "id": "1225274552940318720",
+          "start": 13,
+          "username": "realOliverSama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952021756576690277",
+    "in_reply_to_user_id": "1900466634957160449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952021602411098120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lmng5986051 @realOliverSama 发你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1951644474876305698",
+        "created_at": "2025-08-03T15:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T16:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952021756576690277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1900466634957160449",
+              "start": 0,
+              "username": "lmng5986051"
+            },
+            {
+              "end": 28,
+              "id": "1225274552940318720",
+              "start": 13,
+              "username": "realOliverSama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952021756576690277",
+        "in_reply_to_user_id": "1900466634957160449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952021602411098120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lmng5986051 @realOliverSama 发你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900466634957160449",
+        "conversation_id": "1951644474876305698",
+        "created_at": "2025-08-03T14:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T15:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952021602411098120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            },
+            {
+              "end": 25,
+              "id": "1225274552940318720",
+              "start": 10,
+              "username": "realOliverSama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952021602411098120",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951964263137919015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 @realOliverSama 可以看看吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1951649210652135765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 200,
+          "like_count": 12867,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 3544
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T08:39:01.000Z",
+        "description": "",
+        "id": "1900466634957160449",
+        "name": "小萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900470497026121728/ZJmxo2Go_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 106,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 579
+        },
+        "username": "lmng5986051",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-06T04:26:49.000Z",
+        "description": "Is it safe to just be who we are? / @Zerlight0653",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 36,
+                "username": "Zerlight0653"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kogabyoliver?s…",
+                "end": 23,
+                "expanded_url": "https://x.com/kogabyoliver?s=21",
+                "start": 0,
+                "url": "https://t.co/wqRTCJu30G"
+              }
+            ]
+          }
+        },
+        "id": "1225274552940318720",
+        "location": "Ocean Blvd.",
+        "name": "Oliver",
+        "pinned_tweet_id": "1937872726984949967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937512196399071236/7RzrBo8X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15457,
+          "following_count": 879,
+          "like_count": 54985,
+          "listed_count": 19,
+          "media_count": 300,
+          "tweet_count": 1688
+        },
+        "url": "https://t.co/wqRTCJu30G",
+        "username": "realOliverSama",
+        "verified": false
+      }
+    ]
+  }
+}

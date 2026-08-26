@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1996812545244766228",
+    "created_at": "2025-12-05T14:17:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T15:17:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996947005021868239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1713947216338104320",
+          "start": 0,
+          "username": "xxzbgxgxzbssa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996947005021868239",
+    "in_reply_to_user_id": "1713947216338104320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996944325532672395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxzbgxgxzbssa 求也排"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1996812545244766228",
+        "created_at": "2025-12-05T14:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T15:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996947005021868239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1713947216338104320",
+              "start": 0,
+              "username": "xxzbgxgxzbssa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996947005021868239",
+        "in_reply_to_user_id": "1713947216338104320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996944325532672395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxzbgxgxzbssa 求也排"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713947216338104320",
+        "conversation_id": "1996812545244766228",
+        "created_at": "2025-12-05T14:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T15:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996944325532672395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996944325532672395",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996939014214242660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 我求你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是一个死人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1985888956073066671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2505,
+          "following_count": 274,
+          "like_count": 23034,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 6417
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-16T15:57:25.000Z",
+        "description": "王格林死了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=a_mNxAzr_IRTDdLK",
+                "start": 0,
+                "url": "https://t.co/4oqeH1cq3A"
+              }
+            ]
+          }
+        },
+        "id": "1713947216338104320",
+        "name": "忧郁的臭狗熊666",
+        "pinned_tweet_id": "1973390494408294474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946274215914614784/yge_k4y4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 463,
+          "like_count": 14116,
+          "listed_count": 1,
+          "media_count": 2288,
+          "tweet_count": 9143
+        },
+        "url": "https://t.co/4oqeH1cq3A",
+        "username": "xxzbgxgxzbssa",
+        "verified": false
+      }
+    ]
+  }
+}

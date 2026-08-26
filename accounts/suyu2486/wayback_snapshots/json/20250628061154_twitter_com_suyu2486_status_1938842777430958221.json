@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1938747196263846022",
+    "created_at": "2025-06-28T06:11:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T07:11:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938842777430958221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1874027659141013506",
+          "start": 0,
+          "username": "qs_yy6187"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938842777430958221",
+    "in_reply_to_user_id": "1874027659141013506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938841567386837297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qs_yy6187 对就对了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1938747196263846022",
+        "created_at": "2025-06-28T06:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T07:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938842777430958221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1874027659141013506",
+              "start": 0,
+              "username": "qs_yy6187"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938842777430958221",
+        "in_reply_to_user_id": "1874027659141013506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938841567386837297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qs_yy6187 对就对了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874027659141013506",
+        "conversation_id": "1938747196263846022",
+        "created_at": "2025-06-28T06:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T07:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938841567386837297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938841567386837297",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938747196263846022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 太对了🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1938601372837913057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 197,
+          "like_count": 8986,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2571
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T09:40:06.000Z",
+        "description": "又偷偷看妈妈吗 #4i",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 8,
+                "tag": "4i"
+              }
+            ]
+          }
+        },
+        "id": "1874027659141013506",
+        "name": "nikikit",
+        "pinned_tweet_id": "1886375103572889631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935351090645729280/cE_dogZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3395,
+          "following_count": 9,
+          "like_count": 75,
+          "listed_count": 3,
+          "media_count": 167,
+          "tweet_count": 846
+        },
+        "username": "qs_yy6187",
+        "verified": false
+      }
+    ]
+  }
+}

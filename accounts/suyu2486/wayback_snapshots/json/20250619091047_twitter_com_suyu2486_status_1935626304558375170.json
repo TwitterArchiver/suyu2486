@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1935611696925876381",
+    "created_at": "2025-06-19T09:10:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T10:10:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935626304558375170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1314770032971268096",
+          "start": 0,
+          "username": "period_withyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935626304558375170",
+    "in_reply_to_user_id": "1314770032971268096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935625963775377725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@period_withyou 这不胡闹嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1935611696925876381",
+        "created_at": "2025-06-19T09:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T10:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935626304558375170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1314770032971268096",
+              "start": 0,
+              "username": "period_withyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935626304558375170",
+        "in_reply_to_user_id": "1314770032971268096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935625963775377725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@period_withyou 这不胡闹嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1314770032971268096",
+        "conversation_id": "1935611696925876381",
+        "created_at": "2025-06-19T09:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T10:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935625963775377725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "jade2486520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935625963775377725",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935611696925876381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jade2486520 看看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "name": "小玉",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928709552171610112/x9fXi0Ew_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 174,
+          "like_count": 6327,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1766
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-10T03:29:51.000Z",
+        "description": "这里禁止随地大小便\n\nhttps://t.co/on7KCSOKjp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yyyy12138",
+                "end": 34,
+                "expanded_url": "https://ngl.link/yyyy12138",
+                "start": 11,
+                "url": "https://t.co/on7KCSOKjp"
+              }
+            ]
+          }
+        },
+        "id": "1314770032971268096",
+        "name": "ccc",
+        "pinned_tweet_id": "1924703384751448371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784262864485949440/-R6JpFKx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 137,
+          "like_count": 490,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 809
+        },
+        "username": "period_withyou",
+        "verified": false
+      }
+    ]
+  }
+}

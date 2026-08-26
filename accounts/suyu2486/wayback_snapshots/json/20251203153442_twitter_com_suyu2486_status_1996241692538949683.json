@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1996233142118523354",
+    "created_at": "2025-12-03T15:34:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T16:34:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996241692538949683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1935399856048336896",
+          "start": 0,
+          "username": "gw423423"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996241692538949683",
+    "in_reply_to_user_id": "1935399856048336896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996233142118523354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gw423423 可以"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1358,
+        "media_key": "3_1996233122182987779",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7QLcriWAAMLHWR.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1996233142118523354",
+        "created_at": "2025-12-03T15:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T16:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996241692538949683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1935399856048336896",
+              "start": 0,
+              "username": "gw423423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996241692538949683",
+        "in_reply_to_user_id": "1935399856048336896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996233142118523354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gw423423 可以"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996233122182987779"
+          ]
+        },
+        "author_id": "1935399856048336896",
+        "conversation_id": "1996233142118523354",
+        "created_at": "2025-12-03T15:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T16:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996233142118523354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XjXkBozEAK",
+              "end": 47,
+              "expanded_url": "https://x.com/gw423423/status/1996233142118523354/photo/1",
+              "media_key": "3_1996233122182987779",
+              "start": 24,
+              "url": "https://t.co/XjXkBozEAK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996233142118523354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我将在一月中旬前往日本，这也将是我第一次出国😋 https://t.co/XjXkBozEAK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是一个死人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1985888956073066671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2458,
+          "following_count": 271,
+          "like_count": 22798,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 6356
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T18:11:17.000Z",
+        "description": "infp 男 负面情绪集合体 一天不知道在想什么 很乱一个人 低精力 想的多做的少 内耗多吧，不想做好人，不坏就行了，欢迎交友，虽然我也不知道为什么要和我交友。如果觉得我的发言让你不舒服请拉黑。谢谢，祝你平安顺遂，开心就好。如果你要说什么，我会说：行🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lone10776",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lone10776",
+                "start": 0,
+                "url": "https://t.co/5ITCey0LIH"
+              }
+            ]
+          }
+        },
+        "id": "1935399856048336896",
+        "name": "🧃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972130225686560768/7yqOWYS7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 135,
+          "like_count": 2684,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1554
+        },
+        "url": "https://t.co/5ITCey0LIH",
+        "username": "gw423423",
+        "verified": false
+      }
+    ]
+  }
+}

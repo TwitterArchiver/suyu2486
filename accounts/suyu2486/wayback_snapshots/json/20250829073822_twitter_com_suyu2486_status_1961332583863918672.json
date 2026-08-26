@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1961287235023900732",
+    "created_at": "2025-08-29T07:38:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T08:38:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961332583863918672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1713947216338104320",
+          "start": 0,
+          "username": "xxzbgxgxzbssa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961332583863918672",
+    "in_reply_to_user_id": "1713947216338104320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961287235023900732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxzbgxgxzbssa m吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1961287235023900732",
+        "created_at": "2025-08-29T07:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T08:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961332583863918672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1713947216338104320",
+              "start": 0,
+              "username": "xxzbgxgxzbssa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961332583863918672",
+        "in_reply_to_user_id": "1713947216338104320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961287235023900732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxzbgxgxzbssa m吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713947216338104320",
+        "conversation_id": "1961287235023900732",
+        "created_at": "2025-08-29T04:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T05:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961287235023900732"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961287235023900732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收个关门弟子 啥也不教只关家里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个好色的sb男的，双相情感障碍，情感漠视，精神失常，都滚远点别来烦我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "小玉",
+        "pinned_tweet_id": "1961296394242965841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1361,
+          "following_count": 199,
+          "like_count": 17328,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 4612
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-16T15:57:25.000Z",
+        "description": "xx 空间",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=a_mNxAzr_IRTDdLK",
+                "start": 0,
+                "url": "https://t.co/9BUSBEKU89"
+              }
+            ]
+          }
+        },
+        "id": "1713947216338104320",
+        "name": "忧郁的臭狗熊666",
+        "pinned_tweet_id": "1916199781007036548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946274215914614784/yge_k4y4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 413,
+          "like_count": 10949,
+          "listed_count": 2,
+          "media_count": 2003,
+          "tweet_count": 7678
+        },
+        "url": "https://t.co/9BUSBEKU89",
+        "username": "xxzbgxgxzbssa",
+        "verified": false
+      }
+    ]
+  }
+}

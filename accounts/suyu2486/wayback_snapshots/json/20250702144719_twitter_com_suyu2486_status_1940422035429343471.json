@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1940400857151127707",
+    "created_at": "2025-07-02T14:47:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T15:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940422035429343471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1557716371198291972",
+          "start": 0,
+          "username": "soyooo123_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940422035429343471",
+    "in_reply_to_user_id": "1557716371198291972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940416446041075732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@soyooo123_ 其实我还在少林寺放片…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1940400857151127707",
+        "created_at": "2025-07-02T14:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T15:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940422035429343471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1557716371198291972",
+              "start": 0,
+              "username": "soyooo123_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940422035429343471",
+        "in_reply_to_user_id": "1557716371198291972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940416446041075732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@soyooo123_ 其实我还在少林寺放片…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557716371198291972",
+        "conversation_id": "1940400857151127707",
+        "created_at": "2025-07-02T14:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T15:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940416446041075732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940416446041075732",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940400857151127707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 我上次看到小英在特殊学校门口唱我们不一样！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1923458019305660813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 199,
+          "like_count": 10371,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 2993
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T13:11:51.000Z",
+        "description": "可丽饼过来",
+        "id": "1557716371198291972",
+        "name": "想吃奶油可丽饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776299052910383104/6yS6X3FT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 93,
+          "like_count": 8480,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 398
+        },
+        "username": "soyooo123_",
+        "verified": false
+      }
+    ]
+  }
+}

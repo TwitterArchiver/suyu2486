@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1992595572172460208",
+    "created_at": "2025-11-23T15:38:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T16:38:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992618707672305712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1938108852752502784",
+          "start": 0,
+          "username": "520Seulgi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992618707672305712",
+    "in_reply_to_user_id": "1938108852752502784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992595572172460208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520Seulgi 补药欺负我诡秘！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992595562764664833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6cfG2ubgAEophN.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1992595572172460208",
+        "created_at": "2025-11-23T15:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T16:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992618707672305712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1938108852752502784",
+              "start": 0,
+              "username": "520Seulgi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992618707672305712",
+        "in_reply_to_user_id": "1938108852752502784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992595572172460208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520Seulgi 补药欺负我诡秘！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992595562764664833"
+          ]
+        },
+        "author_id": "1938108852752502784",
+        "conversation_id": "1992595572172460208",
+        "created_at": "2025-11-23T14:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T15:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992595572172460208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0BotzHI2YR",
+              "end": 105,
+              "expanded_url": "https://x.com/520Seulgi/status/1992595572172460208/photo/1",
+              "media_key": "3_1992595562764664833",
+              "start": 82,
+              "url": "https://t.co/0BotzHI2YR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992595572172460208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你是谁！ 我不喜欢别人和我用一样的头像... 这个头像是我好朋友给我画的啊啊啊啊啊啊啊啊啊你快换了 而且连我的网名也是我初中和我好闺蜜的梗 啊啊啊啊啊啊啊啊啊啊啊 https://t.co/0BotzHI2YR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是一个死人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1985888956073066671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2462,
+          "following_count": 270,
+          "like_count": 22533,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 6214
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T05:35:41.000Z",
+        "description": "爱做饭 🍳爱分享🧩 爱姜涩琪🐻 ｜我是男的 不是直男｜悉尼🇦🇺老鼠人（本可承诺将在明年开通抖音分享vlog）｜唯一小号：@buyaobeipianle｜（本号纯绿冲浪🏄 随心情互关 私信）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 60,
+                "username": "buyaobeipianle"
+              }
+            ]
+          }
+        },
+        "id": "1938108852752502784",
+        "location": "在姜涩琪怀里",
+        "name": "鸡腿加点辣",
+        "pinned_tweet_id": "1955175746487587120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948655968755359744/-MCjuM5A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2704,
+          "following_count": 286,
+          "like_count": 6416,
+          "listed_count": 2,
+          "media_count": 1385,
+          "tweet_count": 3917
+        },
+        "username": "520Seulgi",
+        "verified": false
+      }
+    ]
+  }
+}

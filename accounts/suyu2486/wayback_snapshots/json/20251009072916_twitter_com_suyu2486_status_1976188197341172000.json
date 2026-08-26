@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1976183509577539584"
+      ],
+      "media_source_tweet_id": [
+        "1976183587096727682"
+      ]
+    },
+    "author_id": "1910715228523831296",
+    "conversation_id": "1976188197341172000",
+    "created_at": "2025-10-09T07:29:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T08:29:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976188197341172000"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 83,
+          "start": 80,
+          "tag": "福利"
+        },
+        {
+          "end": 89,
+          "start": 84,
+          "tag": "限时放送"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1921266355292225536",
+          "start": 3,
+          "username": "xiaoqiOvO0904"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4W8BC5HHKL",
+          "end": 113,
+          "expanded_url": "https://x.com/xiaoqiOvO0904/status/1976183587096727682/video/1",
+          "media_key": "13_1976183509577539584",
+          "start": 90,
+          "url": "https://t.co/4W8BC5HHKL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976188197341172000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976183587096727682",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoqiOvO0904: 嘿！我是小诗～\n\n活泼可爱，爱分享生活的小姐姐！点赞+评论，私信我解锁独家福利！ 数量有限，先到先得，快来跟我一起嗨吧！ #福利 #限时放送 https://t.co/4W8BC5HHKL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8466,
+        "height": 1280,
+        "media_key": "13_1976183509577539584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1976183509577539584/img/7CcxMffvmD9KQoWx.jpg",
+        "public_metrics": {
+          "view_count": 39
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976183509577539584/vid/avc1/320x568/FKhxnPuDikZcly1T.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976183509577539584/vid/avc1/480x852/4HLyE0-p6cFMC-_U.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976183509577539584/vid/avc1/720x1280/ghcy5rTr0xkPyLtI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1976183509577539584/pl/HyON6sR2qEMxHnKp.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1976183509577539584"
+          ],
+          "media_source_tweet_id": [
+            "1976183587096727682"
+          ]
+        },
+        "author_id": "1910715228523831296",
+        "conversation_id": "1976188197341172000",
+        "created_at": "2025-10-09T07:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T08:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976188197341172000"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "福利"
+            },
+            {
+              "end": 89,
+              "start": 84,
+              "tag": "限时放送"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1921266355292225536",
+              "start": 3,
+              "username": "xiaoqiOvO0904"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4W8BC5HHKL",
+              "end": 113,
+              "expanded_url": "https://x.com/xiaoqiOvO0904/status/1976183587096727682/video/1",
+              "media_key": "13_1976183509577539584",
+              "start": 90,
+              "url": "https://t.co/4W8BC5HHKL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976188197341172000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976183587096727682",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoqiOvO0904: 嘿！我是小诗～\n\n活泼可爱，爱分享生活的小姐姐！点赞+评论，私信我解锁独家福利！ 数量有限，先到先得，快来跟我一起嗨吧！ #福利 #限时放送 https://t.co/4W8BC5HHKL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1976183509577539584"
+          ]
+        },
+        "author_id": "1921266355292225536",
+        "conversation_id": "1976183587096727682",
+        "created_at": "2025-10-09T07:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T08:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976183587096727682"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "福利"
+            },
+            {
+              "end": 70,
+              "start": 65,
+              "tag": "限时放送"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4W8BC5HHKL",
+              "end": 94,
+              "expanded_url": "https://x.com/xiaoqiOvO0904/status/1976183587096727682/video/1",
+              "media_key": "13_1976183509577539584",
+              "start": 71,
+              "url": "https://t.co/4W8BC5HHKL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976183587096727682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "嘿！我是小诗～\n\n活泼可爱，爱分享生活的小姐姐！点赞+评论，私信我解锁独家福利！ 数量有限，先到先得，快来跟我一起嗨吧！ #福利 #限时放送 https://t.co/4W8BC5HHKL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我玊玉，叫玉是因为英文名是jade，玊（su）是有瑕疵的玉的意思，男的，infp，装逼让你飞起来，机舱开🚪中，座位费20一位（一包黑兰州的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗     🎼  转帖、置顶推广关评自辩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1975034794699538547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2151,
+          "following_count": 263,
+          "like_count": 21004,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 5819
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-10T18:09:39.000Z",
+        "description": "热爱追逐刺激，沉迷旅行与美食，喜欢和粉丝线下，欣赏有素质的绅士！欢迎礼貌私信，分享生活点滴！",
+        "id": "1921266355292225536",
+        "name": "月光小诗",
+        "pinned_tweet_id": "1954871164159025646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975830786097225729/-CJYjAhy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2785,
+          "following_count": 96,
+          "like_count": 1922,
+          "listed_count": 13,
+          "media_count": 5,
+          "tweet_count": 15
+        },
+        "username": "xiaoqiOvO0904",
+        "verified": false
+      }
+    ]
+  }
+}

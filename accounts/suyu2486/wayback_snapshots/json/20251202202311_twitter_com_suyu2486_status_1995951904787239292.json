@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1995808399712551057",
+    "created_at": "2025-12-02T20:23:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T21:23:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995951904787239292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1758105949250957312",
+          "start": 0,
+          "username": "NAWUMI17391"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995951904787239292",
+    "in_reply_to_user_id": "1758105949250957312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995808399712551057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NAWUMI17391 干呗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1620,
+        "media_key": "3_1995808397464326144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7KJKcqaUAAFPiE.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1995808399712551057",
+        "created_at": "2025-12-02T20:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T21:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995951904787239292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758105949250957312",
+              "start": 0,
+              "username": "NAWUMI17391"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995951904787239292",
+        "in_reply_to_user_id": "1758105949250957312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995808399712551057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NAWUMI17391 干呗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995808397464326144"
+          ]
+        },
+        "author_id": "1758105949250957312",
+        "conversation_id": "1995808399712551057",
+        "created_at": "2025-12-02T10:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T11:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995808399712551057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U5dNelTGOM",
+              "end": 28,
+              "expanded_url": "https://x.com/NAWUMI17391/status/1995808399712551057/photo/1",
+              "media_key": "3_1995808397464326144",
+              "start": 5,
+              "url": "https://t.co/U5dNelTGOM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995808399712551057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9559,
+          "like_count": 127,
+          "quote_count": 4,
+          "reply_count": 16,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "开一把？ https://t.co/U5dNelTGOM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是一个死人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1985888956073066671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2444,
+          "following_count": 268,
+          "like_count": 22640,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6310
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-15T12:28:31.000Z",
+        "description": "福瑞控/INFP/摇滚与术力口/粥，音游成分/好色猫/长期神经衰弱，偶尔满不在乎/乱七八糟的生活推/神秘账号@nsfw_taki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "nsfw_taki"
+              }
+            ]
+          }
+        },
+        "id": "1758105949250957312",
+        "location": "福建福州",
+        "name": "NAWUMI-悠海",
+        "pinned_tweet_id": "1765033369312874898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862798807538495488/7r5oVpya_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 560,
+          "like_count": 1272,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 1256
+        },
+        "username": "NAWUMI17391",
+        "verified": false
+      }
+    ]
+  }
+}

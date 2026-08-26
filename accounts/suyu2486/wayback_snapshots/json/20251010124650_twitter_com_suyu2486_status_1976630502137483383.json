@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1976628420391186525",
+    "created_at": "2025-10-10T12:46:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T13:46:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976630502137483383"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1976630502137483383",
+    "in_reply_to_user_id": "1910715228523831296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976628420391186525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "前几天在抖音上刷到一个作品，说是在北京的将府公园有这么一把椅子，我觉得很有意义，这是一个因为他的离世而出现的地方。离得也不远，就过来了，坐在这里就一直听方大同的歌，打算听完他的歌就回家，我经常去刷有关方大同的很多事情，每次刷到就会想起薛凯琪，又去看薛凯琪，每次都泪流满面…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976628396710051840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G25lDd7aQAATjbA.jpg",
+        "width": 931
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1976628397599297536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G25lDhPbEAAIYP_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1976628398010277888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G25lDixaIAA10AO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1976628396928143360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G25lDevaEAAZlUg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1976628420391186525",
+        "created_at": "2025-10-10T12:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T13:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976630502137483383"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976630502137483383",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976628420391186525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "前几天在抖音上刷到一个作品，说是在北京的将府公园有这么一把椅子，我觉得很有意义，这是一个因为他的离世而出现的地方。离得也不远，就过来了，坐在这里就一直听方大同的歌，打算听完他的歌就回家，我经常去刷有关方大同的很多事情，每次刷到就会想起薛凯琪，又去看薛凯琪，每次都泪流满面…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976628396710051840",
+            "3_1976628397599297536",
+            "3_1976628398010277888",
+            "3_1976628396928143360"
+          ]
+        },
+        "author_id": "1910715228523831296",
+        "conversation_id": "1976628420391186525",
+        "created_at": "2025-10-10T12:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T13:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976628420391186525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gkC3a0f2TS",
+              "end": 176,
+              "expanded_url": "https://x.com/suyu2486/status/1976628420391186525/photo/1",
+              "media_key": "3_1976628396710051840",
+              "start": 153,
+              "url": "https://t.co/gkC3a0f2TS"
+            },
+            {
+              "display_url": "pic.x.com/gkC3a0f2TS",
+              "end": 176,
+              "expanded_url": "https://x.com/suyu2486/status/1976628420391186525/photo/1",
+              "media_key": "3_1976628397599297536",
+              "start": 153,
+              "url": "https://t.co/gkC3a0f2TS"
+            },
+            {
+              "display_url": "pic.x.com/gkC3a0f2TS",
+              "end": 176,
+              "expanded_url": "https://x.com/suyu2486/status/1976628420391186525/photo/1",
+              "media_key": "3_1976628398010277888",
+              "start": 153,
+              "url": "https://t.co/gkC3a0f2TS"
+            },
+            {
+              "display_url": "pic.x.com/gkC3a0f2TS",
+              "end": 176,
+              "expanded_url": "https://x.com/suyu2486/status/1976628420391186525/photo/1",
+              "media_key": "3_1976628396928143360",
+              "start": 153,
+              "url": "https://t.co/gkC3a0f2TS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976628420391186525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次听方大同是因为在评论区里面看到一条说这是一首没有前奏的歌，没有前奏的R&amp;B像强吻，然后我就去听了这首麦恩莉，这也是我第一次听R&amp;B，当时我就很喜欢后面我感觉他的很多歌都很好听，直到今年2月21日，他的离世，一开始我很震惊，再到后面的惋惜，他的离开就像麦恩莉一样，没有前奏，晚安大同😔 https://t.co/gkC3a0f2TS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我玊玉，叫玉是因为英文名是jade，玊（su）是有瑕疵的玉的意思，男的，infp，装逼让你飞起来，机舱开🚪中，座位费20一位（一包黑兰州的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗     🎼  转帖、置顶推广关评自辩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1976463304324419641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2158,
+          "following_count": 261,
+          "like_count": 21073,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 5834
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      }
+    ]
+  }
+}

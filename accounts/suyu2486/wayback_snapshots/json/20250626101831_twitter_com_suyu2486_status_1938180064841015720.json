@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1938175648473977289",
+    "created_at": "2025-06-26T10:18:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T11:18:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938180064841015720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1900466634957160449",
+          "start": 0,
+          "username": "lmng5986051"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938180064841015720",
+    "in_reply_to_user_id": "1900466634957160449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938176226516197809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lmng5986051 我总是三个人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1938175648473977289",
+        "created_at": "2025-06-26T10:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T11:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938180064841015720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1900466634957160449",
+              "start": 0,
+              "username": "lmng5986051"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938180064841015720",
+        "in_reply_to_user_id": "1900466634957160449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938176226516197809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lmng5986051 我总是三个人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900466634957160449",
+        "conversation_id": "1938175648473977289",
+        "created_at": "2025-06-26T10:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T11:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938176226516197809"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938176226516197809",
+        "in_reply_to_user_id": "1900466634957160449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938175648473977289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我总是两个人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1936734143804735662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 198,
+          "like_count": 8553,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 2421
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T08:39:01.000Z",
+        "description": "",
+        "id": "1900466634957160449",
+        "name": "小萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900470497026121728/ZJmxo2Go_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 98,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 424
+        },
+        "username": "lmng5986051",
+        "verified": false
+      }
+    ]
+  }
+}

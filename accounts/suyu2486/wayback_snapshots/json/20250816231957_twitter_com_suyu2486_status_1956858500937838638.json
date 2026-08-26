@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1956723903931502859",
+    "created_at": "2025-08-16T23:19:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T00:19:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956858500937838638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1609057526976503808",
+          "start": 0,
+          "username": "kiss91152149"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956858500937838638",
+    "in_reply_to_user_id": "1609057526976503808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956723903931502859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiss91152149 加油啊泰罗！打倒生活这头怪兽就靠你了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2043,
+        "media_key": "3_1956723894729269250",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyeuA9zbYAIu6d0.jpg",
+        "width": 1065
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1956723903931502859",
+        "created_at": "2025-08-16T23:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T00:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956858500937838638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1609057526976503808",
+              "start": 0,
+              "username": "kiss91152149"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956858500937838638",
+        "in_reply_to_user_id": "1609057526976503808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956723903931502859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiss91152149 加油啊泰罗！打倒生活这头怪兽就靠你了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956723894729269250"
+          ]
+        },
+        "author_id": "1609057526976503808",
+        "conversation_id": "1956723903931502859",
+        "created_at": "2025-08-16T14:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T15:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956723903931502859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wVpaI9h8Vn",
+              "end": 42,
+              "expanded_url": "https://x.com/kiss91152149/status/1956723903931502859/photo/1",
+              "media_key": "3_1956723894729269250",
+              "start": 19,
+              "url": "https://t.co/wVpaI9h8Vn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956723903931502859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 613,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可惜我并不是江浙沪独生子，我只能努力 https://t.co/wVpaI9h8Vn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1955773434958352438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 199,
+          "like_count": 16042,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 4349
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-31T05:23:13.000Z",
+        "description": "直 另一个我：@dwqqcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "dwqqcom"
+              }
+            ]
+          }
+        },
+        "id": "1609057526976503808",
+        "name": "泰罗奥特曼",
+        "pinned_tweet_id": "1947162969646981195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947140085452779520/Gajdgh9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 47,
+          "like_count": 354,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 764
+        },
+        "username": "kiss91152149",
+        "verified": false
+      }
+    ]
+  }
+}

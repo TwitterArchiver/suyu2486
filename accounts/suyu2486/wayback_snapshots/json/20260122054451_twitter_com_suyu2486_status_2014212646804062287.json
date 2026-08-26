@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2013906600344596574",
+    "created_at": "2026-01-22T05:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T06:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014212646804062287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1462285623943966720",
+          "start": 0,
+          "username": "Ruiuiui2002"
+        },
+        {
+          "end": 26,
+          "id": "1341329111906586624",
+          "start": 13,
+          "username": "saharaoasis_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014212646804062287",
+    "in_reply_to_user_id": "1462285623943966720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013906600344596574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruiuiui2002 @saharaoasis_ 甲方：赌一把"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013906569122189312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_LVWr9akAAq80c.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2013906569109577728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_LVWr6aIAADaAS.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2013906569113804800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_LVWr7aoAA6g6d.jpg",
+        "width": 1151
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2013906600344596574",
+        "created_at": "2026-01-22T05:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T06:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014212646804062287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1462285623943966720",
+              "start": 0,
+              "username": "Ruiuiui2002"
+            },
+            {
+              "end": 26,
+              "id": "1341329111906586624",
+              "start": 13,
+              "username": "saharaoasis_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014212646804062287",
+        "in_reply_to_user_id": "1462285623943966720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013906600344596574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruiuiui2002 @saharaoasis_ 甲方：赌一把"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013906569122189312",
+            "3_2013906569109577728",
+            "3_2013906569113804800"
+          ]
+        },
+        "author_id": "1462285623943966720",
+        "conversation_id": "2013906600344596574",
+        "created_at": "2026-01-21T09:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T10:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013906600344596574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 72,
+              "id": "1341329111906586624",
+              "start": 59,
+              "username": "saharaoasis_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pz79ysTgyO",
+              "end": 96,
+              "expanded_url": "https://x.com/Ruiuiui2002/status/2013906600344596574/photo/1",
+              "media_key": "3_2013906569122189312",
+              "start": 73,
+              "url": "https://t.co/pz79ysTgyO"
+            },
+            {
+              "display_url": "pic.x.com/pz79ysTgyO",
+              "end": 96,
+              "expanded_url": "https://x.com/Ruiuiui2002/status/2013906600344596574/photo/1",
+              "media_key": "3_2013906569109577728",
+              "start": 73,
+              "url": "https://t.co/pz79ysTgyO"
+            },
+            {
+              "display_url": "pic.x.com/pz79ysTgyO",
+              "end": 96,
+              "expanded_url": "https://x.com/Ruiuiui2002/status/2013906600344596574/photo/1",
+              "media_key": "3_2013906569113804800",
+              "start": 73,
+              "url": "https://t.co/pz79ysTgyO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013906600344596574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 18939,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这个调教棒我去年就发过 好用到可以把我干尿 但是我习惯用之前套个避孕套比较方便清理 想入手的妹子们可以去🍑 撒哈拉绿洲@saharaoasis_ https://t.co/pz79ysTgyO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2363,
+          "following_count": 271,
+          "like_count": 22736,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 6513
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T05:04:06.000Z",
+        "description": "鸡鸡不论是做成红烧鸡鸡还是爆炒鸡鸡都风味十足，是一道绝佳美食，滋阴补阳，对于家庭聚餐来说是一个不错的选择|不接推广｜过🚪只能加微信无任何福利｜自用VPN高速稳定https://t.co/GvBsCveTun",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "so.sulink.life/#/register?cod…",
+                "end": 103,
+                "expanded_url": "https://so.sulink.life/#/register?code=ayQjF6nx",
+                "start": 80,
+                "url": "https://t.co/GvBsCveTun"
+              }
+            ]
+          }
+        },
+        "id": "1462285623943966720",
+        "location": "精神病院",
+        "name": "我为鸡鸡狂",
+        "pinned_tweet_id": "1860458766967406659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004518562380263424/LGglUiH0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24012,
+          "following_count": 280,
+          "like_count": 42806,
+          "listed_count": 29,
+          "media_count": 3118,
+          "tweet_count": 12198
+        },
+        "username": "Ruiuiui2002",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-22T10:26:06.000Z",
+        "description": "⬇️玩偶姐姐链接⬇️ /🍑tb：撒哈拉绿洲/vx小程序：卯哥的晚间杂货铺/公众号：卯哥的晚间杂货铺（不定期更新性爱教学）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.tb.cn/h.5LiR1jdMSu2R…",
+                "end": 23,
+                "expanded_url": "https://m.tb.cn/h.5LiR1jdMSu2RcK6",
+                "start": 0,
+                "url": "https://t.co/VFQtZ1po6r"
+              }
+            ]
+          }
+        },
+        "id": "1341329111906586624",
+        "location": "香港",
+        "name": "番茄罐头（全网第一家调教棒）",
+        "pinned_tweet_id": "2013655442443169966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753070373820891136/4R3k0MHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372481,
+          "following_count": 535,
+          "like_count": 3039,
+          "listed_count": 605,
+          "media_count": 1537,
+          "tweet_count": 7179
+        },
+        "url": "https://t.co/VFQtZ1po6r",
+        "username": "saharaoasis_",
+        "verified": true
+      }
+    ]
+  }
+}

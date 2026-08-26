@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1975213535887311350",
+    "created_at": "2025-10-06T14:56:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T15:56:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975213535887311350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2790321427",
+          "start": 3,
+          "username": "seec2006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975213535887311350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975202946481831960",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seec2006: 我觉得一段怡当的关系，是先在网上偶尔聊骚，然后再线下见面，互相看看观感。\n\n循序渐进的找到契合彼此的节奏，最后在不打扰对方生活的前提下，释放自己的压力...\n\n你们同意吗?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1975213535887311350",
+        "created_at": "2025-10-06T14:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T15:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975213535887311350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2790321427",
+              "start": 3,
+              "username": "seec2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975213535887311350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975202946481831960",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seec2006: 我觉得一段怡当的关系，是先在网上偶尔聊骚，然后再线下见面，互相看看观感。\n\n循序渐进的找到契合彼此的节奏，最后在不打扰对方生活的前提下，释放自己的压力...\n\n你们同意吗?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2790321427",
+        "conversation_id": "1975202946481831960",
+        "created_at": "2025-10-06T14:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T15:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975202946481831960"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975202946481831960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 350,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得一段怡当的关系，是先在网上偶尔聊骚，然后再线下见面，互相看看观感。\n\n循序渐进的找到契合彼此的节奏，最后在不打扰对方生活的前提下，释放自己的压力...\n\n你们同意吗?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我玊玉，叫玉是因为英文名是jade，玊（su）是有瑕疵的玉的意思，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗      转帖、置顶推广关评自辩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1975034794699538547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2108,
+          "following_count": 261,
+          "like_count": 20770,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 5764
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-04T18:10:37.000Z",
+        "description": "国企阿姨一枚，被体制内的工作磨平了棱角，和老公也失去了生活的激情。两个孩子都不小了，趁着自己还没老，希望在推特寻求下第二春，补充一下还没感受过的刺激。私信/电报可以认识，礼貌的打招呼都会回复的～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SX1O1",
+                "end": 23,
+                "expanded_url": "https://t.me/SX1O1",
+                "start": 0,
+                "url": "https://t.co/aBt05IqXQR"
+              }
+            ]
+          }
+        },
+        "id": "2790321427",
+        "location": "12.6km     我的电报➡️",
+        "name": "小娴的另一面",
+        "pinned_tweet_id": "1974772054215057456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974122752614543366/hhc38FSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5454,
+          "following_count": 1,
+          "like_count": 17,
+          "listed_count": 11,
+          "media_count": 5,
+          "tweet_count": 17
+        },
+        "url": "https://t.co/aBt05IqXQR",
+        "username": "seec2006",
+        "verified": false
+      }
+    ]
+  }
+}

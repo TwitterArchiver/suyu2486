@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2089737766611370072",
+    "created_at": "2026-08-19T14:03:50.000Z",
+    "display_text_range": [
+      14,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T15:03:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090077282329309316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1553278286796451840",
+          "start": 0,
+          "username": "XuanZai12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090077282329309316",
+    "in_reply_to_user_id": "1553278286796451840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089737766611370072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XuanZai12138 我不搬你看什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2089737766611370072",
+        "created_at": "2026-08-19T14:03:50.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090077282329309316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1553278286796451840",
+              "start": 0,
+              "username": "XuanZai12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090077282329309316",
+        "in_reply_to_user_id": "1553278286796451840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089737766611370072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XuanZai12138 我不搬你看什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553278286796451840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2089737766611370072",
+        "created_at": "2026-08-18T15:34:43.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T16:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089737766611370072"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089737766611370072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 682,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "微博抖音火的文案会被搬到推特，推特火的文案又会被搬到抖音微博，一堆我的世界皓宸"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "is_identity_verified": false,
+        "location": "自用蜂鸟vpn",
+        "most_recent_tweet_id": "2090077282329309316",
+        "name": "小玉",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910715228523831296/1766048126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2050,
+          "following_count": 186,
+          "like_count": 21447,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6718
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-30T07:16:29.000Z",
+        "description": "此账号皮下是一个有躯体化的活珠子\n性别男取向男丨🚪8964 将用于捐款慈善项目 接占卜烧香点蜡法事 塔罗师从龙女 家是出马的\n⬆️广告营业发在：@Dokiimelody_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 72,
+                "username": "Dokiimelody_"
+              }
+            ]
+          }
+        },
+        "id": "1553278286796451840",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2090060559987114159",
+        "name": "十九岁帅到邻居想报警",
+        "pinned_tweet_id": "2039733988387139754",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1553278286796451840/1786919221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080887195540611073/MObzTCaU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1911,
+          "following_count": 67,
+          "like_count": 13398,
+          "listed_count": 7,
+          "media_count": 429,
+          "tweet_count": 5362
+        },
+        "url": "",
+        "username": "XuanZai12138",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

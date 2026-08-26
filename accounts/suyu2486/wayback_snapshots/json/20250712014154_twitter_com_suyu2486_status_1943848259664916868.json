@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1943711448611295658",
+    "created_at": "2025-07-12T01:41:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T02:41:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943848259664916868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1829642020488691712",
+          "start": 0,
+          "username": "lovemian_0921"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943848259664916868",
+    "in_reply_to_user_id": "1829642020488691712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943711448611295658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lovemian_0921 虽然图片还没加载出来，但是我还是会说好看的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943711430630313985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvlzP3iWEAEQxI_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1943711448611295658",
+        "created_at": "2025-07-12T01:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T02:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943848259664916868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1829642020488691712",
+              "start": 0,
+              "username": "lovemian_0921"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943848259664916868",
+        "in_reply_to_user_id": "1829642020488691712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943711448611295658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovemian_0921 虽然图片还没加载出来，但是我还是会说好看的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943711430630313985"
+          ]
+        },
+        "author_id": "1829642020488691712",
+        "conversation_id": "1943711448611295658",
+        "created_at": "2025-07-11T16:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T17:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943711448611295658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CqaEFio7aj",
+              "end": 38,
+              "expanded_url": "https://x.com/lovemian_0921/status/1943711448611295658/photo/1",
+              "media_key": "3_1943711430630313985",
+              "start": 15,
+              "url": "https://t.co/CqaEFio7aj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943711448611295658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 20549,
+          "like_count": 338,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "真的没人夸我的qqny呜呜呜 https://t.co/CqaEFio7aj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 201,
+          "like_count": 11444,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 3274
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T22:07:13.000Z",
+        "description": "健康 幸福 平安@lovol_puppy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "lovol_puppy"
+              }
+            ]
+          }
+        },
+        "id": "1829642020488691712",
+        "location": "🈚️lx 可以找我聊聊天ovo",
+        "name": "小眠的岛",
+        "pinned_tweet_id": "1927640365655523568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943613184583053312/dqcarhDz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20196,
+          "following_count": 4,
+          "like_count": 32,
+          "listed_count": 46,
+          "media_count": 84,
+          "tweet_count": 132
+        },
+        "username": "lovemian_0921",
+        "verified": false
+      }
+    ]
+  }
+}

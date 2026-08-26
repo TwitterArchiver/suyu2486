@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1949870721720603021",
+    "created_at": "2025-07-29T02:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T03:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950016206020255924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1534187424678498304",
+          "start": 0,
+          "username": "xihuanni030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950016206020255924",
+    "in_reply_to_user_id": "1534187424678498304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949870721720603021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xihuanni030 好漂亮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1949870711998464000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw9VFOqbQAA0Ep1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1949870721720603021",
+        "created_at": "2025-07-29T02:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T03:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950016206020255924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1534187424678498304",
+              "start": 0,
+              "username": "xihuanni030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950016206020255924",
+        "in_reply_to_user_id": "1534187424678498304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949870721720603021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xihuanni030 好漂亮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949870711998464000"
+          ]
+        },
+        "author_id": "1534187424678498304",
+        "conversation_id": "1949870721720603021",
+        "created_at": "2025-07-28T16:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T17:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949870721720603021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h2pCc1dU4K",
+              "end": 38,
+              "expanded_url": "https://x.com/xihuanni030/status/1949870721720603021/photo/1",
+              "media_key": "3_1949870711998464000",
+              "start": 15,
+              "url": "https://t.co/h2pCc1dU4K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949870721720603021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10945,
+          "like_count": 184,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我早就说过有些感觉只能我给你 https://t.co/h2pCc1dU4K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男，可以叫我小玉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1948457851778990521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 200,
+          "like_count": 12192,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 3403
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-07T14:56:14.000Z",
+        "description": "私信只回复礼貌宝宝｜brat｜isfp｜04-162-113 🎯90｜分享日常🧩&一些奇奇怪怪的想法💭｜提问👉 https://t.co/UlL9D1JRfl｜喜欢我可以投喂我 收ATM奴 ｜互关宝宝来找我玩｜自用蜂鸟vpn⬇️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/poeowo",
+                "end": 79,
+                "expanded_url": "http://ngl.link/poeowo",
+                "start": 56,
+                "url": "https://t.co/UlL9D1JRfl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=Qtnpi4fi",
+                "start": 0,
+                "url": "https://t.co/d1WvOjRhXQ"
+              }
+            ]
+          }
+        },
+        "id": "1534187424678498304",
+        "location": "不加联系方式 不线下",
+        "name": "糯米侠",
+        "pinned_tweet_id": "1945006720679584247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926636590253686784/y5qd0Lx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4179,
+          "following_count": 132,
+          "like_count": 2642,
+          "listed_count": 12,
+          "media_count": 62,
+          "tweet_count": 2223
+        },
+        "url": "https://t.co/d1WvOjRhXQ",
+        "username": "xihuanni030",
+        "verified": false
+      }
+    ]
+  }
+}

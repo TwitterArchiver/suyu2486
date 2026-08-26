@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1956545126505066799",
+    "created_at": "2025-08-16T23:08:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T00:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956855516061118773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1779006683181940738",
+          "start": 0,
+          "username": "Missouolsian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956855516061118773",
+    "in_reply_to_user_id": "1779006683181940738",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956545126505066799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Missouolsian 好撅兄弟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1956545116019245056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GycLarNaQAA8tsT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1956545126505066799",
+        "created_at": "2025-08-16T23:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T00:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956855516061118773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1779006683181940738",
+              "start": 0,
+              "username": "Missouolsian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956855516061118773",
+        "in_reply_to_user_id": "1779006683181940738",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956545126505066799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Missouolsian 好撅兄弟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956545116019245056"
+          ]
+        },
+        "author_id": "1779006683181940738",
+        "conversation_id": "1956545126505066799",
+        "created_at": "2025-08-16T02:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T03:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956545126505066799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qNXZoBoIEF",
+              "end": 31,
+              "expanded_url": "https://x.com/Missouolsian/status/1956545126505066799/photo/1",
+              "media_key": "3_1956545116019245056",
+              "start": 8,
+              "url": "https://t.co/qNXZoBoIEF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956545126505066799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7583,
+          "like_count": 112,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天撅这死嘴🫂 https://t.co/qNXZoBoIEF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1955773434958352438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 201,
+          "like_count": 16035,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 4345
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T04:40:30.000Z",
+        "description": "08准大一/我的废话桶 记录我所思所想/自恋号@aouoyulin_0/因为有人喜欢我所以我就想分享碎碎念😩（而且我喜欢沉浸自己世界自言自语）/不礼貌回关啦但是我也会一直互动的😙",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "aouoyulin_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "w5.awcmam.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://w5.awcmam.com/#/register?code=2CjvX32C",
+                "start": 0,
+                "url": "https://t.co/iNChn6ilHF"
+              }
+            ]
+          }
+        },
+        "id": "1779006683181940738",
+        "name": "白毛红瞳狗狗厨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880844150112915456/H9Nlxai0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11603,
+          "following_count": 192,
+          "like_count": 26522,
+          "listed_count": 29,
+          "media_count": 612,
+          "tweet_count": 13874
+        },
+        "url": "https://t.co/iNChn6ilHF",
+        "username": "Missouolsian",
+        "verified": false
+      }
+    ]
+  }
+}

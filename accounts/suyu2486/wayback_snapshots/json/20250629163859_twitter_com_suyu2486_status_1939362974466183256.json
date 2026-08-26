@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1923458019305660813",
+    "created_at": "2025-06-29T16:38:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T17:38:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939362974466183256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1590330190559072256",
+          "start": 0,
+          "username": "AYRSHI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939362974466183256",
+    "in_reply_to_user_id": "1590330190559072256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939357242400407708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AYRSHI 人之常情罢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1923458019305660813",
+        "created_at": "2025-06-29T16:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T17:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939362974466183256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1590330190559072256",
+              "start": 0,
+              "username": "AYRSHI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939362974466183256",
+        "in_reply_to_user_id": "1590330190559072256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939357242400407708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AYRSHI 人之常情罢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590330190559072256",
+        "conversation_id": "1923458019305660813",
+        "created_at": "2025-06-29T16:16:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T17:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939357242400407708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939357242400407708",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923458019305660813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 進了個sm群  群主一開始以為我是極品S 後面發現我只是超雄犯了亂打人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1923458019305660813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 200,
+          "like_count": 9456,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2725
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-09T13:07:36.000Z",
+        "description": "随便发点 可以叫我呆 天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lly.a.x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lly.a.x",
+                "start": 0,
+                "url": "https://t.co/UTtiwhM5Z6"
+              }
+            ]
+          }
+        },
+        "id": "1590330190559072256",
+        "location": "社交白痴 🚪52純綠🈚️福利",
+        "name": "i",
+        "pinned_tweet_id": "1936324865130479700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938876327118983168/K6ulFh1q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 113,
+          "like_count": 3369,
+          "listed_count": 2,
+          "media_count": 4,
+          "tweet_count": 1024
+        },
+        "url": "https://t.co/UTtiwhM5Z6",
+        "username": "AYRSHI",
+        "verified": false
+      }
+    ]
+  }
+}

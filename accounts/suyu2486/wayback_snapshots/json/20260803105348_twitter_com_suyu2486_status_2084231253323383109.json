@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2083949982001021359",
+    "created_at": "2026-08-03T10:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T11:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084231253323383109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1630461303742697472",
+          "start": 0,
+          "username": "titanmini3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084231253323383109",
+    "in_reply_to_user_id": "1630461303742697472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083949982001021359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@titanmini3 我认为人类的尊严永远体现在自身表现，能够懂得克制做到克制，那这个人就是还算人，毕竟所谓欢愉必然是动物性的，一个人做出实际贡献那这个人必定会有尊严，但是如果一个人有尊严不一定会精神世界富足。假如一个人他可能德高望重，但他还是会偷偷自慰。欢愉是人类活着的动力，这是一种快乐。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2083949982001021359",
+        "created_at": "2026-08-03T10:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084231253323383109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1630461303742697472",
+              "start": 0,
+              "username": "titanmini3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084231253323383109",
+        "in_reply_to_user_id": "1630461303742697472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083949982001021359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@titanmini3 我认为人类的尊严永远体现在自身表现，能够懂得克制做到克制，那这个人就是还算人，毕竟所谓欢愉必然是动物性的，一个人做出实际贡献那这个人必定会有尊严，但是如果一个人有尊严不一定会精神世界富足。假如一个人他可能德高望重，但他还是会偷偷自慰。欢愉是人类活着的动力，这是一种快乐。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630461303742697472",
+        "conversation_id": "2083949982001021359",
+        "created_at": "2026-08-02T16:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083949982001021359"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083949982001021359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7494,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 44,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "不好意思刚才腾不出手，我想说的是，如果人类总是在追求肉体的快感和片刻的欢愉，那么人类的尊严体现在哪里？作为人类这种最高级的动物，我们是否更应该注重于精神世界的富足和实际的贡献？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "pinned_tweet_id": "2084166896371511380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2071,
+          "following_count": 192,
+          "like_count": 21331,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6672
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-28T06:54:16.000Z",
+        "description": "05/推止于推/isfp/玻璃心小女孩 骂我默认自动出示全家死亡证明/日常碎碎念 /sub\n小号防走失@hximx121863\n颜控 身材控 没有免费聊天的义务😅\n有问必答☺️https://t.co/9kuMV0X7ta",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "hximx121863"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lulu59400",
+                "end": 111,
+                "expanded_url": "https://ngl.link/lulu59400",
+                "start": 88,
+                "url": "https://t.co/9kuMV0X7ta"
+              }
+            ]
+          }
+        },
+        "id": "1630461303742697472",
+        "location": "你心里",
+        "name": "lulu",
+        "pinned_tweet_id": "2060679336630358299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070889991262412800/D87MrNb-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1435,
+          "following_count": 278,
+          "like_count": 2156,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 1316
+        },
+        "url": "",
+        "username": "titanmini3",
+        "verified": false
+      }
+    ]
+  }
+}

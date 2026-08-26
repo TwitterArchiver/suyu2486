@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1996211941669474398",
+    "created_at": "2025-12-04T04:34:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T05:34:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996437913358479404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1568430640428875776",
+          "start": 0,
+          "username": "YesStrayPuppy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996437913358479404",
+    "in_reply_to_user_id": "1568430640428875776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996211941669474398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YesStrayPuppy 你是二比啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1996211941669474398",
+        "created_at": "2025-12-04T04:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T05:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996437913358479404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1568430640428875776",
+              "start": 0,
+              "username": "YesStrayPuppy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996437913358479404",
+        "in_reply_to_user_id": "1568430640428875776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996211941669474398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesStrayPuppy 你是二比啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568430640428875776",
+        "conversation_id": "1996211941669474398",
+        "created_at": "2025-12-03T13:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T14:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996211941669474398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1568430640428875776",
+              "start": 7,
+              "username": "YesStrayPuppy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996211941669474398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 810,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真想一刀捅死 @YesStrayPuppy 这个贱货"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是一个死人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1985888956073066671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2481,
+          "following_count": 271,
+          "like_count": 22904,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 6381
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T02:46:49.000Z",
+        "description": "08巨蟹enfp|贫穷又好色的直女|一个平凡の女子，谢谢大家和我玩！😭|可以叫我小夜💭！|✋🏻我不聊骚！❗❌|记录(辱骂)📝高三生活中。。|互关我亲死你们👿|自用蜂鸟VPN:https://t.co/SJSEQkYNhc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sachlife.com/#/register?cod…",
+                "end": 110,
+                "expanded_url": "https://www.sachlife.com/#/register?code=s64C1SWq",
+                "start": 87,
+                "url": "https://t.co/SJSEQkYNhc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yesstraypuppy",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yesstraypuppy",
+                "start": 0,
+                "url": "https://t.co/HfCQc2mvZp"
+              }
+            ]
+          }
+        },
+        "id": "1568430640428875776",
+        "location": "我偷偷放了一个匿名↓",
+        "name": "夜市流浪小狗",
+        "pinned_tweet_id": "1989643061316784381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984589276856926214/dkGBGkaN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 481,
+          "like_count": 13405,
+          "listed_count": 2,
+          "media_count": 301,
+          "tweet_count": 3699
+        },
+        "url": "https://t.co/HfCQc2mvZp",
+        "username": "YesStrayPuppy",
+        "verified": false
+      }
+    ]
+  }
+}

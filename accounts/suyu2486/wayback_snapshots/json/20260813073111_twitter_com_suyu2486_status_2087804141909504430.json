@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2086528334025064642",
+    "created_at": "2026-08-13T07:31:11.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T08:31:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087804141909504430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1908070268",
+          "start": 0,
+          "username": "dislocatia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087804141909504430",
+    "in_reply_to_user_id": "1908070268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086528334025064642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dislocatia 好绝望"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4733,
+        "height": 720,
+        "media_key": "13_2083296902292832256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083296902292832256/img/coSfMNOP73z6RBXv.jpg",
+        "public_metrics": {
+          "view_count": 1515782
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083296902292832256/vid/avc1/294x270/LKhNtdi9jf2E53K4.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083296902292832256/vid/avc1/392x360/Va8NLblq8YOnOOeu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083296902292832256/vid/avc1/784x720/cCbda-z8x3Cv5rXZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083296902292832256/pl/P1ZYAGjPFxiXQ_dD.m3u8"
+          }
+        ],
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2086528334025064642",
+        "created_at": "2026-08-13T07:31:11.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T08:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087804141909504430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1908070268",
+              "start": 0,
+              "username": "dislocatia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087804141909504430",
+        "in_reply_to_user_id": "1908070268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086528334025064642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dislocatia 好绝望"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083296902292832256"
+          ],
+          "media_source_tweet_id": [
+            "2083296913017966774"
+          ]
+        },
+        "author_id": "1908070268",
+        "conversation_id": "2086528334025064642",
+        "created_at": "2026-08-09T19:01:35.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T20:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086528334025064642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sNHuMwa5DG",
+              "end": 83,
+              "expanded_url": "https://x.com/sticikilysneaki/status/2083296913017966774/video/1",
+              "media_key": "13_2083296902292832256",
+              "start": 60,
+              "url": "https://t.co/sNHuMwa5DG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086528334025064642",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2083296902292832256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1487,
+          "impression_count": 363341,
+          "like_count": 14523,
+          "quote_count": 85,
+          "reply_count": 96,
+          "retweet_count": 1799
+        },
+        "reply_settings": "everyone",
+        "text": "when too many people stare at me in public i feel like this https://t.co/sNHuMwa5DG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "is_identity_verified": false,
+        "location": "自用蜂鸟vpn",
+        "most_recent_tweet_id": "2087804141909504430",
+        "name": "小玉",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910715228523831296/1766048126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2057,
+          "following_count": 184,
+          "like_count": 21462,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6715
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-09-26T14:22:27.000Z",
+        "description": "⠀⠀⠀⠀trans pop girl posting trans pop girl things⠀⠀⠀⠀ ⠀⠀⠀ ⠀⠀⠀ ⠀ ⠀⠀⠀ ⠀ ⠀⠀☼ ♒︎ ↟ ♒︎ ☽ ♎︎ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "soundcloud.com/dislocatia/",
+                "end": 23,
+                "expanded_url": "https://soundcloud.com/dislocatia/",
+                "start": 0,
+                "url": "https://t.co/Q5ojtyVgqb"
+              }
+            ]
+          }
+        },
+        "id": "1908070268",
+        "is_identity_verified": false,
+        "location": "fort collins//28//she•her//18+",
+        "most_recent_tweet_id": "2087763476785820038",
+        "name": "⭒꙳𖤐trinity𖤐꙳⭒",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908070268/1780714696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078897355785650177/vhzn78y4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2485,
+          "following_count": 754,
+          "like_count": 91665,
+          "listed_count": 5,
+          "media_count": 8786,
+          "tweet_count": 58298
+        },
+        "url": "https://t.co/Q5ojtyVgqb",
+        "username": "dislocatia",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

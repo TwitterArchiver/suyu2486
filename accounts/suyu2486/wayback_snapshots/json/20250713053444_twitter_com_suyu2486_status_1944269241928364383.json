@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944269231220019200",
+        "3_1944269233988276225",
+        "3_1944269237708595200",
+        "3_1944269228816662528"
+      ]
+    },
+    "author_id": "1910715228523831296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1944269241928364383",
+    "created_at": "2025-07-13T05:34:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T06:34:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944269241928364383"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/o5Uf06vxCR",
+          "end": 144,
+          "expanded_url": "https://x.com/suyu2486/status/1944269241928364383/photo/1",
+          "media_key": "3_1944269231220019200",
+          "start": 121,
+          "url": "https://t.co/o5Uf06vxCR"
+        },
+        {
+          "display_url": "pic.x.com/o5Uf06vxCR",
+          "end": 144,
+          "expanded_url": "https://x.com/suyu2486/status/1944269241928364383/photo/1",
+          "media_key": "3_1944269233988276225",
+          "start": 121,
+          "url": "https://t.co/o5Uf06vxCR"
+        },
+        {
+          "display_url": "pic.x.com/o5Uf06vxCR",
+          "end": 144,
+          "expanded_url": "https://x.com/suyu2486/status/1944269241928364383/photo/1",
+          "media_key": "3_1944269237708595200",
+          "start": 121,
+          "url": "https://t.co/o5Uf06vxCR"
+        },
+        {
+          "display_url": "pic.x.com/o5Uf06vxCR",
+          "end": 144,
+          "expanded_url": "https://x.com/suyu2486/status/1944269241928364383/photo/1",
+          "media_key": "3_1944269228816662528",
+          "start": 121,
+          "url": "https://t.co/o5Uf06vxCR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944269241928364383",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "亲爱的啤酒🍺虽然你会掉很多毛，会咬我挠我，但从未下过死手，我不懂你是否生气还是玩闹，但我会把手放在你嘴边让你挠让你咬，但就算这样，我也希望你健健康康，感谢你晚上陪我睡觉，陪我玩，在情绪低落的时候陪着我，摸摸你（啤酒真的很像小狐狸🦊哈哈哈哈） https://t.co/o5Uf06vxCR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944269231220019200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvtukIqXUAAqISp.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1944269233988276225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvtukS-XkAECUA9.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1944269237708595200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvtukg1XIAAJo-_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1944269228816662528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvtuj_tXAAA-3w0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944269231220019200",
+            "3_1944269233988276225",
+            "3_1944269237708595200",
+            "3_1944269228816662528"
+          ]
+        },
+        "author_id": "1910715228523831296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1944269241928364383",
+        "created_at": "2025-07-13T05:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T06:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944269241928364383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o5Uf06vxCR",
+              "end": 144,
+              "expanded_url": "https://x.com/suyu2486/status/1944269241928364383/photo/1",
+              "media_key": "3_1944269231220019200",
+              "start": 121,
+              "url": "https://t.co/o5Uf06vxCR"
+            },
+            {
+              "display_url": "pic.x.com/o5Uf06vxCR",
+              "end": 144,
+              "expanded_url": "https://x.com/suyu2486/status/1944269241928364383/photo/1",
+              "media_key": "3_1944269233988276225",
+              "start": 121,
+              "url": "https://t.co/o5Uf06vxCR"
+            },
+            {
+              "display_url": "pic.x.com/o5Uf06vxCR",
+              "end": 144,
+              "expanded_url": "https://x.com/suyu2486/status/1944269241928364383/photo/1",
+              "media_key": "3_1944269237708595200",
+              "start": 121,
+              "url": "https://t.co/o5Uf06vxCR"
+            },
+            {
+              "display_url": "pic.x.com/o5Uf06vxCR",
+              "end": 144,
+              "expanded_url": "https://x.com/suyu2486/status/1944269241928364383/photo/1",
+              "media_key": "3_1944269228816662528",
+              "start": 121,
+              "url": "https://t.co/o5Uf06vxCR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944269241928364383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亲爱的啤酒🍺虽然你会掉很多毛，会咬我挠我，但从未下过死手，我不懂你是否生气还是玩闹，但我会把手放在你嘴边让你挠让你咬，但就算这样，我也希望你健健康康，感谢你晚上陪我睡觉，陪我玩，在情绪低落的时候陪着我，摸摸你（啤酒真的很像小狐狸🦊哈哈哈哈） https://t.co/o5Uf06vxCR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 201,
+          "like_count": 11676,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 3325
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      }
+    ]
+  }
+}

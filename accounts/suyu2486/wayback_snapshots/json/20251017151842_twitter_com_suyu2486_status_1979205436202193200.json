@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1978441561881903245",
+    "created_at": "2025-10-17T15:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T16:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979205436202193200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1713947216338104320",
+          "start": 0,
+          "username": "xxzbgxgxzbssa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979205436202193200",
+    "in_reply_to_user_id": "1713947216338104320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978441561881903245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxzbgxgxzbssa 你会喝格调"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16693,
+        "height": 1280,
+        "media_key": "13_1978441458471559168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1978441458471559168/img/5X79RJgb-0JCXsNT.jpg",
+        "public_metrics": {
+          "view_count": 31
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1978441458471559168/vid/avc1/320x568/NZXIE2WCdW5rPVcP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1978441458471559168/vid/avc1/480x852/k2uwNu9BRWzVAOW1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1978441458471559168/vid/avc1/720x1280/E49Y88UZs2_9rxro.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1978441458471559168/pl/EJw0rTNYUqUfwGFX.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1978441561881903245",
+        "created_at": "2025-10-17T15:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T16:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979205436202193200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1713947216338104320",
+              "start": 0,
+              "username": "xxzbgxgxzbssa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979205436202193200",
+        "in_reply_to_user_id": "1713947216338104320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978441561881903245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxzbgxgxzbssa 你会喝格调"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1978441458471559168"
+          ]
+        },
+        "author_id": "1713947216338104320",
+        "conversation_id": "1978441561881903245",
+        "created_at": "2025-10-15T12:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T13:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978441561881903245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qIDR0YVzzX",
+              "end": 28,
+              "expanded_url": "https://x.com/xxzbgxgxzbssa/status/1978441561881903245/video/1",
+              "media_key": "13_1978441458471559168",
+              "start": 5,
+              "url": "https://t.co/qIDR0YVzzX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978441561881903245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 89,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奶门永存 https://t.co/qIDR0YVzzX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我玊玉，叫玉是因为英文名是jade，玊（su）是有瑕疵的玉的意思，男的，infp，装逼让你飞起来，机舱开🚪中，座位费20一位（一包黑兰州的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗     🎼  转帖、置顶推广关评自辩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1977439230432555047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2173,
+          "following_count": 259,
+          "like_count": 21387,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 5932
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-16T15:57:25.000Z",
+        "description": "垫肩飞鱼死了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=a_mNxAzr_IRTDdLK",
+                "start": 0,
+                "url": "https://t.co/9BUSBEKU89"
+              }
+            ]
+          }
+        },
+        "id": "1713947216338104320",
+        "name": "忧郁的臭狗熊666",
+        "pinned_tweet_id": "1973390494408294474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946274215914614784/yge_k4y4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 427,
+          "like_count": 12036,
+          "listed_count": 1,
+          "media_count": 2128,
+          "tweet_count": 8320
+        },
+        "url": "https://t.co/9BUSBEKU89",
+        "username": "xxzbgxgxzbssa",
+        "verified": false
+      }
+    ]
+  }
+}

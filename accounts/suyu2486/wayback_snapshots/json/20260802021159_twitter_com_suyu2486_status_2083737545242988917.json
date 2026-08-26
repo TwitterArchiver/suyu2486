@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2083016998045520242",
+    "created_at": "2026-08-02T02:11:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T03:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083737545242988917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1771486268213567488",
+          "start": 0,
+          "username": "9_crispr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083737545242988917",
+    "in_reply_to_user_id": "1771486268213567488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083575314270269787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9_crispr 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2083016998045520242",
+        "created_at": "2026-08-02T02:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T03:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083737545242988917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1771486268213567488",
+              "start": 0,
+              "username": "9_crispr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083737545242988917",
+        "in_reply_to_user_id": "1771486268213567488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083575314270269787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9_crispr 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771486268213567488",
+        "conversation_id": "2083016998045520242",
+        "created_at": "2026-08-01T15:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083575314270269787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083575314270269787",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083016998045520242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 好久不见小玉！要注意身体！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 197,
+          "like_count": 21177,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6620
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T10:37:04.000Z",
+        "description": "关起满室 不足的氧气",
+        "id": "1771486268213567488",
+        "location": "某夜电影中心",
+        "name": "杀人孟夏幽蓝调",
+        "pinned_tweet_id": "1918748697136881729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014713186143043584/pRL-G3ej_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 286,
+          "like_count": 23026,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 484
+        },
+        "url": "",
+        "username": "9_crispr",
+        "verified": false
+      }
+    ]
+  }
+}

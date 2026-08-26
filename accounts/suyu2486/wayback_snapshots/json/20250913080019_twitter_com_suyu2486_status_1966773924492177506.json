@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1966523601785655476",
+    "created_at": "2025-09-13T08:00:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T09:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966773924492177506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1712477803252432897",
+          "start": 0,
+          "username": "jingyu813363"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966773924492177506",
+    "in_reply_to_user_id": "1712477803252432897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966523601785655476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingyu813363 我想玩，能邮过来吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966523520042807296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0p-uO6aMAASLo2.jpg",
+        "width": 945
+      },
+      {
+        "duration_ms": 5003,
+        "height": 720,
+        "media_key": "13_1966523520051302400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1966523520051302400/img/dYdTGFJ0xbFUMfAK.jpg",
+        "public_metrics": {
+          "view_count": 2784
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966523520051302400/vid/avc1/480x270/r5EoiT1Nup4tuzA5.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966523520051302400/vid/avc1/640x360/1ozxZqbHORtNz3vE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966523520051302400/vid/avc1/1280x720/iUdEdfoBLXqcQJh4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1966523520051302400/pl/EKbPwNOrJyCu064_.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1966523601785655476",
+        "created_at": "2025-09-13T08:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T09:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966773924492177506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1712477803252432897",
+              "start": 0,
+              "username": "jingyu813363"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966773924492177506",
+        "in_reply_to_user_id": "1712477803252432897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966523601785655476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingyu813363 我想玩，能邮过来吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966523520042807296",
+            "13_1966523520051302400"
+          ]
+        },
+        "author_id": "1712477803252432897",
+        "conversation_id": "1966523601785655476",
+        "created_at": "2025-09-12T15:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T16:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966523601785655476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QpUYQhtUJF",
+              "end": 32,
+              "expanded_url": "https://x.com/jingyu813363/status/1966523601785655476/video/1",
+              "media_key": "3_1966523520042807296",
+              "start": 9,
+              "url": "https://t.co/QpUYQhtUJF"
+            },
+            {
+              "display_url": "pic.x.com/QpUYQhtUJF",
+              "end": 32,
+              "expanded_url": "https://x.com/jingyu813363/status/1966523601785655476/video/1",
+              "media_key": "13_1966523520051302400",
+              "start": 9,
+              "url": "https://t.co/QpUYQhtUJF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966523601785655476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9239,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "炮机远程谁想玩👅 https://t.co/QpUYQhtUJF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗七个小号其中之一@dante82682",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "dante82682"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 232,
+          "like_count": 19303,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 5304
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-12T14:38:55.000Z",
+        "description": "我有厌蠢症 喜欢请打赏ouo 推广自辨",
+        "id": "1712477803252432897",
+        "location": "有🚪 ",
+        "name": "iyue",
+        "pinned_tweet_id": "1966517402138443914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954748927049404416/PfM2FzAH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3051,
+          "following_count": 554,
+          "like_count": 5729,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 1484
+        },
+        "username": "jingyu813363",
+        "verified": false
+      }
+    ]
+  }
+}

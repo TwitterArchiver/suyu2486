@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1983576255577649444",
+    "created_at": "2025-10-30T06:48:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T07:48:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983788058895118754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1619021081238732802",
+          "start": 0,
+          "username": "love__bbh__lks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983788058895118754",
+    "in_reply_to_user_id": "1619021081238732802",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983576255577649444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@love__bbh__lks 吕小布害了一些人…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2060,
+        "media_key": "3_1983576252763271170",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4cUF6ra8AIuIYl.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1983576255577649444",
+        "created_at": "2025-10-30T06:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T07:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983788058895118754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1619021081238732802",
+              "start": 0,
+              "username": "love__bbh__lks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983788058895118754",
+        "in_reply_to_user_id": "1619021081238732802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983576255577649444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@love__bbh__lks 吕小布害了一些人…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983576252763271170"
+          ]
+        },
+        "author_id": "1619021081238732802",
+        "conversation_id": "1983576255577649444",
+        "created_at": "2025-10-29T16:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T17:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983576255577649444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bUyqVEaR72",
+              "end": 51,
+              "expanded_url": "https://x.com/love__bbh__lks/status/1983576255577649444/photo/1",
+              "media_key": "3_1983576252763271170",
+              "start": 28,
+              "url": "https://t.co/bUyqVEaR72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983576255577649444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1807,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何意味，我都不敢点开行吗，抖音这个该死的已读功能咋关啊 https://t.co/bUyqVEaR72"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "神鹰🦅，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "pinned_tweet_id": "1977439230432555047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981015242827087872/axAcZvEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2142,
+          "following_count": 261,
+          "like_count": 21616,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 6043
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-27T17:14:49.000Z",
+        "description": "清水碎碎念，别骚扰我。不接推广。不加联系方式，别问个人信息。可以喊我小柳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/love__bbh__lks",
+                "end": 23,
+                "expanded_url": "https://ngl.link/love__bbh__lks",
+                "start": 0,
+                "url": "https://t.co/oiNSPSR2eV"
+              }
+            ]
+          }
+        },
+        "id": "1619021081238732802",
+        "location": "匿名信箱👉🏻",
+        "name": "珏",
+        "pinned_tweet_id": "1891429284020957559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891325267286900736/PG6jOCBK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2931,
+          "following_count": 318,
+          "like_count": 20566,
+          "listed_count": 6,
+          "media_count": 1802,
+          "tweet_count": 13242
+        },
+        "url": "https://t.co/oiNSPSR2eV",
+        "username": "love__bbh__lks",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1965779047977554074",
+    "created_at": "2025-09-10T16:37:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T17:37:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965816913344471429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1644761277900951552",
+          "start": 0,
+          "username": "4rocky9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965816913344471429",
+    "in_reply_to_user_id": "1644761277900951552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965779047977554074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4rocky9 鹿鹿就好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1965779034874556416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0fZnfibsAA4aua.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1965779047977554074",
+        "created_at": "2025-09-10T16:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T17:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965816913344471429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1644761277900951552",
+              "start": 0,
+              "username": "4rocky9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965816913344471429",
+        "in_reply_to_user_id": "1644761277900951552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965779047977554074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4rocky9 鹿鹿就好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965779034874556416"
+          ]
+        },
+        "author_id": "1644761277900951552",
+        "conversation_id": "1965779047977554074",
+        "created_at": "2025-09-10T14:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T15:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965779047977554074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PFETPwj0oj",
+              "end": 114,
+              "expanded_url": "https://x.com/4rocky9/status/1965779047977554074/photo/1",
+              "media_key": "3_1965779034874556416",
+              "start": 91,
+              "url": "https://t.co/PFETPwj0oj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965779047977554074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 920,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我真有病了，八点困了想睡二十分钟九点醒，结果一睁眼十点了，我寻思我是设了闹钟啊，为啥听不到声呢，一看手机就停留在这个页面，刚才搁那闹钟还没设置完呢就跟猪一样睡着了，我真服了！ https://t.co/PFETPwj0oj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗七个小号其中之一@dante82682",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "dante82682"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1965715048162275657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 227,
+          "like_count": 19381,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 5229
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T17:57:16.000Z",
+        "description": "乐意骚扰人，给钱随便你骂，整抽象的，乐意说点屌话，喜欢看美女",
+        "id": "1644761277900951552",
+        "location": "🚪52/520/5200",
+        "name": "建龙哥",
+        "pinned_tweet_id": "1670098097735860259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920824521441046528/hyICLTe0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5459,
+          "following_count": 399,
+          "like_count": 44311,
+          "listed_count": 5,
+          "media_count": 368,
+          "tweet_count": 17100
+        },
+        "username": "4rocky9",
+        "verified": false
+      }
+    ]
+  }
+}

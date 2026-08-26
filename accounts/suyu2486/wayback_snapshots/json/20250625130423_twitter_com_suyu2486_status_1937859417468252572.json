@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1937679440928178283",
+    "created_at": "2025-06-25T13:04:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T14:04:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937859417468252572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2973426524",
+          "start": 0,
+          "username": "DDDSqwq"
+        },
+        {
+          "end": 21,
+          "id": "1828586060089057280",
+          "start": 9,
+          "username": "unicorn_cj_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937859417468252572",
+    "in_reply_to_user_id": "2973426524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937703674685669695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDDSqwq @unicorn_cj_ 因为好多和我一样的笨比在搞社会./🔥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1937679440928178283",
+        "created_at": "2025-06-25T13:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T14:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937859417468252572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2973426524",
+              "start": 0,
+              "username": "DDDSqwq"
+            },
+            {
+              "end": 21,
+              "id": "1828586060089057280",
+              "start": 9,
+              "username": "unicorn_cj_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937859417468252572",
+        "in_reply_to_user_id": "2973426524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937703674685669695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDDSqwq @unicorn_cj_ 因为好多和我一样的笨比在搞社会./🔥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2973426524",
+        "conversation_id": "1937679440928178283",
+        "created_at": "2025-06-25T02:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T03:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937703674685669695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828586060089057280",
+              "start": 0,
+              "username": "unicorn_cj_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937703674685669695",
+        "in_reply_to_user_id": "1828586060089057280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1640,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937679440928178283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@unicorn_cj_ 怎么推上全是学霸？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1936734143804735662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 198,
+          "like_count": 8321,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 2323
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-11T00:43:58.000Z",
+        "description": "",
+        "id": "2973426524",
+        "location": "China",
+        "name": "DayDayDaySun",
+        "pinned_tweet_id": "1871198760929460484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927689699919106048/ynLooesZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 462,
+          "like_count": 211,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1452
+        },
+        "username": "DDDSqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T00:11:31.000Z",
+        "description": "独角兽不开心会用角顶人(bushi)∣喜欢口嗨但是还是side∣尽量不键政∣里推@fkmetodeath",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "fkmetodeath"
+              }
+            ]
+          }
+        },
+        "id": "1828586060089057280",
+        "location": "Blue Neighbourhood",
+        "name": "🦄(二代目)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937347306946195456/PkDl0nrC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 364,
+          "like_count": 18280,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1648
+        },
+        "username": "unicorn_cj_",
+        "verified": false
+      }
+    ]
+  }
+}

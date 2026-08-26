@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1967129297724064040",
+    "created_at": "2025-09-14T14:42:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T15:42:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967237649892299024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1883727989671944192",
+          "start": 0,
+          "username": "linnyii8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967237649892299024",
+    "in_reply_to_user_id": "1883727989671944192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967129297724064040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linnyii8964 这谁？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14333,
+        "height": 1280,
+        "media_key": "13_1967129220511133700",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1967129220511133700/img/n-2f4NHY5BIrN-Sj.jpg",
+        "public_metrics": {
+          "view_count": 2478
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967129220511133700/vid/avc1/320x568/5L8XGqcnUedfyVCy.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967129220511133700/vid/avc1/480x852/8JhJ5OLpdXSdJ2uD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967129220511133700/vid/avc1/720x1280/lTZREjY0rRxEBt1o.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1967129220511133700/pl/Hy_8CN44JvZhFHWg.m3u8?v=ca9"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1967129297724064040",
+        "created_at": "2025-09-14T14:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T15:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967237649892299024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883727989671944192",
+              "start": 0,
+              "username": "linnyii8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967237649892299024",
+        "in_reply_to_user_id": "1883727989671944192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967129297724064040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linnyii8964 这谁？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1967129220511133700"
+          ]
+        },
+        "author_id": "1883727989671944192",
+        "conversation_id": "1967129297724064040",
+        "created_at": "2025-09-14T07:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T08:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967129297724064040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v5gPtAw9hO",
+              "end": 33,
+              "expanded_url": "https://x.com/linnyii8964/status/1967129297724064040/video/1",
+              "media_key": "13_1967129220511133700",
+              "start": 10,
+              "url": "https://t.co/v5gPtAw9hO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967129297724064040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 10695,
+          "like_count": 212,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "好像是本姑娘15岁 https://t.co/v5gPtAw9hO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗七个小号其中之一@dante82682",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "dante82682"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1577,
+          "following_count": 233,
+          "like_count": 19386,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 5334
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T04:05:33.000Z",
+        "description": "关我屁事，关你屁事？我喜欢:@jiangqidawang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "jiangqidawang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=ngr2J6c5",
+                "start": 0,
+                "url": "https://t.co/y74iEgGmI5"
+              }
+            ]
+          }
+        },
+        "id": "1883727989671944192",
+        "location": "蜂鸟vpn",
+        "name": "只是爱乱说话",
+        "pinned_tweet_id": "1967123475212206373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883728141543436288/FoLOuEY8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8105,
+          "following_count": 1000,
+          "like_count": 16266,
+          "listed_count": 14,
+          "media_count": 1109,
+          "tweet_count": 11627
+        },
+        "url": "https://t.co/y74iEgGmI5",
+        "username": "linnyii8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1935743537687281939",
+    "created_at": "2025-06-19T17:05:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T18:05:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935745675276198277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1864946257481158656",
+          "start": 0,
+          "username": "Ash1nzou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935745675276198277",
+    "in_reply_to_user_id": "1864946257481158656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935743537687281939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ash1nzou 晚安刃的，睡的时候别舔自己嘴，别醒不过来了😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1935743537687281939",
+        "created_at": "2025-06-19T17:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T18:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935745675276198277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1864946257481158656",
+              "start": 0,
+              "username": "Ash1nzou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935745675276198277",
+        "in_reply_to_user_id": "1864946257481158656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935743537687281939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ash1nzou 晚安刃的，睡的时候别舔自己嘴，别醒不过来了😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864946257481158656",
+        "conversation_id": "1935743537687281939",
+        "created_at": "2025-06-19T16:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T17:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935743537687281939"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935743537687281939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不操谁妈了，刃老师要美美给自己哄睡了，安心睡喽😚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "name": "小玉",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928709552171610112/x9fXi0Ew_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 175,
+          "like_count": 6439,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 1823
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T08:13:43.000Z",
+        "description": "恶人脸/虚伪肥宅/真实垃圾/精神病患/社会边缘人士",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ash1nzou",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ash1nzou",
+                "start": 0,
+                "url": "https://t.co/qPDE4JNKvH"
+              }
+            ]
+          }
+        },
+        "id": "1864946257481158656",
+        "location": "提问箱",
+        "name": "饮冰的刃",
+        "pinned_tweet_id": "1929083145543959017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864946632820953092/_edfRZMJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3132,
+          "following_count": 150,
+          "like_count": 7952,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 2083
+        },
+        "url": "https://t.co/qPDE4JNKvH",
+        "username": "Ash1nzou",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1940467574581744084",
+    "created_at": "2025-07-03T11:57:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T12:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940741568157438329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1796568414397612032",
+          "start": 0,
+          "username": "yuyuan01036"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940741568157438329",
+    "in_reply_to_user_id": "1796568414397612032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940664663173484606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyuan01036 收藏！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1940467574581744084",
+        "created_at": "2025-07-03T11:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T12:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940741568157438329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1796568414397612032",
+              "start": 0,
+              "username": "yuyuan01036"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940741568157438329",
+        "in_reply_to_user_id": "1796568414397612032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940664663173484606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyuan01036 收藏！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796568414397612032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          }
+        ],
+        "conversation_id": "1940467574581744084",
+        "created_at": "2025-07-03T06:51:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T07:51:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940664663173484606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940664663173484606",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940467574581744084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 已收藏留着打王者骂人用 王者荣耀你看看自己带的兵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1923458019305660813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 200,
+          "like_count": 10428,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 3040
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T15:44:31.000Z",
+        "description": "减肥中（其实是减胸哈）求瘦瘦体质缠上我。。\n需要互关直接私信",
+        "id": "1796568414397612032",
+        "location": "🚪25/52/88/188/288/520",
+        "name": "渝缘",
+        "pinned_tweet_id": "1937139934047134008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934281266205249536/feO9_tef_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 18,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 202
+        },
+        "username": "yuyuan01036",
+        "verified": false
+      }
+    ]
+  }
+}

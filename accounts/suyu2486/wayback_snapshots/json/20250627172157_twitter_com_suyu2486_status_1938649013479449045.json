@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1938601372837913057",
+    "created_at": "2025-06-27T17:21:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T18:21:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938649013479449045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1857846857621200897",
+          "start": 0,
+          "username": "240710_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938649013479449045",
+    "in_reply_to_user_id": "1857846857621200897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938637134597865904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@240710_ 有这好事？多找几个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1938601372837913057",
+        "created_at": "2025-06-27T17:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T18:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938649013479449045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1857846857621200897",
+              "start": 0,
+              "username": "240710_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938649013479449045",
+        "in_reply_to_user_id": "1857846857621200897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938637134597865904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@240710_ 有这好事？多找几个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857846857621200897",
+        "conversation_id": "1938601372837913057",
+        "created_at": "2025-06-27T16:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T17:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938637134597865904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938637134597865904",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938601372837913057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 你信不信我找人弄你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1938601372837913057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 196,
+          "like_count": 8789,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2473
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T18:03:12.000Z",
+        "description": "转帖屏蔽（互关除）单身 女同性恋 不接受双 女生想互关/+v私信（v不加扩列/交友）脾气很差性格很差三观很差的人 男的关注4000+私信先发🚪888纯绿",
+        "id": "1857846857621200897",
+        "name": "喜欢和丑的讲话",
+        "pinned_tweet_id": "1937991559766806824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936878143152779265/TyaztDmP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 58,
+          "like_count": 2426,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 981
+        },
+        "username": "240710_",
+        "verified": false
+      }
+    ]
+  }
+}

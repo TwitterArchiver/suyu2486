@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1975039327949426872",
+    "created_at": "2025-10-06T03:35:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T04:35:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975042151861100883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1668258087709417476",
+          "start": 0,
+          "username": "nononop0529"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975042151861100883",
+    "in_reply_to_user_id": "1668258087709417476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975039327949426872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nononop0529 先给我发…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1975039327949426872",
+        "created_at": "2025-10-06T03:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T04:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975042151861100883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1668258087709417476",
+              "start": 0,
+              "username": "nononop0529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975042151861100883",
+        "in_reply_to_user_id": "1668258087709417476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975039327949426872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nononop0529 先给我发…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668258087709417476",
+        "conversation_id": "1975039327949426872",
+        "created_at": "2025-10-06T03:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T04:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975039327949426872"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975039327949426872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有人可以给我发16块了，因为15的月亮十六元"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我玊玉，叫玉是因为英文名是jade，玊（su）是有瑕疵的玉的意思，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1972598608924143996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2076,
+          "following_count": 261,
+          "like_count": 20724,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 5759
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-12T14:05:15.000Z",
+        "description": "用來發負能吐黑泥的小號....可以不用關注我...取關隨意🙇‍♀️",
+        "id": "1668258087709417476",
+        "name": "Aaa破爛裤衩缝补铺",
+        "pinned_tweet_id": "1969313672733286565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914709086962376704/qCC77UDt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1241,
+          "following_count": 572,
+          "like_count": 59930,
+          "listed_count": 3,
+          "media_count": 49,
+          "tweet_count": 3874
+        },
+        "username": "nononop0529",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1955590294663286992",
+    "created_at": "2025-08-13T14:50:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T15:50:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955643049662623861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1713947216338104320",
+          "start": 0,
+          "username": "xxzbgxgxzbssa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955643049662623861",
+    "in_reply_to_user_id": "1713947216338104320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955590294663286992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxzbgxgxzbssa 你回北京了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1955590294663286992",
+        "created_at": "2025-08-13T14:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T15:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955643049662623861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1713947216338104320",
+              "start": 0,
+              "username": "xxzbgxgxzbssa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955643049662623861",
+        "in_reply_to_user_id": "1713947216338104320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955590294663286992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxzbgxgxzbssa 你回北京了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713947216338104320",
+        "conversation_id": "1955590294663286992",
+        "created_at": "2025-08-13T11:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T12:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955590294663286992"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955590294663286992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于回百京了😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1953423119017758926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 198,
+          "like_count": 15282,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 4147
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-16T15:57:25.000Z",
+        "description": "xx 空间",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=a_mNxAzr_IRTDdLK",
+                "start": 0,
+                "url": "https://t.co/9BUSBEKU89"
+              }
+            ]
+          }
+        },
+        "id": "1713947216338104320",
+        "name": "忧郁的臭狗熊666",
+        "pinned_tweet_id": "1916199781007036548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946274215914614784/yge_k4y4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 401,
+          "like_count": 10626,
+          "listed_count": 1,
+          "media_count": 1947,
+          "tweet_count": 7469
+        },
+        "url": "https://t.co/9BUSBEKU89",
+        "username": "xxzbgxgxzbssa",
+        "verified": false
+      }
+    ]
+  }
+}

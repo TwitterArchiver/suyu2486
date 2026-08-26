@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1983963663884284166",
+    "created_at": "2025-10-31T12:22:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T13:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984234449756983529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1257861126705909761",
+          "start": 0,
+          "username": "teISCGNRRGRPMHb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984234449756983529",
+    "in_reply_to_user_id": "1257861126705909761",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984199555844595738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teISCGNRRGRPMHb 脑残来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1983963663884284166",
+        "created_at": "2025-10-31T12:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T13:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984234449756983529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1257861126705909761",
+              "start": 0,
+              "username": "teISCGNRRGRPMHb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984234449756983529",
+        "in_reply_to_user_id": "1257861126705909761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984199555844595738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teISCGNRRGRPMHb 脑残来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1257861126705909761",
+        "conversation_id": "1983963663884284166",
+        "created_at": "2025-10-31T10:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T11:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984199555844595738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984199555844595738",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983963663884284166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 这种他妈纯傻逼的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "神鹰🦅，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "pinned_tweet_id": "1977439230432555047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981015242827087872/axAcZvEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2153,
+          "following_count": 261,
+          "like_count": 21702,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 6079
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-06T02:34:09.000Z",
+        "description": "直男，健身4年的一只弱鸡，体重100在减脂\n做爱和健身是要坚持一辈子的事\n有问题请私信",
+        "id": "1257861126705909761",
+        "location": "江西",
+        "name": "Eagleval",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937592577022394372/o93Hehbp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 939,
+          "like_count": 102,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 1811
+        },
+        "username": "teISCGNRRGRPMHb",
+        "verified": false
+      }
+    ]
+  }
+}

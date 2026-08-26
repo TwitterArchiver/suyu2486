@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1939227203910398188",
+    "created_at": "2025-06-29T10:18:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T11:18:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939267269344866587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1675931527031705605",
+          "start": 0,
+          "username": "Beckoning24633"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939267269344866587",
+    "in_reply_to_user_id": "1675931527031705605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939227203910398188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Beckoning24633 这是在…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9673,
+        "height": 720,
+        "media_key": "13_1939227132527538177",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1939227132527538177/img/ObpDb7jyRhCBb7Ba.jpg",
+        "public_metrics": {
+          "view_count": 7962
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939227132527538177/vid/avc1/426x270/JusyME7XyVKjstuJ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939227132527538177/vid/avc1/570x360/8z56TPpDNCLDCE3g.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939227132527538177/vid/avc1/1140x720/sugjz1w12XoHad9J.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1939227132527538177/pl/d-bFabHPqN7vAwyd.m3u8"
+          }
+        ],
+        "width": 1140
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1939227203910398188",
+        "created_at": "2025-06-29T10:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T11:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939267269344866587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1675931527031705605",
+              "start": 0,
+              "username": "Beckoning24633"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939267269344866587",
+        "in_reply_to_user_id": "1675931527031705605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939227203910398188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Beckoning24633 这是在…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1939227132527538177"
+          ]
+        },
+        "author_id": "1675931527031705605",
+        "conversation_id": "1939227203910398188",
+        "created_at": "2025-06-29T07:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T08:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939227203910398188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cI4XovfA7M",
+              "end": 31,
+              "expanded_url": "https://x.com/Beckoning24633/status/1939227203910398188/video/1",
+              "media_key": "13_1939227132527538177",
+              "start": 8,
+              "url": "https://t.co/cI4XovfA7M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939227203910398188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 21263,
+          "like_count": 442,
+          "quote_count": 5,
+          "reply_count": 18,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "感觉不如你好摸 https://t.co/cI4XovfA7M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1938601372837913057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 198,
+          "like_count": 9350,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2684
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T18:16:43.000Z",
+        "description": "不是讲好和我活在故事里面？",
+        "id": "1675931527031705605",
+        "name": "阴雨天",
+        "pinned_tweet_id": "1923555205469306969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749850042054410240/8ji1uuKq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2692,
+          "following_count": 180,
+          "like_count": 3521,
+          "listed_count": 9,
+          "media_count": 116,
+          "tweet_count": 164
+        },
+        "username": "Beckoning24633",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1963053406806847776",
+    "created_at": "2025-09-03T18:13:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T19:13:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963304397804626111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1662389857862422528",
+          "start": 0,
+          "username": "strollwizme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963304397804626111",
+    "in_reply_to_user_id": "1662389857862422528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963053406806847776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@strollwizme 点了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1963053406806847776",
+        "created_at": "2025-09-03T18:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T19:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963304397804626111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1662389857862422528",
+              "start": 0,
+              "username": "strollwizme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963304397804626111",
+        "in_reply_to_user_id": "1662389857862422528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963053406806847776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@strollwizme 点了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662389857862422528",
+        "conversation_id": "1963053406806847776",
+        "created_at": "2025-09-03T01:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T02:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963053406806847776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/strollwizme/st…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/strollwizme/status/1963053219992473898",
+              "start": 30,
+              "url": "https://t.co/bkjKY6eYk4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963053406806847776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 27798,
+          "like_count": 167,
+          "quote_count": 5,
+          "reply_count": 22,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963053219992473898",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孩子们 答应我不要搞推推恋 不要在这个软件上爱上任何人好吗 https://t.co/bkjKY6eYk4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗不定期活跃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "飞向全宇宙",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1420,
+          "following_count": 210,
+          "like_count": 18400,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 4921
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T09:26:54.000Z",
+        "description": "我叫瑞瑞我必须表达",
+        "id": "1662389857862422528",
+        "location": "闲聊🚪288",
+        "name": "Raven",
+        "pinned_tweet_id": "1916425714380792311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961091466199252993/Cv16-o_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10436,
+          "following_count": 146,
+          "like_count": 7923,
+          "listed_count": 23,
+          "media_count": 205,
+          "tweet_count": 3948
+        },
+        "username": "strollwizme",
+        "verified": false
+      }
+    ]
+  }
+}

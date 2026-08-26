@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1974194618658132133",
+    "created_at": "2025-10-04T05:27:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T06:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974345557650124890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1896545316155117568",
+          "start": 0,
+          "username": "nan_yun716"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974345557650124890",
+    "in_reply_to_user_id": "1896545316155117568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974340337901703660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nan_yun716 因为淡推才…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1974194618658132133",
+        "created_at": "2025-10-04T05:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T06:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974345557650124890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1896545316155117568",
+              "start": 0,
+              "username": "nan_yun716"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974345557650124890",
+        "in_reply_to_user_id": "1896545316155117568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974340337901703660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nan_yun716 因为淡推才…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896545316155117568",
+        "conversation_id": "1974194618658132133",
+        "created_at": "2025-10-04T05:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T06:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974340337901703660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974340337901703660",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974194618658132133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 你需要退出一阵互联网冷静一下鹰哥，想通了就不会很难受了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗七个小号其中之一@dante82682",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "dante82682"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1972598608924143996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2040,
+          "following_count": 249,
+          "like_count": 20424,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 5657
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T12:57:49.000Z",
+        "description": "04｜男 ｜书迷 ｜电脑硬件爱好者｜抽象派｜\n推会当朋友圈发，也是记录日记、择友交友、观察和学习框架。（个人推想发啥发啥别指点）私信已关闭，不会轻易骚扰任何人（互关外可加v），如果我的推文、被打扰到冒犯的甚至是不喜欢我，请你自觉屏蔽我谢谢。那我会尊重你也会做到礼貌去“双向奔赴”。",
+        "id": "1896545316155117568",
+        "location": "上德不德是以有德，下德不失德是以无德。",
+        "name": "南云同学（淡推，倾向注重现生）",
+        "pinned_tweet_id": "1969205361576956153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966859856109072387/LxxQXXZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 512,
+          "like_count": 7354,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 6168
+        },
+        "username": "nan_yun716",
+        "verified": false
+      }
+    ]
+  }
+}

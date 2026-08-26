@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1996438492755435632",
+    "created_at": "2025-12-04T14:03:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T15:03:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996581006057627797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1945894406244208640",
+          "start": 0,
+          "username": "daimengniu00"
+        },
+        {
+          "end": 27,
+          "id": "1324943600929529857",
+          "start": 14,
+          "username": "chucaorenlei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996581006057627797",
+    "in_reply_to_user_id": "1945894406244208640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996449809973252263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daimengniu00 @chucaorenlei 疯子，那是手"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1996438492755435632",
+        "created_at": "2025-12-04T14:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T15:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996581006057627797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1945894406244208640",
+              "start": 0,
+              "username": "daimengniu00"
+            },
+            {
+              "end": 27,
+              "id": "1324943600929529857",
+              "start": 14,
+              "username": "chucaorenlei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996581006057627797",
+        "in_reply_to_user_id": "1945894406244208640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996449809973252263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daimengniu00 @chucaorenlei 疯子，那是手"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945894406244208640",
+        "conversation_id": "1996438492755435632",
+        "created_at": "2025-12-04T05:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T06:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996449809973252263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1324943600929529857",
+              "start": 0,
+              "username": "chucaorenlei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996449809973252263",
+        "in_reply_to_user_id": "1324943600929529857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996438492755435632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chucaorenlei 中间两个圆圈是奶头吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是一个死人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1985888956073066671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2499,
+          "following_count": 273,
+          "like_count": 22983,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 6408
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T17:12:45.000Z",
+        "description": "感觉自己好呆萌呀……门槛费涨钱是因为牛牛最近炒股赔钱了 好想哭 皮下女孩 ❗️接广置顶自行分辨❗️牛牛在赚饲料钱 牛牛上网就是为了逗你们开心滴",
+        "id": "1945894406244208640",
+        "location": "🚪52💚",
+        "name": "呆萌小牛牛",
+        "pinned_tweet_id": "1995350595352621140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988592293365080065/gC2LdIvN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6078,
+          "following_count": 39,
+          "like_count": 1097,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1606
+        },
+        "username": "daimengniu00",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-07T05:15:55.000Z",
+        "description": "重新自我介绍下吧💔爱哭💔脾气不好💔胆小💔强迫症💔喜欢自闭💔成绩差打游戏菜💔满口脏话💔矫情💔爱吃醋💔爱生气喜欢听歌💔睡觉吃东西缺乏安全感💔熬夜洁癖💔爱黏人话多不自信💔爱他脑子有病💔内向难以控制情绪💔 如果有天我变坏了💔善良也不在了💔就别把我往回拽了💔更别说你爱了💔",
+        "id": "1324943600929529857",
+        "location": "不会卖萌的不要跟我讲话了 我看到太冰冷的文字就聊不下去",
+        "name": "除草人类",
+        "pinned_tweet_id": "1995714754875199944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996245043880001536/EpSi5MzM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4767,
+          "following_count": 612,
+          "like_count": 1182,
+          "listed_count": 14,
+          "media_count": 104,
+          "tweet_count": 1109
+        },
+        "username": "chucaorenlei",
+        "verified": false
+      }
+    ]
+  }
+}

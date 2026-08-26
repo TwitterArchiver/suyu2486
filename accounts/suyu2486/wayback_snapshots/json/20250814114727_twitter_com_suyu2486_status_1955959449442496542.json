@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1955945598034829542",
+    "created_at": "2025-08-14T11:47:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T12:47:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955959449442496542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1758759707769208832",
+          "start": 0,
+          "username": "xiaogouOVO_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955959449442496542",
+    "in_reply_to_user_id": "1758759707769208832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955945598034829542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaogouOVO_ 还在导，兄弟…打c了都"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3900,
+        "height": 1280,
+        "media_key": "13_1955945460918837250",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1955945460918837250/img/0m6JuS8B-rc7epjo.jpg",
+        "public_metrics": {
+          "view_count": 39
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955945460918837250/vid/avc1/320x568/IPQltgQldV6XL4yf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955945460918837250/vid/avc1/480x852/d0Zo8LxWmSAtbIta.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955945460918837250/vid/avc1/720x1280/8NkyN5ebLsjSm6GE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1955945460918837250/pl/otGkT9JCFZLrbB0s.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1955945598034829542",
+        "created_at": "2025-08-14T11:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T12:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955959449442496542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758759707769208832",
+              "start": 0,
+              "username": "xiaogouOVO_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955959449442496542",
+        "in_reply_to_user_id": "1758759707769208832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955945598034829542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaogouOVO_ 还在导，兄弟…打c了都"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1955945460918837250"
+          ]
+        },
+        "author_id": "1758759707769208832",
+        "conversation_id": "1955945598034829542",
+        "created_at": "2025-08-14T10:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T11:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955945598034829542"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "自慰"
+            },
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "存止"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JXg4GvwTAi",
+              "end": 36,
+              "expanded_url": "https://x.com/xiaogouOVO_/status/1955945598034829542/video/1",
+              "media_key": "13_1955945460918837250",
+              "start": 13,
+              "url": "https://t.co/JXg4GvwTAi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955945598034829542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 181,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "导就完了\n#自慰 #存止 https://t.co/JXg4GvwTAi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1955773434958352438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1286,
+          "following_count": 200,
+          "like_count": 15554,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 4222
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-17T07:46:15.000Z",
+        "description": "欢迎光临我的主页🫶 ENTJ Sub BBW 少女音 🉑瓦/铲 陪🥣  XP是被爱 好运常在🩷",
+        "id": "1758759707769208832",
+        "location": "🚪100-～",
+        "name": "乌萨奇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925868351202435072/eiNx8sE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2625,
+          "following_count": 30,
+          "like_count": 1381,
+          "listed_count": 4,
+          "media_count": 24,
+          "tweet_count": 52
+        },
+        "username": "xiaogouOVO_",
+        "verified": false
+      }
+    ]
+  }
+}

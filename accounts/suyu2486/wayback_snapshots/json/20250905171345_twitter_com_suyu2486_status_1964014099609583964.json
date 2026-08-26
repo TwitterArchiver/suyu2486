@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1964013527091597416",
+    "created_at": "2025-09-05T17:13:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T18:13:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964014099609583964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1864946257481158656",
+          "start": 0,
+          "username": "Ash1nzou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964014099609583964",
+    "in_reply_to_user_id": "1864946257481158656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964013527091597416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ash1nzou 哈哈哈哈哈哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 619,
+        "media_key": "3_1964013514890366976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0GT4tEbUAAV3o5.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1964013527091597416",
+        "created_at": "2025-09-05T17:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T18:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964014099609583964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1864946257481158656",
+              "start": 0,
+              "username": "Ash1nzou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964014099609583964",
+        "in_reply_to_user_id": "1864946257481158656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964013527091597416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ash1nzou 哈哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964013514890366976"
+          ]
+        },
+        "author_id": "1864946257481158656",
+        "conversation_id": "1964013527091597416",
+        "created_at": "2025-09-05T17:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T18:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964013527091597416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BOqEg4ii4P",
+              "end": 69,
+              "expanded_url": "https://x.com/Ash1nzou/status/1964013527091597416/photo/1",
+              "media_key": "3_1964013514890366976",
+              "start": 46,
+              "url": "https://t.co/BOqEg4ii4P"
+            },
+            {
+              "display_url": "x.com/ash1nzou/statu…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/ash1nzou/status/1963792624864927879",
+              "start": 70,
+              "url": "https://t.co/QUYV7te9We"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964013527091597416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963792624864927879",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我跪求生活别再整我了，本来裤裆开了就尴尬，还有个狗操的看我裤裆开了骚扰我，我真的被整没招🥲 https://t.co/BOqEg4ii4P https://t.co/QUYV7te9We"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。我三观有问题，是个烂人，本身就是废墟🤗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1963477103296614437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1545,
+          "following_count": 221,
+          "like_count": 19086,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 5100
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T08:13:43.000Z",
+        "description": "恶人脸/虚伪肥宅/真实垃圾/精神病患/社会边缘人士－记录号@Thirdshinzou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "Thirdshinzou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ash1nzou",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ash1nzou",
+                "start": 0,
+                "url": "https://t.co/qPDE4JNKvH"
+              }
+            ]
+          }
+        },
+        "id": "1864946257481158656",
+        "location": "提问箱",
+        "name": "饮冰的刃",
+        "pinned_tweet_id": "1945938034144505875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864946632820953092/_edfRZMJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6196,
+          "following_count": 227,
+          "like_count": 23716,
+          "listed_count": 6,
+          "media_count": 213,
+          "tweet_count": 4728
+        },
+        "url": "https://t.co/qPDE4JNKvH",
+        "username": "Ash1nzou",
+        "verified": true
+      }
+    ]
+  }
+}

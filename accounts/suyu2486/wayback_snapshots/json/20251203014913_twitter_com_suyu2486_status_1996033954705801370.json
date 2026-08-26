@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1995772124703965602",
+    "created_at": "2025-12-03T01:49:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T02:49:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996033954705801370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1733797784711823361",
+          "start": 0,
+          "username": "tinnvvca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996033954705801370",
+    "in_reply_to_user_id": "1733797784711823361",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995772124703965602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tinnvvca 看爽了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17100,
+        "height": 1280,
+        "media_key": "13_1995772054013181952",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1995772054013181952/img/o2UoXrEpfwx4k5mU.jpg",
+        "public_metrics": {
+          "view_count": 30321
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995772054013181952/vid/avc1/320x568/JiUu2pQafvbH9j4Y.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995772054013181952/vid/avc1/480x852/HoRRhE7pi371xn9E.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995772054013181952/vid/avc1/720x1280/XUVBOCs69ibkVkQM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1995772054013181952/pl/7AdBNuUZtYGXA1mz.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1995772124703965602",
+        "created_at": "2025-12-03T01:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T02:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996033954705801370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1733797784711823361",
+              "start": 0,
+              "username": "tinnvvca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996033954705801370",
+        "in_reply_to_user_id": "1733797784711823361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995772124703965602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tinnvvca 看爽了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1995772054013181952"
+          ]
+        },
+        "author_id": "1733797784711823361",
+        "conversation_id": "1995772124703965602",
+        "created_at": "2025-12-02T08:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T09:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995772124703965602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RWOO7MMbnt",
+              "end": 39,
+              "expanded_url": "https://x.com/tinnvvca/status/1995772124703965602/video/1",
+              "media_key": "13_1995772054013181952",
+              "start": 16,
+              "url": "https://t.co/RWOO7MMbnt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995772124703965602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 52335,
+          "like_count": 972,
+          "quote_count": 10,
+          "reply_count": 22,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "純愛是這樣的 跟勾引人沒區別🤤 https://t.co/RWOO7MMbnt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是一个死人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1985888956073066671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2448,
+          "following_count": 268,
+          "like_count": 22643,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6310
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-10T10:36:31.000Z",
+        "description": "今天天氣如何 我喜歡紫色 因為外星人沒有戴帽子",
+        "id": "1733797784711823361",
+        "name": "梅川酷梓🔪",
+        "pinned_tweet_id": "1777232241149788393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990345620318720001/tAR9g5Bf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 191,
+          "like_count": 11061,
+          "listed_count": 10,
+          "media_count": 476,
+          "tweet_count": 6880
+        },
+        "username": "tinnvvca",
+        "verified": false
+      }
+    ]
+  }
+}

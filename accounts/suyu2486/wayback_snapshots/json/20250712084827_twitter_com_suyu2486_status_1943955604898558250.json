@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1943929489748070406",
+    "created_at": "2025-07-12T08:48:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T09:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943955604898558250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1911793046725033984",
+          "start": 0,
+          "username": "zhanbuduan40"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943955604898558250",
+    "in_reply_to_user_id": "1911793046725033984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943929489748070406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhanbuduan40 还是做不到啊…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1943929489748070406",
+        "created_at": "2025-07-12T08:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T09:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943955604898558250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1911793046725033984",
+              "start": 0,
+              "username": "zhanbuduan40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943955604898558250",
+        "in_reply_to_user_id": "1911793046725033984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943929489748070406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhanbuduan40 还是做不到啊…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911793046725033984",
+        "conversation_id": "1943929489748070406",
+        "created_at": "2025-07-12T07:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T08:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943929489748070406"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943929489748070406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 216,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们一起手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋手冲✋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 201,
+          "like_count": 11521,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 3298
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T14:46:11.000Z",
+        "description": "07｜switch｜可以私信点歌｜infp\n目前有对象\n\n互关私信直接加v😋\n牛牛在小号谨慎关注！https://t.co/IdGeeRkgJQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/zhanbuduan30?t…",
+                "end": 72,
+                "expanded_url": "https://x.com/zhanbuduan30?t=f3oSd_XO6Nv8FRXrGkbKLg&s=09",
+                "start": 49,
+                "url": "https://t.co/IdGeeRkgJQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/4016062",
+                "end": 23,
+                "expanded_url": "https://ngl.link/4016062",
+                "start": 0,
+                "url": "https://t.co/qsUtwJ3G1T"
+              }
+            ]
+          }
+        },
+        "id": "1911793046725033984",
+        "location": "🚪18（一包利群）52/180（一条利群）520你是我主人",
+        "name": "斩不断情欲就是因为每天都有性欲的屑小男生一枚4.0",
+        "pinned_tweet_id": "1929927277187608926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938935594891255808/k8KoUQB0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 686,
+          "like_count": 30499,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 5952
+        },
+        "url": "https://t.co/qsUtwJ3G1T",
+        "username": "zhanbuduan40",
+        "verified": false
+      }
+    ]
+  }
+}

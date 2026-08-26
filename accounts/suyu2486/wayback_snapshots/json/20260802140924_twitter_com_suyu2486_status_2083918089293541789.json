@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2083848803598426129",
+    "created_at": "2026-08-02T14:09:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T15:09:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083918089293541789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1956029285015412740",
+          "start": 0,
+          "username": "GIGFHIV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083918089293541789",
+    "in_reply_to_user_id": "1956029285015412740",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083848803598426129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GIGFHIV 我来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2274,
+        "media_key": "3_2083848792231804928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtRb5KagAAV1fH.jpg",
+        "width": 3461
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2083848803598426129",
+        "created_at": "2026-08-02T14:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083918089293541789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1956029285015412740",
+              "start": 0,
+              "username": "GIGFHIV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083918089293541789",
+        "in_reply_to_user_id": "1956029285015412740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083848803598426129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GIGFHIV 我来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083848792231804928"
+          ]
+        },
+        "author_id": "1956029285015412740",
+        "conversation_id": "2083848803598426129",
+        "created_at": "2026-08-02T09:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083848803598426129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bftlf2pXw0",
+              "end": 39,
+              "expanded_url": "https://x.com/GIGFHIV/status/2083848803598426129/photo/1",
+              "media_key": "3_2083848792231804928",
+              "start": 16,
+              "url": "https://t.co/bftlf2pXw0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083848803598426129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "10岁以下已婚的男人可以免费亲 https://t.co/bftlf2pXw0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2061,
+          "following_count": 189,
+          "like_count": 21221,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6636
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T16:25:10.000Z",
+        "description": "一只brat 丨08女高丨167/92丨日常分享碎碎念丨敏感脆弱小女孩（骂我会还嘴）| 无🚪|欢迎一起来聊天～😽 | 随心情不定期掉小福利 | 爱看不看不喜请拉黑",
+        "id": "1956029285015412740",
+        "name": "水月亮🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062945641182236672/9c7zs3mP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 47,
+          "like_count": 2628,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 275
+        },
+        "url": "",
+        "username": "GIGFHIV",
+        "verified": false
+      }
+    ]
+  }
+}

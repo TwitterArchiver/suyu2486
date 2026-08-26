@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1936304093674586209",
+    "created_at": "2025-06-21T06:10:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T07:10:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936305670724206710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1647178433045368832",
+          "start": 0,
+          "username": "YuYosugi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936305670724206710",
+    "in_reply_to_user_id": "1647178433045368832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936304093674586209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuYosugi 是这样的妈呀，谁来救救我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1936304093674586209",
+        "created_at": "2025-06-21T06:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T07:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936305670724206710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1647178433045368832",
+              "start": 0,
+              "username": "YuYosugi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936305670724206710",
+        "in_reply_to_user_id": "1647178433045368832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936304093674586209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuYosugi 是这样的妈呀，谁来救救我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647178433045368832",
+        "conversation_id": "1936304093674586209",
+        "created_at": "2025-06-21T06:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T07:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936304093674586209"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936304093674586209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上网上的越多，现实里越不想跟异性说话。\n现在网上无论什么纠纷，只要扯上情感女方都能被骂到爆，幸福平安四个字已经和不恋不婚不孕不育锁到一起了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的，我将做回神鹰，爱说点c语言，不喜欢可以喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 185,
+          "like_count": 6836,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1949
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T10:02:04.000Z",
+        "description": "天气真好",
+        "id": "1647178433045368832",
+        "name": "YuYo",
+        "pinned_tweet_id": "1670683241333022721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668140484240502789/rZQ6SQJx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31404,
+          "following_count": 571,
+          "like_count": 2658,
+          "listed_count": 122,
+          "media_count": 37,
+          "tweet_count": 235
+        },
+        "username": "YuYosugi",
+        "verified": false
+      }
+    ]
+  }
+}

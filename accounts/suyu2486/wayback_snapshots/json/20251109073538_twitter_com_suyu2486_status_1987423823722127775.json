@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1987247527251615966",
+    "created_at": "2025-11-09T07:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T08:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987423823722127775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1534187424678498304",
+          "start": 0,
+          "username": "xihuanni030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987423823722127775",
+    "in_reply_to_user_id": "1534187424678498304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987247527251615966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xihuanni030 我去，糯米你真的好厉害好厉害，我前几天放弃，这几天又捡起来减肥这件事，看到这条也特别特别激励我！更有动力了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15800,
+        "height": 1280,
+        "media_key": "13_1987247434037420032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1987247434037420032/img/IbwVJvzPcwop3cpg.jpg",
+        "public_metrics": {
+          "view_count": 11633
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987247434037420032/vid/avc1/320x568/279mLi8Ej5kL0yf1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987247434037420032/vid/avc1/480x852/6ywNWK_yLVnelxqd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987247434037420032/vid/avc1/720x1280/Qs_GCVeibGFKwCFN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1987247434037420032/pl/6tvJx7xSluAr1_rh.m3u8?v=5ad"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1987247527251615966",
+        "created_at": "2025-11-09T07:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T08:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987423823722127775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1534187424678498304",
+              "start": 0,
+              "username": "xihuanni030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987423823722127775",
+        "in_reply_to_user_id": "1534187424678498304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987247527251615966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xihuanni030 我去，糯米你真的好厉害好厉害，我前几天放弃，这几天又捡起来减肥这件事，看到这条也特别特别激励我！更有动力了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1987247434037420032"
+          ]
+        },
+        "author_id": "1534187424678498304",
+        "conversation_id": "1987247527251615966",
+        "created_at": "2025-11-08T19:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T20:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987247527251615966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zUazn7GOvU",
+              "end": 162,
+              "expanded_url": "https://x.com/xihuanni030/status/1987247527251615966/video/1",
+              "media_key": "13_1987247434037420032",
+              "start": 139,
+              "url": "https://t.co/zUazn7GOvU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987247527251615966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 26581,
+          "like_count": 204,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大半夜看到剪映的减肥模版 慢慢的找到放在隐藏相册中的视频 就好像把这减肥的日子重新回忆了一遍 看到视频制作出来只有想哭的感觉 少女的心事 被一层层肥肉包裹 忘不掉夏天汗液浸湿外套也不敢脱下的窘迫 四个月的努力和坚持终是让我破茧成蝶T^T\n\n：以前超级胖超级丑 介意的不要看就行 https://t.co/zUazn7GOvU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "06，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1977439230432555047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2158,
+          "following_count": 264,
+          "like_count": 22038,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 6192
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-07T14:56:14.000Z",
+        "description": "好喜欢我的男朋友🥰｜宝宝们关评推广不是本人 自行辨别",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=Qtnpi4fi",
+                "start": 0,
+                "url": "https://t.co/yExu57oEnK"
+              }
+            ]
+          }
+        },
+        "id": "1534187424678498304",
+        "location": "自用蜂鸟vpn，海量节点任你选",
+        "name": "糯米侠",
+        "pinned_tweet_id": "1987405479233134828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926636590253686784/y5qd0Lx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13538,
+          "following_count": 136,
+          "like_count": 4235,
+          "listed_count": 23,
+          "media_count": 92,
+          "tweet_count": 4694
+        },
+        "url": "https://t.co/yExu57oEnK",
+        "username": "xihuanni030",
+        "verified": false
+      }
+    ]
+  }
+}

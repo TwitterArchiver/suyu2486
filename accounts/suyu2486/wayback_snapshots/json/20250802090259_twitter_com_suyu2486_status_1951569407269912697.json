@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1951451843403637120",
+    "created_at": "2025-08-02T09:02:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T10:02:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951569407269912697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1739811571449434112",
+          "start": 0,
+          "username": "101101y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951569407269912697",
+    "in_reply_to_user_id": "1739811571449434112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951451843403637120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@101101y 挺专一…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1951451838521417730",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxTzG59aIAIYJmX.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1951451838450114563",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxTzG5saIAM8phm.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1951451843403637120",
+        "created_at": "2025-08-02T09:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T10:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951569407269912697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1739811571449434112",
+              "start": 0,
+              "username": "101101y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951569407269912697",
+        "in_reply_to_user_id": "1739811571449434112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951451843403637120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@101101y 挺专一…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951451838521417730",
+            "3_1951451838450114563"
+          ]
+        },
+        "author_id": "1739811571449434112",
+        "conversation_id": "1951451843403637120",
+        "created_at": "2025-08-02T01:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T02:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951451843403637120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d9eUL2cZpt",
+              "end": 40,
+              "expanded_url": "https://x.com/101101y/status/1951451843403637120/photo/1",
+              "media_key": "3_1951451838521417730",
+              "start": 17,
+              "url": "https://t.co/d9eUL2cZpt"
+            },
+            {
+              "display_url": "pic.x.com/d9eUL2cZpt",
+              "end": 40,
+              "expanded_url": "https://x.com/101101y/status/1951451843403637120/photo/1",
+              "media_key": "3_1951451838450114563",
+              "start": 17,
+              "url": "https://t.co/d9eUL2cZpt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951451843403637120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1033,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大号发完给小号发哥们你这辈子有了 https://t.co/d9eUL2cZpt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男，可以叫我小玉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1948457851778990521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 199,
+          "like_count": 12630,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 3494
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T00:53:15.000Z",
+        "description": "ENTP-A/欢迎找我哦， 这里是喜欢海洋生物的身高191（随机变动），18cm的黑皮体育生会比较高频发推，直接私信就好，最后我不月抛、我不键政，我不混字母圈，不搞4i，我是直的，我没有宗教信仰，我不互看，旁边是ngl可以随便问 … 小号@meow1101111011（只过眼熟互关别乱发申请了🙏）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 119,
+                "username": "meow1101111011"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%87%9D%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%87%9D%E5%87%9D",
+                "start": 0,
+                "url": "https://t.co/vDa6VJQYiF"
+              }
+            ]
+          }
+        },
+        "id": "1739811571449434112",
+        "location": "-18cm",
+        "name": "无敌猪猪侠",
+        "pinned_tweet_id": "1947316130240184542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925813995929296896/VW9G3PgL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1335,
+          "following_count": 1085,
+          "like_count": 31482,
+          "listed_count": 9,
+          "media_count": 859,
+          "tweet_count": 6494
+        },
+        "url": "https://t.co/vDa6VJQYiF",
+        "username": "101101y",
+        "verified": false
+      }
+    ]
+  }
+}

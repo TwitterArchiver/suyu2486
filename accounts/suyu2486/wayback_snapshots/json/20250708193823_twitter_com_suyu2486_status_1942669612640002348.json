@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1942610706031153461",
+    "created_at": "2025-07-08T19:38:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T20:38:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942669612640002348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1783131996916682752",
+          "start": 0,
+          "username": "1192141995Yao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942669612640002348",
+    "in_reply_to_user_id": "1783131996916682752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942610706031153461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1192141995Yao 等get到已经被自己冷漠的不想笑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1942610706031153461",
+        "created_at": "2025-07-08T19:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T20:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942669612640002348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1783131996916682752",
+              "start": 0,
+              "username": "1192141995Yao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942669612640002348",
+        "in_reply_to_user_id": "1783131996916682752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942610706031153461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1192141995Yao 等get到已经被自己冷漠的不想笑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783131996916682752",
+        "conversation_id": "1942610706031153461",
+        "created_at": "2025-07-08T15:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T16:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942610706031153461"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942610706031153461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7906,
+          "like_count": 108,
+          "quote_count": 1,
+          "reply_count": 43,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "突然发现枕头的意思就是“枕头”，你们能不能懂这种莫名其妙的笑点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 198,
+          "like_count": 10788,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 3137
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T13:53:02.000Z",
+        "description": "记录一些在别的平台不敢发的碎碎念/话太多了慎关/不聊骚/不线下",
+        "id": "1783131996916682752",
+        "name": "Ttyz",
+        "pinned_tweet_id": "1938514363272577121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935261529076617216/bqtp9fst_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 33,
+          "like_count": 547,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 574
+        },
+        "username": "1192141995Yao",
+        "verified": false
+      }
+    ]
+  }
+}

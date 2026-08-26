@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1939131750158082358",
+    "created_at": "2025-06-30T14:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T15:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939685901757550933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1887575865237688320",
+          "start": 0,
+          "username": "BKino_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939685901757550933",
+    "in_reply_to_user_id": "1887575865237688320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939131750158082358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BKino_ 给我调回无产阶级频道"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 996,
+        "media_key": "3_1939131740649394176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GukuC04XkAAJXLi.jpg",
+        "width": 1245
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1939131750158082358",
+        "created_at": "2025-06-30T14:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T15:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939685901757550933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1887575865237688320",
+              "start": 0,
+              "username": "BKino_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939685901757550933",
+        "in_reply_to_user_id": "1887575865237688320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939131750158082358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BKino_ 给我调回无产阶级频道"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939131740649394176"
+          ]
+        },
+        "author_id": "1887575865237688320",
+        "conversation_id": "1939131750158082358",
+        "created_at": "2025-06-29T01:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T02:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939131750158082358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VepPCqJm42",
+              "end": 36,
+              "expanded_url": "https://x.com/BKino_/status/1939131750158082358/photo/1",
+              "media_key": "3_1939131740649394176",
+              "start": 13,
+              "url": "https://t.co/VepPCqJm42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939131750158082358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12569,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "缴了学费 钱包痛痛啊…🫠 https://t.co/VepPCqJm42"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1923458019305660813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 200,
+          "like_count": 9734,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 2840
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T18:56:01.000Z",
+        "description": "入門解鎖更多內容/咨询问题88r/只回复付费消息 MY CHANNEL: https://t.co/a9DifIBrTw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Hushangnvhuang",
+                "end": 60,
+                "expanded_url": "https://t.me/Hushangnvhuang",
+                "start": 37,
+                "url": "https://t.co/a9DifIBrTw"
+              }
+            ]
+          }
+        },
+        "id": "1887575865237688320",
+        "location": "🚪520/1388/5200 zfb口令/USDT ",
+        "name": "Bkino",
+        "pinned_tweet_id": "1928302115232821318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935426699862175745/HO7gzZvL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20175,
+          "following_count": 27,
+          "like_count": 383,
+          "listed_count": 63,
+          "media_count": 16,
+          "tweet_count": 96
+        },
+        "username": "BKino_",
+        "verified": false
+      }
+    ]
+  }
+}

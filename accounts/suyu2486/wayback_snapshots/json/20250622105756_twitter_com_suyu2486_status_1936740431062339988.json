@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1936736132164923842",
+    "created_at": "2025-06-22T10:57:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T11:57:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936740431062339988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1793273469637111808",
+          "start": 0,
+          "username": "hui_0024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936740431062339988",
+    "in_reply_to_user_id": "1793273469637111808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936736132164923842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hui_0024 泡面"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1936736118017273856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuCrPPIWsAA-MSo.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1936736132164923842",
+        "created_at": "2025-06-22T10:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T11:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936740431062339988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1793273469637111808",
+              "start": 0,
+              "username": "hui_0024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936740431062339988",
+        "in_reply_to_user_id": "1793273469637111808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936736132164923842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hui_0024 泡面"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936736118017273856"
+          ]
+        },
+        "author_id": "1793273469637111808",
+        "conversation_id": "1936736132164923842",
+        "created_at": "2025-06-22T10:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T11:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936736132164923842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PmvLemq9da",
+              "end": 31,
+              "expanded_url": "https://x.com/hui_0024/status/1936736132164923842/photo/1",
+              "media_key": "3_1936736118017273856",
+              "start": 8,
+              "url": "https://t.co/PmvLemq9da"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936736132164923842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好无聊 玩一下 https://t.co/PmvLemq9da"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1936571107319980306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 194,
+          "like_count": 7381,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 2147
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-22T13:31:41.000Z",
+        "description": "高p 随意分享日常 不约不露三点 无门槛喜欢可以投喂qaq 投喂请口令红包 私信会看 只回感兴趣 美少女互关贴贴",
+        "id": "1793273469637111808",
+        "name": "绘",
+        "pinned_tweet_id": "1934980901110472889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936692197895659520/jNTTb7q2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 415,
+          "like_count": 58,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1085
+        },
+        "username": "hui_0024",
+        "verified": false
+      }
+    ]
+  }
+}

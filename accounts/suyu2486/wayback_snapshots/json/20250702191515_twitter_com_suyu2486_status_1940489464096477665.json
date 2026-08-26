@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1940467574581744084",
+    "created_at": "2025-07-02T19:15:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T20:15:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940489464096477665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1886278115955273728",
+          "start": 0,
+          "username": "Y0JATlyoJA46934"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940489464096477665",
+    "in_reply_to_user_id": "1886278115955273728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940489119437934999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y0JATlyoJA46934 直接给你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1940467574581744084",
+        "created_at": "2025-07-02T19:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T20:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940489464096477665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1886278115955273728",
+              "start": 0,
+              "username": "Y0JATlyoJA46934"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940489464096477665",
+        "in_reply_to_user_id": "1886278115955273728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940489119437934999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y0JATlyoJA46934 直接给你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886278115955273728",
+        "conversation_id": "1940467574581744084",
+        "created_at": "2025-07-02T19:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T20:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940489119437934999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940489119437934999",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940467574581744084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 求模板"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1923458019305660813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 199,
+          "like_count": 10363,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 3009
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T04:58:54.000Z",
+        "description": "女 双/女同p/4i/1i/ 双相/躁狂/ADHD/阅读障碍",
+        "id": "1886278115955273728",
+        "location": "🚪你妈",
+        "name": "小白",
+        "pinned_tweet_id": "1926199038493245758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888089843806388224/mocO9Zff_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 155,
+          "like_count": 22355,
+          "listed_count": 4,
+          "media_count": 300,
+          "tweet_count": 3878
+        },
+        "username": "Y0JATlyoJA46934",
+        "verified": false
+      }
+    ]
+  }
+}

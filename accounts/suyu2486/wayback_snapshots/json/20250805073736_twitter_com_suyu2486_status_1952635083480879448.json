@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1952583265174626365",
+    "created_at": "2025-08-05T07:37:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T08:37:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952635083480879448"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 11,
+          "normalized_text": "男神真",
+          "probability": 0.6655,
+          "start": 9,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1739811571449434112",
+          "start": 0,
+          "username": "101101y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952635083480879448",
+    "in_reply_to_user_id": "1739811571449434112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952583265174626365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@101101y 男神真的好美…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1266,
+        "media_key": "3_1952583259881414656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxj4IS-bIAAra-r.jpg",
+        "width": 1040
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1952583265174626365",
+        "created_at": "2025-08-05T07:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T08:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952635083480879448"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "男神真",
+              "probability": 0.6655,
+              "start": 9,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1739811571449434112",
+              "start": 0,
+              "username": "101101y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952635083480879448",
+        "in_reply_to_user_id": "1739811571449434112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952583265174626365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@101101y 男神真的好美…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952583259881414656"
+          ]
+        },
+        "author_id": "1739811571449434112",
+        "conversation_id": "1952583265174626365",
+        "created_at": "2025-08-05T04:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T05:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952583265174626365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/347lIKJehb",
+              "end": 31,
+              "expanded_url": "https://x.com/101101y/status/1952583265174626365/photo/1",
+              "media_key": "3_1952583259881414656",
+              "start": 8,
+              "url": "https://t.co/347lIKJehb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952583265174626365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10776,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦莫，玩失败了 https://t.co/347lIKJehb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1952327381869338999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 202,
+          "like_count": 13252,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 3650
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T00:53:15.000Z",
+        "description": "ENTP-A/欢迎找我哦， 这里是喜欢海洋生物的身高191（随机变动），18cm的黑皮体育生会比较高频发推，直接私信就好，最后我不月抛、我不键政，我不混字母圈，不搞4i，我是直的，我没有宗教信仰，我不互看，旁边是ngl可以随便问 … 小号@meow1101111011（只过眼熟互关别乱发申请了🙏）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 119,
+                "username": "meow1101111011"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%87%9D%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%87%9D%E5%87%9D",
+                "start": 0,
+                "url": "https://t.co/vDa6VJQYiF"
+              }
+            ]
+          }
+        },
+        "id": "1739811571449434112",
+        "location": "-18cm",
+        "name": "无敌猪猪侠",
+        "pinned_tweet_id": "1947316130240184542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925813995929296896/VW9G3PgL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 1093,
+          "like_count": 31568,
+          "listed_count": 9,
+          "media_count": 864,
+          "tweet_count": 6536
+        },
+        "url": "https://t.co/vDa6VJQYiF",
+        "username": "101101y",
+        "verified": false
+      }
+    ]
+  }
+}

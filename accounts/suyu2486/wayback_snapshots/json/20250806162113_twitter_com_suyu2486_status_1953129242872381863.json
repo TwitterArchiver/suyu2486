@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1953084593923604977",
+    "created_at": "2025-08-06T16:21:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T17:21:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953129242872381863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1707074946273587200",
+          "start": 0,
+          "username": "edithjoe8511"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953129242872381863",
+    "in_reply_to_user_id": "1707074946273587200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953084593923604977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@edithjoe8511 我也支持！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1953084593923604977",
+        "created_at": "2025-08-06T16:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T17:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953129242872381863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1707074946273587200",
+              "start": 0,
+              "username": "edithjoe8511"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953129242872381863",
+        "in_reply_to_user_id": "1707074946273587200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953084593923604977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@edithjoe8511 我也支持！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707074946273587200",
+        "conversation_id": "1953084593923604977",
+        "created_at": "2025-08-06T13:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T14:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953084593923604977"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953084593923604977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 245,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特啥时候出语音评论，我想听互关说方言"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1952327381869338999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1092,
+          "following_count": 199,
+          "like_count": 13426,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 3700
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-27T16:49:35.000Z",
+        "description": "我的爱已尘埃落定。只回互关私信。不聊骚不爱骂人。敏感且讨厌一切不真诚/内🐍瘾者/喜欢跟有趣的互关们互动，互关敲小窗➕v看到秒过/当成第二个朋友圈，取关随意🫶🏻/打王者（专辅）平安京（上中辅） 三角洲找我（水平仅供娱乐只跟有礼貌的好宝宝玩）手搓擦边小号只过互关@DoraEdithjoe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 129,
+                "username": "DoraEdithjoe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/edithjoe8511",
+                "end": 23,
+                "expanded_url": "https://ngl.link/edithjoe8511",
+                "start": 0,
+                "url": "https://t.co/twOhb2xS0v"
+              }
+            ]
+          }
+        },
+        "id": "1707074946273587200",
+        "location": "机密长弓溪谷",
+        "name": "龙眼山竹香草泡芙",
+        "pinned_tweet_id": "1929068970541195310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920425357305417728/n4euwSWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1187,
+          "following_count": 427,
+          "like_count": 20675,
+          "listed_count": 4,
+          "media_count": 156,
+          "tweet_count": 4998
+        },
+        "url": "https://t.co/twOhb2xS0v",
+        "username": "edithjoe8511",
+        "verified": false
+      }
+    ]
+  }
+}

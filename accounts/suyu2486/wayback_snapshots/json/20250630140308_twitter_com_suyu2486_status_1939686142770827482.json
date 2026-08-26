@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1939598787917512999",
+    "created_at": "2025-06-30T14:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T15:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939686142770827482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1702638550041399296",
+          "start": 0,
+          "username": "heyinhuangdi"
+        },
+        {
+          "end": 27,
+          "id": "1573169818345172992",
+          "start": 14,
+          "username": "gaga20220923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939686142770827482",
+    "in_reply_to_user_id": "1702638550041399296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 8,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939684116729114799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heyinhuangdi @gaga20220923 我会找他麻烦，但不会太麻烦…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1939598787917512999",
+        "created_at": "2025-06-30T14:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T15:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939686142770827482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1702638550041399296",
+              "start": 0,
+              "username": "heyinhuangdi"
+            },
+            {
+              "end": 27,
+              "id": "1573169818345172992",
+              "start": 14,
+              "username": "gaga20220923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939686142770827482",
+        "in_reply_to_user_id": "1702638550041399296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939684116729114799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heyinhuangdi @gaga20220923 我会找他麻烦，但不会太麻烦…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702638550041399296",
+        "conversation_id": "1939598787917512999",
+        "created_at": "2025-06-30T13:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T14:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939684116729114799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1573169818345172992",
+              "start": 0,
+              "username": "gaga20220923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939684116729114799",
+        "in_reply_to_user_id": "1573169818345172992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939598787917512999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaga20220923 天杀的 我要找人弄你😡🫵🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1923458019305660813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 200,
+          "like_count": 9775,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 2848
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-15T11:00:55.000Z",
+        "description": "我叫禾乑heyín | 06 | switch | 互关➕v | 美女都是妈妈🥵 | 天杀的抽象女 | 爱偷皮下男文案发 | 唱歌 | 擦边禾@huangdiheyin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 71,
+                "username": "huangdiheyin"
+              }
+            ]
+          }
+        },
+        "id": "1702638550041399296",
+        "location": "是🇲🇾人",
+        "name": "禾᳐乑᳐੭",
+        "pinned_tweet_id": "1854705416967798813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932024837649887232/MaT66TcF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4928,
+          "following_count": 1807,
+          "like_count": 64232,
+          "listed_count": 17,
+          "media_count": 260,
+          "tweet_count": 7213
+        },
+        "username": "heyinhuangdi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-23T04:38:15.000Z",
+        "description": "业余男喘   🚪13145200     \n欢迎投稿猎奇文案，有空就读。\n一天拉屎五次纪录保持者。\n自用蜂鸟VPN：https://t.co/CYB6lgSvzy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 81,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=bCYCjNHY",
+                "start": 58,
+                "url": "https://t.co/CYB6lgSvzy"
+              }
+            ]
+          }
+        },
+        "id": "1573169818345172992",
+        "location": "厕所",
+        "name": "牛逼的人名字都要取13个字",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915059386894123008/blcEBMv4_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2151,
+          "following_count": 579,
+          "like_count": 75403,
+          "listed_count": 12,
+          "media_count": 126,
+          "tweet_count": 7627
+        },
+        "username": "gaga20220923",
+        "verified": false
+      }
+    ]
+  }
+}

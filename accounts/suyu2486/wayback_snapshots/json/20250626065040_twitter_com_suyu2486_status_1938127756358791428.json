@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1937915341818015840",
+    "created_at": "2025-06-26T06:50:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T07:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938127756358791428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1737561004282978306",
+          "start": 0,
+          "username": "Jusa_qsaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938127756358791428",
+    "in_reply_to_user_id": "1737561004282978306",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938055552401346692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jusa_qsaa 666"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1937915341818015840",
+        "created_at": "2025-06-26T06:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T07:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938127756358791428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1737561004282978306",
+              "start": 0,
+              "username": "Jusa_qsaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938127756358791428",
+        "in_reply_to_user_id": "1737561004282978306",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938055552401346692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jusa_qsaa 666"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1737561004282978306",
+        "conversation_id": "1937915341818015840",
+        "created_at": "2025-06-26T02:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T03:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938055552401346692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938055552401346692",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937915341818015840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 原来神鹰哥这么帅吗 那不行取关了 我有恋丑癖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1936734143804735662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 198,
+          "like_count": 8461,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 2388
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T19:50:15.000Z",
+        "description": "广东/95E/劫瓦go三修/带点m/bbw 是死肥猪看不惯我不要找我 私信不闲聊 除非你是妹妹 我是超级普通人不要想太多 互关可私 感兴趣会时间你主页 匿名信会翻 匿名信翻完半天到一天删帖 女宝关注看到就会回 没回可以私信敲敲 女推的帖子下我会乱窜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qsaa22218",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qsaa22218",
+                "start": 0,
+                "url": "https://t.co/mgrgVdZueT"
+              }
+            ]
+          }
+        },
+        "id": "1737561004282978306",
+        "location": "爆金币188+V 其他没想好 但是谁会嫌钱多😋",
+        "name": "晴萨Jusa_qsaa",
+        "pinned_tweet_id": "1937832514615415279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931655598485151744/CApmzTBf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 26,
+          "like_count": 249,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 611
+        },
+        "url": "https://t.co/mgrgVdZueT",
+        "username": "Jusa_qsaa",
+        "verified": false
+      }
+    ]
+  }
+}

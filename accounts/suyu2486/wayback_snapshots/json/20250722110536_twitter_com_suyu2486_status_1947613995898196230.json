@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1947533083114127816",
+    "created_at": "2025-07-22T11:05:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T12:05:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947613995898196230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1635139270653652993",
+          "start": 0,
+          "username": "WITIING43"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947613995898196230",
+    "in_reply_to_user_id": "1635139270653652993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947602026529243620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WITIING43 有点严重了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1947533083114127816",
+        "created_at": "2025-07-22T11:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T12:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947613995898196230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1635139270653652993",
+              "start": 0,
+              "username": "WITIING43"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947613995898196230",
+        "in_reply_to_user_id": "1635139270653652993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947602026529243620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WITIING43 有点严重了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1635139270653652993",
+        "conversation_id": "1947533083114127816",
+        "created_at": "2025-07-22T10:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T11:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947602026529243620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947602026529243620",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947533083114127816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 笑的我国潮来袭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 200,
+          "like_count": 11800,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 3347
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-13T04:43:09.000Z",
+        "description": "擦边涩涩啥都发是一个话多的精神病而已",
+        "id": "1635139270653652993",
+        "location": "门槛520     陪玩40h",
+        "name": "米糕",
+        "pinned_tweet_id": "1927357998218813867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946532317536636928/4Rjo_ceR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8820,
+          "following_count": 94,
+          "like_count": 10362,
+          "listed_count": 22,
+          "media_count": 42,
+          "tweet_count": 2739
+        },
+        "username": "WITIING43",
+        "verified": false
+      }
+    ]
+  }
+}

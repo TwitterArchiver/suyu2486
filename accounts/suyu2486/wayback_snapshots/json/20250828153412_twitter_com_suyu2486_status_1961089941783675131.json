@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1960683141603139615",
+    "created_at": "2025-08-28T15:34:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T16:34:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961089941783675131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1593966299658715136",
+          "start": 0,
+          "username": "chillpink_star"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961089941783675131",
+    "in_reply_to_user_id": "1593966299658715136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960683141603139615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chillpink_star 假的，大家别被骗了，这人听说是悠哈销冠"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1960683131465555975",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzW-64Aa4AcvO7v.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1960683141603139615",
+        "created_at": "2025-08-28T15:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T16:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961089941783675131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1593966299658715136",
+              "start": 0,
+              "username": "chillpink_star"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961089941783675131",
+        "in_reply_to_user_id": "1593966299658715136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960683141603139615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chillpink_star 假的，大家别被骗了，这人听说是悠哈销冠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960683131465555975"
+          ]
+        },
+        "author_id": "1593966299658715136",
+        "conversation_id": "1960683141603139615",
+        "created_at": "2025-08-27T12:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T13:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960683141603139615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F6VM3kBo7W",
+              "end": 35,
+              "expanded_url": "https://x.com/chillpink_star/status/1960683141603139615/photo/1",
+              "media_key": "3_1960683131465555975",
+              "start": 12,
+              "url": "https://t.co/F6VM3kBo7W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960683141603139615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 17587,
+          "like_count": 198,
+          "quote_count": 2,
+          "reply_count": 40,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来悠哈糖里真有口红啊 https://t.co/F6VM3kBo7W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个好色的sb男的，双相情感障碍，情感漠视，精神失常，都滚远点别来烦我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "小玉",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1362,
+          "following_count": 198,
+          "like_count": 17129,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 4548
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T13:56:07.000Z",
+        "description": "骂我死全家",
+        "id": "1593966299658715136",
+        "name": "星星饼干",
+        "pinned_tweet_id": "1842742470381310463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924137620210081792/OzBnV75C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7441,
+          "following_count": 194,
+          "like_count": 15770,
+          "listed_count": 31,
+          "media_count": 1663,
+          "tweet_count": 10400
+        },
+        "username": "chillpink_star",
+        "verified": false
+      }
+    ]
+  }
+}

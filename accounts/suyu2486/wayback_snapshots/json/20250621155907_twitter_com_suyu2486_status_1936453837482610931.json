@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1936080252184543684",
+    "created_at": "2025-06-21T15:59:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T16:59:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936453837482610931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1903167131619037187",
+          "start": 0,
+          "username": "Shayuyuyuyu0306"
+        },
+        {
+          "end": 30,
+          "id": "1781906783373807616",
+          "start": 17,
+          "username": "mizkiller_xy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936453837482610931",
+    "in_reply_to_user_id": "1903167131619037187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936438604215304529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shayuyuyuyu0306 @mizkiller_xy wc，这个真在现场"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27400,
+        "height": 1280,
+        "media_key": "13_1936437563490734080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1936437563490734080/img/Sew7ML9Qa0ojTnaT.jpg",
+        "public_metrics": {
+          "view_count": 61
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936437563490734080/vid/avc1/320x568/86qlnGhSUWSZBJ9w.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936437563490734080/vid/avc1/480x852/XHAC20leUuIJcBKu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936437563490734080/vid/avc1/720x1280/9p9YR2wKjbuEi8Lv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1936437563490734080/pl/4jd5xNpwC2YM5at2.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1936080252184543684",
+        "created_at": "2025-06-21T15:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T16:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936453837482610931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1903167131619037187",
+              "start": 0,
+              "username": "Shayuyuyuyu0306"
+            },
+            {
+              "end": 30,
+              "id": "1781906783373807616",
+              "start": 17,
+              "username": "mizkiller_xy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936453837482610931",
+        "in_reply_to_user_id": "1903167131619037187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936438604215304529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shayuyuyuyu0306 @mizkiller_xy wc，这个真在现场"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1936437563490734080"
+          ]
+        },
+        "author_id": "1903167131619037187",
+        "conversation_id": "1936080252184543684",
+        "created_at": "2025-06-21T14:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T15:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936438604215304529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781906783373807616",
+              "start": 0,
+              "username": "mizkiller_xy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qdn2WVu0Qc",
+              "end": 45,
+              "expanded_url": "https://x.com/Shayuyuyuyu0306/status/1936438604215304529/video/1",
+              "media_key": "13_1936437563490734080",
+              "start": 22,
+              "url": "https://t.co/qdn2WVu0Qc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936438604215304529",
+        "in_reply_to_user_id": "1781906783373807616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936080252184543684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizkiller_xy 有幸见过女明星 https://t.co/qdn2WVu0Qc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，不喜欢可以喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 194,
+          "like_count": 7130,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 2069
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T19:30:17.000Z",
+        "description": "乌！呀！咦！哈！",
+        "id": "1903167131619037187",
+        "name": "超级无敌的乌萨奇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903829769336328192/Q2LMFX8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1630,
+          "following_count": 207,
+          "like_count": 3156,
+          "listed_count": 3,
+          "media_count": 127,
+          "tweet_count": 653
+        },
+        "username": "Shayuyuyuyu0306",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T04:44:32.000Z",
+        "description": "敢性骚扰的老子打死你。纯爱口嗨。喜欢骚扰男妈妈和妈妈。小学生。如果有屌老子将操死这个世界。谁敢给老子发鸡老子打死你 谁发谁烂屌 纯绿☘️☘️☘️☘️",
+        "id": "1781906783373807616",
+        "location": "乌托邦",
+        "name": "男妈妈的奈子我埋。",
+        "pinned_tweet_id": "1932837345394397612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933752077446217729/fSeCPCXM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 171,
+          "like_count": 2022,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 827
+        },
+        "username": "mizkiller_xy",
+        "verified": false
+      }
+    ]
+  }
+}

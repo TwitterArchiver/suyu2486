@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1996510156285444113",
+    "created_at": "2025-12-04T10:50:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T11:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996532640309211365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1938108852752502784",
+          "start": 0,
+          "username": "520Seulgi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996532640309211365",
+    "in_reply_to_user_id": "1938108852752502784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996510156285444113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520Seulgi 诡秘小心被抓哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996510150463778816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7UHZ2Ta8AAC1CD.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1996510156285444113",
+        "created_at": "2025-12-04T10:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T11:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996532640309211365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1938108852752502784",
+              "start": 0,
+              "username": "520Seulgi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996532640309211365",
+        "in_reply_to_user_id": "1938108852752502784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996510156285444113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520Seulgi 诡秘小心被抓哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996510150463778816"
+          ]
+        },
+        "author_id": "1938108852752502784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1996510156285444113",
+        "created_at": "2025-12-04T09:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T10:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996510156285444113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v1gSM28ZNO",
+              "end": 36,
+              "expanded_url": "https://x.com/520Seulgi/status/1996510156285444113/photo/1",
+              "media_key": "3_1996510150463778816",
+              "start": 13,
+              "url": "https://t.co/v1gSM28ZNO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996510156285444113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "布拉迪世界终于要上线了！ https://t.co/v1gSM28ZNO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是一个死人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1985888956073066671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2493,
+          "following_count": 272,
+          "like_count": 22948,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 6395
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T05:35:41.000Z",
+        "description": "爱做饭 🍳爱分享🧩 爱姜涩琪🐻 ｜我是男的 不是直男｜悉尼🇦🇺老鼠人（本可承诺将在明年开通抖音分享vlog）｜唯一小号（@WoDui84561）｜（本号纯绿冲浪🏄 随心情互关 私信）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "WoDui84561"
+              }
+            ]
+          }
+        },
+        "id": "1938108852752502784",
+        "location": "在姜涩琪怀里",
+        "name": "鸡腿加点辣",
+        "pinned_tweet_id": "1955175746487587120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996456624949776384/pLq7kMjC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2697,
+          "following_count": 319,
+          "like_count": 7510,
+          "listed_count": 1,
+          "media_count": 1493,
+          "tweet_count": 4399
+        },
+        "username": "520Seulgi",
+        "verified": true
+      }
+    ]
+  }
+}

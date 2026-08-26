@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1943726017681543326",
+    "created_at": "2025-07-11T23:36:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T00:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943816779303702605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1685053257100689408",
+          "start": 0,
+          "username": "lei_le91111"
+        },
+        {
+          "end": 26,
+          "id": "1801270531255357440",
+          "start": 13,
+          "username": "GraceW895519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943816779303702605",
+    "in_reply_to_user_id": "1685053257100689408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943804007203713496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lei_le91111 @GraceW895519 管你这那的呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1943726017681543326",
+        "created_at": "2025-07-11T23:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T00:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943816779303702605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1685053257100689408",
+              "start": 0,
+              "username": "lei_le91111"
+            },
+            {
+              "end": 26,
+              "id": "1801270531255357440",
+              "start": 13,
+              "username": "GraceW895519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943816779303702605",
+        "in_reply_to_user_id": "1685053257100689408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943804007203713496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lei_le91111 @GraceW895519 管你这那的呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685053257100689408",
+        "conversation_id": "1943726017681543326",
+        "created_at": "2025-07-11T22:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T23:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943804007203713496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            },
+            {
+              "end": 23,
+              "id": "1801270531255357440",
+              "start": 10,
+              "username": "GraceW895519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943804007203713496",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943754800161501384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 @GraceW895519 神鹰哥我看错你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 201,
+          "like_count": 11425,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 3269
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T22:23:20.000Z",
+        "description": "直男 广东 1/4i 男同别关注我 谢谢",
+        "id": "1685053257100689408",
+        "name": "藤宫周",
+        "pinned_tweet_id": "1901352901379051575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881319551184543744/bXUSIJqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 654,
+          "like_count": 4035,
+          "listed_count": 11,
+          "media_count": 47,
+          "tweet_count": 520
+        },
+        "username": "lei_le91111",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T15:09:06.000Z",
+        "description": "INFP DS DDLG ♋️我就是一个普通的小女孩 私信会看 一般不回 想说的可以发ngl信箱 /不参与任何争执 互相包容 be nice /谢谢大家喜欢我（不接置顶推广 不回复",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miaaa_yuyi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miaaa_yuyi",
+                "start": 0,
+                "url": "https://t.co/4VcjyfuVUN"
+              }
+            ]
+          }
+        },
+        "id": "1801270531255357440",
+        "location": "暂无🚪不约不卖 信箱➡️",
+        "name": "Graceee🐾（敏感肌版）",
+        "pinned_tweet_id": "1936095458814050707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913204319949905920/u2Bhv3Yz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4734,
+          "following_count": 186,
+          "like_count": 10171,
+          "listed_count": 14,
+          "media_count": 160,
+          "tweet_count": 1095
+        },
+        "url": "https://t.co/4VcjyfuVUN",
+        "username": "GraceW895519",
+        "verified": false
+      }
+    ]
+  }
+}

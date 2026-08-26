@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1942733665525719161",
+    "created_at": "2025-07-09T00:39:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T01:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942745467873374298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1703585455915048960",
+          "start": 0,
+          "username": "MianBaobb07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942745467873374298",
+    "in_reply_to_user_id": "1703585455915048960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942733665525719161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MianBaobb07 牙刷想了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6615,
+        "height": 960,
+        "media_key": "13_1942733587184316416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1942733587184316416/img/9Yv5yi1Yg9NPGl5r.jpg",
+        "public_metrics": {
+          "view_count": 86
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942733587184316416/vid/avc1/320x426/VG2vL_JE-IP1ci7C.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942733587184316416/vid/avc1/480x640/v8WjeH_wkfOo5Lqd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942733587184316416/vid/avc1/720x960/FFRWrnvhliIuFFNH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1942733587184316416/pl/Ry1NwWj-bTOsMzjQ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1942733665525719161",
+        "created_at": "2025-07-09T00:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T01:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942745467873374298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1703585455915048960",
+              "start": 0,
+              "username": "MianBaobb07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942745467873374298",
+        "in_reply_to_user_id": "1703585455915048960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942733665525719161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MianBaobb07 牙刷想了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1942733587184316416"
+          ]
+        },
+        "author_id": "1703585455915048960",
+        "conversation_id": "1942733665525719161",
+        "created_at": "2025-07-08T23:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T00:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942733665525719161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kOgEYt7ROc",
+              "end": 33,
+              "expanded_url": "https://x.com/MianBaobb07/status/1942733665525719161/video/1",
+              "media_key": "13_1942733587184316416",
+              "start": 10,
+              "url": "https://t.co/kOgEYt7ROc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942733665525719161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 303,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上好，谁想我了🪥 https://t.co/kOgEYt7ROc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 199,
+          "like_count": 10835,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 3153
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-18T01:43:28.000Z",
+        "description": "纯颜控 不闲聊 不线下不约谢谢🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻转推自辨💧有事请过🚪碎碎念看小号@MianBao09876",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 47,
+                "username": "MianBao09876"
+              }
+            ]
+          }
+        },
+        "id": "1703585455915048960",
+        "location": "有🚪",
+        "name": "面包🍞",
+        "pinned_tweet_id": "1935560414323966166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870921957669044224/cyQ99dZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9876,
+          "following_count": 152,
+          "like_count": 645,
+          "listed_count": 20,
+          "media_count": 137,
+          "tweet_count": 823
+        },
+        "username": "MianBaobb07",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1960931322337091988",
+    "created_at": "2025-08-28T05:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T06:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960942294053589234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1611322522670346241",
+          "start": 0,
+          "username": "caixiayu1hao"
+        },
+        {
+          "end": 24,
+          "id": "1959194819575828480",
+          "start": 14,
+          "username": "lanmu4212"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960942294053589234",
+    "in_reply_to_user_id": "1611322522670346241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960939914205520239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caixiayu1hao @lanmu4212 见招拆招这一块"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1960931322337091988",
+        "created_at": "2025-08-28T05:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T06:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960942294053589234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1611322522670346241",
+              "start": 0,
+              "username": "caixiayu1hao"
+            },
+            {
+              "end": 24,
+              "id": "1959194819575828480",
+              "start": 14,
+              "username": "lanmu4212"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960942294053589234",
+        "in_reply_to_user_id": "1611322522670346241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960939914205520239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caixiayu1hao @lanmu4212 见招拆招这一块"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611322522670346241",
+        "conversation_id": "1960931322337091988",
+        "created_at": "2025-08-28T05:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T06:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960939914205520239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1959194819575828480",
+              "start": 0,
+              "username": "lanmu4212"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960939914205520239",
+        "in_reply_to_user_id": "1959194819575828480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960938224458850694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lanmu4212 对啊……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个好色的sb男的，双相情感障碍，情感漠视，精神失常，都滚远点别来烦我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "小玉",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1358,
+          "following_count": 197,
+          "like_count": 17031,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 4529
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T11:23:30.000Z",
+        "description": "07/你可以叫我小虾🦐/纯文，完蛋了我被工科录取了……/我其实不是臭文字推…算碎碎念博主吧！｜两只🐶两只🐭两只🦔/喜欢我就给我打钱。/我一直在等我关注回关我🥸/欢迎和我玩，但是不欢迎骚扰🐱/才下雨是异性恋switch偏s……我尊重所有性取向/不喜欢我可以划走，没必要骂我🌚再说一遍，没必要骂我👊🏻",
+        "id": "1611322522670346241",
+        "location": "主动关注你就是喜欢你……过🚪不退",
+        "name": "才下雨",
+        "pinned_tweet_id": "1958880366720094483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947951383032016896/5O7eO2sQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5188,
+          "following_count": 521,
+          "like_count": 4039,
+          "listed_count": 8,
+          "media_count": 281,
+          "tweet_count": 6652
+        },
+        "username": "caixiayu1hao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-23T10:03:53.000Z",
+        "description": "随手写下脑子里的杂碎，不求懂我，只求有人看见。不会搞笑，不会讨好，我只是想让世界知道我在想些什么。",
+        "id": "1959194819575828480",
+        "location": "GD",
+        "name": "蓝牧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959197508103753728/ZDpVsSOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 37,
+          "like_count": 837,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 208
+        },
+        "username": "lanmu4212",
+        "verified": false
+      }
+    ]
+  }
+}

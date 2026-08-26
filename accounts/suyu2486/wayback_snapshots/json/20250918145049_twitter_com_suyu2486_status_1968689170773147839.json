@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1968340810241659165",
+    "created_at": "2025-09-18T14:50:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T15:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968689170773147839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1637085134930296832",
+          "start": 0,
+          "username": "AIRE747"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968689170773147839",
+    "in_reply_to_user_id": "1637085134930296832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968340810241659165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AIRE747 这人二逼吧…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968340800624115713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Dzh4obwAErPfj.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1968340810241659165",
+        "created_at": "2025-09-18T14:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T15:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968689170773147839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1637085134930296832",
+              "start": 0,
+              "username": "AIRE747"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968689170773147839",
+        "in_reply_to_user_id": "1637085134930296832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968340810241659165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AIRE747 这人二逼吧…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968340800624115713"
+          ]
+        },
+        "author_id": "1637085134930296832",
+        "conversation_id": "1968340810241659165",
+        "created_at": "2025-09-17T15:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T16:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968340810241659165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vfZ59KWSyH",
+              "end": 35,
+              "expanded_url": "https://x.com/AIRE747/status/1968340810241659165/photo/1",
+              "media_key": "3_1968340800624115713",
+              "start": 12,
+              "url": "https://t.co/vfZ59KWSyH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968340810241659165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2053,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？你妈真的死了 知道吗 https://t.co/vfZ59KWSyH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗七个小号其中之一@dante82682",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "dante82682"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1621,
+          "following_count": 239,
+          "like_count": 19644,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 5406
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-18T13:35:22.000Z",
+        "description": "点进主页的宝宝都能开心幸福₍^˶-𖥦 -˵^₎੭",
+        "id": "1637085134930296832",
+        "location": "𝖋𝖊𝖆𝖗 𝖔𝖋 𝖌𝖔𝖉",
+        "name": "名字五个字",
+        "pinned_tweet_id": "1932310656465908072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932296886397894656/3rLWXUh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 276,
+          "like_count": 3876,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 1209
+        },
+        "username": "AIRE747",
+        "verified": false
+      }
+    ]
+  }
+}

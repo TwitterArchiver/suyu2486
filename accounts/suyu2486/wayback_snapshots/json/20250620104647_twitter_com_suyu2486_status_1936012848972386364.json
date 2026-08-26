@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1936011312695501274",
+    "created_at": "2025-06-20T10:46:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T11:46:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936012848972386364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1732398677220614144",
+          "start": 0,
+          "username": "ruiruiovo1030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936012848972386364",
+    "in_reply_to_user_id": "1732398677220614144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936011312695501274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruiruiovo1030 这你别管了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1936011312695501274",
+        "created_at": "2025-06-20T10:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T11:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936012848972386364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1732398677220614144",
+              "start": 0,
+              "username": "ruiruiovo1030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936012848972386364",
+        "in_reply_to_user_id": "1732398677220614144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936011312695501274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruiruiovo1030 这你别管了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732398677220614144",
+        "conversation_id": "1936011312695501274",
+        "created_at": "2025-06-20T10:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T11:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936011312695501274"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936011312695501274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特上的人什么都要管，我老家的大妈们都不这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的，我将做回神鹰，爱说点c语言，不喜欢可以喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 181,
+          "like_count": 6666,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1892
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T13:56:55.000Z",
+        "description": "我在这里@ruirui1030qwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 4,
+                "username": "ruirui1030qwq"
+              }
+            ]
+          }
+        },
+        "id": "1732398677220614144",
+        "name": "蕊蕊uu",
+        "pinned_tweet_id": "1920334668064583870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920158008585433090/zdqJRUJP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 6,
+          "like_count": 239,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 306
+        },
+        "username": "ruiruiovo1030",
+        "verified": false
+      }
+    ]
+  }
+}

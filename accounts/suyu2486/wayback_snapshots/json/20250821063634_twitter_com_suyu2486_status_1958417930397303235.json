@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1958141761404195003",
+    "created_at": "2025-08-21T06:36:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T07:36:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958417930397303235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1502671088828174336",
+          "start": 0,
+          "username": "_ryunosukedesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958417930397303235",
+    "in_reply_to_user_id": "1502671088828174336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958141761404195003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ryunosukedesu 好帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3088,
+        "media_key": "3_1958141748292845568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyy3i57bgAAsnOy.jpg",
+        "width": 2316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1958141761404195003",
+        "created_at": "2025-08-21T06:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T07:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958417930397303235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1502671088828174336",
+              "start": 0,
+              "username": "_ryunosukedesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958417930397303235",
+        "in_reply_to_user_id": "1502671088828174336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958141761404195003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ryunosukedesu 好帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958141748292845568"
+          ]
+        },
+        "author_id": "1502671088828174336",
+        "conversation_id": "1958141761404195003",
+        "created_at": "2025-08-20T12:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T13:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958141761404195003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CJ6OTzxGon",
+              "end": 27,
+              "expanded_url": "https://x.com/_ryunosukedesu/status/1958141761404195003/photo/1",
+              "media_key": "3_1958141748292845568",
+              "start": 4,
+              "url": "https://t.co/CJ6OTzxGon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958141761404195003",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 31687,
+          "like_count": 1680,
+          "quote_count": 9,
+          "reply_count": 25,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "25歳 https://t.co/CJ6OTzxGon"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 201,
+          "like_count": 16452,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 4348
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-12T15:41:31.000Z",
+        "description": "YouTubeしてます",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC7lt3…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UC7lt3zuv5BsslBVfnl0s4NA",
+                "start": 0,
+                "url": "https://t.co/lCdteNVSH2"
+              }
+            ]
+          }
+        },
+        "id": "1502671088828174336",
+        "name": "龍之介",
+        "pinned_tweet_id": "1766819706944766111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617098030582484992/xErDNDqr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40233,
+          "following_count": 8,
+          "like_count": 55,
+          "listed_count": 59,
+          "media_count": 224,
+          "tweet_count": 722
+        },
+        "url": "https://t.co/lCdteNVSH2",
+        "username": "_ryunosukedesu",
+        "verified": false
+      }
+    ]
+  }
+}

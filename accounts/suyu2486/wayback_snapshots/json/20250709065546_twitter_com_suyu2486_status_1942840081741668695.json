@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1942820512541147464",
+    "created_at": "2025-07-09T06:55:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T07:55:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942840081741668695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1575662267756007424",
+          "start": 0,
+          "username": "triumphatZsz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942840081741668695",
+    "in_reply_to_user_id": "1575662267756007424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942820512541147464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@triumphatZsz 小蛇你早点整这个啊，哎我，这青筋小脚这红发这穿搭，看的我是美了美了美了醉了醉了醉了😋😋😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942820501451055104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvZI89tWIAAzlGj.jpg",
+        "width": 1603
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1942820501404999680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvZI89iXYAA083U.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1942820512541147464",
+        "created_at": "2025-07-09T06:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T07:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942840081741668695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1575662267756007424",
+              "start": 0,
+              "username": "triumphatZsz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942840081741668695",
+        "in_reply_to_user_id": "1575662267756007424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942820512541147464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@triumphatZsz 小蛇你早点整这个啊，哎我，这青筋小脚这红发这穿搭，看的我是美了美了美了醉了醉了醉了😋😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942820501451055104",
+            "3_1942820501404999680"
+          ]
+        },
+        "author_id": "1575662267756007424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Novelty",
+              "id": "845326060757512192",
+              "name": "Fashion Novelty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Fashion Blogging",
+              "id": "845327283774640128",
+              "name": "Fashion Tags"
+            }
+          }
+        ],
+        "conversation_id": "1942820512541147464",
+        "created_at": "2025-07-09T05:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T06:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942820512541147464"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "ootd"
+            },
+            {
+              "end": 10,
+              "start": 7,
+              "tag": "自拍"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kdj8mVMrH8",
+              "end": 64,
+              "expanded_url": "https://x.com/triumphatZsz/status/1942820512541147464/photo/1",
+              "media_key": "3_1942820501451055104",
+              "start": 41,
+              "url": "https://t.co/Kdj8mVMrH8"
+            },
+            {
+              "display_url": "pic.x.com/Kdj8mVMrH8",
+              "end": 64,
+              "expanded_url": "https://x.com/triumphatZsz/status/1942820512541147464/photo/1",
+              "media_key": "3_1942820501404999680",
+              "start": 41,
+              "url": "https://t.co/Kdj8mVMrH8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942820512541147464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#ootd  #自拍\n那天登你的號好多人叫你寶寶，你說你會改的，怎麼改的是密碼？ https://t.co/Kdj8mVMrH8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 200,
+          "like_count": 10879,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 3172
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T01:42:23.000Z",
+        "description": "尸體停放處 | 愛小蛇是終身幸福的開始。這個推特主要由很多很多碎碎唸、垃圾話和情緒構成。什麼都發，回消息看心情。大概有一點sub傾向、？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cheesnake",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cheesnake",
+                "start": 0,
+                "url": "https://t.co/rs6E7AGU1P"
+              }
+            ]
+          }
+        },
+        "id": "1575662267756007424",
+        "location": "地球offline",
+        "name": "芝士味小蛇",
+        "pinned_tweet_id": "1940973748011913787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761596671300116481/U0PRG9Ow_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 116,
+          "like_count": 994,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 484
+        },
+        "url": "https://t.co/rs6E7AGU1P",
+        "username": "triumphatZsz",
+        "verified": false
+      }
+    ]
+  }
+}

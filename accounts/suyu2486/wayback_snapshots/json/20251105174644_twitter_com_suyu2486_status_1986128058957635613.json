@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1986097763663372450",
+    "created_at": "2025-11-05T17:46:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T18:46:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986128058957635613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1938108852752502784",
+          "start": 0,
+          "username": "520Seulgi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986128058957635613",
+    "in_reply_to_user_id": "1938108852752502784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986097763663372450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520Seulgi 哥想你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986097757917224960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5AJY1XbIAAZtYC.jpg",
+        "width": 976
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1986097763663372450",
+        "created_at": "2025-11-05T17:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T18:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986128058957635613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1938108852752502784",
+              "start": 0,
+              "username": "520Seulgi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986128058957635613",
+        "in_reply_to_user_id": "1938108852752502784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986097763663372450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520Seulgi 哥想你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986097757917224960"
+          ]
+        },
+        "author_id": "1938108852752502784",
+        "conversation_id": "1986097763663372450",
+        "created_at": "2025-11-05T15:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T16:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986097763663372450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZemW6bMuJp",
+              "end": 58,
+              "expanded_url": "https://x.com/520Seulgi/status/1986097763663372450/photo/1",
+              "media_key": "3_1986097757917224960",
+              "start": 35,
+              "url": "https://t.co/ZemW6bMuJp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986097763663372450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 467,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男的什么时候能放弃骚扰\n大晚上十点多发这种消息骚扰我姐 到底要干什么 https://t.co/ZemW6bMuJp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "06，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1977439230432555047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2150,
+          "following_count": 261,
+          "like_count": 21828,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 6153
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T05:35:41.000Z",
+        "description": "爱做饭 爱分享 爱姜涩琪  不是直男（纯绿冲浪🏄 随心情互关 私信）",
+        "id": "1938108852752502784",
+        "location": "在姜涩琪怀里",
+        "name": "鸡腿加点辣",
+        "pinned_tweet_id": "1955175746487587120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948655968755359744/-MCjuM5A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2577,
+          "following_count": 209,
+          "like_count": 5519,
+          "listed_count": 2,
+          "media_count": 1268,
+          "tweet_count": 3439
+        },
+        "username": "520Seulgi",
+        "verified": false
+      }
+    ]
+  }
+}

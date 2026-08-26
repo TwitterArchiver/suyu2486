@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1935668222038315349",
+    "created_at": "2025-06-19T16:59:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T17:59:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935744237644992690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1703585455915048960",
+          "start": 0,
+          "username": "MianBaobb07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935744237644992690",
+    "in_reply_to_user_id": "1703585455915048960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935668222038315349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MianBaobb07 这就是青春的气息吗…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935668196553506817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtzf-BqXwAEbP2Z.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1935668222038315349",
+        "created_at": "2025-06-19T16:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T17:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935744237644992690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1703585455915048960",
+              "start": 0,
+              "username": "MianBaobb07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935744237644992690",
+        "in_reply_to_user_id": "1703585455915048960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935668222038315349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MianBaobb07 这就是青春的气息吗…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935668196553506817"
+          ]
+        },
+        "author_id": "1703585455915048960",
+        "conversation_id": "1935668222038315349",
+        "created_at": "2025-06-19T11:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T12:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935668222038315349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gmXTcfA9fE",
+              "end": 34,
+              "expanded_url": "https://x.com/MianBaobb07/status/1935668222038315349/photo/1",
+              "media_key": "3_1935668196553506817",
+              "start": 11,
+              "url": "https://t.co/gmXTcfA9fE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935668222038315349",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 18039,
+          "like_count": 274,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "青春如同奔流的江河💐 https://t.co/gmXTcfA9fE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "name": "小玉",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928709552171610112/x9fXi0Ew_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 175,
+          "like_count": 6433,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 1820
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-18T01:43:28.000Z",
+        "description": "碎碎念 纯颜控 不闲聊 不线下不约谢谢🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻推广自辨💧唯一小号@MianBao09876 有事请过🚪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "MianBao09876"
+              }
+            ]
+          }
+        },
+        "id": "1703585455915048960",
+        "location": "有🚪",
+        "name": "面包🍞",
+        "pinned_tweet_id": "1903276560406254065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870921957669044224/cyQ99dZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8487,
+          "following_count": 132,
+          "like_count": 527,
+          "listed_count": 20,
+          "media_count": 104,
+          "tweet_count": 688
+        },
+        "username": "MianBaobb07",
+        "verified": false
+      }
+    ]
+  }
+}

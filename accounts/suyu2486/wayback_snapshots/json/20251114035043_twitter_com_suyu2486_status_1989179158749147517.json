@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1989158587399303681",
+    "created_at": "2025-11-14T03:50:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T04:50:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989179158749147517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1903167131619037187",
+          "start": 0,
+          "username": "Shayuyuyuyu0306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989179158749147517",
+    "in_reply_to_user_id": "1903167131619037187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989158587399303681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shayuyuyuyu0306 我在等待一个名刀司命"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1633,
+        "media_key": "3_1989158576133402625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5rpL5xacAE_Gm9.jpg",
+        "width": 1179
+      },
+      {
+        "height": 945,
+        "media_key": "3_1989158576120803328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5rpL5uaMAAeCCn.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1989158587399303681",
+        "created_at": "2025-11-14T03:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T04:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989179158749147517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1903167131619037187",
+              "start": 0,
+              "username": "Shayuyuyuyu0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989179158749147517",
+        "in_reply_to_user_id": "1903167131619037187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989158587399303681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shayuyuyuyu0306 我在等待一个名刀司命"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989158576133402625",
+            "3_1989158576120803328"
+          ]
+        },
+        "author_id": "1903167131619037187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1989158587399303681",
+        "created_at": "2025-11-14T02:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T03:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989158587399303681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wPCKmhK0u2",
+              "end": 36,
+              "expanded_url": "https://x.com/Shayuyuyuyu0306/status/1989158587399303681/photo/1",
+              "media_key": "3_1989158576133402625",
+              "start": 13,
+              "url": "https://t.co/wPCKmhK0u2"
+            },
+            {
+              "display_url": "pic.x.com/wPCKmhK0u2",
+              "end": 36,
+              "expanded_url": "https://x.com/Shayuyuyuyu0306/status/1989158587399303681/photo/1",
+              "media_key": "3_1989158576120803328",
+              "start": 13,
+              "url": "https://t.co/wPCKmhK0u2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989158587399303681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 284,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这时对面将会有五个梦泪。 https://t.co/wPCKmhK0u2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "06，男，infp…我是s，我要调教你，给我跪下，舔我脚🦶🏻直播间有没有m？😈我是暴力s啊，手黑的很，黑手啪啪啪。😡有没有感觉？过来 过来，小狗，是不是我的小狗啊？😏你是不是我的小狗，来主人面前！爬过来！爬过来！🥴",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2481,
+          "following_count": 266,
+          "like_count": 22474,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 6317
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T19:30:17.000Z",
+        "description": "乌！呀！咦！哈！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=XeHg7qdr",
+                "start": 0,
+                "url": "https://t.co/bHwFroKp7C"
+              }
+            ]
+          }
+        },
+        "id": "1903167131619037187",
+        "name": "超级无敌的乌萨奇",
+        "pinned_tweet_id": "1969972668159132077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903829769336328192/Q2LMFX8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6382,
+          "following_count": 365,
+          "like_count": 6461,
+          "listed_count": 18,
+          "media_count": 246,
+          "tweet_count": 1449
+        },
+        "url": "https://t.co/bHwFroKp7C",
+        "username": "Shayuyuyuyu0306",
+        "verified": false
+      }
+    ]
+  }
+}

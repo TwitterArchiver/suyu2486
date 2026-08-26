@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1983126014944494032",
+    "created_at": "2025-10-31T12:23:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T13:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984234859724939395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1442063351119450119",
+          "start": 0,
+          "username": "RachelucifeRiot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984234859724939395",
+    "in_reply_to_user_id": "1442063351119450119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984215402298462239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RachelucifeRiot 谢谢我，这么下去不得成百万富翁啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1983126014944494032",
+        "created_at": "2025-10-31T12:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T13:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984234859724939395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1442063351119450119",
+              "start": 0,
+              "username": "RachelucifeRiot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984234859724939395",
+        "in_reply_to_user_id": "1442063351119450119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984215402298462239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RachelucifeRiot 谢谢我，这么下去不得成百万富翁啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442063351119450119",
+        "conversation_id": "1983126014944494032",
+        "created_at": "2025-10-31T11:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T12:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984215402298462239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984215402298462239",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983126014944494032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 我现在已经把喝酒的钱省下来喝酒了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "神鹰🦅，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "pinned_tweet_id": "1977439230432555047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981015242827087872/axAcZvEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2153,
+          "following_count": 261,
+          "like_count": 21710,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 6086
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-26T09:48:04.000Z",
+        "description": "我是李清玉/Rachel #Metalhead #punk",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 13,
+                "tag": "Metalhead"
+              },
+              {
+                "end": 29,
+                "start": 24,
+                "tag": "punk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/racheluc…",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/rachelucifer",
+                "start": 0,
+                "url": "https://t.co/42XEaoL420"
+              }
+            ]
+          }
+        },
+        "id": "1442063351119450119",
+        "location": "地獄",
+        "name": "带着湿润的嘴唇摔死了",
+        "pinned_tweet_id": "1907984508642799896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951908239647686656/zjo8rWWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 302,
+          "like_count": 3758,
+          "listed_count": 0,
+          "media_count": 540,
+          "tweet_count": 7623
+        },
+        "url": "https://t.co/42XEaoL420",
+        "username": "RachelucifeRiot",
+        "verified": false
+      }
+    ]
+  }
+}

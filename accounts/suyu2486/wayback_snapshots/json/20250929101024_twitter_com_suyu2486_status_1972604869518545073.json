@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1972466939466514506",
+    "created_at": "2025-09-29T10:10:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T11:10:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972604869518545073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1663516164306382852",
+          "start": 0,
+          "username": "Yooeuh121590"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972604869518545073",
+    "in_reply_to_user_id": "1663516164306382852",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972466939466514506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yooeuh121590 我说呢，都怪薯条四重奏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1269,
+        "media_key": "3_1972466931958702080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1-cOVqaYAAh-wm.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1972466939466514506",
+        "created_at": "2025-09-29T10:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T11:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972604869518545073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1663516164306382852",
+              "start": 0,
+              "username": "Yooeuh121590"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972604869518545073",
+        "in_reply_to_user_id": "1663516164306382852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972466939466514506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yooeuh121590 我说呢，都怪薯条四重奏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972466931958702080"
+          ]
+        },
+        "author_id": "1663516164306382852",
+        "conversation_id": "1972466939466514506",
+        "created_at": "2025-09-29T01:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T02:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972466939466514506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ahddBnDLKL",
+              "end": 27,
+              "expanded_url": "https://x.com/Yooeuh121590/status/1972466939466514506/photo/1",
+              "media_key": "3_1972466931958702080",
+              "start": 4,
+              "url": "https://t.co/ahddBnDLKL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972466939466514506",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 14103,
+          "like_count": 199,
+          "quote_count": 5,
+          "reply_count": 28,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "早生蚝 https://t.co/ahddBnDLKL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗七个小号其中之一@dante82682",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "dante82682"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1972598608924143996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2043,
+          "following_count": 242,
+          "like_count": 20257,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 5583
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T12:02:42.000Z",
+        "description": "您的虚拟助手 | 眼熟的会回关 不喜欢我请屏蔽 喜欢我请打赏",
+        "id": "1663516164306382852",
+        "location": "robot",
+        "name": "豆包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949456276330860544/XRYr0Aq5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3052,
+          "following_count": 84,
+          "like_count": 5889,
+          "listed_count": 2,
+          "media_count": 148,
+          "tweet_count": 2652
+        },
+        "username": "Yooeuh121590",
+        "verified": false
+      }
+    ]
+  }
+}

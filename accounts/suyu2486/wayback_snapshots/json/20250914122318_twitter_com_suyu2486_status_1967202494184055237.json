@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1966946109231952112",
+    "created_at": "2025-09-14T12:23:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T13:23:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967202494184055237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1768339985399480324",
+          "start": 0,
+          "username": "zzzzz337381"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967202494184055237",
+    "in_reply_to_user_id": "1768339985399480324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966946109231952112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzzzz337381 傻逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_1966945792058683398",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0v-xswbcAYB7MU.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1966945789781123072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0v-xkRaoAA88s4.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1966945792054505473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0v-xsvbsAEZ3qI.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1966946109231952112",
+        "created_at": "2025-09-14T12:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T13:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967202494184055237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1768339985399480324",
+              "start": 0,
+              "username": "zzzzz337381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967202494184055237",
+        "in_reply_to_user_id": "1768339985399480324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966946109231952112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzzzz337381 傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966945792058683398",
+            "3_1966945789781123072",
+            "3_1966945792054505473"
+          ]
+        },
+        "author_id": "1768339985399480324",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1966946109231952112",
+        "created_at": "2025-09-13T19:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T20:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966946109231952112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F5f5xgm0kb",
+              "end": 23,
+              "expanded_url": "https://x.com/zzzzz337381/status/1966946109231952112/photo/1",
+              "media_key": "3_1966945792058683398",
+              "start": 0,
+              "url": "https://t.co/F5f5xgm0kb"
+            },
+            {
+              "display_url": "pic.x.com/F5f5xgm0kb",
+              "end": 23,
+              "expanded_url": "https://x.com/zzzzz337381/status/1966946109231952112/photo/1",
+              "media_key": "3_1966945789781123072",
+              "start": 0,
+              "url": "https://t.co/F5f5xgm0kb"
+            },
+            {
+              "display_url": "pic.x.com/F5f5xgm0kb",
+              "end": 23,
+              "expanded_url": "https://x.com/zzzzz337381/status/1966946109231952112/photo/1",
+              "media_key": "3_1966945792054505473",
+              "start": 0,
+              "url": "https://t.co/F5f5xgm0kb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966946109231952112",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/F5f5xgm0kb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗七个小号其中之一@dante82682",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "dante82682"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1576,
+          "following_count": 233,
+          "like_count": 19386,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 5333
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T18:15:03.000Z",
+        "description": "名为你的一场雨 淋的我一病不起\n我的人生就是自残自卑自恋自慰自杀自作多情",
+        "id": "1768339985399480324",
+        "location": "伦敦",
+        "name": "zzzzz",
+        "pinned_tweet_id": "1915356627517280443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958255145202151424/kblL757A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 889,
+          "like_count": 6330,
+          "listed_count": 2,
+          "media_count": 188,
+          "tweet_count": 1301
+        },
+        "username": "zzzzz337381",
+        "verified": false
+      }
+    ]
+  }
+}

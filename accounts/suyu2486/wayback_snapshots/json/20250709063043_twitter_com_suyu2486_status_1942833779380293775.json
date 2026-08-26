@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1942746010838544861",
+    "created_at": "2025-07-09T06:30:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T07:30:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942833779380293775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1823729658833055745",
+          "start": 0,
+          "username": "pijiuyayaya"
+        },
+        {
+          "end": 21,
+          "id": "1644761277900951552",
+          "start": 13,
+          "username": "4rocky9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942833779380293775",
+    "in_reply_to_user_id": "1823729658833055745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942799566128177643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pijiuyayaya @4rocky9 没事的龙多鹿鹿就不想鹿了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1942746010838544861",
+        "created_at": "2025-07-09T06:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T07:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942833779380293775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1823729658833055745",
+              "start": 0,
+              "username": "pijiuyayaya"
+            },
+            {
+              "end": 21,
+              "id": "1644761277900951552",
+              "start": 13,
+              "username": "4rocky9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942833779380293775",
+        "in_reply_to_user_id": "1823729658833055745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942799566128177643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pijiuyayaya @4rocky9 没事的龙多鹿鹿就不想鹿了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823729658833055745",
+        "conversation_id": "1942746010838544861",
+        "created_at": "2025-07-09T04:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T05:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942799566128177643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            },
+            {
+              "end": 18,
+              "id": "1644761277900951552",
+              "start": 10,
+              "username": "4rocky9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942799566128177643",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942746010838544861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 @4rocky9 学学人家呢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 199,
+          "like_count": 10854,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 3164
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T14:33:41.000Z",
+        "description": "鹈鹕不知道写什么所以决定睡觉觉觉觉觉觉觉觉觉觉觉觉去了",
+        "id": "1823729658833055745",
+        "name": "鹈鹕吃烤肠也吃鹌鹑",
+        "pinned_tweet_id": "1927295862364868888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931357649939120128/cqKnB_u8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 253,
+          "like_count": 9669,
+          "listed_count": 8,
+          "media_count": 1318,
+          "tweet_count": 9690
+        },
+        "username": "pijiuyayaya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T17:57:16.000Z",
+        "description": "乐意骚扰人，给钱随便你骂，整抽象的，乐意说点屌话，喜欢看美女",
+        "id": "1644761277900951552",
+        "location": "🚪52/520/5200",
+        "name": "建龙哥",
+        "pinned_tweet_id": "1670098097735860259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920824521441046528/hyICLTe0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3474,
+          "following_count": 399,
+          "like_count": 39951,
+          "listed_count": 3,
+          "media_count": 324,
+          "tweet_count": 15275
+        },
+        "username": "4rocky9",
+        "verified": false
+      }
+    ]
+  }
+}

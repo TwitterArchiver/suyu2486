@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1960327244246827297",
+    "created_at": "2025-08-26T15:30:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T16:30:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960364300742316420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1712477803252432897",
+          "start": 0,
+          "username": "jingyu813363"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960364300742316420",
+    "in_reply_to_user_id": "1712477803252432897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960327244246827297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingyu813363 开塞露，性感刚交一下…（对不起）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1960327244246827297",
+        "created_at": "2025-08-26T15:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T16:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960364300742316420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1712477803252432897",
+              "start": 0,
+              "username": "jingyu813363"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960364300742316420",
+        "in_reply_to_user_id": "1712477803252432897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960327244246827297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingyu813363 开塞露，性感刚交一下…（对不起）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712477803252432897",
+        "conversation_id": "1960327244246827297",
+        "created_at": "2025-08-26T13:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T14:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960327244246827297"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960327244246827297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 552,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真拉不出屎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个好色的sb男的，双相情感障碍，情感漠视，精神失常，都滚远点别来烦我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "小玉",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1361,
+          "following_count": 198,
+          "like_count": 16835,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 4465
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-12T14:38:55.000Z",
+        "description": "我有厌蠢症 喜欢请打赏ouo",
+        "id": "1712477803252432897",
+        "location": "有🚪 ",
+        "name": "iyue",
+        "pinned_tweet_id": "1956309815271072251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954748927049404416/PfM2FzAH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2353,
+          "following_count": 496,
+          "like_count": 3862,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 1204
+        },
+        "username": "jingyu813363",
+        "verified": false
+      }
+    ]
+  }
+}

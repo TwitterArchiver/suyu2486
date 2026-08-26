@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1983413650280067504",
+    "created_at": "2025-10-30T18:31:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T19:31:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983964883533361588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1591524062488297472",
+          "start": 0,
+          "username": "exzasev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983964883533361588",
+    "in_reply_to_user_id": "1591524062488297472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983413650280067504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@exzasev 对不起"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1162,
+        "media_key": "3_1983413643229401088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4aAMy9aEAAywwJ.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1983413650280067504",
+        "created_at": "2025-10-30T18:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T19:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983964883533361588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1591524062488297472",
+              "start": 0,
+              "username": "exzasev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983964883533361588",
+        "in_reply_to_user_id": "1591524062488297472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983413650280067504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@exzasev 对不起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983413643229401088"
+          ]
+        },
+        "author_id": "1591524062488297472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1983413650280067504",
+        "created_at": "2025-10-29T06:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T07:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983413650280067504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4wZBmMSBbo",
+              "end": 23,
+              "expanded_url": "https://x.com/exzasev/status/1983413650280067504/photo/1",
+              "media_key": "3_1983413643229401088",
+              "start": 0,
+              "url": "https://t.co/4wZBmMSBbo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983413650280067504",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 160,
+          "impression_count": 523541,
+          "like_count": 3666,
+          "quote_count": 4,
+          "reply_count": 62,
+          "retweet_count": 141
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4wZBmMSBbo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "神鹰🦅，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "pinned_tweet_id": "1977439230432555047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981015242827087872/axAcZvEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2144,
+          "following_count": 261,
+          "like_count": 21633,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 6049
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-12T20:11:30.000Z",
+        "description": "本人未成年，勿扰",
+        "id": "1591524062488297472",
+        "location": "比基尼海滩",
+        "name": "Exzasev",
+        "pinned_tweet_id": "1983876254500843540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981052162944774145/tAkbhCvv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 164,
+          "like_count": 7486,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 1248
+        },
+        "username": "exzasev",
+        "verified": false
+      }
+    ]
+  }
+}

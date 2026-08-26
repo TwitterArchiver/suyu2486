@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1951987216164823430",
+    "created_at": "2025-08-03T15:19:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T16:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952026655150715025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1573169818345172992",
+          "start": 0,
+          "username": "gaga20220923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952026655150715025",
+    "in_reply_to_user_id": "1573169818345172992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 6,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951987216164823430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaga20220923 别骂了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1951987216164823430",
+        "created_at": "2025-08-03T15:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T16:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952026655150715025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1573169818345172992",
+              "start": 0,
+              "username": "gaga20220923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952026655150715025",
+        "in_reply_to_user_id": "1573169818345172992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951987216164823430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaga20220923 别骂了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573169818345172992",
+        "conversation_id": "1951987216164823430",
+        "created_at": "2025-08-03T12:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T13:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951987216164823430"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951987216164823430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2429,
+          "like_count": 59,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "那我说白了，你们那些杂七杂八的性取向为数不多的作用，就是决定手冲的时候看什么片，根本就做不到爱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1951649210652135765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 973,
+          "following_count": 200,
+          "like_count": 12884,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 3550
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-23T04:38:15.000Z",
+        "description": "业余男喘   🚪13145200     \n欢迎投稿猎奇文案，有空就读。\n一天拉屎五次纪录保持者。\n自用蜂鸟VPN：https://t.co/CYB6lgRXK0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 81,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=bCYCjNHY",
+                "start": 58,
+                "url": "https://t.co/CYB6lgRXK0"
+              }
+            ]
+          }
+        },
+        "id": "1573169818345172992",
+        "location": "厕所",
+        "name": "牛逼的人名字都要取13个字（还有17天离职版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915059386894123008/blcEBMv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2330,
+          "following_count": 549,
+          "like_count": 83738,
+          "listed_count": 11,
+          "media_count": 144,
+          "tweet_count": 7980
+        },
+        "username": "gaga20220923",
+        "verified": false
+      }
+    ]
+  }
+}

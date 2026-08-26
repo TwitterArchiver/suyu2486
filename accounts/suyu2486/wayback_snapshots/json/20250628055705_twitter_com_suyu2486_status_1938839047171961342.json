@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1938544402000924733",
+    "created_at": "2025-06-28T05:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T06:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938839047171961342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1928341472417566723",
+          "start": 0,
+          "username": "Txyhzk520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938839047171961342",
+    "in_reply_to_user_id": "1928341472417566723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938815959634149700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Txyhzk520 有点道理啊，天才！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1938544402000924733",
+        "created_at": "2025-06-28T05:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T06:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938839047171961342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1928341472417566723",
+              "start": 0,
+              "username": "Txyhzk520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938839047171961342",
+        "in_reply_to_user_id": "1928341472417566723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938815959634149700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Txyhzk520 有点道理啊，天才！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928341472417566723",
+        "conversation_id": "1938544402000924733",
+        "created_at": "2025-06-28T04:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T05:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938815959634149700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938815959634149700",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938544402000924733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 再吃一件衬衫就可以了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1938601372837913057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 196,
+          "like_count": 8944,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2548
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-30T06:43:39.000Z",
+        "description": "Dream of becoming a writer｜私信可以找我聊天呀｜我只是个二刺猿来推上关注我推谷子消息的……｜我也有点想玩这个匿名提问https://t.co/rMlgOcBXte（不要问奇怪的我不会回的）｜转生前是@Txyhzk5200｜如果认出我来了请装作不认识不要在其他平台找我好吗🥹我想安安静静玩推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "Txyhzk5200"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ice94129",
+                "end": 94,
+                "expanded_url": "https://ngl.link/ice94129",
+                "start": 71,
+                "url": "https://t.co/rMlgOcBXte"
+              }
+            ]
+          }
+        },
+        "id": "1928341472417566723",
+        "name": "ICE",
+        "pinned_tweet_id": "1928476971706749201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928343101980151808/Iy1uS5EF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 145,
+          "like_count": 822,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 978
+        },
+        "username": "Txyhzk520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1937874186464317670",
+    "created_at": "2025-06-25T14:05:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T15:05:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937874918319735158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1827020428562554880",
+          "start": 0,
+          "username": "xiaoyyyyy_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937874918319735158",
+    "in_reply_to_user_id": "1827020428562554880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937874186464317670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyyyyy_ 细嗅蔷薇…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1937874178759389184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuS2TFxa8AAAEkM.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1937874186464317670",
+        "created_at": "2025-06-25T14:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T15:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937874918319735158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1827020428562554880",
+              "start": 0,
+              "username": "xiaoyyyyy_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937874918319735158",
+        "in_reply_to_user_id": "1827020428562554880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937874186464317670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyyyyy_ 细嗅蔷薇…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937874178759389184"
+          ]
+        },
+        "author_id": "1827020428562554880",
+        "conversation_id": "1937874186464317670",
+        "created_at": "2025-06-25T14:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T15:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937874186464317670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/irV1WjPXxI",
+              "end": 38,
+              "expanded_url": "https://x.com/xiaoyyyyy_/status/1937874186464317670/photo/1",
+              "media_key": "3_1937874178759389184",
+              "start": 15,
+              "url": "https://t.co/irV1WjPXxI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937874186464317670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "像饿了三天的耗子闻到米香味。 https://t.co/irV1WjPXxI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1936734143804735662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 198,
+          "like_count": 8366,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 2340
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T16:29:58.000Z",
+        "description": "❗️有且仅有这一个号/brat/纯1i/infp/碎碎念/随机照片/非互关不闲聊请过🚪/不接线下/爱看肌肉男妈妈/提问箱https://t.co/aqleuUqJOJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8Fyong",
+                "end": 83,
+                "expanded_url": "https://ngl.link/%E5%B0%8Fyong",
+                "start": 60,
+                "url": "https://t.co/aqleuUqJOJ"
+              }
+            ]
+          }
+        },
+        "id": "1827020428562554880",
+        "location": "🚪88/188/388/520",
+        "name": "小y",
+        "pinned_tweet_id": "1937528348131098876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930648164132102144/yjM9Och5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3118,
+          "following_count": 76,
+          "like_count": 2579,
+          "listed_count": 14,
+          "media_count": 109,
+          "tweet_count": 589
+        },
+        "username": "xiaoyyyyy_",
+        "verified": false
+      }
+    ]
+  }
+}

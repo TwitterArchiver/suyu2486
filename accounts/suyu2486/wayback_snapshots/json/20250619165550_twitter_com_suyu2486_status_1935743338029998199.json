@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1935603780571287573",
+    "created_at": "2025-06-19T16:55:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T17:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935743338029998199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1013737487179497473",
+          "start": 0,
+          "username": "sufeiqwq258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935743338029998199",
+    "in_reply_to_user_id": "1013737487179497473",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935603780571287573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sufeiqwq258 有品"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1935603780571287573",
+        "created_at": "2025-06-19T16:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T17:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935743338029998199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1013737487179497473",
+              "start": 0,
+              "username": "sufeiqwq258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935743338029998199",
+        "in_reply_to_user_id": "1013737487179497473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935603780571287573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sufeiqwq258 有品"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1013737487179497473",
+        "conversation_id": "1935603780571287573",
+        "created_at": "2025-06-19T07:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T08:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935603780571287573"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935603780571287573",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1837,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "裸睡太爽了😋😋😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "name": "小玉",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928709552171610112/x9fXi0Ew_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 175,
+          "like_count": 6419,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 1812
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-02T10:53:46.000Z",
+        "description": "苏菲苏菲苏菲iiii(我真不是男同😇)\nhttps://t.co/BMboQn1SAk(请给我递小纸条🥰)\n(请我喝无糖可口可乐谢谢",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sufeiqwq",
+                "end": 43,
+                "expanded_url": "https://ngl.link/sufeiqwq",
+                "start": 20,
+                "url": "https://t.co/BMboQn1SAk"
+              }
+            ]
+          }
+        },
+        "id": "1013737487179497473",
+        "location": "太古里 to in77",
+        "name": "SSSuFFFei",
+        "pinned_tweet_id": "1933856087587147964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676308166248914944/JViKCytx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2993,
+          "following_count": 1066,
+          "like_count": 4890,
+          "listed_count": 9,
+          "media_count": 246,
+          "tweet_count": 2373
+        },
+        "username": "sufeiqwq258",
+        "verified": false
+      }
+    ]
+  }
+}

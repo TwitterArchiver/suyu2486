@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1962681836238438440",
+    "created_at": "2025-09-02T17:37:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T18:37:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962932992688685076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1887110932360572928",
+          "start": 0,
+          "username": "wngh393194"
+        },
+        {
+          "end": 24,
+          "id": "1291988176496545792",
+          "start": 12,
+          "username": "Vox35112635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962932992688685076",
+    "in_reply_to_user_id": "1887110932360572928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962700900256063989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngh393194 @Vox35112635 可以"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962700888877027328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzzqD0Hb0AAHcj3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1962681836238438440",
+        "created_at": "2025-09-02T17:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T18:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962932992688685076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1887110932360572928",
+              "start": 0,
+              "username": "wngh393194"
+            },
+            {
+              "end": 24,
+              "id": "1291988176496545792",
+              "start": 12,
+              "username": "Vox35112635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962932992688685076",
+        "in_reply_to_user_id": "1887110932360572928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962700900256063989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngh393194 @Vox35112635 可以"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962700888877027328"
+          ]
+        },
+        "author_id": "1887110932360572928",
+        "conversation_id": "1962681836238438440",
+        "created_at": "2025-09-02T02:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T03:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962700900256063989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1291988176496545792",
+              "start": 0,
+              "username": "Vox35112635"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4zNbfSOL48",
+              "end": 36,
+              "expanded_url": "https://x.com/wngh393194/status/1962700900256063989/photo/1",
+              "media_key": "3_1962700888877027328",
+              "start": 13,
+              "url": "https://t.co/4zNbfSOL48"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962700900256063989",
+        "in_reply_to_user_id": "1291988176496545792",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1703,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962681836238438440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vox35112635 https://t.co/4zNbfSOL48"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "飞向全宇宙",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 206,
+          "like_count": 18012,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 4797
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T12:08:28.000Z",
+        "description": "话多，爱炒冷饭，盗图挡灾（不线下，不聊骚，私信只回复有礼貌的）宝宝们可以向我提问https://t.co/Yyio20uWMc |自用vpn👇/置顶推广不是本人❗️❗️❗️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lzs666",
+                "end": 63,
+                "expanded_url": "https://ngl.link/lzs666",
+                "start": 40,
+                "url": "https://t.co/Yyio20uWMc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=XA6sbe2B",
+                "start": 0,
+                "url": "https://t.co/3OyuI38jz0"
+              }
+            ]
+          }
+        },
+        "id": "1887110932360572928",
+        "location": "绿🚪188.288.520   ",
+        "name": "荔枝水",
+        "pinned_tweet_id": "1962472064717381746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887111161105002496/YN7-peAH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5181,
+          "following_count": 93,
+          "like_count": 6243,
+          "listed_count": 15,
+          "media_count": 374,
+          "tweet_count": 4247
+        },
+        "url": "https://t.co/3OyuI38jz0",
+        "username": "wngh393194",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-08T06:42:48.000Z",
+        "description": "防走丢小号@PDDBJS/抖音号：32625516049/现在会接一点有偿转发/付费线上绿色交友委托/广告正规推以外的其他投稿均为免费/加vx随缘给门槛就好了/咱家御用卦师算卦找她@minglishii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 5,
+                "username": "PDDBJS"
+              },
+              {
+                "end": 101,
+                "start": 90,
+                "username": "minglishii"
+              }
+            ]
+          }
+        },
+        "id": "1291988176496545792",
+        "location": "沙发床上",
+        "name": "跑调的毕加索",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523690111569117190/MeBry_Ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263795,
+          "following_count": 548,
+          "like_count": 486,
+          "listed_count": 298,
+          "media_count": 9891,
+          "tweet_count": 14259
+        },
+        "username": "Vox35112635",
+        "verified": false
+      }
+    ]
+  }
+}

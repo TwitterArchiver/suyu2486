@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2085012492779167813",
+    "created_at": "2026-08-05T15:19:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T16:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085022992619237462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1788237544590823424",
+          "start": 0,
+          "username": "Bzg1680475"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085022992619237462",
+    "in_reply_to_user_id": "1788237544590823424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085012492779167813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bzg1680475 我靠"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2153,
+        "media_key": "3_2085012467986628608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9zyvKagAAdwvl.jpg",
+        "width": 1151
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2085012492779167813",
+        "created_at": "2026-08-05T15:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085022992619237462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1788237544590823424",
+              "start": 0,
+              "username": "Bzg1680475"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085022992619237462",
+        "in_reply_to_user_id": "1788237544590823424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085012492779167813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bzg1680475 我靠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085012467986628608"
+          ]
+        },
+        "author_id": "1788237544590823424",
+        "conversation_id": "2085012492779167813",
+        "created_at": "2026-08-05T14:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T15:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085012492779167813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/brj5uT227y",
+              "end": 35,
+              "expanded_url": "https://x.com/Bzg1680475/status/2085012492779167813/photo/1",
+              "media_key": "3_2085012467986628608",
+              "start": 12,
+              "url": "https://t.co/brj5uT227y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085012492779167813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 248,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "壁咚。是这样的视角吗？ https://t.co/brj5uT227y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "pinned_tweet_id": "2084166896371511380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2068,
+          "following_count": 191,
+          "like_count": 21392,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6689
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "这个世界全都是神经病，只是有的显性有的隐性\n我要当一棵树，沉稳 从容 平静 坚定。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tree72872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tree72872",
+                "start": 0,
+                "url": "https://t.co/ZHVLQJ4evf"
+              }
+            ]
+          }
+        },
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2082418374953578529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 29,
+          "like_count": 1278,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 661
+        },
+        "url": "https://t.co/ZHVLQJ4evf",
+        "username": "Bzg1680475",
+        "verified": false
+      }
+    ]
+  }
+}

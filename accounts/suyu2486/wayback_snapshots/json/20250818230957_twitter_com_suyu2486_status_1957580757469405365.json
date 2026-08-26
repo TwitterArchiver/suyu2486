@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1957517198643327224",
+    "created_at": "2025-08-18T23:09:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T00:09:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957580757469405365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1144970362523795457",
+          "start": 0,
+          "username": "YJWTHHC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957580757469405365",
+    "in_reply_to_user_id": "1144970362523795457",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957517198643327224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YJWTHHC ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1957517198643327224",
+        "created_at": "2025-08-18T23:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T00:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957580757469405365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1144970362523795457",
+              "start": 0,
+              "username": "YJWTHHC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957580757469405365",
+        "in_reply_to_user_id": "1144970362523795457",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957517198643327224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YJWTHHC ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1144970362523795457",
+        "conversation_id": "1957517198643327224",
+        "created_at": "2025-08-18T18:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T19:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957517198643327224"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957517198643327224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手冲的时候听见自己的喘声会特别兴奋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 200,
+          "like_count": 15973,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 4244
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-29T14:06:21.000Z",
+        "description": "我是神",
+        "id": "1144970362523795457",
+        "location": "王者峡谷",
+        "name": "今天早点睡",
+        "pinned_tweet_id": "1926814368940929027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893251367528976385/n39lrYY-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 49,
+          "like_count": 588,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 1075
+        },
+        "username": "YJWTHHC",
+        "verified": false
+      }
+    ]
+  }
+}

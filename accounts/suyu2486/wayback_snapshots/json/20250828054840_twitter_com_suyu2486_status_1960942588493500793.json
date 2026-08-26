@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1960810171871191074",
+    "created_at": "2025-08-28T05:48:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T06:48:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960942588493500793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1712477803252432897",
+          "start": 0,
+          "username": "jingyu813363"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960942588493500793",
+    "in_reply_to_user_id": "1712477803252432897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960810171871191074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingyu813363 这是…尿了吧…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960810163319005184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzYydGia4AAZ25l.jpg",
+        "width": 1472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1960810171871191074",
+        "created_at": "2025-08-28T05:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T06:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960942588493500793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1712477803252432897",
+              "start": 0,
+              "username": "jingyu813363"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960942588493500793",
+        "in_reply_to_user_id": "1712477803252432897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960810171871191074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingyu813363 这是…尿了吧…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960810163319005184"
+          ]
+        },
+        "author_id": "1712477803252432897",
+        "conversation_id": "1960810171871191074",
+        "created_at": "2025-08-27T21:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T22:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960810171871191074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CtTMfkpGoJ",
+              "end": 28,
+              "expanded_url": "https://x.com/jingyu813363/status/1960810171871191074/photo/1",
+              "media_key": "3_1960810163319005184",
+              "start": 5,
+              "url": "https://t.co/CtTMfkpGoJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960810171871191074",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 684,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "全部透了 https://t.co/CtTMfkpGoJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个好色的sb男的，双相情感障碍，情感漠视，精神失常，都滚远点别来烦我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "小玉",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1358,
+          "following_count": 197,
+          "like_count": 17034,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 4530
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-12T14:38:55.000Z",
+        "description": "我有厌蠢症 喜欢请打赏ouo",
+        "id": "1712477803252432897",
+        "location": "有🚪 ",
+        "name": "iyue",
+        "pinned_tweet_id": "1956309815271072251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954748927049404416/PfM2FzAH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2324,
+          "following_count": 499,
+          "like_count": 3912,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 1241
+        },
+        "username": "jingyu813363",
+        "verified": false
+      }
+    ]
+  }
+}

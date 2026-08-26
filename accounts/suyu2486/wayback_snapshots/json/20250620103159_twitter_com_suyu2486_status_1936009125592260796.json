@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1936008224387612680",
+    "created_at": "2025-06-20T10:31:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T11:31:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936009125592260796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1713509742260416512",
+          "start": 0,
+          "username": "ruirui1030qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936009125592260796",
+    "in_reply_to_user_id": "1713509742260416512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936008754262425607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruirui1030qwq 唉我c了，老铁我说白了，你这种纯勾引我上当受骗的，一眼皮下男吧u的（我还是将偷偷私信）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1936008224387612680",
+        "created_at": "2025-06-20T10:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T11:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936009125592260796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1713509742260416512",
+              "start": 0,
+              "username": "ruirui1030qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936009125592260796",
+        "in_reply_to_user_id": "1713509742260416512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936008754262425607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruirui1030qwq 唉我c了，老铁我说白了，你这种纯勾引我上当受骗的，一眼皮下男吧u的（我还是将偷偷私信）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713509742260416512",
+        "conversation_id": "1936008224387612680",
+        "created_at": "2025-06-20T10:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T11:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936008754262425607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936008754262425607",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936008443854274773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 宝宝我想你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的，我将做回神鹰，爱说点c语言，不喜欢可以喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 181,
+          "like_count": 6646,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1884
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-15T10:59:00.000Z",
+        "description": "小号@ruiruiovo1030 宝宝@lx7llyr @Yuki404_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "ruiruiovo1030"
+              },
+              {
+                "end": 27,
+                "start": 19,
+                "username": "lx7llyr"
+              },
+              {
+                "end": 37,
+                "start": 28,
+                "username": "Yuki404_"
+              }
+            ]
+          }
+        },
+        "id": "1713509742260416512",
+        "location": "没有素质不讲道理不通人性",
+        "name": "想想uu",
+        "pinned_tweet_id": "1877813114369884492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908566078361616384/BHelQe5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7364,
+          "following_count": 57,
+          "like_count": 1658,
+          "listed_count": 22,
+          "media_count": 56,
+          "tweet_count": 1353
+        },
+        "username": "ruirui1030qwq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1939923718278467731",
+    "created_at": "2025-07-01T11:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T12:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940003889547227512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1803642368949886976",
+          "start": 0,
+          "username": "xiaoguai041003"
+        },
+        {
+          "end": 25,
+          "id": "1688223582277541888",
+          "start": 16,
+          "username": "SAWAGAS_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940003889547227512",
+    "in_reply_to_user_id": "1803642368949886976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939929778712158353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoguai041003 @SAWAGAS_ 你俩处上了？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1939929766649368576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuwD2DZXkAATJvu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1939923718278467731",
+        "created_at": "2025-07-01T11:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T12:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940003889547227512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1803642368949886976",
+              "start": 0,
+              "username": "xiaoguai041003"
+            },
+            {
+              "end": 25,
+              "id": "1688223582277541888",
+              "start": 16,
+              "username": "SAWAGAS_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940003889547227512",
+        "in_reply_to_user_id": "1803642368949886976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939929778712158353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoguai041003 @SAWAGAS_ 你俩处上了？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939929766649368576"
+          ]
+        },
+        "author_id": "1803642368949886976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1939923718278467731",
+        "created_at": "2025-07-01T06:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T07:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939929778712158353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1688223582277541888",
+              "start": 0,
+              "username": "SAWAGAS_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hFN3Y1NKc4",
+              "end": 45,
+              "expanded_url": "https://x.com/xiaoguai041003/status/1939929778712158353/photo/1",
+              "media_key": "3_1939929766649368576",
+              "start": 22,
+              "url": "https://t.co/hFN3Y1NKc4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939929778712158353",
+        "in_reply_to_user_id": "1688223582277541888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 277,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939923718278467731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SAWAGAS_ 我草了老铁我也爱喝这个 https://t.co/hFN3Y1NKc4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1923458019305660813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 199,
+          "like_count": 9892,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2877
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T04:14:02.000Z",
+        "description": "毛儿的日记本|属性brat  星座天秤 | 需要有礼貌的小女孩吻上来|🚪52/188（没有区别就是想圈钱）纯绿 |日常and碎碎念| 私信只回口令红包和有礼貌的 | 不线下不约 | 推广自辨（会关评论区）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=vnxE36SC",
+                "start": 0,
+                "url": "https://t.co/NtKvOP3zLM"
+              }
+            ]
+          }
+        },
+        "id": "1803642368949886976",
+        "location": " Tokyo 无广告干扰，机场节点随便挑，蜂鸟VPN",
+        "name": "小毛米",
+        "pinned_tweet_id": "1927400284998828489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803642443193262081/5F50MW09_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6500,
+          "following_count": 179,
+          "like_count": 22845,
+          "listed_count": 9,
+          "media_count": 279,
+          "tweet_count": 5173
+        },
+        "url": "https://t.co/NtKvOP3zLM",
+        "username": "xiaoguai041003",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T16:20:51.000Z",
+        "description": "你们是不是他妈精神病啊？这他妈不是恶俗群吗？你们一群臭网区，瞎骂区哲区左区支黑浪区，在这谈上恋爱了？爱爱爱，爱你妈了个腿爱。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/_SAGAWAASHSAHI…",
+                "end": 23,
+                "expanded_url": "https://x.com/_SAGAWAASHSAHI_/status/1866402583914647887?t=ryVJvctxQ9HgQn7jkKLh9Q&s=19",
+                "start": 0,
+                "url": "https://t.co/tXrqdCwaXB"
+              }
+            ]
+          }
+        },
+        "id": "1688223582277541888",
+        "location": "群山 礦業聯盟第一空域 倫敦市 伍佰壹拾貳號",
+        "name": "浅绯浮纱 和风催人暖",
+        "pinned_tweet_id": "1932096464924336448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907705055073173504/SUhZOiYT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 464,
+          "like_count": 26292,
+          "listed_count": 0,
+          "media_count": 670,
+          "tweet_count": 8311
+        },
+        "url": "https://t.co/tXrqdCwaXB",
+        "username": "SAWAGAS_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1966450439815066056",
+    "created_at": "2025-09-13T06:42:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T07:42:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966754397058175167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1888631961930891264",
+          "start": 0,
+          "username": "ijiandan11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966754397058175167",
+    "in_reply_to_user_id": "1888631961930891264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966450439815066056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@ijiandan11 可以"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1966450432412418048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0o8P-RbAAAI9V7.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1966450439815066056",
+        "created_at": "2025-09-13T06:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T07:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966754397058175167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1888631961930891264",
+              "start": 0,
+              "username": "ijiandan11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966754397058175167",
+        "in_reply_to_user_id": "1888631961930891264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966450439815066056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@ijiandan11 可以"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966450432412418048"
+          ]
+        },
+        "author_id": "1888631961930891264",
+        "conversation_id": "1966450439815066056",
+        "created_at": "2025-09-12T10:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T11:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966450439815066056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tKv2haljMo",
+              "end": 23,
+              "expanded_url": "https://x.com/ijiandan11/status/1966450439815066056/photo/1",
+              "media_key": "3_1966450432412418048",
+              "start": 0,
+              "url": "https://t.co/tKv2haljMo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966450439815066056",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 53584,
+          "like_count": 406,
+          "quote_count": 1,
+          "reply_count": 26,
+          "retweet_count": 4
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/tKv2haljMo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗七个小号其中之一@dante82682",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "dante82682"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 231,
+          "like_count": 19261,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 5285
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T16:52:16.000Z",
+        "description": "置顶锁评推广自辨",
+        "id": "1888631961930891264",
+        "name": "芝士火鸡烤冷面",
+        "pinned_tweet_id": "1966442860548325556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956700474285109248/odXyYnHl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7066,
+          "following_count": 326,
+          "like_count": 8779,
+          "listed_count": 14,
+          "media_count": 60,
+          "tweet_count": 2740
+        },
+        "username": "ijiandan11",
+        "verified": false
+      }
+    ]
+  }
+}

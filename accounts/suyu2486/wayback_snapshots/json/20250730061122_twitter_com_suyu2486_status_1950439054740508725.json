@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1950437909200331187",
+    "created_at": "2025-07-30T06:11:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T07:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950439054740508725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1573169818345172992",
+          "start": 0,
+          "username": "gaga20220923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950439054740508725",
+    "in_reply_to_user_id": "1573169818345172992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950437909200331187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaga20220923 吃完饭放他走好吗…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1950437909200331187",
+        "created_at": "2025-07-30T06:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T07:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950439054740508725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1573169818345172992",
+              "start": 0,
+              "username": "gaga20220923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950439054740508725",
+        "in_reply_to_user_id": "1573169818345172992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950437909200331187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaga20220923 吃完饭放他走好吗…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573169818345172992",
+        "conversation_id": "1950437909200331187",
+        "created_at": "2025-07-30T06:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T07:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950437909200331187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hvyfjj70529/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/hvyfjj70529/status/1950437763595001955",
+              "start": 9,
+              "url": "https://t.co/opnrVRkjFl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950437909200331187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950437763595001955",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接线下的第一天。 https://t.co/opnrVRkjFl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男，可以叫我小玉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1948457851778990521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 199,
+          "like_count": 12319,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 3428
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-23T04:38:15.000Z",
+        "description": "业余男喘   🚪13145200     \n欢迎投稿猎奇文案，有空就读。\n一天拉屎五次纪录保持者。\n自用蜂鸟VPN：https://t.co/CYB6lgSvzy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 81,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=bCYCjNHY",
+                "start": 58,
+                "url": "https://t.co/CYB6lgSvzy"
+              }
+            ]
+          }
+        },
+        "id": "1573169818345172992",
+        "location": "厕所",
+        "name": "牛逼的人名字都要取13个字（还有22天离职版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915059386894123008/blcEBMv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2281,
+          "following_count": 549,
+          "like_count": 83955,
+          "listed_count": 11,
+          "media_count": 141,
+          "tweet_count": 7945
+        },
+        "username": "gaga20220923",
+        "verified": false
+      }
+    ]
+  }
+}

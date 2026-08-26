@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1987240175819497574",
+    "created_at": "2025-11-09T06:53:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T07:53:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987413324020260978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1892595590527377408",
+          "start": 0,
+          "username": "woshixiaoyu123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987413324020260978",
+    "in_reply_to_user_id": "1892595590527377408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987240175819497574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woshixiaoyu123 点了…就好像我喜欢飞天小女警的泡泡，那次买了一个泡泡的水杯，同事说好可爱也喜欢，想买，我就很反感，很恶心，她甚至都不认识这个角色…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1987240175819497574",
+        "created_at": "2025-11-09T06:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T07:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987413324020260978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987413324020260978",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987240175819497574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 点了…就好像我喜欢飞天小女警的泡泡，那次买了一个泡泡的水杯，同事说好可爱也喜欢，想买，我就很反感，很恶心，她甚至都不认识这个角色…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892595590527377408",
+        "conversation_id": "1987240175819497574",
+        "created_at": "2025-11-08T19:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T20:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987240175819497574"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987240175819497574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4912,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我很讨厌别人突然喜欢自己喜欢了很久的东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "06，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1977439230432555047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2160,
+          "following_count": 263,
+          "like_count": 22024,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 6189
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "你来看我啦=^ω^=",
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14755,
+          "following_count": 152,
+          "like_count": 305,
+          "listed_count": 12,
+          "media_count": 843,
+          "tweet_count": 4732
+        },
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

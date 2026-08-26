@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1965780494676791710",
+    "created_at": "2025-09-11T02:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T03:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965959180701114731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1794966898813370368",
+          "start": 0,
+          "username": "plkoiyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965959180701114731",
+    "in_reply_to_user_id": "1794966898813370368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965780494676791710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plkoiyy zara开窍了？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965780477559934978",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0fa7d9bkAItNp3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1965780494676791710",
+        "created_at": "2025-09-11T02:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T03:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965959180701114731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1794966898813370368",
+              "start": 0,
+              "username": "plkoiyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965959180701114731",
+        "in_reply_to_user_id": "1794966898813370368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965780494676791710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plkoiyy zara开窍了？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965780477559934978"
+          ]
+        },
+        "author_id": "1794966898813370368",
+        "conversation_id": "1965780494676791710",
+        "created_at": "2025-09-10T14:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T15:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965780494676791710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DIaKmMzTE0",
+              "end": 36,
+              "expanded_url": "https://x.com/plkoiyy/status/1965780494676791710/photo/1",
+              "media_key": "3_1965780477559934978",
+              "start": 13,
+              "url": "https://t.co/DIaKmMzTE0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965780494676791710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 88667,
+          "like_count": 1119,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "逛Zara试到的妙衣🤓👆 https://t.co/DIaKmMzTE0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗七个小号其中之一@dante82682",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "dante82682"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1965715048162275657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1570,
+          "following_count": 227,
+          "like_count": 19423,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 5246
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T05:40:50.000Z",
+        "description": "只想一个人阴暗的死去",
+        "id": "1794966898813370368",
+        "name": "求复活教程",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964418804488032260/NpCLzz-J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4952,
+          "following_count": 64,
+          "like_count": 14735,
+          "listed_count": 13,
+          "media_count": 9,
+          "tweet_count": 22
+        },
+        "username": "plkoiyy",
+        "verified": false
+      }
+    ]
+  }
+}

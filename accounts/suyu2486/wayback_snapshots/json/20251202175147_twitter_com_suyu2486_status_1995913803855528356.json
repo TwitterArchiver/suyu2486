@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1995837261448118356",
+    "created_at": "2025-12-02T17:51:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T18:51:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995913803855528356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "247828737",
+          "start": 0,
+          "username": "xtianbreezyxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995913803855528356",
+    "in_reply_to_user_id": "247828737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995837261448118356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xtianbreezyxx 滚啊，我不喜欢，我错了，我再也不乱评论了，别给我推了傻逼msk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_1995837125518843904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7KjSpAWYAAMndE.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1995837261448118356",
+        "created_at": "2025-12-02T17:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T18:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995913803855528356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "247828737",
+              "start": 0,
+              "username": "xtianbreezyxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995913803855528356",
+        "in_reply_to_user_id": "247828737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995837261448118356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xtianbreezyxx 滚啊，我不喜欢，我错了，我再也不乱评论了，别给我推了傻逼msk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995837125518843904"
+          ]
+        },
+        "author_id": "247828737",
+        "conversation_id": "1995837261448118356",
+        "created_at": "2025-12-02T12:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T13:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995837261448118356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9YePe5Dcia",
+              "end": 53,
+              "expanded_url": "https://x.com/xtianbreezyxx/status/1995837261448118356/photo/1",
+              "media_key": "3_1995837125518843904",
+              "start": 30,
+              "url": "https://t.co/9YePe5Dcia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995837261448118356",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 535,
+          "impression_count": 96210,
+          "like_count": 4956,
+          "quote_count": 3,
+          "reply_count": 56,
+          "retweet_count": 243
+        },
+        "reply_settings": "everyone",
+        "text": "I admit it guys. Yes I’m 🏳️‍🌈 https://t.co/9YePe5Dcia"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是一个死人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1985888956073066671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2444,
+          "following_count": 268,
+          "like_count": 22632,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6309
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-05T17:15:45.000Z",
+        "description": "This is your last chance to back out 🫣 👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hoo.be/seanxdawn",
+                "end": 23,
+                "expanded_url": "https://hoo.be/seanxdawn",
+                "start": 0,
+                "url": "https://t.co/RZjLYrBiAE"
+              }
+            ]
+          }
+        },
+        "id": "247828737",
+        "name": "Sean",
+        "pinned_tweet_id": "1995057396423754054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995058006422130688/Rnqy-lvh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 669,
+          "like_count": 3194,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 3918
+        },
+        "url": "https://t.co/RZjLYrBiAE",
+        "username": "xtianbreezyxx",
+        "verified": false
+      }
+    ]
+  }
+}

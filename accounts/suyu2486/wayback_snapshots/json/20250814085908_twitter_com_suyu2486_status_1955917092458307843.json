@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1955916934345842971",
+    "created_at": "2025-08-14T08:59:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T09:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955917092458307843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1950602206702653440",
+          "start": 0,
+          "username": "lululemon1210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955917092458307843",
+    "in_reply_to_user_id": "1950602206702653440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955916934345842971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lululemon1210 好事啊这是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1955916934345842971",
+        "created_at": "2025-08-14T08:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T09:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955917092458307843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1950602206702653440",
+              "start": 0,
+              "username": "lululemon1210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955917092458307843",
+        "in_reply_to_user_id": "1950602206702653440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955916934345842971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lululemon1210 好事啊这是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950602206702653440",
+        "conversation_id": "1955916934345842971",
+        "created_at": "2025-08-14T08:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T09:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955916934345842971"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955916934345842971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡两小时就要爬起来去上班....."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1955773434958352438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1286,
+          "following_count": 200,
+          "like_count": 15523,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 4211
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T17:00:36.000Z",
+        "description": "上来是为了看片，别烦我",
+        "id": "1950602206702653440",
+        "name": "宝宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950612422655627264/5com4r8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 58,
+          "like_count": 666,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 117
+        },
+        "username": "lululemon1210",
+        "verified": false
+      }
+    ]
+  }
+}

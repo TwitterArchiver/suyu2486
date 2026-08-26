@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1967803571640111108",
+    "created_at": "2025-09-16T07:41:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T08:41:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967856284453179805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1940953463086780416",
+          "start": 0,
+          "username": "Linxiaoze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967856284453179805",
+    "in_reply_to_user_id": "1940953463086780416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967803571640111108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Linxiaoze 脸蛋鬼才，懂不？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967803569165438976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G08K65faEAASAmD.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1967803571640111108",
+        "created_at": "2025-09-16T07:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T08:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967856284453179805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1940953463086780416",
+              "start": 0,
+              "username": "Linxiaoze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967856284453179805",
+        "in_reply_to_user_id": "1940953463086780416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967803571640111108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linxiaoze 脸蛋鬼才，懂不？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967803569165438976"
+          ]
+        },
+        "author_id": "1940953463086780416",
+        "conversation_id": "1967803571640111108",
+        "created_at": "2025-09-16T04:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T05:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967803571640111108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ri7kYlZ5W",
+              "end": 31,
+              "expanded_url": "https://x.com/Linxiaoze/status/1967803571640111108/photo/1",
+              "media_key": "3_1967803569165438976",
+              "start": 8,
+              "url": "https://t.co/0ri7kYlZ5W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967803571640111108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1996,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等我回家试试🌚 https://t.co/0ri7kYlZ5W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗七个小号其中之一@dante82682",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "dante82682"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1595,
+          "following_count": 239,
+          "like_count": 19542,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 5383
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-04T01:59:09.000Z",
+        "description": "墙内有号别想着搬照片\n我是异性恋 男同不要骚扰我\n很好色喜欢看美女🌚👈🏻",
+        "id": "1940953463086780416",
+        "location": "异性恋",
+        "name": "超级无敌宇宙霹雳旋风螺旋闪光吊炸天神秘猴子大王",
+        "pinned_tweet_id": "1965067082187616587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967848509765455877/EeE_ZDOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3250,
+          "following_count": 403,
+          "like_count": 8695,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 3210
+        },
+        "username": "Linxiaoze",
+        "verified": false
+      }
+    ]
+  }
+}

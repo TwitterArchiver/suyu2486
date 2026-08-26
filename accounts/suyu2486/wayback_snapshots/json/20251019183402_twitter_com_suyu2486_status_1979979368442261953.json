@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1979782031392587876",
+    "created_at": "2025-10-19T18:34:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T19:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979979368442261953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1965675376946151425",
+          "start": 0,
+          "username": "wooodonggg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979979368442261953",
+    "in_reply_to_user_id": "1965675376946151425",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979782031392587876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wooodonggg 不要再🈹了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979782021032341504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3mZQkBWcAAJl3m.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1979782031392587876",
+        "created_at": "2025-10-19T18:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T19:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979979368442261953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1965675376946151425",
+              "start": 0,
+              "username": "wooodonggg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979979368442261953",
+        "in_reply_to_user_id": "1965675376946151425",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979782031392587876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wooodonggg 不要再🈹了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979782021032341504"
+          ]
+        },
+        "author_id": "1965675376946151425",
+        "conversation_id": "1979782031392587876",
+        "created_at": "2025-10-19T05:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T06:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979782031392587876"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "谁懂基础款",
+              "probability": 0.3227,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f1NFhuhgl2",
+              "end": 35,
+              "expanded_url": "https://x.com/wooodonggg/status/1979782031392587876/photo/1",
+              "media_key": "3_1979782021032341504",
+              "start": 12,
+              "url": "https://t.co/f1NFhuhgl2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979782031392587876",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 35701,
+          "like_count": 746,
+          "quote_count": 0,
+          "reply_count": 47,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂基础款水手服的萌。 https://t.co/f1NFhuhgl2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我玊玉，叫玉是因为英文名是jade，玊（su）是有瑕疵的玉的意思，男的，infp，装逼让你飞起来，机舱开🚪中，座位费20一位（一包黑兰州的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗     🎼  转帖、置顶推广关评自辩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥（戒酒day0）",
+        "pinned_tweet_id": "1977439230432555047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2170,
+          "following_count": 262,
+          "like_count": 21417,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 5953
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-10T07:15:12.000Z",
+        "description": "我很好说话的！喜欢和大家聊天 不要骂我 我是玻璃心 骂我我会哭的T__T 不聊骚不线下！！",
+        "id": "1965675376946151425",
+        "location": "天堂",
+        "name": "乌冬",
+        "pinned_tweet_id": "1978414164834910340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976085690002857984/GvCYqQmD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 43,
+          "like_count": 103,
+          "listed_count": 6,
+          "media_count": 32,
+          "tweet_count": 482
+        },
+        "username": "wooodonggg",
+        "verified": false
+      }
+    ]
+  }
+}

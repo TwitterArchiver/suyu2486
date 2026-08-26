@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2082523451773063675",
+    "created_at": "2026-07-31T01:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T02:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082994913105584622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2044063599195492352",
+          "start": 0,
+          "username": "ghjklgxhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082994913105584622",
+    "in_reply_to_user_id": "2044063599195492352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082523451773063675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ghjklgxhu 帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2082523441857708032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOacCWRaQAApNfs.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2082523451773063675",
+        "created_at": "2026-07-31T01:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082994913105584622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2044063599195492352",
+              "start": 0,
+              "username": "ghjklgxhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082994913105584622",
+        "in_reply_to_user_id": "2044063599195492352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082523451773063675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ghjklgxhu 帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082523441857708032"
+          ]
+        },
+        "author_id": "2044063599195492352",
+        "conversation_id": "2082523451773063675",
+        "created_at": "2026-07-29T17:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T18:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082523451773063675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2LGHjNSNOw",
+              "end": 29,
+              "expanded_url": "https://x.com/ghjklgxhu/status/2082523451773063675/photo/1",
+              "media_key": "3_2082523441857708032",
+              "start": 6,
+              "url": "https://t.co/2LGHjNSNOw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082523451773063675",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 31593,
+          "like_count": 1215,
+          "quote_count": 1,
+          "reply_count": 36,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "暑假好舒服 https://t.co/2LGHjNSNOw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2066,
+          "following_count": 194,
+          "like_count": 21154,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 6597
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T14:42:18.000Z",
+        "description": "后悔一遍又痛苦一遍",
+        "id": "2044063599195492352",
+        "name": "ghjkl",
+        "pinned_tweet_id": "2061826970170888535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044063818658234368/zsnbLOPr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 44,
+          "like_count": 605,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 416
+        },
+        "url": "",
+        "username": "ghjklgxhu",
+        "verified": false
+      }
+    ]
+  }
+}

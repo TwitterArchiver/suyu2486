@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1986308667038441970",
+    "created_at": "2025-11-06T18:38:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T19:38:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986503481738600675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1863950135451066368",
+          "start": 0,
+          "username": "xhanSaMa6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986503481738600675",
+    "in_reply_to_user_id": "1863950135451066368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986493532513935775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xhanSaMa6 一上头就这样…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1986308667038441970",
+        "created_at": "2025-11-06T18:38:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T19:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986503481738600675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863950135451066368",
+              "start": 0,
+              "username": "xhanSaMa6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986503481738600675",
+        "in_reply_to_user_id": "1863950135451066368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986493532513935775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xhanSaMa6 一上头就这样…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863950135451066368",
+        "conversation_id": "1986308667038441970",
+        "created_at": "2025-11-06T17:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T18:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986493532513935775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986493532513935775",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986308667038441970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 我有时候也是 上头的时候疯狂给主播刷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "06，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1977439230432555047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2152,
+          "following_count": 262,
+          "like_count": 21882,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 6163
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-03T14:15:39.000Z",
+        "description": "哈哈哈哈哈尔滨 switch",
+        "id": "1863950135451066368",
+        "name": "Sama",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863950680211505152/pAJhS48m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 93,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 64
+        },
+        "username": "xhanSaMa6",
+        "verified": false
+      }
+    ]
+  }
+}

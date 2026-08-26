@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1936319141998141822",
+    "created_at": "2025-06-21T11:04:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T12:04:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936379723950567438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1784300698533785600",
+          "start": 0,
+          "username": "mmisalwayssad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936379723950567438",
+    "in_reply_to_user_id": "1784300698533785600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936319141998141822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmisalwayssad 不给"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1936319141998141822",
+        "created_at": "2025-06-21T11:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T12:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936379723950567438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1784300698533785600",
+              "start": 0,
+              "username": "mmisalwayssad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936379723950567438",
+        "in_reply_to_user_id": "1784300698533785600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936319141998141822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmisalwayssad 不给"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784300698533785600",
+        "conversation_id": "1936319141998141822",
+        "created_at": "2025-06-21T07:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T08:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936319141998141822"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936319141998141822",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 566,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "窝香草泥。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的，我将做回神鹰，爱说点c语言，不喜欢可以喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 188,
+          "like_count": 6980,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 2012
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-27T19:17:06.000Z",
+        "description": "3i&4i 现生幸福了就销号。",
+        "id": "1784300698533785600",
+        "location": "🚪1234567890，不搞黄不线下。",
+        "name": "mm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931357852771168256/PttFRsep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3225,
+          "following_count": 396,
+          "like_count": 9143,
+          "listed_count": 9,
+          "media_count": 372,
+          "tweet_count": 6990
+        },
+        "username": "mmisalwayssad",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1992181145447043180",
+    "created_at": "2025-11-22T10:45:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T11:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992182644151595431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1644761277900951552",
+          "start": 0,
+          "username": "4rocky9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992182644151595431",
+    "in_reply_to_user_id": "1644761277900951552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992181145447043180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4rocky9 其实根本没人吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1992181145447043180",
+        "created_at": "2025-11-22T10:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T11:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992182644151595431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1644761277900951552",
+              "start": 0,
+              "username": "4rocky9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992182644151595431",
+        "in_reply_to_user_id": "1644761277900951552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992181145447043180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4rocky9 其实根本没人吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644761277900951552",
+        "conversation_id": "1992181145447043180",
+        "created_at": "2025-11-22T10:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T11:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992181145447043180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/4rocky9/status…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/4rocky9/status/1992146194563543106",
+              "start": 46,
+              "url": "https://t.co/q4hfHjpgcT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992181145447043180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992146194563543106",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们别来抖音抓我呗行不，我抖音纯是当视频软件打发时间用的，不想互关太多人了，谢谢大家理解！ https://t.co/q4hfHjpgcT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "已婚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1989396880938410150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2467,
+          "following_count": 272,
+          "like_count": 22698,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 6393
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T17:57:16.000Z",
+        "description": "乐意骚扰人，给钱随便你骂，整抽象的，乐意说点屌话，喜欢看美女",
+        "id": "1644761277900951552",
+        "location": "🚪52/520/5200",
+        "name": "建龙哥",
+        "pinned_tweet_id": "1670098097735860259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920824521441046528/hyICLTe0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6448,
+          "following_count": 409,
+          "like_count": 48779,
+          "listed_count": 6,
+          "media_count": 451,
+          "tweet_count": 19933
+        },
+        "username": "4rocky9",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1956019665160851638",
+    "created_at": "2025-08-15T07:14:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T08:14:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956253138702176498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1845334179887939584",
+          "start": 0,
+          "username": "Kk5816924277155"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956253138702176498",
+    "in_reply_to_user_id": "1845334179887939584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956072690516942911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kk5816924277155 好的好的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1956019665160851638",
+        "created_at": "2025-08-15T07:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T08:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956253138702176498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1845334179887939584",
+              "start": 0,
+              "username": "Kk5816924277155"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956253138702176498",
+        "in_reply_to_user_id": "1845334179887939584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956072690516942911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kk5816924277155 好的好的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845334179887939584",
+        "conversation_id": "1956019665160851638",
+        "created_at": "2025-08-14T19:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T20:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956072690516942911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956072690516942911",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 202,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956019665160851638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 玉子，外国人也有口音的，如果是西餐厅很多菜名都是法语翻过来的，老外读得快有口音你反应不过来是正常的，如果是中餐厅咱的那些菜名他们更是读不明白，所以赖不着你。你只需要一直提升自己肯定自己就行，别因此焦虑，好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1955773434958352438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 201,
+          "like_count": 15733,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 4291
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T05:22:21.000Z",
+        "description": "不许骗我",
+        "id": "1845334179887939584",
+        "name": "Kk",
+        "pinned_tweet_id": "1926286229739303348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925100492415471616/DvWO_bAi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3400,
+          "following_count": 52,
+          "like_count": 2577,
+          "listed_count": 8,
+          "media_count": 202,
+          "tweet_count": 1339
+        },
+        "username": "Kk5816924277155",
+        "verified": false
+      }
+    ]
+  }
+}

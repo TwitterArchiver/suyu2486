@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1963078495430705251",
+    "created_at": "2025-09-03T17:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T18:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963297873954836867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1899021424121065472",
+          "start": 0,
+          "username": "Tom_joseph23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963297873954836867",
+    "in_reply_to_user_id": "1899021424121065472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963078495430705251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tom_joseph23 细节dick"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1963078484416462850",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz5BexHbAAIseCa.jpg",
+        "width": 1270
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1963078495430705251",
+        "created_at": "2025-09-03T17:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T18:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963297873954836867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1899021424121065472",
+              "start": 0,
+              "username": "Tom_joseph23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963297873954836867",
+        "in_reply_to_user_id": "1899021424121065472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963078495430705251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tom_joseph23 细节dick"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963078484416462850"
+          ]
+        },
+        "author_id": "1899021424121065472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1963078495430705251",
+        "created_at": "2025-09-03T03:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T04:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963078495430705251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9r65SyEFHb",
+              "end": 23,
+              "expanded_url": "https://x.com/Tom_joseph23/status/1963078495430705251/photo/1",
+              "media_key": "3_1963078484416462850",
+              "start": 0,
+              "url": "https://t.co/9r65SyEFHb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963078495430705251",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 643,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9r65SyEFHb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗不定期活跃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "飞向全宇宙",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1416,
+          "following_count": 209,
+          "like_count": 18296,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 4888
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-10T08:56:14.000Z",
+        "description": "2月水瓶♒entp  switch  可以叫我joseph也可以叫我小jo\n\n 自用蜂鸟vpn:https://t.co/g3Qk6OmDQy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 71,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=beNPB4NZ",
+                "start": 48,
+                "url": "https://t.co/g3Qk6OmDQy"
+              }
+            ]
+          }
+        },
+        "id": "1899021424121065472",
+        "name": "joseph",
+        "pinned_tweet_id": "1949627046231195913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954539234507014144/GscjWris_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 294,
+          "like_count": 45856,
+          "listed_count": 1,
+          "media_count": 676,
+          "tweet_count": 5722
+        },
+        "username": "Tom_joseph23",
+        "verified": false
+      }
+    ]
+  }
+}

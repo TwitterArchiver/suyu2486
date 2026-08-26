@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2087642629500510537",
+    "created_at": "2026-08-13T06:59:19.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T07:59:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087796123151020156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1861712215793082368",
+          "start": 0,
+          "username": "keywisCD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087796123151020156",
+    "in_reply_to_user_id": "1861712215793082368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087642629500510537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keywisCD 不吃别糟蹋"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11133,
+        "height": 1920,
+        "media_key": "13_2087642601864232960",
+        "preview_image_url": "https://pbs.twimg.com/media/HPjL4rZXAAAXMa1.jpg",
+        "public_metrics": {
+          "view_count": 449612
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087642601864232960/vid/avc1/320x564/awh-ibex3-qk0B7u.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087642601864232960/vid/avc1/480x846/hg2a3rZGH4kbFPCZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087642601864232960/vid/avc1/720x1270/NwGEPV9SQlDLDgHv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087642601864232960/pl/1uOr30aPYMrq6iWh.m3u8"
+          }
+        ],
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2087642629500510537",
+        "created_at": "2026-08-13T06:59:19.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T07:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087796123151020156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1861712215793082368",
+              "start": 0,
+              "username": "keywisCD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087796123151020156",
+        "in_reply_to_user_id": "1861712215793082368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087642629500510537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keywisCD 不吃别糟蹋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087642601864232960"
+          ]
+        },
+        "author_id": "1861712215793082368",
+        "conversation_id": "2087642629500510537",
+        "created_at": "2026-08-12T20:49:24.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T21:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087642629500510537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6UapafJ1br",
+              "end": 67,
+              "expanded_url": "https://x.com/keywisCD/status/2087642629500510537/video/1",
+              "media_key": "13_2087642601864232960",
+              "start": 44,
+              "url": "https://t.co/6UapafJ1br"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087642629500510537",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2087642601864232960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2330,
+          "impression_count": 1046550,
+          "like_count": 11918,
+          "quote_count": 662,
+          "reply_count": 743,
+          "retweet_count": 914
+        },
+        "reply_settings": "everyone",
+        "text": "fuckkkkkkkkk yessssssss just like that baby https://t.co/6UapafJ1br"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "is_identity_verified": false,
+        "location": "自用蜂鸟vpn",
+        "most_recent_tweet_id": "2087796123151020156",
+        "name": "小玉",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910715228523831296/1766048126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2057,
+          "following_count": 184,
+          "like_count": 21446,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6708
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-27T10:02:46.000Z",
+        "description": "",
+        "id": "1861712215793082368",
+        "is_identity_verified": false,
+        "location": "19",
+        "most_recent_tweet_id": "2087762493196128686",
+        "name": "kierra",
+        "pinned_tweet_id": "2031919520286171383",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082633177030377472/43KystHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 76,
+          "like_count": 15343,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1502
+        },
+        "url": "",
+        "username": "keywisCD",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

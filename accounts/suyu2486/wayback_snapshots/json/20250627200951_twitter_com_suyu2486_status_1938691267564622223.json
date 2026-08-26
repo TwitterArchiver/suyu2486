@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1938603839919362353",
+    "created_at": "2025-06-27T20:09:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T21:09:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938691267564622223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1712639858995294208",
+          "start": 0,
+          "username": "xsj1721416"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938691267564622223",
+    "in_reply_to_user_id": "1712639858995294208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938603839919362353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xsj1721416 好帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1938603831132311552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GudN6craUAAKZLd.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1938603839919362353",
+        "created_at": "2025-06-27T20:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T21:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938691267564622223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1712639858995294208",
+              "start": 0,
+              "username": "xsj1721416"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938691267564622223",
+        "in_reply_to_user_id": "1712639858995294208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938603839919362353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xsj1721416 好帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938603831132311552"
+          ]
+        },
+        "author_id": "1712639858995294208",
+        "conversation_id": "1938603839919362353",
+        "created_at": "2025-06-27T14:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T15:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938603839919362353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7peBTQhC2A",
+              "end": 43,
+              "expanded_url": "https://x.com/xsj1721416/status/1938603839919362353/photo/1",
+              "media_key": "3_1938603831132311552",
+              "start": 20,
+              "url": "https://t.co/7peBTQhC2A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938603839919362353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2998,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高p加灯光加精心挑选    补药骂我丑 https://t.co/7peBTQhC2A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1938601372837913057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 196,
+          "like_count": 8868,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2514
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-13T01:22:28.000Z",
+        "description": "这里是杰杰的分享小屋 不爱请别伤害 \n各位大大请和我互关吧 我将祝福所有人\n互关要➕v请私信我\n直男啊直男 不高级\n进来看我主页和动态的都转过去 我直接砰砰砰砰砰砰",
+        "id": "1712639858995294208",
+        "location": "布吉岛",
+        "name": "杰杰",
+        "pinned_tweet_id": "1932655379915432441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930600121617825792/3lXqhkWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 371,
+          "like_count": 8913,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 3001
+        },
+        "username": "xsj1721416",
+        "verified": false
+      }
+    ]
+  }
+}

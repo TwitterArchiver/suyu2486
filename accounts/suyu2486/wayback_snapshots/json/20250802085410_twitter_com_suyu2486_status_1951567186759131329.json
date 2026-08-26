@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1951510148557701454",
+    "created_at": "2025-08-02T08:54:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T09:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951567186759131329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1635558342667173888",
+          "start": 0,
+          "username": "oYuYo0218"
+        },
+        {
+          "end": 19,
+          "id": "1644761277900951552",
+          "start": 11,
+          "username": "4rocky9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951567186759131329",
+    "in_reply_to_user_id": "1635558342667173888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951528395097137590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oYuYo0218 @4rocky9 咋给我不给（开玩笑的）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1951510148557701454",
+        "created_at": "2025-08-02T08:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T09:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951567186759131329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1635558342667173888",
+              "start": 0,
+              "username": "oYuYo0218"
+            },
+            {
+              "end": 19,
+              "id": "1644761277900951552",
+              "start": 11,
+              "username": "4rocky9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951567186759131329",
+        "in_reply_to_user_id": "1635558342667173888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951528395097137590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oYuYo0218 @4rocky9 咋给我不给（开玩笑的）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1635558342667173888",
+        "conversation_id": "1951510148557701454",
+        "created_at": "2025-08-02T06:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T07:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951528395097137590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            },
+            {
+              "end": 18,
+              "id": "1644761277900951552",
+              "start": 10,
+              "username": "4rocky9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951528395097137590",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951524873609592847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 @4rocky9 其实这个是我小玉。！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男，可以叫我小玉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1948457851778990521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 199,
+          "like_count": 12616,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 3489
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-14T08:28:04.000Z",
+        "description": "喜欢我请给我打钱 私信只回口令和眼熟的-ω-",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oyuyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oyuyo",
+                "start": 0,
+                "url": "https://t.co/2yR0xEvXv4"
+              }
+            ]
+          }
+        },
+        "id": "1635558342667173888",
+        "location": "🚪88过门不退 提问箱👉🏻",
+        "name": "晕菜",
+        "pinned_tweet_id": "1950191159365480474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885654277932396545/IBpeDT3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2287,
+          "following_count": 45,
+          "like_count": 132,
+          "listed_count": 10,
+          "media_count": 18,
+          "tweet_count": 33
+        },
+        "url": "https://t.co/2yR0xEvXv4",
+        "username": "oYuYo0218",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T17:57:16.000Z",
+        "description": "乐意骚扰人，给钱随便你骂，整抽象的，乐意说点屌话，喜欢看美女",
+        "id": "1644761277900951552",
+        "location": "🚪52/520/5200",
+        "name": "建龙哥",
+        "pinned_tweet_id": "1670098097735860259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920824521441046528/hyICLTe0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4222,
+          "following_count": 390,
+          "like_count": 41557,
+          "listed_count": 2,
+          "media_count": 338,
+          "tweet_count": 15867
+        },
+        "username": "4rocky9",
+        "verified": false
+      }
+    ]
+  }
+}

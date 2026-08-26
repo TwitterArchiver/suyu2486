@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1938546726220259812",
+    "created_at": "2025-06-27T23:45:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T00:45:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938745477995888944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1892431376525545472",
+          "start": 0,
+          "username": "00ryuugu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938745477995888944",
+    "in_reply_to_user_id": "1892431376525545472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938546726220259812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@00ryuugu 给我好不容易在矿洞挖到的10个粗铁后把我炸死的就是你吧…（后续已找回）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1938546713419194368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GucZ9wnaIAAaY4f.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1938546726220259812",
+        "created_at": "2025-06-27T23:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T00:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938745477995888944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1892431376525545472",
+              "start": 0,
+              "username": "00ryuugu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938745477995888944",
+        "in_reply_to_user_id": "1892431376525545472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938546726220259812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@00ryuugu 给我好不容易在矿洞挖到的10个粗铁后把我炸死的就是你吧…（后续已找回）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938546713419194368"
+          ]
+        },
+        "author_id": "1892431376525545472",
+        "conversation_id": "1938546726220259812",
+        "created_at": "2025-06-27T10:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T11:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938546726220259812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k4hEcd12oL",
+              "end": 37,
+              "expanded_url": "https://x.com/00ryuugu/status/1938546726220259812/photo/1",
+              "media_key": "3_1938546713419194368",
+              "start": 14,
+              "url": "https://t.co/k4hEcd12oL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938546726220259812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 370,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老公本宝好爱你本宝要炸死你 https://t.co/k4hEcd12oL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1938601372837913057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 196,
+          "like_count": 8899,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2523
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-20T04:29:48.000Z",
+        "description": "谢谢你来看我（推广自行辨别）",
+        "id": "1892431376525545472",
+        "location": "招惹我骂我的贱畜猪逼全家暴毙死无葬身之地",
+        "name": "0000",
+        "pinned_tweet_id": "1927724937596354735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904814053786345474/c9zEUJy3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4615,
+          "following_count": 112,
+          "like_count": 2878,
+          "listed_count": 6,
+          "media_count": 57,
+          "tweet_count": 677
+        },
+        "username": "00ryuugu",
+        "verified": false
+      }
+    ]
+  }
+}

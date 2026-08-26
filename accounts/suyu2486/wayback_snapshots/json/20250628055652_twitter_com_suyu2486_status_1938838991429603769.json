@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1938815894832198022",
+    "created_at": "2025-06-28T05:56:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T06:56:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938838991429603769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1937905564891435008",
+          "start": 0,
+          "username": "BeiLi0119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938838991429603769",
+    "in_reply_to_user_id": "1937905564891435008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938815894832198022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeiLi0119 就说，整的就是你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1938815894832198022",
+        "created_at": "2025-06-28T05:56:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T06:56:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938838991429603769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1937905564891435008",
+              "start": 0,
+              "username": "BeiLi0119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938838991429603769",
+        "in_reply_to_user_id": "1937905564891435008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938815894832198022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeiLi0119 就说，整的就是你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937905564891435008",
+        "conversation_id": "1938815894832198022",
+        "created_at": "2025-06-28T04:25:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T05:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938815894832198022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/suyu2486/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/suyu2486/status/1938601372837913057",
+              "start": 7,
+              "url": "https://t.co/CJidsC7xfL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938815894832198022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938601372837913057",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "憋说了憋说了 https://t.co/CJidsC7xfL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1938601372837913057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 196,
+          "like_count": 8943,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2547
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-25T16:08:19.000Z",
+        "description": "吐黑泥的地方/xp安放/恋老癖但是只恋我推/叫爸叫哥叫的也都是我推",
+        "id": "1937905564891435008",
+        "name": "啥时候能休息日早点起吃顿正点早饭",
+        "pinned_tweet_id": "1937926008969302381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937908850323263488/SLGWGyEr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 58,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 63
+        },
+        "username": "BeiLi0119",
+        "verified": false
+      }
+    ]
+  }
+}

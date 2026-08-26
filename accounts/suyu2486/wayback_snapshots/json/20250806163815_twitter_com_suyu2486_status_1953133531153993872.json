@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1952900444730331183",
+    "created_at": "2025-08-06T16:38:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T17:38:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953133531153993872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1899021424121065472",
+          "start": 0,
+          "username": "Tom_joseph23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953133531153993872",
+    "in_reply_to_user_id": "1899021424121065472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952900444730331183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tom_joseph23 我感觉流脓也好用，炸炸的，最硬！\n我自己用紫金和掠夺，其实已经偏腻了…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1952900426829037568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxoYl17agAAIfhQ.jpg",
+        "width": 1227
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1952900437096701952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxoYmcLaoAAZmQg.jpg",
+        "width": 1025
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1952900444730331183",
+        "created_at": "2025-08-06T16:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T17:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953133531153993872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1899021424121065472",
+              "start": 0,
+              "username": "Tom_joseph23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953133531153993872",
+        "in_reply_to_user_id": "1899021424121065472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952900444730331183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tom_joseph23 我感觉流脓也好用，炸炸的，最硬！\n我自己用紫金和掠夺，其实已经偏腻了…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952900426829037568",
+            "3_1952900437096701952"
+          ]
+        },
+        "author_id": "1899021424121065472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1952900444730331183",
+        "created_at": "2025-08-06T01:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T02:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952900444730331183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ommpBUJJOC",
+              "end": 35,
+              "expanded_url": "https://x.com/Tom_joseph23/status/1952900444730331183/photo/1",
+              "media_key": "3_1952900426829037568",
+              "start": 12,
+              "url": "https://t.co/ommpBUJJOC"
+            },
+            {
+              "display_url": "pic.x.com/ommpBUJJOC",
+              "end": 35,
+              "expanded_url": "https://x.com/Tom_joseph23/status/1952900444730331183/photo/1",
+              "media_key": "3_1952900437096701952",
+              "start": 12,
+              "url": "https://t.co/ommpBUJJOC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952900444730331183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 798,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终~于~等~到~你~~ https://t.co/ommpBUJJOC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1952327381869338999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 199,
+          "like_count": 13467,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 3712
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-10T08:56:14.000Z",
+        "description": "2月水瓶♒entp  switch  可以叫我joseph也可以叫我小jo",
+        "id": "1899021424121065472",
+        "name": "j᳐oseph᳐੭",
+        "pinned_tweet_id": "1949627046231195913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923779133554761728/Vic_4C2m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 283,
+          "like_count": 39683,
+          "listed_count": 0,
+          "media_count": 654,
+          "tweet_count": 4926
+        },
+        "username": "Tom_joseph23",
+        "verified": false
+      }
+    ]
+  }
+}

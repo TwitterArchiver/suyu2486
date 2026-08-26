@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1943370817657884764",
+    "created_at": "2025-07-12T02:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T03:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943852817980006494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1585143148413874176",
+          "start": 0,
+          "username": "anshixisese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943852817980006494",
+    "in_reply_to_user_id": "1585143148413874176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943370817657884764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anshixisese 怎么没喷电"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20108,
+        "height": 718,
+        "media_key": "7_1943370793066303488",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1943370793066303488/pu/img/n_U0Vo89Ek3RrGSL.jpg",
+        "public_metrics": {
+          "view_count": 81495
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1943370793066303488/pu/vid/avc1/320x320/oSyJLPwQtVjdTnfA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1943370793066303488/pu/vid/avc1/540x540/tQ2ch8zXD79x1uNY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1943370793066303488/pu/vid/avc1/718x718/ObOlB9B2KbxjPP9_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1943370793066303488/pu/pl/xveJs4tKMZevRdJr.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1943370817657884764",
+        "created_at": "2025-07-12T02:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T03:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943852817980006494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1585143148413874176",
+              "start": 0,
+              "username": "anshixisese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943852817980006494",
+        "in_reply_to_user_id": "1585143148413874176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943370817657884764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anshixisese 怎么没喷电"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1943370793066303488"
+          ]
+        },
+        "author_id": "1585143148413874176",
+        "conversation_id": "1943370817657884764",
+        "created_at": "2025-07-10T18:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T19:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943370817657884764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zZRqP2A33Y",
+              "end": 23,
+              "expanded_url": "https://x.com/anshixisese/status/1943370817657884764/video/1",
+              "media_key": "7_1943370793066303488",
+              "start": 0,
+              "url": "https://t.co/zZRqP2A33Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943370817657884764",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 260,
+          "impression_count": 199195,
+          "like_count": 1606,
+          "quote_count": 22,
+          "reply_count": 111,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zZRqP2A33Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 201,
+          "like_count": 11452,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 3277
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T05:36:12.000Z",
+        "description": "性暗示色图爆杀直球露骨色图，本账号内容均来自神奇的互联网。",
+        "id": "1585143148413874176",
+        "name": "暗示系涩涩分享bot",
+        "pinned_tweet_id": "1935315916386091273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903338346254045185/o21pT3T0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6213,
+          "following_count": 22,
+          "like_count": 11,
+          "listed_count": 12,
+          "media_count": 103,
+          "tweet_count": 107
+        },
+        "username": "anshixisese",
+        "verified": false
+      }
+    ]
+  }
+}

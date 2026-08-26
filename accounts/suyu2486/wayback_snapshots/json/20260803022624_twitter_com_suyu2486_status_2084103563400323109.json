@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2083803603941425162",
+    "created_at": "2026-08-03T02:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T03:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084103563400323109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1642028221444292608",
+          "start": 0,
+          "username": "77niuniu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084103563400323109",
+    "in_reply_to_user_id": "1642028221444292608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083803603941425162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@77niuniu 这个吊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1006,
+        "media_key": "3_2083803594395090944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsoVCGaAAAw-Ht.jpg",
+        "width": 1006
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2083803603941425162",
+        "created_at": "2026-08-03T02:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084103563400323109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1642028221444292608",
+              "start": 0,
+              "username": "77niuniu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084103563400323109",
+        "in_reply_to_user_id": "1642028221444292608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083803603941425162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@77niuniu 这个吊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083803594395090944"
+          ]
+        },
+        "author_id": "1642028221444292608",
+        "conversation_id": "2083803603941425162",
+        "created_at": "2026-08-02T06:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083803603941425162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TgxcMJZhPh",
+              "end": 23,
+              "expanded_url": "https://x.com/77niuniu/status/2083803603941425162/photo/1",
+              "media_key": "3_2083803594395090944",
+              "start": 0,
+              "url": "https://t.co/TgxcMJZhPh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083803603941425162",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2768,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TgxcMJZhPh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2066,
+          "following_count": 190,
+          "like_count": 21258,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6644
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T04:57:00.000Z",
+        "description": "",
+        "id": "1642028221444292608",
+        "name": "牛牛",
+        "pinned_tweet_id": "1886339738312777741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682379173203959810/9Kd5sw8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 62,
+          "like_count": 12256,
+          "listed_count": 4,
+          "media_count": 1146,
+          "tweet_count": 2224
+        },
+        "url": "",
+        "username": "77niuniu",
+        "verified": false
+      }
+    ]
+  }
+}

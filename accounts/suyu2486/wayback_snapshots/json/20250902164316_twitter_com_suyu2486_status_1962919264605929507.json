@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1962903746461184403",
+    "created_at": "2025-09-02T16:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T17:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962919264605929507"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1962919264605929507",
+    "in_reply_to_user_id": "1910715228523831296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962903746461184403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我以前是不爱干净的，因为小时候没人管，所以觉得没什么，后面意识到了，但也就那样，三到五天洗一次澡牙也是想起来就刷。真正改变我的是我的前女友，我上班油烟味比较重，然后每天都被要求洗澡，上床必须穿睡衣，外面的衣服不允许出现在床上，每天一起刷牙，半年时间已经养成习惯，现在很爱干净🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1962903746461184403",
+        "created_at": "2025-09-02T16:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T17:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962919264605929507"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962919264605929507",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962903746461184403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我以前是不爱干净的，因为小时候没人管，所以觉得没什么，后面意识到了，但也就那样，三到五天洗一次澡牙也是想起来就刷。真正改变我的是我的前女友，我上班油烟味比较重，然后每天都被要求洗澡，上床必须穿睡衣，外面的衣服不允许出现在床上，每天一起刷牙，半年时间已经养成习惯，现在很爱干净🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1962903746461184403",
+        "created_at": "2025-09-02T15:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T16:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962903746461184403"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962903746461184403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 331,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "后任你一定要爱干净讲卫生好吗，许愿我以后认识的所有人都爱干净讲卫生😔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "飞向全宇宙",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 206,
+          "like_count": 17975,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 4788
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1935957615961686146",
+    "created_at": "2025-06-20T07:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T08:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935967817557590250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1900466634957160449",
+          "start": 0,
+          "username": "lmng5986051"
+        },
+        {
+          "end": 23,
+          "id": "1836835576949219328",
+          "start": 13,
+          "username": "Se7888900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935967817557590250",
+    "in_reply_to_user_id": "1900466634957160449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935960518977896453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lmng5986051 @Se7888900 你怎么骂人呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1935957615961686146",
+        "created_at": "2025-06-20T07:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T08:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935967817557590250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1900466634957160449",
+              "start": 0,
+              "username": "lmng5986051"
+            },
+            {
+              "end": 23,
+              "id": "1836835576949219328",
+              "start": 13,
+              "username": "Se7888900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935967817557590250",
+        "in_reply_to_user_id": "1900466634957160449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935960518977896453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lmng5986051 @Se7888900 你怎么骂人呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900466634957160449",
+        "conversation_id": "1935957615961686146",
+        "created_at": "2025-06-20T07:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T08:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935960518977896453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1836835576949219328",
+              "start": 0,
+              "username": "Se7888900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935960518977896453",
+        "in_reply_to_user_id": "1836835576949219328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935957615961686146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Se7888900 傻子会买的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的，我将做回神鹰😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 177,
+          "like_count": 6475,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 1846
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T08:39:01.000Z",
+        "description": "",
+        "id": "1900466634957160449",
+        "name": "小萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900470497026121728/ZJmxo2Go_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 95,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 385
+        },
+        "username": "lmng5986051",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-19T18:31:52.000Z",
+        "description": "02 181 76 ｜牵引 痕痒 束缚 绳索｜足控",
+        "id": "1836835576949219328",
+        "name": "龙舌兰",
+        "pinned_tweet_id": "1904636598022791263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934426740811825152/pUYhYWjo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 127,
+          "like_count": 694,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 155
+        },
+        "username": "Se7888900",
+        "verified": false
+      }
+    ]
+  }
+}

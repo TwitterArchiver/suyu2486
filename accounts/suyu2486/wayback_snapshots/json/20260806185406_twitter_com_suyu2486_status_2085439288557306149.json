@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2085154792423428128",
+    "created_at": "2026-08-06T18:54:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T19:54:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085439288557306149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1886278115955273728",
+          "start": 0,
+          "username": "Xiaobai_hell"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085439288557306149",
+    "in_reply_to_user_id": "1886278115955273728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085154792423428128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaobai_hell 太棒了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2085154792423428128",
+        "created_at": "2026-08-06T18:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085439288557306149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1886278115955273728",
+              "start": 0,
+              "username": "Xiaobai_hell"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085439288557306149",
+        "in_reply_to_user_id": "1886278115955273728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085154792423428128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaobai_hell 太棒了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886278115955273728",
+        "conversation_id": "2085154792423428128",
+        "created_at": "2026-08-06T00:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T01:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085154792423428128"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085154792423428128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一上推又是你们这群傻逼在撕逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "pinned_tweet_id": "2084166896371511380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2067,
+          "following_count": 191,
+          "like_count": 21407,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 6696
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T04:58:54.000Z",
+        "description": "垃圾场",
+        "id": "1886278115955273728",
+        "name": "臭皮",
+        "pinned_tweet_id": "1932256468654498153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008349871104028676/uWhdu7br_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 146,
+          "like_count": 24871,
+          "listed_count": 4,
+          "media_count": 231,
+          "tweet_count": 4372
+        },
+        "url": "",
+        "username": "Xiaobai_hell",
+        "verified": false
+      }
+    ]
+  }
+}

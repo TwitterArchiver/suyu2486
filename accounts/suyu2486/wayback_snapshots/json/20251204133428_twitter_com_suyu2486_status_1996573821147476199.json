@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1996573374873473227",
+    "created_at": "2025-12-04T13:34:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T14:34:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996573821147476199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1938108852752502784",
+          "start": 0,
+          "username": "520Seulgi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996573821147476199",
+    "in_reply_to_user_id": "1938108852752502784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996573374873473227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520Seulgi 可爱哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12000,
+        "height": 1920,
+        "media_key": "13_1996573318858858496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1996573318858858496/img/GEAizIMr8WUeW-q0.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996573318858858496/vid/avc1/720x1280/nCcyPffB1AWgM-d_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996573318858858496/vid/avc1/480x852/0jsGANrhEzHR9be0.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996573318858858496/vid/avc1/1080x1920/sMJl7n-gbkKFMrKe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1996573318858858496/pl/oxtSct3JBwv-dwmg.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996573318858858496/vid/avc1/320x568/3xFEY8gPZcTz7t-h.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1996573374873473227",
+        "created_at": "2025-12-04T13:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T14:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996573821147476199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1938108852752502784",
+              "start": 0,
+              "username": "520Seulgi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996573821147476199",
+        "in_reply_to_user_id": "1938108852752502784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996573374873473227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520Seulgi 可爱哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996573318858858496"
+          ]
+        },
+        "author_id": "1938108852752502784",
+        "conversation_id": "1996573374873473227",
+        "created_at": "2025-12-04T13:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T14:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996573374873473227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HtelsqV6nr",
+              "end": 29,
+              "expanded_url": "https://x.com/520Seulgi/status/1996573374873473227/video/1",
+              "media_key": "13_1996573318858858496",
+              "start": 6,
+              "url": "https://t.co/HtelsqV6nr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996573374873473227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鸡腿变小猫 https://t.co/HtelsqV6nr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是一个死人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1985888956073066671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2499,
+          "following_count": 273,
+          "like_count": 22969,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 6400
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T05:35:41.000Z",
+        "description": "爱做饭 🍳爱分享🧩 爱姜涩琪🐻 ｜我是男的 不是直男｜悉尼🇦🇺老鼠人（本可承诺将在明年开通抖音分享vlog）｜唯一小号（@WoDui84561）｜（本号纯绿冲浪🏄 随心情互关 私信）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "WoDui84561"
+              }
+            ]
+          }
+        },
+        "id": "1938108852752502784",
+        "location": "在姜涩琪怀里",
+        "name": "鸡腿加点辣",
+        "pinned_tweet_id": "1955175746487587120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996456624949776384/pLq7kMjC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2700,
+          "following_count": 319,
+          "like_count": 7516,
+          "listed_count": 1,
+          "media_count": 1497,
+          "tweet_count": 4404
+        },
+        "username": "520Seulgi",
+        "verified": true
+      }
+    ]
+  }
+}

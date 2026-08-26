@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1936113874010619995",
+    "created_at": "2025-06-20T22:20:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T23:20:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936187446959784172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1515730297022992385",
+          "start": 0,
+          "username": "aibeiaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936187446959784172",
+    "in_reply_to_user_id": "1515730297022992385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936113874010619995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aibeiaii 纯数值"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1936113861171855360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt51THvbwAAgp8C.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1936113874010619995",
+        "created_at": "2025-06-20T22:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T23:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936187446959784172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1515730297022992385",
+              "start": 0,
+              "username": "aibeiaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936187446959784172",
+        "in_reply_to_user_id": "1515730297022992385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936113874010619995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aibeiaii 纯数值"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936113861171855360"
+          ]
+        },
+        "author_id": "1515730297022992385",
+        "conversation_id": "1936113874010619995",
+        "created_at": "2025-06-20T17:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T18:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936113874010619995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K9CM5oibpE",
+              "end": 30,
+              "expanded_url": "https://x.com/aibeiaii/status/1936113874010619995/photo/1",
+              "media_key": "3_1936113861171855360",
+              "start": 7,
+              "url": "https://t.co/K9CM5oibpE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936113874010619995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3534,
+          "like_count": 109,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "已经放弃自拍 https://t.co/K9CM5oibpE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的，我将做回神鹰，爱说点c语言，不喜欢可以喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 181,
+          "like_count": 6760,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1924
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-17T16:34:18.000Z",
+        "description": "底层女性，中产勿扰       ig：https://t.co/ahQxgxBkXU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/lossuxx?igsh=N…",
+                "end": 42,
+                "expanded_url": "https://www.instagram.com/lossuxx?igsh=NTc4MTIwNjQ2YQ==",
+                "start": 19,
+                "url": "https://t.co/ahQxgxBkXU"
+              }
+            ]
+          }
+        },
+        "id": "1515730297022992385",
+        "name": "漂流瓶007",
+        "pinned_tweet_id": "1782625626027168046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722131501700333568/GBL8OqMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8595,
+          "following_count": 101,
+          "like_count": 402,
+          "listed_count": 21,
+          "media_count": 113,
+          "tweet_count": 786
+        },
+        "username": "aibeiaii",
+        "verified": false
+      }
+    ]
+  }
+}

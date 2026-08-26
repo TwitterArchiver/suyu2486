@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1952969464812605549",
+    "created_at": "2025-08-06T15:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T16:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953123359211876651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1193780498226536449",
+          "start": 0,
+          "username": "ivhyuan"
+        },
+        {
+          "end": 18,
+          "id": "1671160750558298115",
+          "start": 9,
+          "username": "legfugne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953123359211876651",
+    "in_reply_to_user_id": "1193780498226536449",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953019692278264063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ivhyuan @legfugne 行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1952969464812605549",
+        "created_at": "2025-08-06T15:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T16:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953123359211876651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1193780498226536449",
+              "start": 0,
+              "username": "ivhyuan"
+            },
+            {
+              "end": 18,
+              "id": "1671160750558298115",
+              "start": 9,
+              "username": "legfugne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953123359211876651",
+        "in_reply_to_user_id": "1193780498226536449",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953019692278264063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ivhyuan @legfugne 行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1193780498226536449",
+        "conversation_id": "1952969464812605549",
+        "created_at": "2025-08-06T09:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T10:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953019692278264063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            },
+            {
+              "end": 19,
+              "id": "1671160750558298115",
+              "start": 10,
+              "username": "legfugne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953019692278264063",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952999149605142713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 @legfugne 不高级"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1952327381869338999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1092,
+          "following_count": 201,
+          "like_count": 13394,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 3691
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-11T06:40:41.000Z",
+        "description": "",
+        "id": "1193780498226536449",
+        "location": "Nevada, USA",
+        "name": "御蒲丸子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949825229460832256/5qg6mFPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 174,
+          "like_count": 474,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 91
+        },
+        "username": "ivhyuan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-20T14:19:13.000Z",
+        "description": "170/阳痿/近视/腰间盘突出",
+        "id": "1671160750558298115",
+        "name": "看熊男",
+        "pinned_tweet_id": "1942572690780610920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822544965249216512/7MZWHygZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 89,
+          "like_count": 16929,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 2322
+        },
+        "username": "legfugne",
+        "verified": false
+      }
+    ]
+  }
+}

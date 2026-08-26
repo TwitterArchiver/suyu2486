@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2082683823691801004",
+    "created_at": "2026-07-30T05:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T06:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082702216175956251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1788237544590823424",
+          "start": 0,
+          "username": "Bzg1680475"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082702216175956251",
+    "in_reply_to_user_id": "1788237544590823424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082683823691801004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bzg1680475 你这个人讲话会不会太有思想了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2082683823691801004",
+        "created_at": "2026-07-30T05:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T06:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082702216175956251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1788237544590823424",
+              "start": 0,
+              "username": "Bzg1680475"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082702216175956251",
+        "in_reply_to_user_id": "1788237544590823424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082683823691801004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bzg1680475 你这个人讲话会不会太有思想了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2082683823691801004",
+        "created_at": "2026-07-30T04:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T05:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082683823691801004"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082683823691801004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "流量太容易裹挟人了，风口能够托举人，但认知跟不上际遇，身处浮躁环境逐渐同化，傲慢与迷失难以避免"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2066,
+          "following_count": 191,
+          "like_count": 21129,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 6588
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "这个世界全都是神经病，只是有的显性有的隐性",
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2082418374953578529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 20,
+          "like_count": 1008,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 428
+        },
+        "url": "",
+        "username": "Bzg1680475",
+        "verified": false
+      }
+    ]
+  }
+}

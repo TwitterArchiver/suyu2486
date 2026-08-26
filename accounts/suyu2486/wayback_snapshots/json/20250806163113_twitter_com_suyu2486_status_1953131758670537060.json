@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1952595725109379147",
+    "created_at": "2025-08-06T16:31:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T17:31:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953131758670537060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1924858850659762176",
+          "start": 0,
+          "username": "ivlove123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953131758670537060",
+    "in_reply_to_user_id": "1924858850659762176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952595725109379147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ivlove123 哈哈哈哈哈哈哈哈，我真绷不住了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1952595725109379147",
+        "created_at": "2025-08-06T16:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T17:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953131758670537060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1924858850659762176",
+              "start": 0,
+              "username": "ivlove123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953131758670537060",
+        "in_reply_to_user_id": "1924858850659762176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952595725109379147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ivlove123 哈哈哈哈哈哈哈哈，我真绷不住了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924858850659762176",
+        "conversation_id": "1952595725109379147",
+        "created_at": "2025-08-05T05:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T06:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952595725109379147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952595725109379147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 55759,
+          "like_count": 635,
+          "quote_count": 6,
+          "reply_count": 36,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "技术差的要死还要问爽不爽爽不爽爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽不爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1952327381869338999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 199,
+          "like_count": 13455,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 3707
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-20T16:05:05.000Z",
+        "description": "INFP｜摩羯｜喜欢有礼貌的人｜不要来骚扰我 ｜废话大王 一天能发十几条 介意勿关｜回私信不代表我同意聊骚^_^｜不聊骚不约炮 ｜有🚪https://t.co/N69YdowB3G📪来这找我玩｜@LIliDec一些废话",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 97,
+                "username": "LIliDec"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/doll66049",
+                "end": 90,
+                "expanded_url": "https://ngl.link/doll66049",
+                "start": 67,
+                "url": "https://t.co/N69YdowB3G"
+              }
+            ]
+          }
+        },
+        "id": "1924858850659762176",
+        "name": "理子",
+        "pinned_tweet_id": "1944340043251798329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947160132598525952/0_acb1QR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2840,
+          "following_count": 97,
+          "like_count": 4182,
+          "listed_count": 7,
+          "media_count": 202,
+          "tweet_count": 1850
+        },
+        "username": "ivlove123",
+        "verified": false
+      }
+    ]
+  }
+}

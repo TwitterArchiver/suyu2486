@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1998036070949425176",
+    "created_at": "2025-12-09T05:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T06:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998261884584353949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1900571378576928768",
+          "start": 0,
+          "username": "cft1594000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998261884584353949",
+    "in_reply_to_user_id": "1900571378576928768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998036070949425176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cft1594000 我女朋友说你好帅，你俩过吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1998036045678751744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7pzMo8bsAAvjYI.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1998036070949425176",
+        "created_at": "2025-12-09T05:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T06:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998261884584353949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1900571378576928768",
+              "start": 0,
+              "username": "cft1594000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998261884584353949",
+        "in_reply_to_user_id": "1900571378576928768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998036070949425176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cft1594000 我女朋友说你好帅，你俩过吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998036045678751744"
+          ]
+        },
+        "author_id": "1900571378576928768",
+        "conversation_id": "1998036070949425176",
+        "created_at": "2025-12-08T14:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T15:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998036070949425176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/njXYymFULX",
+              "end": 23,
+              "expanded_url": "https://x.com/cft1594000/status/1998036070949425176/photo/1",
+              "media_key": "3_1998036045678751744",
+              "start": 0,
+              "url": "https://t.co/njXYymFULX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998036070949425176",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 7123,
+          "like_count": 240,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/njXYymFULX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是一个死人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1985888956073066671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997944714021216256/QFoLaxLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2494,
+          "following_count": 281,
+          "like_count": 23216,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 6469
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T15:35:13.000Z",
+        "description": "關你撚事🇭🇰 關我撚事  7Chill",
+        "id": "1900571378576928768",
+        "location": "Hong Kong",
+        "name": "哥布林村噴火龍",
+        "pinned_tweet_id": "1957520601075396887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989558753130319872/7K9RKE4h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 117,
+          "like_count": 2994,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1612
+        },
+        "username": "cft1594000",
+        "verified": false
+      }
+    ]
+  }
+}

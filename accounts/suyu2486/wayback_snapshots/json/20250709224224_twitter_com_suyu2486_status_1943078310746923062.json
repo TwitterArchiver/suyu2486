@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1942995059403882973",
+    "created_at": "2025-07-09T22:42:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T23:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943078310746923062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1758759707769208832",
+          "start": 0,
+          "username": "xiaogouOVO_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943078310746923062",
+    "in_reply_to_user_id": "1758759707769208832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942995059403882973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaogouOVO_ 狠狠扇一下…👉🏻👈🏻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1263,
+        "media_key": "3_1942995047802376198",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvbns5iakAYdAzn.jpg",
+        "width": 1317
+      },
+      {
+        "height": 968,
+        "media_key": "3_1942995047798181889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvbns5hakAEElR6.jpg",
+        "width": 1091
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1942995059403882973",
+        "created_at": "2025-07-09T22:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T23:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943078310746923062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758759707769208832",
+              "start": 0,
+              "username": "xiaogouOVO_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943078310746923062",
+        "in_reply_to_user_id": "1758759707769208832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942995059403882973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaogouOVO_ 狠狠扇一下…👉🏻👈🏻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942995047802376198",
+            "3_1942995047798181889"
+          ]
+        },
+        "author_id": "1758759707769208832",
+        "conversation_id": "1942995059403882973",
+        "created_at": "2025-07-09T17:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T18:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942995059403882973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LO79wEcZDz",
+              "end": 30,
+              "expanded_url": "https://x.com/xiaogouOVO_/status/1942995059403882973/photo/1",
+              "media_key": "3_1942995047802376198",
+              "start": 7,
+              "url": "https://t.co/LO79wEcZDz"
+            },
+            {
+              "display_url": "pic.x.com/LO79wEcZDz",
+              "end": 30,
+              "expanded_url": "https://x.com/xiaogouOVO_/status/1942995059403882973/photo/1",
+              "media_key": "3_1942995047798181889",
+              "start": 7,
+              "url": "https://t.co/LO79wEcZDz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942995059403882973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "路过的摸摸🥰 https://t.co/LO79wEcZDz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 200,
+          "like_count": 11128,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 3218
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-17T07:46:15.000Z",
+        "description": "欢迎光临我的主页🫶📍晋 Sub BBW 少女音 🉑瓦/铲 陪🥣 很会给情绪价值的小乖宝宝 希望我们致富路上身心健康🩷",
+        "id": "1758759707769208832",
+        "location": "🚪100-～",
+        "name": "姜姜姜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925868351202435072/eiNx8sE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2622,
+          "following_count": 25,
+          "like_count": 1257,
+          "listed_count": 4,
+          "media_count": 17,
+          "tweet_count": 39
+        },
+        "username": "xiaogouOVO_",
+        "verified": false
+      }
+    ]
+  }
+}

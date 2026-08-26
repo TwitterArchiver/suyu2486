@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2083798370334961866",
+    "created_at": "2026-08-02T08:45:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T09:45:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083836514904227847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2029806720805998592",
+          "start": 0,
+          "username": "Boundaryq7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083836514904227847",
+    "in_reply_to_user_id": "2029806720805998592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083798370334961866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Boundaryq7 你帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2083798359958245376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsjkWTaUAAAUsV.jpg",
+        "width": 780
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2083798370334961866",
+        "created_at": "2026-08-02T08:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083836514904227847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2029806720805998592",
+              "start": 0,
+              "username": "Boundaryq7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083836514904227847",
+        "in_reply_to_user_id": "2029806720805998592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083798370334961866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Boundaryq7 你帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083798359958245376"
+          ]
+        },
+        "author_id": "2029806720805998592",
+        "conversation_id": "2083798370334961866",
+        "created_at": "2026-08-02T06:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083798370334961866"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "宅男"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "男高"
+            },
+            {
+              "end": 13,
+              "start": 8,
+              "tag": "男高中生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7vAiTwNkLe",
+              "end": 37,
+              "expanded_url": "https://x.com/Boundaryq7/status/2083798370334961866/photo/1",
+              "media_key": "3_2083798359958245376",
+              "start": 14,
+              "url": "https://t.co/7vAiTwNkLe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083798370334961866",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2448,
+          "like_count": 142,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#宅男 #男高 #男高中生 https://t.co/7vAiTwNkLe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2061,
+          "following_count": 197,
+          "like_count": 21197,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6625
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T06:31:14.000Z",
+        "description": "🚪52口令赞赏码获得一个可爱的我\nins：boundary1236",
+        "id": "2029806720805998592",
+        "name": "Boundary",
+        "pinned_tweet_id": "2045088541873410294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029807166312341504/0dGhUCwJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 8,
+          "like_count": 301,
+          "listed_count": 5,
+          "media_count": 43,
+          "tweet_count": 62
+        },
+        "url": "",
+        "username": "Boundaryq7",
+        "verified": false
+      }
+    ]
+  }
+}

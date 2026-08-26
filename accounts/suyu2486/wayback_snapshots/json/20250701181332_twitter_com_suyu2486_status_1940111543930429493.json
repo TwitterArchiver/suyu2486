@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1940108875782390074",
+    "created_at": "2025-07-01T18:13:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T19:13:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940111543930429493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597240703070793731",
+          "start": 0,
+          "username": "sngzhhu21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940111543930429493",
+    "in_reply_to_user_id": "1597240703070793731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940109231384092976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sngzhhu21 人心中的的成见是一座黄山…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1940108875782390074",
+        "created_at": "2025-07-01T18:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T19:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940111543930429493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597240703070793731",
+              "start": 0,
+              "username": "sngzhhu21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940111543930429493",
+        "in_reply_to_user_id": "1597240703070793731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940109231384092976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sngzhhu21 人心中的的成见是一座黄山…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597240703070793731",
+        "conversation_id": "1940108875782390074",
+        "created_at": "2025-07-01T18:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T19:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940109231384092976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940109231384092976",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940108875782390074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 吗的 像女人白带"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1923458019305660813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 198,
+          "like_count": 10187,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 2958
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T14:47:35.000Z",
+        "description": "不闲聊｜打钱的除外 🚪52",
+        "id": "1597240703070793731",
+        "location": "喜欢我就给我打钱",
+        "name": "一枚纯净的屌丝",
+        "pinned_tweet_id": "1938126358393328061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930100728397475841/HfMKSHxa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 260,
+          "like_count": 5528,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 4239
+        },
+        "username": "sngzhhu21",
+        "verified": false
+      }
+    ]
+  }
+}

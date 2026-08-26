@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1936067881219002775",
+    "created_at": "2025-06-21T06:44:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T07:44:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936314310940115204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1549393363002179587",
+          "start": 0,
+          "username": "yezijiO925"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936314310940115204",
+    "in_reply_to_user_id": "1549393363002179587",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936067881219002775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yezijiO925 抽！肺疼就是在涨肌肉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1936067871827759104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt5LeMFXEAANu9I.jpg",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1936067881219002775",
+        "created_at": "2025-06-21T06:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T07:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936314310940115204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1549393363002179587",
+              "start": 0,
+              "username": "yezijiO925"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936314310940115204",
+        "in_reply_to_user_id": "1549393363002179587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936067881219002775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yezijiO925 抽！肺疼就是在涨肌肉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936067871827759104"
+          ]
+        },
+        "author_id": "1549393363002179587",
+        "conversation_id": "1936067881219002775",
+        "created_at": "2025-06-20T14:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T15:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936067881219002775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CIcdx6S9e3",
+              "end": 29,
+              "expanded_url": "https://x.com/yezijiO925/status/1936067881219002775/photo/1",
+              "media_key": "3_1936067871827759104",
+              "start": 6,
+              "url": "https://t.co/CIcdx6S9e3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936067881219002775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2348,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想抽烟。 https://t.co/CIcdx6S9e3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的，我将做回神鹰，爱说点c语言，不喜欢可以喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 186,
+          "like_count": 6864,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1958
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-19T13:59:13.000Z",
+        "description": "不线下不聊骚不参与任何网络纠纷｜推广自辨｜小号@yeyeo0_0o｜自用🪜 https://t.co/OfoMf2Jk1F",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "yeyeo0_0o"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "xyz2.281968.xyz/#/register?cod…",
+                "end": 61,
+                "expanded_url": "https://xyz2.281968.xyz/#/register?code=PkQSNlgo",
+                "start": 38,
+                "url": "https://t.co/OfoMf2Jk1F"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yezijio925",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yezijio925",
+                "start": 0,
+                "url": "https://t.co/YigBelbVKa"
+              }
+            ]
+          }
+        },
+        "id": "1549393363002179587",
+        "location": "🚪68/98/198/648｜提问箱➡️",
+        "name": "Aaa椰子鸡供应批发",
+        "pinned_tweet_id": "1931674598049034598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928118545604562947/x65IjSUb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4799,
+          "following_count": 717,
+          "like_count": 25885,
+          "listed_count": 8,
+          "media_count": 771,
+          "tweet_count": 7596
+        },
+        "url": "https://t.co/YigBelbVKa",
+        "username": "yezijiO925",
+        "verified": false
+      }
+    ]
+  }
+}

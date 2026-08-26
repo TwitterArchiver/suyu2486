@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1942746010838544861",
+    "created_at": "2025-07-09T06:26:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T07:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942832765638172731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1812461386523648001",
+          "start": 0,
+          "username": "teaichiboluo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942832765638172731",
+    "in_reply_to_user_id": "1812461386523648001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942748350316699934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teaichiboluo 什么话！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1942746010838544861",
+        "created_at": "2025-07-09T06:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T07:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942832765638172731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1812461386523648001",
+              "start": 0,
+              "username": "teaichiboluo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942832765638172731",
+        "in_reply_to_user_id": "1812461386523648001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942748350316699934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teaichiboluo 什么话！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812461386523648001",
+        "conversation_id": "1942746010838544861",
+        "created_at": "2025-07-09T00:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T01:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942748350316699934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942748350316699934",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942746010838544861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 不行了？😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 199,
+          "like_count": 10838,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 3158
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T12:17:36.000Z",
+        "description": "男｜牙控｜喜美好｜不講礼貌｜卤煮爱好者｜被认可的青叔音",
+        "id": "1812461386523648001",
+        "name": "宋宝雷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853052977831194625/PbriVQOq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 183,
+          "like_count": 836,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1295
+        },
+        "username": "teaichiboluo",
+        "verified": false
+      }
+    ]
+  }
+}

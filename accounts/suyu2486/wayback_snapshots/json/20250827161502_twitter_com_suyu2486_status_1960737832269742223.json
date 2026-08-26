@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1960730374105129385",
+    "created_at": "2025-08-27T16:15:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T17:15:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960737832269742223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1534867591566462976",
+          "start": 0,
+          "username": "kabishou340"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960737832269742223",
+    "in_reply_to_user_id": "1534867591566462976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960732183330742627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kabishou340 刀片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1960730374105129385",
+        "created_at": "2025-08-27T16:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T17:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960737832269742223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1534867591566462976",
+              "start": 0,
+              "username": "kabishou340"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960737832269742223",
+        "in_reply_to_user_id": "1534867591566462976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960732183330742627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kabishou340 刀片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1534867591566462976",
+        "conversation_id": "1960730374105129385",
+        "created_at": "2025-08-27T15:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T16:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960732183330742627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960732183330742627",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960730374105129385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 礼貌询问脱毛工具链接🔗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个好色的sb男的，双相情感障碍，情感漠视，精神失常，都滚远点别来烦我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "小玉",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1361,
+          "following_count": 198,
+          "like_count": 16928,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 4485
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-09T11:58:55.000Z",
+        "description": "人海茫茫饮到茫茫",
+        "id": "1534867591566462976",
+        "location": "巍巍紫荆山蓝蓝荆水畔",
+        "name": "随手关上煊赫门",
+        "pinned_tweet_id": "1888210143159939186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955821519176916992/FkAP4viS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 392,
+          "like_count": 2734,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 1348
+        },
+        "username": "kabishou340",
+        "verified": false
+      }
+    ]
+  }
+}

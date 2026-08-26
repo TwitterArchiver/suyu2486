@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1965597151423271133",
+    "created_at": "2025-09-10T06:35:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T07:35:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965665378069348570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1727748567555837953",
+          "start": 0,
+          "username": "hvyfjj70529"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965665378069348570",
+    "in_reply_to_user_id": "1727748567555837953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965597151423271133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hvyfjj70529 这个导啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1965597151423271133",
+        "created_at": "2025-09-10T06:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T07:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965665378069348570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1727748567555837953",
+              "start": 0,
+              "username": "hvyfjj70529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965665378069348570",
+        "in_reply_to_user_id": "1727748567555837953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965597151423271133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hvyfjj70529 这个导啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727748567555837953",
+        "conversation_id": "1965597151423271133",
+        "created_at": "2025-09-10T02:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T03:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965597151423271133"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965597151423271133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4534,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我导其实是特别特别好的人。她节日不收礼物。这天也特意避开不来学校。每次出差报销都是她自己。酒店车票她也定好。也不用应酬。特别特别好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗七个小号其中之一@dante82682",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "dante82682"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1963477103296614437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1570,
+          "following_count": 227,
+          "like_count": 19332,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 5203
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-23T17:59:03.000Z",
+        "description": "我是直男 小号发点日常照片 和生活琐事 眼熟的会放@M22lso",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 25,
+                "username": "M22lso"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chaoren2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chaoren2",
+                "start": 0,
+                "url": "https://t.co/1SvsPkyBTY"
+              }
+            ]
+          }
+        },
+        "id": "1727748567555837953",
+        "location": "🛁",
+        "name": "迈迈迈迈迈迈迈迈迈迈迈卡",
+        "pinned_tweet_id": "1937075422623359339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916383035324518400/8olq74GV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6446,
+          "following_count": 492,
+          "like_count": 100212,
+          "listed_count": 10,
+          "media_count": 1556,
+          "tweet_count": 28883
+        },
+        "url": "https://t.co/1SvsPkyBTY",
+        "username": "hvyfjj70529",
+        "verified": false
+      }
+    ]
+  }
+}

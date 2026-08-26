@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1939837402341900317",
+    "created_at": "2025-07-01T00:49:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T01:49:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939848796717846931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1703585455915048960",
+          "start": 0,
+          "username": "MianBaobb07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939848796717846931",
+    "in_reply_to_user_id": "1703585455915048960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939837402341900317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MianBaobb07 我崩溃了，为什么有人素颜也美成这样…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2700,
+        "height": 960,
+        "media_key": "13_1939837320884031491",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1939837320884031491/img/EanjfRHdYAEwpyOX.jpg",
+        "public_metrics": {
+          "view_count": 76
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939837320884031491/vid/avc1/320x426/v1ylqNkD-dL8wPCL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939837320884031491/vid/avc1/480x640/dWuLWjVFsRtpjqfz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939837320884031491/vid/avc1/720x960/USYXWeutCRa1swGe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1939837320884031491/pl/_DSSJgvuYxps8f2S.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1939837402341900317",
+        "created_at": "2025-07-01T00:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T01:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939848796717846931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1703585455915048960",
+              "start": 0,
+              "username": "MianBaobb07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939848796717846931",
+        "in_reply_to_user_id": "1703585455915048960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939837402341900317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MianBaobb07 我崩溃了，为什么有人素颜也美成这样…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1939837320884031491"
+          ]
+        },
+        "author_id": "1703585455915048960",
+        "conversation_id": "1939837402341900317",
+        "created_at": "2025-07-01T00:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T01:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939837402341900317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/osmcdItS2t",
+              "end": 31,
+              "expanded_url": "https://x.com/MianBaobb07/status/1939837402341900317/video/1",
+              "media_key": "13_1939837320884031491",
+              "start": 8,
+              "url": "https://t.co/osmcdItS2t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939837402341900317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 250,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "肿成猪，早上好 https://t.co/osmcdItS2t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1923458019305660813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 199,
+          "like_count": 9855,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2867
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-18T01:43:28.000Z",
+        "description": "碎碎念 纯颜控 不闲聊 不线下不约谢谢🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻🫶🏻转推自辨💧有事请过🚪",
+        "id": "1703585455915048960",
+        "location": "有🚪",
+        "name": "面包🍞",
+        "pinned_tweet_id": "1935560414323966166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870921957669044224/cyQ99dZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9471,
+          "following_count": 145,
+          "like_count": 628,
+          "listed_count": 18,
+          "media_count": 132,
+          "tweet_count": 791
+        },
+        "username": "MianBaobb07",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1961637543214006731",
+    "created_at": "2025-08-30T16:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T17:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961826858388910170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1709596776758431744",
+          "start": 0,
+          "username": "ZZZJcJc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961826858388910170",
+    "in_reply_to_user_id": "1709596776758431744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961637543214006731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZZZJcJc 可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1961637543214006731",
+        "created_at": "2025-08-30T16:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T17:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961826858388910170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1709596776758431744",
+              "start": 0,
+              "username": "ZZZJcJc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961826858388910170",
+        "in_reply_to_user_id": "1709596776758431744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961637543214006731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZZZJcJc 可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1709596776758431744",
+        "conversation_id": "1961637543214006731",
+        "created_at": "2025-08-30T03:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T04:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961637543214006731"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961637543214006731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7212,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "穿着他的衣服自慰高潮了两次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "叫我小玉，男的，infp，可以匿名信或者直接私信找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "🤗",
+        "name": "小玉",
+        "pinned_tweet_id": "1961524810619748717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1362,
+          "following_count": 200,
+          "like_count": 17565,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 4677
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T15:50:18.000Z",
+        "description": "秒女记录｜最高16次 ｜24岁｜反差m｜河南人在香港｜备用小号@zzzjcjc_片发给小号看",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "zzzjcjc_"
+              }
+            ]
+          }
+        },
+        "id": "1709596776758431744",
+        "location": "纯绿🚪口令888 发屌屏蔽",
+        "name": "高呼小z万万岁",
+        "pinned_tweet_id": "1910382986203455828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783923338508746752/4bLKqU92_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9828,
+          "following_count": 436,
+          "like_count": 10393,
+          "listed_count": 21,
+          "media_count": 605,
+          "tweet_count": 9391
+        },
+        "username": "ZZZJcJc",
+        "verified": false
+      }
+    ]
+  }
+}

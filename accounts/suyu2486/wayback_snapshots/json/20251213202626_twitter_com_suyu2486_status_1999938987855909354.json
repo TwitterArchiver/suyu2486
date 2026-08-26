@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1999772184135496143",
+    "created_at": "2025-12-13T20:26:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T21:26:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999938987855909354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1938108852752502784",
+          "start": 0,
+          "username": "520Seulgi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999938987855909354",
+    "in_reply_to_user_id": "1938108852752502784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999772184135496143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520Seulgi 诡秘！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999772173830144000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8CeMmTbQAAJwy3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1999772184135496143",
+        "created_at": "2025-12-13T20:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T21:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999938987855909354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1938108852752502784",
+              "start": 0,
+              "username": "520Seulgi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999938987855909354",
+        "in_reply_to_user_id": "1938108852752502784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999772184135496143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520Seulgi 诡秘！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999772173830144000"
+          ]
+        },
+        "author_id": "1938108852752502784",
+        "conversation_id": "1999772184135496143",
+        "created_at": "2025-12-13T09:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T10:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999772184135496143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FtS7YKRP9Y",
+              "end": 43,
+              "expanded_url": "https://x.com/520Seulgi/status/1999772184135496143/photo/1",
+              "media_key": "3_1999772173830144000",
+              "start": 20,
+              "url": "https://t.co/FtS7YKRP9Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999772184135496143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2318,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沈阳 我要回来了啊哈哈哈哈哈哈哈哈哈哈 https://t.co/FtS7YKRP9Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是一个死人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1985888956073066671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997944714021216256/QFoLaxLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2449,
+          "following_count": 273,
+          "like_count": 23219,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6487
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T05:35:41.000Z",
+        "description": "爱做饭 🍳爱分享🧩 爱姜涩琪🐻 ｜我是男的 不是直男🌈｜悉尼🇦🇺老鼠人（本可承诺将在明年开通抖音分享vlog）｜唯一小号（@WoDui84561）｜（本号纯绿冲浪🏄 随心情互关 私信）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "WoDui84561"
+              }
+            ]
+          }
+        },
+        "id": "1938108852752502784",
+        "location": "在姜涩琪怀里",
+        "name": "鸡腿加点辣",
+        "pinned_tweet_id": "1955175746487587120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997526537961447424/L_iDokKY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2897,
+          "following_count": 352,
+          "like_count": 8495,
+          "listed_count": 1,
+          "media_count": 1545,
+          "tweet_count": 4837
+        },
+        "username": "520Seulgi",
+        "verified": true
+      }
+    ]
+  }
+}

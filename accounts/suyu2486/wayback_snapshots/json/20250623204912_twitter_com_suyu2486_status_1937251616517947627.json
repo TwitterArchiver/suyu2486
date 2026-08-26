@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1937145808589410516",
+    "created_at": "2025-06-23T20:49:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T21:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937251616517947627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1803642368949886976",
+          "start": 0,
+          "username": "xiaoguai041003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937251616517947627",
+    "in_reply_to_user_id": "1803642368949886976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937145808589410516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoguai041003 我操了，我咋办呀？老铁，有什么解决办法没？我之前露过脸啊，完蛋了，老铁，啊啊啊啊啊啊咋办呀？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2040,
+        "media_key": "3_1937145609204436992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuIfqwrWkAAWRzc.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1518,
+        "media_key": "3_1937145609217064960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuIfqwuXQAA8iGe.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1875,
+        "media_key": "3_1937145609720381440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuIfqymXQAASvQZ.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1722,
+        "media_key": "3_1937145609674215424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuIfqybW0AAKF5j.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1937145808589410516",
+        "created_at": "2025-06-23T20:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T21:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937251616517947627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1803642368949886976",
+              "start": 0,
+              "username": "xiaoguai041003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937251616517947627",
+        "in_reply_to_user_id": "1803642368949886976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937145808589410516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoguai041003 我操了，我咋办呀？老铁，有什么解决办法没？我之前露过脸啊，完蛋了，老铁，啊啊啊啊啊啊咋办呀？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937145609204436992",
+            "3_1937145609217064960",
+            "3_1937145609720381440",
+            "3_1937145609674215424"
+          ]
+        },
+        "author_id": "1803642368949886976",
+        "conversation_id": "1937145808589410516",
+        "created_at": "2025-06-23T13:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T14:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937145808589410516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z2Ohg0YG4j",
+              "end": 144,
+              "expanded_url": "https://x.com/xiaoguai041003/status/1937145808589410516/photo/1",
+              "media_key": "3_1937145609204436992",
+              "start": 121,
+              "url": "https://t.co/Z2Ohg0YG4j"
+            },
+            {
+              "display_url": "pic.x.com/Z2Ohg0YG4j",
+              "end": 144,
+              "expanded_url": "https://x.com/xiaoguai041003/status/1937145808589410516/photo/1",
+              "media_key": "3_1937145609217064960",
+              "start": 121,
+              "url": "https://t.co/Z2Ohg0YG4j"
+            },
+            {
+              "display_url": "pic.x.com/Z2Ohg0YG4j",
+              "end": 144,
+              "expanded_url": "https://x.com/xiaoguai041003/status/1937145808589410516/photo/1",
+              "media_key": "3_1937145609720381440",
+              "start": 121,
+              "url": "https://t.co/Z2Ohg0YG4j"
+            },
+            {
+              "display_url": "pic.x.com/Z2Ohg0YG4j",
+              "end": 144,
+              "expanded_url": "https://x.com/xiaoguai041003/status/1937145808589410516/photo/1",
+              "media_key": "3_1937145609674215424",
+              "start": 121,
+              "url": "https://t.co/Z2Ohg0YG4j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937145808589410516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 50906,
+          "like_count": 372,
+          "quote_count": 9,
+          "reply_count": 50,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝们一定要保护好自己！！！你要是发了脸照就一定一定要谨慎发黄！！！！（第一张截图不是我 ，是另一个被box上传的小女孩！！！！！）\n要是被机器人记录下载了你删除帖子也还没有用的！！一定一定要保护好自己！黄推这条路一旦开始就很难回头了！！！ https://t.co/Z2Ohg0YG4j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1936734143804735662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 194,
+          "like_count": 7831,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 2207
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T04:14:02.000Z",
+        "description": "毛儿的日记本|属性brat  星座天秤 | 需要有礼貌的小女孩吻上来|🚪52/188（没有区别就是想圈钱）纯绿 |日常and碎碎念| 私信只回口令红包和有礼貌的 | 不线下不约 | 推广自辨（会关评论区）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=vnxE36SC",
+                "start": 0,
+                "url": "https://t.co/NtKvOP3zLM"
+              }
+            ]
+          }
+        },
+        "id": "1803642368949886976",
+        "location": " Tokyo 无广告干扰，机场节点随便挑，蜂鸟VPN",
+        "name": "小毛米",
+        "pinned_tweet_id": "1927400284998828489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803642443193262081/5F50MW09_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6231,
+          "following_count": 173,
+          "like_count": 20531,
+          "listed_count": 8,
+          "media_count": 230,
+          "tweet_count": 4379
+        },
+        "url": "https://t.co/NtKvOP3zLM",
+        "username": "xiaoguai041003",
+        "verified": false
+      }
+    ]
+  }
+}

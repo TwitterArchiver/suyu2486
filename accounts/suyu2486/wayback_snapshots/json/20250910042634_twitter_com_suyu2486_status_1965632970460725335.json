@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1965622460457631800",
+    "created_at": "2025-09-10T04:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T05:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965632970460725335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882792714296836096",
+          "start": 0,
+          "username": "kunjiao_tkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965632970460725335",
+    "in_reply_to_user_id": "1882792714296836096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965622460457631800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kunjiao_tkk 太美了🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965622444800241664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0dLMwDacAAY83G.jpg",
+        "width": 1614
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1965622460457631800",
+        "created_at": "2025-09-10T04:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T05:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965632970460725335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882792714296836096",
+              "start": 0,
+              "username": "kunjiao_tkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965632970460725335",
+        "in_reply_to_user_id": "1882792714296836096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965622460457631800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kunjiao_tkk 太美了🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965622444800241664"
+          ]
+        },
+        "author_id": "1882792714296836096",
+        "conversation_id": "1965622460457631800",
+        "created_at": "2025-09-10T03:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T04:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965622460457631800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XlaBdEiCeB",
+              "end": 43,
+              "expanded_url": "https://x.com/kunjiao_tkk/status/1965622460457631800/photo/1",
+              "media_key": "3_1965622444800241664",
+              "start": 20,
+              "url": "https://t.co/XlaBdEiCeB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965622460457631800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 490,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "起床顺手拍拍 还有没有好看的腰链啊喂🥹 https://t.co/XlaBdEiCeB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗七个小号其中之一@dante82682",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "dante82682"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1963477103296614437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 227,
+          "like_count": 19311,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 5194
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T14:09:16.000Z",
+        "description": "nothing",
+        "id": "1882792714296836096",
+        "location": "lalaland ",
+        "name": "想困觉了诶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894626958144933888/ZbRXGEzq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16029,
+          "following_count": 7,
+          "like_count": 231,
+          "listed_count": 58,
+          "media_count": 81,
+          "tweet_count": 385
+        },
+        "username": "kunjiao_tkk",
+        "verified": false
+      }
+    ]
+  }
+}

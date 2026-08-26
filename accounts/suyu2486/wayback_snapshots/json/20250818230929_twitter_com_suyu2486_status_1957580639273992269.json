@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1957442832026808649",
+    "created_at": "2025-08-18T23:09:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T00:09:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957580639273992269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1870067454765838336",
+          "start": 0,
+          "username": "chessi1a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957580639273992269",
+    "in_reply_to_user_id": "1870067454765838336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957442832026808649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chessi1a 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1957442832026808649",
+        "created_at": "2025-08-18T23:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T00:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957580639273992269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1870067454765838336",
+              "start": 0,
+              "username": "chessi1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957580639273992269",
+        "in_reply_to_user_id": "1870067454765838336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957442832026808649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chessi1a 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870067454765838336",
+        "conversation_id": "1957442832026808649",
+        "created_at": "2025-08-18T14:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T15:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957442832026808649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chenore33/stat…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/chenore33/status/1957438396219175361",
+              "start": 80,
+              "url": "https://t.co/EqaJsetjP6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957442832026808649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 646,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957438396219175361",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢大家长久以来对我的忽视，我很喜欢这个软件，大家都各聊各的，没人鸟我，我也不想鸟你们，很温馨的一个软件，希望大家继续加油，我会一直和你们耗下去，你们这群叼毛 https://t.co/EqaJsetjP6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 200,
+          "like_count": 15972,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 4243
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T11:23:27.000Z",
+        "description": "08/叫我小娅/私信仅回复过🚪相关/主人@航站楼 /自用vpn：https://t.co/QnxWbh1SjM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn.fnwebnet.sbs/#/register?cod…",
+                "end": 55,
+                "expanded_url": "https://vpn.fnwebnet.sbs/#/register?code=TdtMGihT",
+                "start": 32,
+                "url": "https://t.co/QnxWbh1SjM"
+              }
+            ]
+          }
+        },
+        "id": "1870067454765838336",
+        "location": "🚪88/188/288口令即可",
+        "name": "生物损伤科",
+        "pinned_tweet_id": "1952269408459694174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891054663161565184/LboD5koF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4136,
+          "following_count": 564,
+          "like_count": 10916,
+          "listed_count": 7,
+          "media_count": 385,
+          "tweet_count": 2825
+        },
+        "username": "chessi1a",
+        "verified": false
+      }
+    ]
+  }
+}

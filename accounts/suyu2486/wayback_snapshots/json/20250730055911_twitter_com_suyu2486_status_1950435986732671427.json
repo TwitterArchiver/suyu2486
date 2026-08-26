@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1950417456344035374",
+    "created_at": "2025-07-30T05:59:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T06:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950435986732671427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1515594292873826306",
+          "start": 0,
+          "username": "tiramisu0616"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950435986732671427",
+    "in_reply_to_user_id": "1515594292873826306",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950417456344035374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiramisu0616 依旧美丽…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1482,
+        "media_key": "3_1950417449180155904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxFGVhYbUAACg4-.jpg",
+        "width": 1975
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1950417456344035374",
+        "created_at": "2025-07-30T05:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T06:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950435986732671427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1515594292873826306",
+              "start": 0,
+              "username": "tiramisu0616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950435986732671427",
+        "in_reply_to_user_id": "1515594292873826306",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950417456344035374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiramisu0616 依旧美丽…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950417449180155904"
+          ]
+        },
+        "author_id": "1515594292873826306",
+        "conversation_id": "1950417456344035374",
+        "created_at": "2025-07-30T04:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T05:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950417456344035374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1xg8o3TqdE",
+              "end": 42,
+              "expanded_url": "https://x.com/tiramisu0616/status/1950417456344035374/photo/1",
+              "media_key": "3_1950417449180155904",
+              "start": 19,
+              "url": "https://t.co/1xg8o3TqdE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950417456344035374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1174,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢ai让我见到我直发的样子……。？ https://t.co/1xg8o3TqdE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男，可以叫我小玉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1948457851778990521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 199,
+          "like_count": 12299,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 3423
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-17T07:33:45.000Z",
+        "description": "恋ひ恋ひて朧月夜を忍びけり ＞𐋣＜ | 酱的日记本 | 高p 喜欢胡言乱语 不要骂俺 | 可以把我当一大块提拉米苏吃掉 | 关评是推广 请自辨 推广内容与我本人无关 一切损失别找我",
+        "id": "1515594292873826306",
+        "location": "没门槛 喜欢我或者想和我聊天可以请我喝杯咖啡开始＞𐋣＜",
+        "name": "酱酱公主",
+        "pinned_tweet_id": "1948590756672774548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940234247639302144/TGORU4Xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10372,
+          "following_count": 343,
+          "like_count": 27200,
+          "listed_count": 27,
+          "media_count": 496,
+          "tweet_count": 9889
+        },
+        "username": "tiramisu0616",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1936617354861092916",
+    "created_at": "2025-06-22T05:35:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T06:35:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936659262156976453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1824731467815010305",
+          "start": 0,
+          "username": "ChunQingXiaoQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936659262156976453",
+    "in_reply_to_user_id": "1824731467815010305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936617354861092916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChunQingXiaoQ 姐和姐夫一定要长长久久啊🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 192466,
+        "height": 1080,
+        "media_key": "13_1936616905282043904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1936616905282043904/img/Nm2YNo-oJa9Nx0ms.jpg",
+        "public_metrics": {
+          "view_count": 31791
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1936616905282043904/pl/tiZtcoxWOTMV_qG7.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936616905282043904/vid/avc1/1280x720/5IGwEfUDahRTuI0V.mp4?tag=16"
+          },
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936616905282043904/vid/avc1/480x270/cFBzvHj_3pctx3y4.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936616905282043904/vid/avc1/640x360/jXshT_k_yJpMlvgP.mp4?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936616905282043904/vid/avc1/1920x1080/AatiE1AESMf5Puyd.mp4?tag=16"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1936617354861092916",
+        "created_at": "2025-06-22T05:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T06:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936659262156976453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1824731467815010305",
+              "start": 0,
+              "username": "ChunQingXiaoQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936659262156976453",
+        "in_reply_to_user_id": "1824731467815010305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936617354861092916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChunQingXiaoQ 姐和姐夫一定要长长久久啊🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1936616905282043904"
+          ]
+        },
+        "author_id": "1824731467815010305",
+        "conversation_id": "1936617354861092916",
+        "created_at": "2025-06-22T02:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T03:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936617354861092916"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "对话"
+            },
+            {
+              "end": 101,
+              "start": 96,
+              "tag": "情侣实录"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f5IopjO2uC",
+              "end": 125,
+              "expanded_url": "https://x.com/ChunQingXiaoQ/status/1936617354861092916/video/1",
+              "media_key": "13_1936616905282043904",
+              "start": 102,
+              "url": "https://t.co/f5IopjO2uC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936617354861092916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 599,
+          "impression_count": 61737,
+          "like_count": 2817,
+          "quote_count": 3,
+          "reply_count": 63,
+          "retweet_count": 176
+        },
+        "reply_settings": "everyone",
+        "text": "内含大量对话，是什么让我高潮到神志不清还要说一句经操…\n我：不要操我了\n他：“不操了你要说什么？”\n我：老公要射给我！\n他：“你这样的表现没法射给你宝宝，太不经操了。”\n我：经操的！\n#对话 #情侣实录 https://t.co/f5IopjO2uC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，不喜欢可以喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1936571107319980306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 193,
+          "like_count": 7292,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 2128
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T08:54:30.000Z",
+        "description": "记录和老公的恋/do爱碎片丨情侣丨不接推广 匿名信箱：https://t.co/nXJUhYtfCt丨只此一个号无完整版丨不玩墙内社交软件",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hhh98288",
+                "end": 50,
+                "expanded_url": "https://ngl.link/hhh98288",
+                "start": 27,
+                "url": "https://t.co/nXJUhYtfCt"
+              }
+            ]
+          }
+        },
+        "id": "1824731467815010305",
+        "location": "要你掏钱的都是假号",
+        "name": "纯情小泉",
+        "pinned_tweet_id": "1842552749784719846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824732452017065984/PqfsByEz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548168,
+          "following_count": 33,
+          "like_count": 3464,
+          "listed_count": 865,
+          "media_count": 123,
+          "tweet_count": 2578
+        },
+        "username": "ChunQingXiaoQ",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1942839097716007326",
+    "created_at": "2025-07-09T12:42:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T13:42:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942927248186540073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1867663129163051011",
+          "start": 0,
+          "username": "Nightwish275701"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942927248186540073",
+    "in_reply_to_user_id": "1867663129163051011",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942889978050248897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nightwish275701 千人千面…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1942839097716007326",
+        "created_at": "2025-07-09T12:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T13:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942927248186540073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1867663129163051011",
+              "start": 0,
+              "username": "Nightwish275701"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942927248186540073",
+        "in_reply_to_user_id": "1867663129163051011",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942889978050248897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nightwish275701 千人千面…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867663129163051011",
+        "conversation_id": "1942839097716007326",
+        "created_at": "2025-07-09T10:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T11:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942889978050248897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942889978050248897",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942839097716007326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 别管 我在每个平台 线上线下 都有各自人设🌚🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 200,
+          "like_count": 10964,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 3191
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T20:09:42.000Z",
+        "description": "生人勿近熟人更是滚开",
+        "id": "1867663129163051011",
+        "location": "我的被窝",
+        "name": "火辣草履虫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902302142758785024/BjqCaWPV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 56,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 335
+        },
+        "username": "Nightwish275701",
+        "verified": false
+      }
+    ]
+  }
+}

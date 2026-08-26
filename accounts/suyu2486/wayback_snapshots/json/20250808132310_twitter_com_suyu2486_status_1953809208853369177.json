@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1952614827702276407",
+    "created_at": "2025-08-08T13:23:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T14:23:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953809208853369177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1846829201720066048",
+          "start": 0,
+          "username": "188potato"
+        },
+        {
+          "end": 25,
+          "id": "1568430640428875776",
+          "start": 11,
+          "username": "YesStrayPuppy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953809208853369177",
+    "in_reply_to_user_id": "1846829201720066048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953788955616244061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@188potato @YesStrayPuppy 爱上了吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1952614827702276407",
+        "created_at": "2025-08-08T13:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T14:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953809208853369177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1846829201720066048",
+              "start": 0,
+              "username": "188potato"
+            },
+            {
+              "end": 25,
+              "id": "1568430640428875776",
+              "start": 11,
+              "username": "YesStrayPuppy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953809208853369177",
+        "in_reply_to_user_id": "1846829201720066048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953788955616244061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@188potato @YesStrayPuppy 爱上了吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846829201720066048",
+        "conversation_id": "1952614827702276407",
+        "created_at": "2025-08-08T12:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T13:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953788955616244061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            },
+            {
+              "end": 24,
+              "id": "1568430640428875776",
+              "start": 10,
+              "username": "YesStrayPuppy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953788955616244061",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953333230930636867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 @YesStrayPuppy 神鹰哥你实在是太好了🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1953423119017758926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 200,
+          "like_count": 13990,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 3865
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T08:23:01.000Z",
+        "description": "·₊♡.˚. 𝒜𝓃𝑔𝑒𝓁 𝐹𝒶𝓃𝓉𝒶𝓈𝓎 ✝︎.ಎ ˖* ｜💘小狗男 𝕡𝕦𝕡𝕡𝕪❤️‍🔥 ｜喜欢看美女🥺｜07女高｜lisa ningning mingyu dohoon｜melody｜gloomy bear｜女宝来找我聊天好吗💖",
+        "id": "1846829201720066048",
+        "name": "188土豆男神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951035037836623872/DsCjbwVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 42,
+          "like_count": 1183,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 72
+        },
+        "username": "188potato",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T02:46:49.000Z",
+        "description": "08巨蟹enfp|贫穷又好色的直女|喜欢回关有趣的人！|可以叫我小夜💭嗯嗯我还没想到好听的|没有回应互关们就是在睡觉，学习，打游戏|✋🏻我不聊骚！❗❌|私信都会看，没回就是拒绝的意思😢|互关我亲死你们👿|我要听一辈子术力口♪",
+        "id": "1568430640428875776",
+        "location": "🐶",
+        "name": "夜市流浪小狗",
+        "pinned_tweet_id": "1947508331700228532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945154540401008644/9cTx2DUV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 435,
+          "like_count": 7179,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 1752
+        },
+        "username": "YesStrayPuppy",
+        "verified": false
+      }
+    ]
+  }
+}

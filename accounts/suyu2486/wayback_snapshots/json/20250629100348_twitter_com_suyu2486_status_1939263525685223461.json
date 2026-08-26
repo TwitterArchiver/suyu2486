@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1939159606699118655",
+    "created_at": "2025-06-29T10:03:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T11:03:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939263525685223461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592865779241734144",
+          "start": 0,
+          "username": "yuanyuan774"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939263525685223461",
+    "in_reply_to_user_id": "1592865779241734144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 80,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939159606699118655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanyuan774 笑的我魔丸痛🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 235266,
+        "height": 1280,
+        "media_key": "13_1939158347149639680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1939158347149639680/img/qL_xyfTMgnYoFzzo.jpg",
+        "public_metrics": {
+          "view_count": 1632
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939158347149639680/vid/avc1/320x694/fGkst9ecL1AmDuoK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939158347149639680/vid/avc1/480x1040/N2_UvtXr-r8F8vIx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939158347149639680/vid/avc1/590x1280/O1tsVdMcB7DVk-rV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1939158347149639680/pl/yFbjJNkKKaWdvPvN.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1939159606699118655",
+        "created_at": "2025-06-29T10:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T11:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939263525685223461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592865779241734144",
+              "start": 0,
+              "username": "yuanyuan774"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939263525685223461",
+        "in_reply_to_user_id": "1592865779241734144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939159606699118655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanyuan774 笑的我魔丸痛🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1939158347149639680"
+          ]
+        },
+        "author_id": "1592865779241734144",
+        "conversation_id": "1939159606699118655",
+        "created_at": "2025-06-29T03:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T04:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939159606699118655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f4fjPrgGt1",
+              "end": 36,
+              "expanded_url": "https://x.com/yuanyuan774/status/1939159606699118655/video/1",
+              "media_key": "13_1939158347149639680",
+              "start": 13,
+              "url": "https://t.co/f4fjPrgGt1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939159606699118655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5009,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好无聊 一起看私信吧☝🏻 https://t.co/f4fjPrgGt1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1923458019305660813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 198,
+          "like_count": 9395,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2702
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T13:03:00.000Z",
+        "description": "小号 转片的。@CaTwTuoo。置顶电报推广注意辨别被骗了。   🚪999999。  自用vpn https://t.co/MpYd1JpKSK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "CaTwTuoo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "a1.达蒙.com/#/register?cod…",
+                "end": 73,
+                "expanded_url": "https://a1.xn--hv1a41u.com/#/register?code=8pPHZPk5",
+                "start": 50,
+                "url": "https://t.co/MpYd1JpKSK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pan.quark.cn/s/543a993bb2b4",
+                "end": 23,
+                "expanded_url": "https://pan.quark.cn/s/543a993bb2b4",
+                "start": 0,
+                "url": "https://t.co/TWDgw2qLmx"
+              }
+            ]
+          }
+        },
+        "id": "1592865779241734144",
+        "location": "放了些小福利在网盘里，喜欢的话自取👇🏻",
+        "name": "你是不是欠",
+        "pinned_tweet_id": "1933421319086837912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931517941788667904/6uO6g0aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19979,
+          "following_count": 311,
+          "like_count": 27605,
+          "listed_count": 27,
+          "media_count": 1116,
+          "tweet_count": 22648
+        },
+        "url": "https://t.co/TWDgw2qLmx",
+        "username": "yuanyuan774",
+        "verified": false
+      }
+    ]
+  }
+}

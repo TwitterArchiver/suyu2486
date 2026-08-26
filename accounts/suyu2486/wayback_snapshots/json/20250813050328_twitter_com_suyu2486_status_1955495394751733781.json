@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1955481600088772706",
+    "created_at": "2025-08-13T05:03:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T06:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955495394751733781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1870067454765838336",
+          "start": 0,
+          "username": "chessi1a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955495394751733781",
+    "in_reply_to_user_id": "1870067454765838336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955481600088772706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chessi1a 可以吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5136,
+        "height": 1280,
+        "media_key": "7_1955481578651652097",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1955481578651652097/pu/img/KrkugoDpylomSKBl.jpg",
+        "public_metrics": {
+          "view_count": 58
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1955481578651652097/pu/vid/avc1/320x568/4rXNCCYi68srWX_Z.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1955481578651652097/pu/vid/avc1/480x852/Zw37SO40iXup3_Pd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1955481578651652097/pu/vid/avc1/720x1280/-goH8Z0YxBvWh0Ge.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1955481578651652097/pu/pl/JW15bEXQdsS3PJMU.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1955481600088772706",
+        "created_at": "2025-08-13T05:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T06:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955495394751733781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1870067454765838336",
+              "start": 0,
+              "username": "chessi1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955495394751733781",
+        "in_reply_to_user_id": "1870067454765838336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955481600088772706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chessi1a 可以吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1955481578651652097"
+          ]
+        },
+        "author_id": "1870067454765838336",
+        "conversation_id": "1955481600088772706",
+        "created_at": "2025-08-13T04:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T05:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955481600088772706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IL415UZIHd",
+              "end": 32,
+              "expanded_url": "https://x.com/chessi1a/status/1955481600088772706/video/1",
+              "media_key": "7_1955481578651652097",
+              "start": 9,
+              "url": "https://t.co/IL415UZIHd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955481600088772706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 257,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要不要做我女朋友 https://t.co/IL415UZIHd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1953423119017758926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1261,
+          "following_count": 198,
+          "like_count": 15069,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 4110
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T11:23:27.000Z",
+        "description": "08/叫我小娅/私信仅回复过🚪相关/@shadow_in_shame 碎碎念小号 主人@航站楼 /自用vpn：https://t.co/QnxWbh1SjM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "shadow_in_shame"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vpn.fnwebnet.sbs/#/register?cod…",
+                "end": 78,
+                "expanded_url": "https://vpn.fnwebnet.sbs/#/register?code=TdtMGihT",
+                "start": 55,
+                "url": "https://t.co/QnxWbh1SjM"
+              }
+            ]
+          }
+        },
+        "id": "1870067454765838336",
+        "location": "🚪88/188/288口令即可",
+        "name": "生物损伤科",
+        "pinned_tweet_id": "1952950526485922257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891054663161565184/LboD5koF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4087,
+          "following_count": 533,
+          "like_count": 10123,
+          "listed_count": 7,
+          "media_count": 372,
+          "tweet_count": 2672
+        },
+        "username": "chessi1a",
+        "verified": false
+      }
+    ]
+  }
+}

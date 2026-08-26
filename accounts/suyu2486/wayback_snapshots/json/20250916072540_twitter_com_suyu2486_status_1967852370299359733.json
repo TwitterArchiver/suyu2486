@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967852357351600128"
+      ]
+    },
+    "author_id": "1910715228523831296",
+    "conversation_id": "1967808716356587731",
+    "created_at": "2025-09-16T07:25:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T08:25:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967852370299359733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1905243767898316800",
+          "start": 0,
+          "username": "ttBratOvO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B6sNvIB7QI",
+          "end": 94,
+          "expanded_url": "https://x.com/suyu2486/status/1967852370299359733/photo/1",
+          "media_key": "3_1967852357351600128",
+          "start": 71,
+          "url": "https://t.co/B6sNvIB7QI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967852370299359733",
+    "in_reply_to_user_id": "1905243767898316800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967808716356587731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ttBratOvO 我手上也是，我自己拿指甲挠的，每次焦虑或者尴尬的时候就挠，手背上，挠的肉都挠出来，指甲缝里都是肉沫，这是好久前的伤口了 https://t.co/B6sNvIB7QI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1625,
+        "media_key": "3_1967852357351600128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G083SvpbcAAzV2F.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1967808706269380608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G08Pl6sbgAAq2gw.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967852357351600128"
+          ]
+        },
+        "author_id": "1910715228523831296",
+        "conversation_id": "1967808716356587731",
+        "created_at": "2025-09-16T07:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T08:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967852370299359733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1905243767898316800",
+              "start": 0,
+              "username": "ttBratOvO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B6sNvIB7QI",
+              "end": 94,
+              "expanded_url": "https://x.com/suyu2486/status/1967852370299359733/photo/1",
+              "media_key": "3_1967852357351600128",
+              "start": 71,
+              "url": "https://t.co/B6sNvIB7QI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967852370299359733",
+        "in_reply_to_user_id": "1905243767898316800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967808716356587731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ttBratOvO 我手上也是，我自己拿指甲挠的，每次焦虑或者尴尬的时候就挠，手背上，挠的肉都挠出来，指甲缝里都是肉沫，这是好久前的伤口了 https://t.co/B6sNvIB7QI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967808706269380608"
+          ]
+        },
+        "author_id": "1905243767898316800",
+        "conversation_id": "1967808716356587731",
+        "created_at": "2025-09-16T04:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T05:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967808716356587731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q5vLrQMeFX",
+              "end": 34,
+              "expanded_url": "https://x.com/ttBratOvO/status/1967808716356587731/photo/1",
+              "media_key": "3_1967808706269380608",
+              "start": 11,
+              "url": "https://t.co/Q5vLrQMeFX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967808716356587731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 296,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我手上好多于小小的疤 https://t.co/Q5vLrQMeFX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗七个小号其中之一@dante82682",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "dante82682"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1595,
+          "following_count": 239,
+          "like_count": 19534,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 5379
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T13:01:35.000Z",
+        "description": "我只是一个会打字会玩手机的猫 善待我 脾气差  屌图都别发给我 无🚪不加v 不线下 不接推广 不接推广 纯清水 喜欢我的可以给我打钱",
+        "id": "1905243767898316800",
+        "location": "喵",
+        "name": "kitten",
+        "pinned_tweet_id": "1964425577521435112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935705353322119168/wvUZunxS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2869,
+          "following_count": 251,
+          "like_count": 7049,
+          "listed_count": 8,
+          "media_count": 240,
+          "tweet_count": 3337
+        },
+        "username": "ttBratOvO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1943481494749515965",
+    "created_at": "2025-07-11T01:33:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T02:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943483837347971088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1867539520771829761",
+          "start": 0,
+          "username": "Caonimabiefanwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943483837347971088",
+    "in_reply_to_user_id": "1867539520771829761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943481494749515965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Caonimabiefanwo 那我服了，奶黄包老师…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 591,
+        "media_key": "3_1943481487812116481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GviiHbyWwAEzXtW.jpg",
+        "width": 582
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1943481494749515965",
+        "created_at": "2025-07-11T01:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T02:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943483837347971088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1867539520771829761",
+              "start": 0,
+              "username": "Caonimabiefanwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943483837347971088",
+        "in_reply_to_user_id": "1867539520771829761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943481494749515965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Caonimabiefanwo 那我服了，奶黄包老师…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943481487812116481"
+          ]
+        },
+        "author_id": "1867539520771829761",
+        "conversation_id": "1943481494749515965",
+        "created_at": "2025-07-11T01:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T02:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943481494749515965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QpY9idN7vn",
+              "end": 37,
+              "expanded_url": "https://x.com/Caonimabiefanwo/status/1943481494749515965/photo/1",
+              "media_key": "3_1943481487812116481",
+              "start": 14,
+              "url": "https://t.co/QpY9idN7vn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943481494749515965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没人觉得真的很像龟头吗。🐢 https://t.co/QpY9idN7vn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 201,
+          "like_count": 11345,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 3252
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T11:58:21.000Z",
+        "description": "ENTP 🟡忙于学业🚫催回消息 私信仅回复口令红包/带脸帅照。🚪288及以上。挂着防骚扰",
+        "id": "1867539520771829761",
+        "name": "爆浆奶黄包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939874755060146176/GeTkR3wW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13274,
+          "following_count": 1231,
+          "like_count": 40225,
+          "listed_count": 14,
+          "media_count": 716,
+          "tweet_count": 9703
+        },
+        "username": "Caonimabiefanwo",
+        "verified": false
+      }
+    ]
+  }
+}

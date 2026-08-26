@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1991110904927355212",
+    "created_at": "2025-11-19T13:50:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T14:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991141919829999674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1801270531255357440",
+          "start": 0,
+          "username": "GraceW895519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991141919829999674",
+    "in_reply_to_user_id": "1801270531255357440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991110904927355212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GraceW895519 婉拒了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1991110904927355212",
+        "created_at": "2025-11-19T13:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T14:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991141919829999674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1801270531255357440",
+              "start": 0,
+              "username": "GraceW895519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991141919829999674",
+        "in_reply_to_user_id": "1801270531255357440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991110904927355212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GraceW895519 婉拒了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801270531255357440",
+        "conversation_id": "1991110904927355212",
+        "created_at": "2025-11-19T11:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T12:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991110904927355212"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991110904927355212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 793,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好想从互关里挑一个做爱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "已婚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1989396880938410150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2487,
+          "following_count": 272,
+          "like_count": 22642,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 6365
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T15:09:06.000Z",
+        "description": "INFP DS DDLG ✟ be gentle｜谢谢你喜欢我（啥也不接）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miaaa_yuyi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miaaa_yuyi",
+                "start": 0,
+                "url": "https://t.co/4VcjyfuVUN"
+              }
+            ]
+          }
+        },
+        "id": "1801270531255357440",
+        "location": "🚪188/288｜信箱➡️",
+        "name": "Graceee🐾（开门版）",
+        "pinned_tweet_id": "1989216638311522654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949904797542514688/njtOjoul_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9936,
+          "following_count": 208,
+          "like_count": 20053,
+          "listed_count": 32,
+          "media_count": 292,
+          "tweet_count": 2289
+        },
+        "url": "https://t.co/4VcjyfuVUN",
+        "username": "GraceW895519",
+        "verified": false
+      }
+    ]
+  }
+}

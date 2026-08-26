@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1935651101744959534",
+    "created_at": "2025-06-20T10:49:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T11:49:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936013649807597917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1863961527218556928",
+          "start": 0,
+          "username": "Qi__iH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936013649807597917",
+    "in_reply_to_user_id": "1863961527218556928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935651101744959534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qi__iH 我的奶妈…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935651092953747457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtzQadya0AETF5y.jpg",
+        "width": 372
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1935651101744959534",
+        "created_at": "2025-06-20T10:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T11:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936013649807597917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1863961527218556928",
+              "start": 0,
+              "username": "Qi__iH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936013649807597917",
+        "in_reply_to_user_id": "1863961527218556928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935651101744959534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qi__iH 我的奶妈…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935651092953747457"
+          ]
+        },
+        "author_id": "1863961527218556928",
+        "conversation_id": "1935651101744959534",
+        "created_at": "2025-06-19T10:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T11:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935651101744959534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/33VvSEFDCN",
+              "end": 28,
+              "expanded_url": "https://x.com/Qi__iH/status/1935651101744959534/photo/1",
+              "media_key": "3_1935651092953747457",
+              "start": 5,
+              "url": "https://t.co/33VvSEFDCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935651101744959534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2355,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要干啥。 https://t.co/33VvSEFDCN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的，我将做回神鹰，爱说点c语言，不喜欢可以喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 181,
+          "like_count": 6671,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1896
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-03T15:00:41.000Z",
+        "description": "比我的屎更硬的是我的脾气",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ff43369",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ff43369",
+                "start": 0,
+                "url": "https://t.co/wJ2aTWAmV4"
+              }
+            ]
+          }
+        },
+        "id": "1863961527218556928",
+        "name": "芝士一个饼干",
+        "pinned_tweet_id": "1929593107206816112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933178635932024832/YYVOM2g8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2259,
+          "following_count": 122,
+          "like_count": 8388,
+          "listed_count": 6,
+          "media_count": 435,
+          "tweet_count": 6107
+        },
+        "url": "https://t.co/wJ2aTWAmV4",
+        "username": "Qi__iH",
+        "verified": false
+      }
+    ]
+  }
+}

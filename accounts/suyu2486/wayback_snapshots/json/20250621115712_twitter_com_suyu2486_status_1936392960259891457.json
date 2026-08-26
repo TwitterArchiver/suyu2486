@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1936324930909749385",
+    "created_at": "2025-06-21T11:57:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T12:57:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936392960259891457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1688397365336850432",
+          "start": 0,
+          "username": "hongpigu980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936392960259891457",
+    "in_reply_to_user_id": "1688397365336850432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936324930909749385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hongpigu980 应该放屁把肛塞崩出打脸上了有阴影了，我想不到别的可能了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1025,
+        "media_key": "3_1936324919807365121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt81QWba0AERG1k.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1936324930909749385",
+        "created_at": "2025-06-21T11:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T12:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936392960259891457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1688397365336850432",
+              "start": 0,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936392960259891457",
+        "in_reply_to_user_id": "1688397365336850432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936324930909749385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongpigu980 应该放屁把肛塞崩出打脸上了有阴影了，我想不到别的可能了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936324919807365121"
+          ]
+        },
+        "author_id": "1688397365336850432",
+        "conversation_id": "1936324930909749385",
+        "created_at": "2025-06-21T07:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T08:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936324930909749385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DRMT71CUDr",
+              "end": 37,
+              "expanded_url": "https://x.com/hongpigu980/status/1936324930909749385/photo/1",
+              "media_key": "3_1936324919807365121",
+              "start": 14,
+              "url": "https://t.co/DRMT71CUDr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936324930909749385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7886,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你屁股里藏雷了？他这么害怕 https://t.co/DRMT71CUDr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，不喜欢可以喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 193,
+          "like_count": 7064,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 2046
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”",
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44456,
+          "following_count": 39,
+          "like_count": 29,
+          "listed_count": 39,
+          "media_count": 486,
+          "tweet_count": 626
+        },
+        "username": "hongpigu980",
+        "verified": true
+      }
+    ]
+  }
+}

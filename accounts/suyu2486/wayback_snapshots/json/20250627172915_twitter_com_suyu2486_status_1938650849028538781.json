@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1938498694414012903",
+    "created_at": "2025-06-27T17:29:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T18:29:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938650849028538781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1798255824571355136",
+          "start": 0,
+          "username": "RourouYang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938650849028538781",
+    "in_reply_to_user_id": "1798255824571355136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938498694414012903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RourouYang_ 这我还接个蛋啊，我蛋接破了都接不到吧！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 618,
+        "media_key": "3_1938498688852344832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GubuSXKawAAP_MT.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1938498694414012903",
+        "created_at": "2025-06-27T17:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T18:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938650849028538781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1798255824571355136",
+              "start": 0,
+              "username": "RourouYang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938650849028538781",
+        "in_reply_to_user_id": "1798255824571355136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938498694414012903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RourouYang_ 这我还接个蛋啊，我蛋接破了都接不到吧！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938498688852344832"
+          ]
+        },
+        "author_id": "1798255824571355136",
+        "conversation_id": "1938498694414012903",
+        "created_at": "2025-06-27T07:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T08:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938498694414012903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1APule0xsr",
+              "end": 27,
+              "expanded_url": "https://x.com/RourouYang_/status/1938498694414012903/photo/1",
+              "media_key": "3_1938498688852344832",
+              "start": 4,
+              "url": "https://t.co/1APule0xsr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938498694414012903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3035,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁接🙏 https://t.co/1APule0xsr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1938601372837913057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 196,
+          "like_count": 8805,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2483
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T07:29:42.000Z",
+        "description": "我发誓永远待他如初｜写点东西@YangyangRou_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "YangyangRou_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rourouyang_2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rourouyang_2",
+                "start": 0,
+                "url": "https://t.co/pO2wIk5FtD"
+              }
+            ]
+          }
+        },
+        "id": "1798255824571355136",
+        "location": "匿名提问箱💞➡️",
+        "name": "K᳐ilig᳐੭",
+        "pinned_tweet_id": "1805621105526550648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873042187866521602/DM51ZFvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10313,
+          "following_count": 450,
+          "like_count": 19962,
+          "listed_count": 18,
+          "media_count": 707,
+          "tweet_count": 10130
+        },
+        "url": "https://t.co/pO2wIk5FtD",
+        "username": "RourouYang_",
+        "verified": false
+      }
+    ]
+  }
+}

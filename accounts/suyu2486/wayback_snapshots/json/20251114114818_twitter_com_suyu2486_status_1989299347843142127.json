@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1989292449492337052",
+    "created_at": "2025-11-14T11:48:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T12:48:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989299347843142127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1881733931588022272",
+          "start": 0,
+          "username": "1122S1its"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989299347843142127",
+    "in_reply_to_user_id": "1881733931588022272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989292449492337052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1122S1its 转场赋能"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34475,
+        "height": 720,
+        "media_key": "13_1989292291039879168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1989292291039879168/img/5wb1tmPrZOzuagaC.jpg",
+        "public_metrics": {
+          "view_count": 47
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989292291039879168/vid/avc1/432x270/4duZn-Id2fGxYvTV.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989292291039879168/vid/avc1/576x360/vqoUFCMBGZMVhV3G.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989292291039879168/vid/avc1/1152x720/g0cfq4gWmkWhwNe2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1989292291039879168/pl/VfKH_bRf4emcOjw3.m3u8"
+          }
+        ],
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1989292449492337052",
+        "created_at": "2025-11-14T11:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T12:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989299347843142127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1881733931588022272",
+              "start": 0,
+              "username": "1122S1its"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989299347843142127",
+        "in_reply_to_user_id": "1881733931588022272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989292449492337052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1122S1its 转场赋能"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1989292291039879168"
+          ]
+        },
+        "author_id": "1881733931588022272",
+        "conversation_id": "1989292449492337052",
+        "created_at": "2025-11-14T11:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T12:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989292449492337052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pom6oup5on",
+              "end": 29,
+              "expanded_url": "https://x.com/1122S1its/status/1989292449492337052/video/1",
+              "media_key": "13_1989292291039879168",
+              "start": 6,
+              "url": "https://t.co/Pom6oup5on"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989292449492337052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁教我预瞄 https://t.co/Pom6oup5on"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "06，男，infp…我是s，我要调教你，给我跪下，舔我脚🦶🏻推特上有没有m？😈我是暴力s啊，手黑的很，黑手啪啪啪。😡有没有感觉？过来 过来，小狗，是不是我的小狗啊？😏你是不是我的小狗，来主人面前！爬过来！爬过来！🥴",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2494,
+          "following_count": 266,
+          "like_count": 22495,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 6319
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-21T16:01:57.000Z",
+        "description": "防💥小号@Siksl6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 4,
+                "username": "Siksl6"
+              }
+            ]
+          }
+        },
+        "id": "1881733931588022272",
+        "name": "^o邪恶开塞露（善良人格",
+        "pinned_tweet_id": "1986404817477247388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975256181338984448/c9CBk43z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22906,
+          "following_count": 188,
+          "like_count": 777,
+          "listed_count": 26,
+          "media_count": 117,
+          "tweet_count": 596
+        },
+        "username": "1122S1its",
+        "verified": false
+      }
+    ]
+  }
+}

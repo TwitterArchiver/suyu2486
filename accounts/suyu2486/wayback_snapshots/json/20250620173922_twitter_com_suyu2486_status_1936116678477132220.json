@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1936050964492173575",
+    "created_at": "2025-06-20T17:39:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T18:39:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936116678477132220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1747651350123466752",
+          "start": 0,
+          "username": "Raccoonxin1231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936116678477132220",
+    "in_reply_to_user_id": "1747651350123466752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936050964492173575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raccoonxin1231 太好了，至少我有他妈的心阅读权"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14566,
+        "height": 1280,
+        "media_key": "7_1936050905079857154",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1936050905079857154/pu/img/rllCKVA66rq-yqBt.jpg",
+        "public_metrics": {
+          "view_count": 57
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1936050905079857154/pu/vid/avc1/320x568/BNSBZOl4SnsP8xH2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1936050905079857154/pu/vid/avc1/480x852/quItD5MkKBO6QsR7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1936050905079857154/pu/vid/avc1/720x1280/vV8H3tzO9SLNy_iZ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1936050905079857154/pu/pl/xCco9p3tUJK2bDtc.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1936050964492173575",
+        "created_at": "2025-06-20T17:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T18:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936116678477132220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1747651350123466752",
+              "start": 0,
+              "username": "Raccoonxin1231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936116678477132220",
+        "in_reply_to_user_id": "1747651350123466752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936050964492173575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raccoonxin1231 太好了，至少我有他妈的心阅读权"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1936050905079857154"
+          ]
+        },
+        "author_id": "1747651350123466752",
+        "conversation_id": "1936050964492173575",
+        "created_at": "2025-06-20T13:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T14:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936050964492173575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EF0uW9eOpH",
+              "end": 29,
+              "expanded_url": "https://x.com/Raccoonxin1231/status/1936050964492173575/video/1",
+              "media_key": "7_1936050905079857154",
+              "start": 6,
+              "url": "https://t.co/EF0uW9eOpH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936050964492173575",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的耳朵！ https://t.co/EF0uW9eOpH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的，我将做回神鹰，爱说点c语言，不喜欢可以喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 180,
+          "like_count": 6734,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1915
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-17T16:05:36.000Z",
+        "description": "05/ISFP/护理生/可以叫我浣熊或者包子/没养浣熊，别问了/喜欢唱歌🎤/很喜欢平井桃和泰勒斯威夫特\n自用蜂鸟VPN https://t.co/nA1ANDDiH7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 83,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=IZ9RyvwG",
+                "start": 60,
+                "url": "https://t.co/nA1ANDDiH7"
+              }
+            ]
+          }
+        },
+        "id": "1747651350123466752",
+        "location": "404_Not Found",
+        "name": "重生归来之浣熊捡到一个棉花糖放到水里洗没了伤心的拿起武器用智慧的大脑统治人类建立浣熊帝国然后成功上岸",
+        "pinned_tweet_id": "1907845826229186824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928664653326114816/ukoqD63M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1299,
+          "following_count": 794,
+          "like_count": 34628,
+          "listed_count": 8,
+          "media_count": 959,
+          "tweet_count": 6610
+        },
+        "username": "Raccoonxin1231",
+        "verified": false
+      }
+    ]
+  }
+}

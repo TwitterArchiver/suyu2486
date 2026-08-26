@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1959176960833179705",
+    "created_at": "2025-08-23T23:15:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T00:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959394073594536022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1818541222535086082",
+          "start": 0,
+          "username": "erv477359137665"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959394073594536022",
+    "in_reply_to_user_id": "1818541222535086082",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959311238523207832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@erv477359137665 行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1959176960833179705",
+        "created_at": "2025-08-23T23:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T00:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959394073594536022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1818541222535086082",
+              "start": 0,
+              "username": "erv477359137665"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959394073594536022",
+        "in_reply_to_user_id": "1818541222535086082",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959311238523207832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@erv477359137665 行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818541222535086082",
+        "conversation_id": "1959176960833179705",
+        "created_at": "2025-08-23T17:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T18:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959311238523207832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959311238523207832",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959176960833179705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 酒店钱aa可以吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个好色的sb男的，双相情感障碍，情感漠视，精神失常，都滚远点别来烦我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1357,
+          "following_count": 199,
+          "like_count": 16667,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 4428
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T06:56:37.000Z",
+        "description": "纯分享",
+        "id": "1818541222535086082",
+        "location": "09 体育生",
+        "name": "范小勤",
+        "pinned_tweet_id": "1951964407803834868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952946822596706307/ciw_Rj1t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 302,
+          "like_count": 705,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 114
+        },
+        "username": "erv477359137665",
+        "verified": false
+      }
+    ]
+  }
+}

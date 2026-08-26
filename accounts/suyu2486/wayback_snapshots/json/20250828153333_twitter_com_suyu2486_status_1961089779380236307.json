@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1961014584900248054",
+    "created_at": "2025-08-28T15:33:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T16:33:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961089779380236307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1836754676127260672",
+          "start": 0,
+          "username": "immmiss0u04ever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961089779380236307",
+    "in_reply_to_user_id": "1836754676127260672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 7,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961014584900248054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@immmiss0u04ever 给我干哪来了？给我干马里亚纳海沟来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1961014574271901696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzbsXYrXMAAoPdW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1961014584900248054",
+        "created_at": "2025-08-28T15:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T16:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961089779380236307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1836754676127260672",
+              "start": 0,
+              "username": "immmiss0u04ever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961089779380236307",
+        "in_reply_to_user_id": "1836754676127260672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961014584900248054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@immmiss0u04ever 给我干哪来了？给我干马里亚纳海沟来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961014574271901696"
+          ]
+        },
+        "author_id": "1836754676127260672",
+        "conversation_id": "1961014584900248054",
+        "created_at": "2025-08-28T10:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T11:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961014584900248054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QMT1PvkXYz",
+              "end": 23,
+              "expanded_url": "https://x.com/immmiss0u04ever/status/1961014584900248054/photo/1",
+              "media_key": "3_1961014574271901696",
+              "start": 0,
+              "url": "https://t.co/QMT1PvkXYz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961014584900248054",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3327,
+          "like_count": 114,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QMT1PvkXYz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个好色的sb男的，双相情感障碍，情感漠视，精神失常，都滚远点别来烦我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "小玉",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1362,
+          "following_count": 198,
+          "like_count": 17149,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 4555
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-19T13:10:22.000Z",
+        "description": "🚪188纯绿 不线下不定制｜推广自辨｜互关快来找我玩｜盗我图我是不会放过你的哦🥰",
+        "id": "1836754676127260672",
+        "location": "Syria ",
+        "name": "侃爷韦斯特特特（恩师冰美式",
+        "pinned_tweet_id": "1951586967969554933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960759370108571648/PwjjJPhb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9166,
+          "following_count": 202,
+          "like_count": 7458,
+          "listed_count": 23,
+          "media_count": 454,
+          "tweet_count": 5611
+        },
+        "username": "immmiss0u04ever",
+        "verified": false
+      }
+    ]
+  }
+}

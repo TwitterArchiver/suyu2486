@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1997634598235247067",
+    "created_at": "2025-12-07T17:58:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T18:58:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997727389414289663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1553278286796451840",
+          "start": 0,
+          "username": "XuanZai12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997727389414289663",
+    "in_reply_to_user_id": "1553278286796451840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997634598235247067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XuanZai12138 好萌好萌喜欢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997634590048219136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7kGE2LbcAAnlbL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1997634598235247067",
+        "created_at": "2025-12-07T17:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T18:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997727389414289663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1553278286796451840",
+              "start": 0,
+              "username": "XuanZai12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997727389414289663",
+        "in_reply_to_user_id": "1553278286796451840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997634598235247067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XuanZai12138 好萌好萌喜欢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997634590048219136"
+          ]
+        },
+        "author_id": "1553278286796451840",
+        "conversation_id": "1997634598235247067",
+        "created_at": "2025-12-07T11:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T12:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997634598235247067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ktBemFRE4j",
+              "end": 30,
+              "expanded_url": "https://x.com/XuanZai12138/status/1997634598235247067/photo/1",
+              "media_key": "3_1997634590048219136",
+              "start": 7,
+              "url": "https://t.co/ktBemFRE4j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997634598235247067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2517,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我来卖个萌。 https://t.co/ktBemFRE4j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是一个死人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1985888956073066671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2503,
+          "following_count": 276,
+          "like_count": 22994,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 6423
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-30T07:16:29.000Z",
+        "description": "我们都是空前绝后的幸运小孩@huang_h07",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "huang_h07"
+              }
+            ]
+          }
+        },
+        "id": "1553278286796451840",
+        "name": "十九岁帅到邻居想报警",
+        "pinned_tweet_id": "1814367674186772680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996440047638421504/ORE3_Ik5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 69,
+          "like_count": 225,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 153
+        },
+        "username": "XuanZai12138",
+        "verified": false
+      }
+    ]
+  }
+}

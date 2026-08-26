@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1975783712219595193",
+    "created_at": "2025-10-08T06:19:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T07:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975808359510249783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1883157644711796736",
+          "start": 0,
+          "username": "TvTbreak"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975808359510249783",
+    "in_reply_to_user_id": "1883157644711796736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975783712219595193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TvTbreak 可以"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1641,
+        "media_key": "3_1975783703642316802",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2tkz3CbIAI7mom.jpg",
+        "width": 1242
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1975783703646519296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2tkz3DbQAAU1Kf.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1975783703667482626",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2tkz3IbIAISBbe.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1975783712219595193",
+        "created_at": "2025-10-08T06:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T07:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975808359510249783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883157644711796736",
+              "start": 0,
+              "username": "TvTbreak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975808359510249783",
+        "in_reply_to_user_id": "1883157644711796736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975783712219595193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TvTbreak 可以"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975783703642316802",
+            "3_1975783703646519296",
+            "3_1975783703667482626"
+          ]
+        },
+        "author_id": "1883157644711796736",
+        "conversation_id": "1975783712219595193",
+        "created_at": "2025-10-08T04:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T05:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975783712219595193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cxDunJhFT5",
+              "end": 33,
+              "expanded_url": "https://x.com/TvTbreak/status/1975783712219595193/photo/1",
+              "media_key": "3_1975783703642316802",
+              "start": 10,
+              "url": "https://t.co/cxDunJhFT5"
+            },
+            {
+              "display_url": "pic.x.com/cxDunJhFT5",
+              "end": 33,
+              "expanded_url": "https://x.com/TvTbreak/status/1975783712219595193/photo/1",
+              "media_key": "3_1975783703646519296",
+              "start": 10,
+              "url": "https://t.co/cxDunJhFT5"
+            },
+            {
+              "display_url": "pic.x.com/cxDunJhFT5",
+              "end": 33,
+              "expanded_url": "https://x.com/TvTbreak/status/1975783712219595193/photo/1",
+              "media_key": "3_1975783703667482626",
+              "start": 10,
+              "url": "https://t.co/cxDunJhFT5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975783712219595193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1111,
+          "like_count": 50,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等你下课一起走好吗 https://t.co/cxDunJhFT5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我玊玉，叫玉是因为英文名是jade，玊（su）是有瑕疵的玉的意思，男的，infp，装逼让你飞起来，机舱开🚪中，座位费20一位（一包黑兰州的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗     🎼  转帖、置顶推广关评自辩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1975034794699538547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2137,
+          "following_count": 263,
+          "like_count": 20892,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 5796
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T14:19:15.000Z",
+        "description": "喜欢和妹宝们互动",
+        "id": "1883157644711796736",
+        "location": "看黄男远离我｜置顶推广自辨",
+        "name": "對我好疏遠是怎麼啦",
+        "pinned_tweet_id": "1974435451063947738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972557601704747008/nf5Yhb5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3862,
+          "following_count": 107,
+          "like_count": 5953,
+          "listed_count": 15,
+          "media_count": 40,
+          "tweet_count": 2474
+        },
+        "username": "TvTbreak",
+        "verified": false
+      }
+    ]
+  }
+}

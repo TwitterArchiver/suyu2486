@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1952985247836192868",
+    "created_at": "2025-08-06T16:36:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T17:36:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953133102554927341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1831042430449471488",
+          "start": 0,
+          "username": "x57688"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953133102554927341",
+    "in_reply_to_user_id": "1831042430449471488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952985247836192868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x57688 啥笑话啊，我真好奇了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1952985247836192868",
+        "created_at": "2025-08-06T16:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T17:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953133102554927341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1831042430449471488",
+              "start": 0,
+              "username": "x57688"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953133102554927341",
+        "in_reply_to_user_id": "1831042430449471488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952985247836192868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x57688 啥笑话啊，我真好奇了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831042430449471488",
+        "conversation_id": "1952985247836192868",
+        "created_at": "2025-08-06T06:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T07:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952985247836192868"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952985247836192868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1061,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们 我的上颚上火了好痛。。吃饭的时候我妈讲笑话我一直在笑就真的磨破了。。。。。现在我可以做商业巨鳄吗因为我觉得它肿了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1952327381869338999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 199,
+          "like_count": 13464,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 3711
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T18:52:28.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=W1K03lm9",
+                "start": 0,
+                "url": "https://t.co/8AMdihilgc"
+              }
+            ]
+          }
+        },
+        "id": "1831042430449471488",
+        "location": "自用蜂鸟VPN",
+        "name": "香芋派",
+        "pinned_tweet_id": "1926365201269444810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928837612439220232/7cwXX9oR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5837,
+          "following_count": 242,
+          "like_count": 13839,
+          "listed_count": 2,
+          "media_count": 196,
+          "tweet_count": 8620
+        },
+        "url": "https://t.co/8AMdihilgc",
+        "username": "x57688",
+        "verified": false
+      }
+    ]
+  }
+}

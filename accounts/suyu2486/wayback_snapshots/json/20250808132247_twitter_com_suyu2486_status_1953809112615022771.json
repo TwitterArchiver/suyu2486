@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1953616065029976381",
+    "created_at": "2025-08-08T13:22:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T14:22:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953809112615022771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1795758606672867329",
+          "start": 0,
+          "username": "aiqibaozmc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953809112615022771",
+    "in_reply_to_user_id": "1795758606672867329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953787527204044874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiqibaozmc 别说了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1953616065029976381",
+        "created_at": "2025-08-08T13:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T14:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953809112615022771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1795758606672867329",
+              "start": 0,
+              "username": "aiqibaozmc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953809112615022771",
+        "in_reply_to_user_id": "1795758606672867329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953787527204044874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiqibaozmc 别说了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795758606672867329",
+        "conversation_id": "1953616065029976381",
+        "created_at": "2025-08-08T11:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T12:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953787527204044874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953787527204044874",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953616065029976381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 可能蚊子觉得你的牛子太小，想让你的牛子变大一点盯一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1953423119017758926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 200,
+          "like_count": 13949,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 3849
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T10:06:40.000Z",
+        "description": "不坑不骗/只做原创丨🚪99 （好友位/线下课表）🚪399（线下资格以及私 v 好友位视频/日常聊天）丨可接视频定制/视频 1v1 丨过🚪回复问题丨已过小新佛酱日理万姬大v认证，放心入门 不会被骗～盗图替我挡灾😡举报我替我挡灾",
+        "id": "1795758606672867329",
+        "name": "小琪在上海～（江浙沪一日女友版",
+        "pinned_tweet_id": "1866675197056794843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900705439056359430/bxVjJQx3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30666,
+          "following_count": 6,
+          "like_count": 429,
+          "listed_count": 77,
+          "media_count": 141,
+          "tweet_count": 413
+        },
+        "username": "aiqibaozmc",
+        "verified": false
+      }
+    ]
+  }
+}

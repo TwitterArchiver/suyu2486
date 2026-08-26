@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2083158305011270053",
+    "created_at": "2026-07-31T12:06:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T13:06:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083162414678167824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1909792177703768064",
+          "start": 0,
+          "username": "blueeovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083162414678167824",
+    "in_reply_to_user_id": "1909792177703768064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083158305011270053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blueeovo 古早…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083158270005665793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjdaNaa4AEbrVt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083158270018260992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjdaNdbEAADfhV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2083158305011270053",
+        "created_at": "2026-07-31T12:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083162414678167824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1909792177703768064",
+              "start": 0,
+              "username": "blueeovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083162414678167824",
+        "in_reply_to_user_id": "1909792177703768064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083158305011270053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blueeovo 古早…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083158270005665793",
+            "3_2083158270018260992"
+          ]
+        },
+        "author_id": "1909792177703768064",
+        "conversation_id": "2083158305011270053",
+        "created_at": "2026-07-31T11:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083158305011270053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LwAfiE92Kw",
+              "end": 28,
+              "expanded_url": "https://x.com/blueeovo/status/2083158305011270053/photo/1",
+              "media_key": "3_2083158270005665793",
+              "start": 5,
+              "url": "https://t.co/LwAfiE92Kw"
+            },
+            {
+              "display_url": "pic.x.com/LwAfiE92Kw",
+              "end": 28,
+              "expanded_url": "https://x.com/blueeovo/status/2083158305011270053/photo/1",
+              "media_key": "3_2083158270018260992",
+              "start": 5,
+              "url": "https://t.co/LwAfiE92Kw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083158305011270053",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🧟‍♀️ https://t.co/LwAfiE92Kw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 193,
+          "like_count": 21173,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6604
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T02:15:33.000Z",
+        "description": "我通过了你的好友申请 现在我们可以开始冷场了^𖥦^｜我最爱的女人@Mn1to05_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "Mn1to05_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/blue62072",
+                "end": 23,
+                "expanded_url": "https://ngl.link/blue62072",
+                "start": 0,
+                "url": "https://t.co/VbwfllC29v"
+              }
+            ]
+          }
+        },
+        "id": "1909792177703768064",
+        "name": "无人拒绝一具学生尸体",
+        "pinned_tweet_id": "2026467931572547812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967229118917017600/jJq3Pje6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 248,
+          "like_count": 6609,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 4631
+        },
+        "url": "https://t.co/VbwfllC29v",
+        "username": "blueeovo",
+        "verified": false
+      }
+    ]
+  }
+}

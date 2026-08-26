@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1936008456663973908",
+    "created_at": "2025-06-20T10:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T11:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936009660546338869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1625547806357454848",
+          "start": 0,
+          "username": "uvuxvx43"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936009660546338869",
+    "in_reply_to_user_id": "1625547806357454848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936008456663973908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uvuxvx43 哎我c了，这小猫吃个饭都这样萌要是再过来蹭蹭我，我直接晕倒了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1936008436845543424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt4VanhWgAAIwri.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1936008436149374976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt4Vak7X0AATkAL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1936008456663973908",
+        "created_at": "2025-06-20T10:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T11:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936009660546338869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1625547806357454848",
+              "start": 0,
+              "username": "uvuxvx43"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936009660546338869",
+        "in_reply_to_user_id": "1625547806357454848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936008456663973908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uvuxvx43 哎我c了，这小猫吃个饭都这样萌要是再过来蹭蹭我，我直接晕倒了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936008436845543424",
+            "3_1936008436149374976"
+          ]
+        },
+        "author_id": "1625547806357454848",
+        "conversation_id": "1936008456663973908",
+        "created_at": "2025-06-20T10:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T11:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936008456663973908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eihGmNcwka",
+              "end": 37,
+              "expanded_url": "https://x.com/uvuxvx43/status/1936008456663973908/photo/1",
+              "media_key": "3_1936008436845543424",
+              "start": 14,
+              "url": "https://t.co/eihGmNcwka"
+            },
+            {
+              "display_url": "pic.x.com/eihGmNcwka",
+              "end": 37,
+              "expanded_url": "https://x.com/uvuxvx43/status/1936008456663973908/photo/1",
+              "media_key": "3_1936008436149374976",
+              "start": 14,
+              "url": "https://t.co/eihGmNcwka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936008456663973908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已研究拍猫技术达到大师级别 https://t.co/eihGmNcwka"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的，我将做回神鹰，爱说点c语言，不喜欢可以喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 181,
+          "like_count": 6649,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1885
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-14T17:29:39.000Z",
+        "description": "信奉运气",
+        "id": "1625547806357454848",
+        "location": "垃圾堆旁的沙发上",
+        "name": "uv43",
+        "pinned_tweet_id": "1920829063930765458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881494375286571008/CsLzPuc-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 200,
+          "like_count": 22561,
+          "listed_count": 6,
+          "media_count": 152,
+          "tweet_count": 979
+        },
+        "username": "uvuxvx43",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1983963663884284166",
+    "created_at": "2025-10-31T17:21:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T18:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984309718760755606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1497841085321658375",
+          "start": 0,
+          "username": "Dgp42709"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984309718760755606",
+    "in_reply_to_user_id": "1497841085321658375",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984284539330695492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dgp42709 ？那你接一下吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1983963663884284166",
+        "created_at": "2025-10-31T17:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T18:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984309718760755606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1497841085321658375",
+              "start": 0,
+              "username": "Dgp42709"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984309718760755606",
+        "in_reply_to_user_id": "1497841085321658375",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984284539330695492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dgp42709 ？那你接一下吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497841085321658375",
+        "conversation_id": "1983963663884284166",
+        "created_at": "2025-10-31T15:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T16:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984284539330695492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984284539330695492",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983963663884284166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 太有男子气概了，宝藏室友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "神鹰🦅，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "pinned_tweet_id": "1977439230432555047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981015242827087872/axAcZvEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2160,
+          "following_count": 261,
+          "like_count": 21725,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 6095
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-27T07:48:44.000Z",
+        "description": "重要的话埋在心里",
+        "id": "1497841085321658375",
+        "name": "L",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760590007159693312/0TN-ixJW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 258,
+          "like_count": 9290,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 424
+        },
+        "username": "Dgp42709",
+        "verified": false
+      }
+    ]
+  }
+}

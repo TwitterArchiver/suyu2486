@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1936107460764512317",
+    "created_at": "2025-06-20T17:38:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T18:38:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936116466815832554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1886278115955273728",
+          "start": 0,
+          "username": "Y0JATlyoJA46934"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936116466815832554",
+    "in_reply_to_user_id": "1886278115955273728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936107460764512317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y0JATlyoJA46934 ，唱的没办法，唱不明白，就是如女"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32597,
+        "height": 1280,
+        "media_key": "7_1936107375879995392",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1936107375879995392/pu/img/pr-boPFtPClqVfZe.jpg",
+        "public_metrics": {
+          "view_count": 20
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1936107375879995392/pu/vid/avc1/320x568/5_aXnWIs_CSzkpTA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1936107375879995392/pu/vid/avc1/480x852/5aqX8zjW6VWSVNNa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1936107375879995392/pu/vid/avc1/720x1280/2-tSmlxSNlA-SKXx.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1936107375879995392/pu/pl/4WDUYvl2EVvaFBCn.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1936107460764512317",
+        "created_at": "2025-06-20T17:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T18:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936116466815832554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1886278115955273728",
+              "start": 0,
+              "username": "Y0JATlyoJA46934"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936116466815832554",
+        "in_reply_to_user_id": "1886278115955273728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936107460764512317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y0JATlyoJA46934 ，唱的没办法，唱不明白，就是如女"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1936107375879995392"
+          ]
+        },
+        "author_id": "1886278115955273728",
+        "conversation_id": "1936107460764512317",
+        "created_at": "2025-06-20T17:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T18:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936107460764512317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lh5LwR4Hke",
+              "end": 34,
+              "expanded_url": "https://x.com/Y0JATlyoJA46934/status/1936107460764512317/video/1",
+              "media_key": "7_1936107375879995392",
+              "start": 11,
+              "url": "https://t.co/Lh5LwR4Hke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936107460764512317",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心在跳是爱情如烈火~ https://t.co/Lh5LwR4Hke"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的，我将做回神鹰，爱说点c语言，不喜欢可以喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 180,
+          "like_count": 6733,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1912
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T04:58:54.000Z",
+        "description": "女 双/女同p/4i/1i/ 双相/躁狂/ADHD/阅读障碍",
+        "id": "1886278115955273728",
+        "location": "🚪你妈",
+        "name": "小白",
+        "pinned_tweet_id": "1926199038493245758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888089843806388224/mocO9Zff_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 137,
+          "like_count": 20557,
+          "listed_count": 3,
+          "media_count": 247,
+          "tweet_count": 3443
+        },
+        "username": "Y0JATlyoJA46934",
+        "verified": false
+      }
+    ]
+  }
+}

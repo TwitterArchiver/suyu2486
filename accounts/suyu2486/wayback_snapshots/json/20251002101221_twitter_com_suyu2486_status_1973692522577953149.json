@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1973302414720778270",
+    "created_at": "2025-10-02T10:12:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T11:12:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973692522577953149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1938805936233254912",
+          "start": 0,
+          "username": "Martin420301"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973692522577953149",
+    "in_reply_to_user_id": "1938805936233254912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973302414720778270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Martin420301 这个真的是魅魔了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1973302401064116228",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2KUFCnaIAQ2fUE.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1973302414720778270",
+        "created_at": "2025-10-02T10:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T11:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973692522577953149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1938805936233254912",
+              "start": 0,
+              "username": "Martin420301"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973692522577953149",
+        "in_reply_to_user_id": "1938805936233254912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973302414720778270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Martin420301 这个真的是魅魔了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973302401064116228"
+          ]
+        },
+        "author_id": "1938805936233254912",
+        "conversation_id": "1973302414720778270",
+        "created_at": "2025-10-01T08:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T09:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973302414720778270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4U2wWrzgGy",
+              "end": 23,
+              "expanded_url": "https://x.com/Martin420301/status/1973302414720778270/photo/1",
+              "media_key": "3_1973302401064116228",
+              "start": 0,
+              "url": "https://t.co/4U2wWrzgGy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973302414720778270",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 353,
+          "impression_count": 126792,
+          "like_count": 3244,
+          "quote_count": 14,
+          "reply_count": 20,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4U2wWrzgGy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗七个小号其中之一@dante82682",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "dante82682"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1972598608924143996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2047,
+          "following_count": 243,
+          "like_count": 20365,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 5643
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T03:45:39.000Z",
+        "description": "已婚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/martin420420420",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/martin420420420",
+                "start": 0,
+                "url": "https://t.co/SBCSOLbPRz"
+              }
+            ]
+          }
+        },
+        "id": "1938805936233254912",
+        "location": "🔞👉🏻",
+        "name": "Martin420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938806555216105472/4lhOoSy6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10865,
+          "following_count": 1,
+          "like_count": 9,
+          "listed_count": 6,
+          "media_count": 24,
+          "tweet_count": 36
+        },
+        "url": "https://t.co/SBCSOLbPRz",
+        "username": "Martin420301",
+        "verified": false
+      }
+    ]
+  }
+}

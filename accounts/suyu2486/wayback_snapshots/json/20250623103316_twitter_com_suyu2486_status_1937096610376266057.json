@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1936912313602515446",
+    "created_at": "2025-06-23T10:33:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T11:33:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937096610376266057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1864946257481158656",
+          "start": 0,
+          "username": "Ash1nzou"
+        },
+        {
+          "end": 22,
+          "id": "1886854751377350660",
+          "start": 10,
+          "username": "xia_ye57198"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937096610376266057",
+    "in_reply_to_user_id": "1864946257481158656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936984408147583329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ash1nzou @xia_ye57198 你俩处上了啊🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1936912313602515446",
+        "created_at": "2025-06-23T10:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T11:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937096610376266057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1864946257481158656",
+              "start": 0,
+              "username": "Ash1nzou"
+            },
+            {
+              "end": 22,
+              "id": "1886854751377350660",
+              "start": 10,
+              "username": "xia_ye57198"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937096610376266057",
+        "in_reply_to_user_id": "1864946257481158656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936984408147583329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ash1nzou @xia_ye57198 你俩处上了啊🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864946257481158656",
+        "conversation_id": "1936912313602515446",
+        "created_at": "2025-06-23T03:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T04:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936984408147583329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1886854751377350660",
+              "start": 0,
+              "username": "xia_ye57198"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936984408147583329",
+        "in_reply_to_user_id": "1886854751377350660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 922,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936912313602515446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xia_ye57198 我会不会很吵啊🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1936734143804735662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 193,
+          "like_count": 7724,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 2187
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T08:13:43.000Z",
+        "description": "恶人脸/虚伪肥宅/真实垃圾/精神病患/社会边缘人士",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ash1nzou",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ash1nzou",
+                "start": 0,
+                "url": "https://t.co/qPDE4JNKvH"
+              }
+            ]
+          }
+        },
+        "id": "1864946257481158656",
+        "location": "提问箱",
+        "name": "饮冰的刃",
+        "pinned_tweet_id": "1929083145543959017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864946632820953092/_edfRZMJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3364,
+          "following_count": 158,
+          "like_count": 9261,
+          "listed_count": 2,
+          "media_count": 128,
+          "tweet_count": 2231
+        },
+        "url": "https://t.co/qPDE4JNKvH",
+        "username": "Ash1nzou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T19:10:17.000Z",
+        "description": "ENFP/中二病晚期/碎碎念/多和菇互动好不好🥺💗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xia_ye57198",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xia_ye57198",
+                "start": 0,
+                "url": "https://t.co/GoJXMqf7MH"
+              }
+            ]
+          }
+        },
+        "id": "1886854751377350660",
+        "location": "提问箱在这里",
+        "name": "蘑菇吃不",
+        "pinned_tweet_id": "1934998362425888963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935313198829420545/Didc-eZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 52,
+          "like_count": 1399,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 573
+        },
+        "url": "https://t.co/GoJXMqf7MH",
+        "username": "xia_ye57198",
+        "verified": false
+      }
+    ]
+  }
+}

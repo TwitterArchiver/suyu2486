@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1959176960833179705",
+    "created_at": "2025-08-23T15:12:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T16:12:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959272544252350864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1933912734728663040",
+          "start": 0,
+          "username": "xxshy487862"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959272544252350864",
+    "in_reply_to_user_id": "1933912734728663040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959272411633008808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxshy487862 先来，来了领根塔山得了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1959176960833179705",
+        "created_at": "2025-08-23T15:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T16:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959272544252350864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1933912734728663040",
+              "start": 0,
+              "username": "xxshy487862"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959272544252350864",
+        "in_reply_to_user_id": "1933912734728663040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959272411633008808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxshy487862 先来，来了领根塔山得了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933912734728663040",
+        "conversation_id": "1959176960833179705",
+        "created_at": "2025-08-23T15:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T16:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959272411633008808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959272411633008808",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959176960833179705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 鹰哥别钓鱼了，我离你那就二十分钟，到了能不能给我发根烟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个好色的sb男的，双相情感障碍，情感漠视，精神失常，都滚远点别来烦我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1355,
+          "following_count": 199,
+          "like_count": 16727,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 4427
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-14T15:41:51.000Z",
+        "description": "男",
+        "id": "1933912734728663040",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955972033365598209/G4P07apP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 439,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "username": "xxshy487862",
+        "verified": false
+      }
+    ]
+  }
+}

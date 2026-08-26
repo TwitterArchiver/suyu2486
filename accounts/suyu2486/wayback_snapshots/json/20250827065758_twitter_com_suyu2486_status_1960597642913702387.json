@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1960374327981039954",
+    "created_at": "2025-08-27T06:57:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T07:57:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960597642913702387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1144970362523795457",
+          "start": 0,
+          "username": "YJWTHHC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960597642913702387",
+    "in_reply_to_user_id": "1144970362523795457",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960374327981039954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YJWTHHC 加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1960374327981039954",
+        "created_at": "2025-08-27T06:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T07:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960597642913702387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1144970362523795457",
+              "start": 0,
+              "username": "YJWTHHC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960597642913702387",
+        "in_reply_to_user_id": "1144970362523795457",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960374327981039954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YJWTHHC 加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1144970362523795457",
+        "conversation_id": "1960374327981039954",
+        "created_at": "2025-08-26T16:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T17:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960374327981039954"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960374327981039954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "xp脏到不敢说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个好色的sb男的，双相情感障碍，情感漠视，精神失常，都滚远点别来烦我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "小玉",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1362,
+          "following_count": 198,
+          "like_count": 16880,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 4473
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-29T14:06:21.000Z",
+        "description": "我是神",
+        "id": "1144970362523795457",
+        "location": "王者峡谷",
+        "name": "今天早点睡",
+        "pinned_tweet_id": "1926814368940929027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893251367528976385/n39lrYY-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 48,
+          "like_count": 590,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 1079
+        },
+        "username": "YJWTHHC",
+        "verified": false
+      }
+    ]
+  }
+}

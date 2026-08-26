@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2082817878697390091",
+    "created_at": "2026-08-01T03:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T04:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083391150816432215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1851900467296813056",
+          "start": 0,
+          "username": "LYSKall5"
+        },
+        {
+          "end": 26,
+          "id": "1988519450199683076",
+          "start": 10,
+          "username": "coconutcocoking"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083391150816432215",
+    "in_reply_to_user_id": "1851900467296813056",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083212494190047683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LYSKall5 @coconutcocoking ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2082817878697390091",
+        "created_at": "2026-08-01T03:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083391150816432215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1851900467296813056",
+              "start": 0,
+              "username": "LYSKall5"
+            },
+            {
+              "end": 26,
+              "id": "1988519450199683076",
+              "start": 10,
+              "username": "coconutcocoking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083391150816432215",
+        "in_reply_to_user_id": "1851900467296813056",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083212494190047683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LYSKall5 @coconutcocoking ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851900467296813056",
+        "conversation_id": "2082817878697390091",
+        "created_at": "2026-07-31T15:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083212494190047683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1988519450199683076",
+              "start": 0,
+              "username": "coconutcocoking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083212494190047683",
+        "in_reply_to_user_id": "1988519450199683076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082817878697390091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coconutcocoking 是的！生来就具有夫妻相！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2062,
+          "following_count": 194,
+          "like_count": 21192,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6612
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T08:14:50.000Z",
+        "description": "幸福与痛苦/梦想一个人去看世界////",
+        "id": "1851900467296813056",
+        "location": "傻逼都滚，傻屌也是",
+        "name": "春时夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083224396177838080/erCYBWVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 427,
+          "like_count": 25344,
+          "listed_count": 0,
+          "media_count": 249,
+          "tweet_count": 6413
+        },
+        "url": "",
+        "username": "LYSKall5",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-12T08:09:45.000Z",
+        "description": "破写同人文的三脚猫多坑乙游妹 看到雷人言论很正常因为这是我被窝 📢哥彻双推 🐾边伯贤唯粉",
+        "id": "1988519450199683076",
+        "name": "扣扣那",
+        "pinned_tweet_id": "2017248259115286963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082543211579330561/fMONcS75_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17536,
+          "following_count": 118,
+          "like_count": 974,
+          "listed_count": 10,
+          "media_count": 172,
+          "tweet_count": 1918
+        },
+        "url": "",
+        "username": "coconutcocoking",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1954933861282107703",
+    "created_at": "2025-08-12T15:59:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T16:59:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955297990081437888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1611322522670346241",
+          "start": 0,
+          "username": "caixiayu1hao"
+        },
+        {
+          "end": 27,
+          "id": "1779006683181940738",
+          "start": 14,
+          "username": "Missouolsian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955297990081437888",
+    "in_reply_to_user_id": "1611322522670346241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955272755311677531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caixiayu1hao @Missouolsian ？下次给你卡澳门新葡京广告上，顺便炸膛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1954933861282107703",
+        "created_at": "2025-08-12T15:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T16:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955297990081437888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1611322522670346241",
+              "start": 0,
+              "username": "caixiayu1hao"
+            },
+            {
+              "end": 27,
+              "id": "1779006683181940738",
+              "start": 14,
+              "username": "Missouolsian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955297990081437888",
+        "in_reply_to_user_id": "1611322522670346241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955272755311677531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caixiayu1hao @Missouolsian ？下次给你卡澳门新葡京广告上，顺便炸膛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611322522670346241",
+        "conversation_id": "1954933861282107703",
+        "created_at": "2025-08-12T14:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T15:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955272755311677531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1779006683181940738",
+              "start": 0,
+              "username": "Missouolsian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955272755311677531",
+        "in_reply_to_user_id": "1779006683181940738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954933861282107703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Missouolsian 我也是啊！妈的。卡的我射不出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1953423119017758926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1244,
+          "following_count": 197,
+          "like_count": 14902,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 4072
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T11:23:30.000Z",
+        "description": "07/你可以叫我小虾🦐/纯文，完蛋了我被工科录取了……/两只🐶两只🐭两只🦔/喜欢我就给我打钱。/挑战每一条评论都回，如果没回就是没看到不是故意的，你可以跟我说/近期在打工。心情不美丽，感觉会发很多吐槽的阴暗面，不要讨厌我好吗😢/欢迎和我玩，但是不欢迎骚扰🐱@caixiayu2hao 可以向我小号点歌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 128,
+                "username": "caixiayu2hao"
+              }
+            ]
+          }
+        },
+        "id": "1611322522670346241",
+        "location": "主动关注你就是喜欢你……",
+        "name": "才下班（距离打工结束还有16天版）",
+        "pinned_tweet_id": "1942631010954535261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947951383032016896/5O7eO2sQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4686,
+          "following_count": 538,
+          "like_count": 3084,
+          "listed_count": 6,
+          "media_count": 227,
+          "tweet_count": 5269
+        },
+        "username": "caixiayu1hao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T04:40:30.000Z",
+        "description": "08准大一/我的废话桶 记录我所思所想/自恋号@aouoyulin_0/因为有人喜欢我所以我就想分享碎碎念😩（而且我喜欢沉浸自己世界自言自语）/不礼貌回关啦但是我也会一直互动的😙",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "aouoyulin_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "w5.awcmam.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://w5.awcmam.com/#/register?code=2CjvX32C",
+                "start": 0,
+                "url": "https://t.co/iNChn6hNS7"
+              }
+            ]
+          }
+        },
+        "id": "1779006683181940738",
+        "location": "🚪100纯绿好友位 ",
+        "name": "白毛红瞳狗狗厨",
+        "pinned_tweet_id": "1946043320243044793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880844150112915456/H9Nlxai0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11374,
+          "following_count": 188,
+          "like_count": 25794,
+          "listed_count": 29,
+          "media_count": 591,
+          "tweet_count": 13356
+        },
+        "url": "https://t.co/iNChn6hNS7",
+        "username": "Missouolsian",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953340342649892864"
+      ]
+    },
+    "author_id": "1910715228523831296",
+    "conversation_id": "1953340350174470299",
+    "created_at": "2025-08-07T06:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T07:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953340350174470299"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VPjuLSJgsS",
+          "end": 35,
+          "expanded_url": "https://x.com/suyu2486/status/1953340350174470299/photo/1",
+          "media_key": "3_1953340342649892864",
+          "start": 12,
+          "url": "https://t.co/VPjuLSJgsS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953340350174470299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "清朝老图了，发一张吧… https://t.co/VPjuLSJgsS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1953340350174470299].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1953340350174470299",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1953340350174470299"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1953340342649892864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxuosUEWMAA5Em5.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 199,
+          "like_count": 13613,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 3746
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1985888956073066671",
+    "created_at": "2025-11-05T11:23:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T12:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986031497892278550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1766467973555052544",
+          "start": 0,
+          "username": "Iristy_oxo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986031497892278550",
+    "in_reply_to_user_id": "1766467973555052544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986022969181901194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iristy_oxo 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1985888956073066671",
+        "created_at": "2025-11-05T11:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T12:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986031497892278550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1766467973555052544",
+              "start": 0,
+              "username": "Iristy_oxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986031497892278550",
+        "in_reply_to_user_id": "1766467973555052544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986022969181901194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iristy_oxo 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766467973555052544",
+        "conversation_id": "1985888956073066671",
+        "created_at": "2025-11-05T10:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T11:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986022969181901194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986022969181901194",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985888956073066671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 是《陪安东尼度过漫长岁月》吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "神鹰🦅，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "pinned_tweet_id": "1977439230432555047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981015242827087872/axAcZvEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2149,
+          "following_count": 260,
+          "like_count": 21779,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 6139
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T14:16:15.000Z",
+        "description": "只是一片自留地。祝你过得开心，我的朋友。 女孩请随意私信，我们说些小小的、不必那么滴水不漏令你疲惫的话。One who gets burned still tries to love fire.",
+        "id": "1766467973555052544",
+        "location": "Neverland",
+        "name": "情绪盒子",
+        "pinned_tweet_id": "1915031688775909480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986008308529131520/kli0JJ6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1856,
+          "following_count": 178,
+          "like_count": 15391,
+          "listed_count": 2,
+          "media_count": 865,
+          "tweet_count": 3680
+        },
+        "username": "Iristy_oxo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1953121228153339905",
+    "created_at": "2025-08-06T16:48:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T17:48:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953136228607377730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1777373512904454145",
+          "start": 0,
+          "username": "zhaominizhao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953136228607377730",
+    "in_reply_to_user_id": "1777373512904454145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953121228153339905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhaominizhao 话"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 377,
+        "media_key": "3_1953121220628729856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxrhZu7aUAArHL6.jpg",
+        "width": 379
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1953121228153339905",
+        "created_at": "2025-08-06T16:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T17:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953136228607377730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1777373512904454145",
+              "start": 0,
+              "username": "zhaominizhao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953136228607377730",
+        "in_reply_to_user_id": "1777373512904454145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953121228153339905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhaominizhao 话"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953121220628729856"
+          ]
+        },
+        "author_id": "1777373512904454145",
+        "conversation_id": "1953121228153339905",
+        "created_at": "2025-08-06T15:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T16:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953121228153339905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sAC7hnmcVQ",
+              "end": 37,
+              "expanded_url": "https://x.com/zhaominizhao/status/1953121228153339905/photo/1",
+              "media_key": "3_1953121220628729856",
+              "start": 14,
+              "url": "https://t.co/sAC7hnmcVQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953121228153339905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 382,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人 说话\n这次依旧是命令！ https://t.co/sAC7hnmcVQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1952327381869338999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 199,
+          "like_count": 13513,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 3720
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T16:31:35.000Z",
+        "description": "🍧想分享的话会一直分享 碎碎碎碎念 私信看心情回复 自用蜂鸟VPN：https://t.co/9O7Bi7LxI6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 57,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=YmFeTCn3",
+                "start": 34,
+                "url": "https://t.co/9O7Bi7LxI6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhaominizhao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zhaominizhao",
+                "start": 0,
+                "url": "https://t.co/8kHruPgL9y"
+              }
+            ]
+          }
+        },
+        "id": "1777373512904454145",
+        "location": "在小猫很多的地方",
+        "name": "mini昭",
+        "pinned_tweet_id": "1952272963807719768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951007133400776704/fIzxbNXJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1852,
+          "following_count": 66,
+          "like_count": 3083,
+          "listed_count": 10,
+          "media_count": 194,
+          "tweet_count": 2071
+        },
+        "url": "https://t.co/8kHruPgL9y",
+        "username": "zhaominizhao",
+        "verified": false
+      }
+    ]
+  }
+}

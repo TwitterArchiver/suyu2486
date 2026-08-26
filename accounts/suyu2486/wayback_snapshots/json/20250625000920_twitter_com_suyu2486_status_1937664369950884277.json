@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1936970043319070778",
+    "created_at": "2025-06-25T00:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T01:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937664369950884277"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 73,
+          "normalized_text": "PRX",
+          "probability": 0.4589,
+          "start": 71,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1330758574734098435",
+          "start": 0,
+          "username": "jasonsusantoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937664369950884277",
+    "in_reply_to_user_id": "1330758574734098435",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936970043319070778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jasonsusantoo It's been four years, finally winning the championship. PRX deserves it this time😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1936970031968964608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuF_-0gWUAAQYG1.jpg",
+        "width": 1462
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1936970043319070778",
+        "created_at": "2025-06-25T00:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T01:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937664369950884277"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 73,
+              "normalized_text": "PRX",
+              "probability": 0.4589,
+              "start": 71,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1330758574734098435",
+              "start": 0,
+              "username": "jasonsusantoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937664369950884277",
+        "in_reply_to_user_id": "1330758574734098435",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936970043319070778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jasonsusantoo It's been four years, finally winning the championship. PRX deserves it this time😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936970031968964608"
+          ]
+        },
+        "author_id": "1330758574734098435",
+        "conversation_id": "1936970043319070778",
+        "created_at": "2025-06-23T02:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T03:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936970043319070778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vIvjXHkB5V",
+              "end": 55,
+              "expanded_url": "https://x.com/jasonsusantoo/status/1936970043319070778/photo/1",
+              "media_key": "3_1936970031968964608",
+              "start": 32,
+              "url": "https://t.co/vIvjXHkB5V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936970043319070778",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 405,
+          "impression_count": 922447,
+          "like_count": 55373,
+          "quote_count": 251,
+          "reply_count": 343,
+          "retweet_count": 6990
+        },
+        "reply_settings": "everyone",
+        "text": "Sleep well today for sure ❤️🫶🏻🤣 https://t.co/vIvjXHkB5V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1936734143804735662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 196,
+          "like_count": 8188,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 2282
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-23T06:22:33.000Z",
+        "description": "Valorant Player For @pprxteam Contact E-Mail for Business Inquiries : forsaken@pprx.team My age : 21 Instagram : https://t.co/AskPsV0WgP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "pprxteam"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/jasonsusantoo/",
+                "end": 136,
+                "expanded_url": "http://instagram.com/jasonsusantoo/",
+                "start": 113,
+                "url": "https://t.co/AskPsV0WgP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/PRXf0rsakeN",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/PRXf0rsakeN",
+                "start": 0,
+                "url": "https://t.co/O0Dem6GCA1"
+              }
+            ]
+          }
+        },
+        "id": "1330758574734098435",
+        "location": "Indonesia 🇮🇩",
+        "name": "PRX f0rsakeN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820662295397302272/eRboBxax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349067,
+          "following_count": 545,
+          "like_count": 1749,
+          "listed_count": 488,
+          "media_count": 307,
+          "tweet_count": 1985
+        },
+        "url": "https://t.co/O0Dem6GCA1",
+        "username": "jasonsusantoo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1938581652147786146",
+    "created_at": "2025-06-27T13:31:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T14:31:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938591031441690913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1926115911276146688",
+          "start": 0,
+          "username": "mirro50150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938591031441690913",
+    "in_reply_to_user_id": "1926115911276146688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938581652147786146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mirro50150 人机"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938581644258242560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guc5vAIa8AAvJq9.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1938581652147786146",
+        "created_at": "2025-06-27T13:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T14:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938591031441690913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1926115911276146688",
+              "start": 0,
+              "username": "mirro50150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938591031441690913",
+        "in_reply_to_user_id": "1926115911276146688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938581652147786146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mirro50150 人机"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938581644258242560"
+          ]
+        },
+        "author_id": "1926115911276146688",
+        "conversation_id": "1938581652147786146",
+        "created_at": "2025-06-27T12:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T13:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938581652147786146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BIYSD1tvCQ",
+              "end": 36,
+              "expanded_url": "https://x.com/mirro50150/status/1938581652147786146/photo/1",
+              "media_key": "3_1938581644258242560",
+              "start": 13,
+              "url": "https://t.co/BIYSD1tvCQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938581652147786146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来 这是谁自己找我认领。 https://t.co/BIYSD1tvCQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1930824661660516687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 196,
+          "like_count": 8682,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 2433
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T03:20:05.000Z",
+        "description": "我的情绪垃圾桶。没有福利不磕炮不找鸡 私信看情况回 互关随缘 蜂鸟VPN在下面👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=24cHl6Sm",
+                "start": 0,
+                "url": "https://t.co/EajfOmnfoY"
+              }
+            ]
+          }
+        },
+        "id": "1926115911276146688",
+        "location": "有🚪纯绿不线下没福利",
+        "name": "ivee",
+        "pinned_tweet_id": "1937954082762985669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929532345033564160/70Usr7wy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 46,
+          "like_count": 4928,
+          "listed_count": 6,
+          "media_count": 55,
+          "tweet_count": 928
+        },
+        "url": "https://t.co/EajfOmnfoY",
+        "username": "mirro50150",
+        "verified": false
+      }
+    ]
+  }
+}

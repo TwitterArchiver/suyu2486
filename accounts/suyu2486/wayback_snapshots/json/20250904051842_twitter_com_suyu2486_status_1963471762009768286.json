@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1963124866581717386",
+    "created_at": "2025-09-04T05:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T06:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963471762009768286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1076484888612634624",
+          "start": 0,
+          "username": "Anyanwuxia"
+        },
+        {
+          "end": 25,
+          "id": "1876860078277656577",
+          "start": 12,
+          "username": "Asuka_NeKovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963471762009768286",
+    "in_reply_to_user_id": "1076484888612634624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963471525824110998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anyanwuxia @Asuka_NeKovo 可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1963124866581717386",
+        "created_at": "2025-09-04T05:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T06:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963471762009768286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1076484888612634624",
+              "start": 0,
+              "username": "Anyanwuxia"
+            },
+            {
+              "end": 25,
+              "id": "1876860078277656577",
+              "start": 12,
+              "username": "Asuka_NeKovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963471762009768286",
+        "in_reply_to_user_id": "1076484888612634624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963471525824110998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anyanwuxia @Asuka_NeKovo 可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1076484888612634624",
+        "conversation_id": "1963124866581717386",
+        "created_at": "2025-09-04T05:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T06:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963471525824110998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876860078277656577",
+              "start": 0,
+              "username": "Asuka_NeKovo"
+            },
+            {
+              "end": 23,
+              "id": "1910715228523831296",
+              "start": 14,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963471525824110998",
+        "in_reply_to_user_id": "1876860078277656577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963467301774397909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asuka_NeKovo @suyu2486 捏硬了就该开凿了（bushi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱无章，不定期活跃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "飞向全宇宙",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1441,
+          "following_count": 213,
+          "like_count": 18653,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 4996
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-22T14:29:32.000Z",
+        "description": "",
+        "id": "1076484888612634624",
+        "location": "唯满侠",
+        "name": "无方制物经",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816441916906708992/bp8mk8tC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 46,
+          "like_count": 1798,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 2050
+        },
+        "username": "Anyanwuxia",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-08T05:15:07.000Z",
+        "description": "05/152cm 39kg/brat/52🚪+v纯绿/随便发发…",
+        "id": "1876860078277656577",
+        "name": "吃我喵喵拳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888632161605148672/kTA_VZMz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 42,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 39
+        },
+        "username": "Asuka_NeKovo",
+        "verified": false
+      }
+    ]
+  }
+}

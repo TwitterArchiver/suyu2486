@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1976617847523827749",
+    "created_at": "2025-10-11T08:36:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T09:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976929850926809162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1810913745335693312",
+          "start": 0,
+          "username": "XyVIIF4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976929850926809162",
+    "in_reply_to_user_id": "1810913745335693312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976617847523827749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XyVIIF4 你偷我的诊断单子干嘛？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 963,
+        "media_key": "3_1976617841496584192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G25bdEsacAAVaFT.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1976617847523827749",
+        "created_at": "2025-10-11T08:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T09:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976929850926809162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1810913745335693312",
+              "start": 0,
+              "username": "XyVIIF4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976929850926809162",
+        "in_reply_to_user_id": "1810913745335693312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976617847523827749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XyVIIF4 你偷我的诊断单子干嘛？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976617841496584192"
+          ]
+        },
+        "author_id": "1810913745335693312",
+        "conversation_id": "1976617847523827749",
+        "created_at": "2025-10-10T11:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T12:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976617847523827749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nsoCcrEO9Y",
+              "end": 29,
+              "expanded_url": "https://x.com/XyVIIF4/status/1976617847523827749/photo/1",
+              "media_key": "3_1976617841496584192",
+              "start": 6,
+              "url": "https://t.co/nsoCcrEO9Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976617847523827749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3295,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还有救么 https://t.co/nsoCcrEO9Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我玊玉，叫玉是因为英文名是jade，玊（su）是有瑕疵的玉的意思，男的，infp，装逼让你飞起来，机舱开🚪中，座位费20一位（一包黑兰州的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗     🎼  转帖、置顶推广关评自辩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1976463304324419641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2150,
+          "following_count": 261,
+          "like_count": 21052,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 5853
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T05:47:48.000Z",
+        "description": "期待也是一种压迫 祝大家生活顺心满意！🚪66 99 520 1314 5200 8888",
+        "id": "1810913745335693312",
+        "name": "Xyll",
+        "pinned_tweet_id": "1946803126373155280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947415607336636416/R3Dd6tGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 708,
+          "like_count": 3617,
+          "listed_count": 1,
+          "media_count": 261,
+          "tweet_count": 3161
+        },
+        "username": "XyVIIF4",
+        "verified": false
+      }
+    ]
+  }
+}

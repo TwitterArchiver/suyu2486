@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1988408882667086151",
+    "created_at": "2025-11-12T14:38:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T15:38:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988617432987254987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1978819970953056256",
+          "start": 0,
+          "username": "uat91z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988617432987254987",
+    "in_reply_to_user_id": "1978819970953056256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988577602496549378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uat91z 滚吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1988408882667086151",
+        "created_at": "2025-11-12T14:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T15:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988617432987254987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1978819970953056256",
+              "start": 0,
+              "username": "uat91z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988617432987254987",
+        "in_reply_to_user_id": "1978819970953056256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988577602496549378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uat91z 滚吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978819970953056256",
+        "conversation_id": "1988408882667086151",
+        "created_at": "2025-11-12T12:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T13:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988577602496549378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988577602496549378",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988408882667086151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 又骗炮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "06，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2357,
+          "following_count": 263,
+          "like_count": 22211,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 6264
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-16T13:47:19.000Z",
+        "description": "希望大家都会越来越幸福",
+        "id": "1978819970953056256",
+        "location": "来茉莉找我玩",
+        "name": "𝙅𝙖𝙨𝙢𝙞𝙣𝙚噢",
+        "pinned_tweet_id": "1986505971867525205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985812573523226624/ySv17HiB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 37,
+          "like_count": 113,
+          "listed_count": 7,
+          "media_count": 15,
+          "tweet_count": 96
+        },
+        "username": "uat91z",
+        "verified": false
+      }
+    ]
+  }
+}

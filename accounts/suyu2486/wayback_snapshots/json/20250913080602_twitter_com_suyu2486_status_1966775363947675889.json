@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1966465591251816873",
+    "created_at": "2025-09-13T08:06:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T09:06:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966775363947675889"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 15,
+          "normalized_text": "香香",
+          "probability": 0.8868,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1923424244823941120",
+          "start": 0,
+          "username": "kannimane_SB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966775363947675889",
+    "in_reply_to_user_id": "1923424244823941120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966465591251816873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kannimane_SB 香香"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1839,
+        "media_key": "3_1966465581735170048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0pKBx5bUAA7JZi.jpg",
+        "width": 1839
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1966465591251816873",
+        "created_at": "2025-09-13T08:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T09:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966775363947675889"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "香香",
+              "probability": 0.8868,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1923424244823941120",
+              "start": 0,
+              "username": "kannimane_SB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966775363947675889",
+        "in_reply_to_user_id": "1923424244823941120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966465591251816873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kannimane_SB 香香"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966465581735170048"
+          ]
+        },
+        "author_id": "1923424244823941120",
+        "conversation_id": "1966465591251816873",
+        "created_at": "2025-09-12T11:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T12:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966465591251816873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6mEvSvOEBQ",
+              "end": 30,
+              "expanded_url": "https://x.com/kannimane_SB/status/1966465591251816873/photo/1",
+              "media_key": "3_1966465581735170048",
+              "start": 7,
+              "url": "https://t.co/6mEvSvOEBQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966465591251816873",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2594,
+          "like_count": 123,
+          "quote_count": 0,
+          "reply_count": 57,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "汗臭味建国。 https://t.co/6mEvSvOEBQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗七个小号其中之一@dante82682",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "dante82682"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 232,
+          "like_count": 19309,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 5307
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-16T17:04:18.000Z",
+        "description": "✞ 坚果神✞｜只说废话｜可以找我互关｜骂我给我打钱｜我只是个爱上网的坚果🚬",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kannimane_sb",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kannimane_sb",
+                "start": 0,
+                "url": "https://t.co/C8kxXhBNhU"
+              }
+            ]
+          }
+        },
+        "id": "1923424244823941120",
+        "location": "垃圾桶",
+        "name": "高建国",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953160100560166912/v_TmQc6B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 366,
+          "like_count": 6626,
+          "listed_count": 1,
+          "media_count": 632,
+          "tweet_count": 5934
+        },
+        "url": "https://t.co/C8kxXhBNhU",
+        "username": "kannimane_SB",
+        "verified": false
+      }
+    ]
+  }
+}

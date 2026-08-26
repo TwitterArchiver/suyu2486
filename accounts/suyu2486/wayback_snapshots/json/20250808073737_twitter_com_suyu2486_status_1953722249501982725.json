@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1953616065029976381",
+    "created_at": "2025-08-08T07:37:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T08:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953722249501982725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1288663758710034432",
+          "start": 0,
+          "username": "CaoBing_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953722249501982725",
+    "in_reply_to_user_id": "1288663758710034432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953719127199408262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CaoBing_ 我主页一直有挂…男孩子，咋改都没把男孩子三个字改掉…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1953616065029976381",
+        "created_at": "2025-08-08T07:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T08:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953722249501982725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1288663758710034432",
+              "start": 0,
+              "username": "CaoBing_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953722249501982725",
+        "in_reply_to_user_id": "1288663758710034432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953719127199408262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CaoBing_ 我主页一直有挂…男孩子，咋改都没把男孩子三个字改掉…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1288663758710034432",
+        "conversation_id": "1953616065029976381",
+        "created_at": "2025-08-08T07:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T08:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953719127199408262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953719127199408262",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953616065029976381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 你不是妹子吗……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1953423119017758926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1136,
+          "following_count": 200,
+          "like_count": 13909,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 3811
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-30T02:32:47.000Z",
+        "description": "♓entjⅠ喜欢健身+有氧，佛系减脂ingⅠ私信发牛子的赔点钱Ⅰ非常非常喜欢评论骚扰我的互关Ⅰ声控 喜欢看男妈妈  喜欢看漂亮女宝 直女Ⅰ重度🐱控🐶控Ⅰ互关来加我v玩😽Ⅰ可以叫我Cao姐/小caoⅠ多多给我评论玩Ⅰ不出任何原味😅Ⅰhttps://t.co/2aExQ1LgOm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ccc44703",
+                "end": 138,
+                "expanded_url": "https://ngl.link/ccc44703",
+                "start": 115,
+                "url": "https://t.co/2aExQ1LgOm"
+              }
+            ]
+          }
+        },
+        "id": "1288663758710034432",
+        "location": "别找我发牛子聊黄",
+        "name": "我改名了（吾皇小蛇）",
+        "pinned_tweet_id": "1941546569028993441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916176068698116102/DKsxpAMy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 132,
+          "like_count": 4211,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 3285
+        },
+        "username": "CaoBing_",
+        "verified": false
+      }
+    ]
+  }
+}

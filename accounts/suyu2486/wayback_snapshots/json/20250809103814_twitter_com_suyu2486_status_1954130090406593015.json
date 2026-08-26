@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1953837433209909491",
+    "created_at": "2025-08-09T10:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T11:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954130090406593015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1940120289070796801",
+          "start": 0,
+          "username": "shanjianxiaoyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954130090406593015",
+    "in_reply_to_user_id": "1940120289070796801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954091050768752856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shanjianxiaoyu 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1953837433209909491",
+        "created_at": "2025-08-09T10:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T11:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954130090406593015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1940120289070796801",
+              "start": 0,
+              "username": "shanjianxiaoyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954130090406593015",
+        "in_reply_to_user_id": "1940120289070796801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954091050768752856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shanjianxiaoyu 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940120289070796801",
+        "conversation_id": "1953837433209909491",
+        "created_at": "2025-08-09T08:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T09:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954091050768752856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954091050768752856",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953837433209909491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 希望这个鹰哥能每天越来越高兴，前两天我朋友问我喜欢和爱到底该是什么样的，朋友和家人的喜欢和爱和恋爱的爱又有什么不一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1953423119017758926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 200,
+          "like_count": 14097,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 3890
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T18:48:31.000Z",
+        "description": "如果注定要遇见，那让我们遇见的时间再早些吧",
+        "id": "1940120289070796801",
+        "name": "缘雨",
+        "pinned_tweet_id": "1950421379050078429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948894904274259968/Um_7BNmP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 17,
+          "like_count": 320,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 433
+        },
+        "username": "shanjianxiaoyu",
+        "verified": false
+      }
+    ]
+  }
+}

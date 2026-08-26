@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1965749877021012093",
+    "created_at": "2025-09-10T14:59:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T15:59:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965792314338713702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1887110932360572928",
+          "start": 0,
+          "username": "wngh393194"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965792314338713702",
+    "in_reply_to_user_id": "1887110932360572928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965792029969174617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngh393194 不是被你割了吗…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1965749877021012093",
+        "created_at": "2025-09-10T14:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T15:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965792314338713702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1887110932360572928",
+              "start": 0,
+              "username": "wngh393194"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965792314338713702",
+        "in_reply_to_user_id": "1887110932360572928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965792029969174617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngh393194 不是被你割了吗…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887110932360572928",
+        "conversation_id": "1965749877021012093",
+        "created_at": "2025-09-10T14:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T15:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965792029969174617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965792029969174617",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965791746727772234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 魔丸还在吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗七个小号其中之一@dante82682",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "dante82682"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1965715048162275657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 227,
+          "like_count": 19355,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 5215
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T12:08:28.000Z",
+        "description": "话多，爱炒冷饭，盗图挡灾（不线下，不聊骚，私信只回复有礼貌的）宝宝们可以向我提问https://t.co/Yyio20uoWE |置顶推广不是本人❗️❗️❗️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lzs666",
+                "end": 63,
+                "expanded_url": "https://ngl.link/lzs666",
+                "start": 40,
+                "url": "https://t.co/Yyio20uoWE"
+              }
+            ]
+          }
+        },
+        "id": "1887110932360572928",
+        "location": "➕v绿🚪188.288.520   ",
+        "name": "荔枝水",
+        "pinned_tweet_id": "1963113945176396189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887111161105002496/YN7-peAH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5411,
+          "following_count": 97,
+          "like_count": 6600,
+          "listed_count": 15,
+          "media_count": 391,
+          "tweet_count": 4432
+        },
+        "username": "wngh393194",
+        "verified": false
+      }
+    ]
+  }
+}

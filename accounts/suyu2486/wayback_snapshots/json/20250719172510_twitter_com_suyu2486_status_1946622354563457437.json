@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1946600979870126453",
+    "created_at": "2025-07-19T17:25:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T18:25:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946622354563457437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1500135415449145347",
+          "start": 0,
+          "username": "xiehuangbao_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946622354563457437",
+    "in_reply_to_user_id": "1500135415449145347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946600979870126453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiehuangbao_ 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_1946600955899785216",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GwO3QX_XsAAX69E.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GwO3QX_XsAAX69E.mp4"
+          }
+        ],
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1946600979870126453",
+        "created_at": "2025-07-19T17:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T18:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946622354563457437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1500135415449145347",
+              "start": 0,
+              "username": "xiehuangbao_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946622354563457437",
+        "in_reply_to_user_id": "1500135415449145347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946600979870126453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiehuangbao_ 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1946600955899785216"
+          ]
+        },
+        "author_id": "1500135415449145347",
+        "conversation_id": "1946600979870126453",
+        "created_at": "2025-07-19T16:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T17:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946600979870126453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sa6Yjtnf5W",
+              "end": 36,
+              "expanded_url": "https://x.com/xiehuangbao_/status/1946600979870126453/photo/1",
+              "media_key": "16_1946600955899785216",
+              "start": 13,
+              "url": "https://t.co/Sa6Yjtnf5W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946600979870126453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9085,
+          "like_count": 170,
+          "quote_count": 0,
+          "reply_count": 107,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "祝小堡20岁生日快乐🎂🎉 https://t.co/Sa6Yjtnf5W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1946064574542676465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 202,
+          "like_count": 11719,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 3336
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-05T15:45:38.000Z",
+        "description": "bro们给小堡点赞小堡很开心，小堡也会努力锻炼拍些大家爱看的，但是小堡性取向正常，不要给我发屌🫨还有我是男生/小号@fanqiejiang__/蜂鸟vpn：https://t.co/XjJo8isUdK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "fanqiejiang__"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 101,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=2gg3Eiwk",
+                "start": 78,
+                "url": "https://t.co/XjJo8isUdK"
+              }
+            ]
+          }
+        },
+        "id": "1500135415449145347",
+        "location": "j❗️❗️推广自辩❗️❗️",
+        "name": "蟹黄堡",
+        "pinned_tweet_id": "1931744672348807273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892248381332090880/-MBsbGT-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13851,
+          "following_count": 1418,
+          "like_count": 8273,
+          "listed_count": 36,
+          "media_count": 634,
+          "tweet_count": 2146
+        },
+        "username": "xiehuangbao_",
+        "verified": false
+      }
+    ]
+  }
+}

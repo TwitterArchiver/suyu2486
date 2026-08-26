@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1936382216948625594",
+    "created_at": "2025-06-21T11:40:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T12:40:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936388736717123652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597240703070793731",
+          "start": 0,
+          "username": "sngzhhu21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936388736717123652",
+    "in_reply_to_user_id": "1597240703070793731",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936388581435789533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sngzhhu21 最好看…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1936382216948625594",
+        "created_at": "2025-06-21T11:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T12:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936388736717123652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597240703070793731",
+              "start": 0,
+              "username": "sngzhhu21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936388736717123652",
+        "in_reply_to_user_id": "1597240703070793731",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936388581435789533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sngzhhu21 最好看…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597240703070793731",
+        "conversation_id": "1936382216948625594",
+        "created_at": "2025-06-21T11:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T12:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936388581435789533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936388581435789533",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936388411272712646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 好巧啊 我第一部韩剧也是鬼怪 我特别喜欢李栋旭和孔刘！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，不喜欢可以喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 192,
+          "like_count": 7049,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 2040
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T14:47:35.000Z",
+        "description": "喜欢我的给我钱 因为我喜欢钱",
+        "id": "1597240703070793731",
+        "location": "肯德基",
+        "name": "一枚纯净的屌丝",
+        "pinned_tweet_id": "1929592910908919965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930100728397475841/HfMKSHxa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 126,
+          "like_count": 2345,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 2017
+        },
+        "username": "sngzhhu21",
+        "verified": false
+      }
+    ]
+  }
+}

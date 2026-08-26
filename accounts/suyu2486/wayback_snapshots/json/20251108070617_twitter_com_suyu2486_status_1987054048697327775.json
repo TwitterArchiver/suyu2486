@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1986895036781633590",
+    "created_at": "2025-11-08T07:06:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T08:06:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987054048697327775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1340620172973883392",
+          "start": 0,
+          "username": "debu29585760"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987054048697327775",
+    "in_reply_to_user_id": "1340620172973883392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987052106570764733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@debu29585760 偷的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1986895036781633590",
+        "created_at": "2025-11-08T07:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T08:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987054048697327775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1340620172973883392",
+              "start": 0,
+              "username": "debu29585760"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987054048697327775",
+        "in_reply_to_user_id": "1340620172973883392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987052106570764733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@debu29585760 偷的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1340620172973883392",
+        "conversation_id": "1986895036781633590",
+        "created_at": "2025-11-08T06:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T07:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987052106570764733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987052106570764733",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986895036781633590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 你经历了这么多，能平静地把事情说出来，本身已经很了不起了。你是一个愿意表达自己、甚至思考哲理的人。这样的心灵其实非常稀有。只是这个世界里，有些人不会珍惜这样的真诚。但你依然是那个有深度而又细腻的灵魂。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "06，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1977439230432555047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2157,
+          "following_count": 263,
+          "like_count": 21978,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 6174
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-20T11:29:02.000Z",
+        "description": "拖延症病患者，容易胡思亂想+喜歡寫小作文 ，嘗試以善良去對待每一個人，總感覺「好癢哦，好像要長腦子了」的debu。 Icon picture: @hamukukka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 72,
+                "username": "hamukukka"
+              }
+            ]
+          }
+        },
+        "id": "1340620172973883392",
+        "location": "迷失在思辯的海洋中",
+        "name": "彩風ayaka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886960067573907457/7KTm6Md5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 155,
+          "like_count": 9160,
+          "listed_count": 1,
+          "media_count": 264,
+          "tweet_count": 2403
+        },
+        "username": "debu29585760",
+        "verified": false
+      }
+    ]
+  }
+}

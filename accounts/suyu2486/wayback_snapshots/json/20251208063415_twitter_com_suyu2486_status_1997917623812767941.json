@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1997573182526726526",
+    "created_at": "2025-12-08T06:34:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T07:34:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997917623812767941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1579651217235378181",
+          "start": 0,
+          "username": "maomaomao520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997917623812767941",
+    "in_reply_to_user_id": "1579651217235378181",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997573182526726526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maomaomao520 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1997573182526726526",
+        "created_at": "2025-12-08T06:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T07:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997917623812767941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1579651217235378181",
+              "start": 0,
+              "username": "maomaomao520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997917623812767941",
+        "in_reply_to_user_id": "1579651217235378181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997573182526726526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maomaomao520 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1579651217235378181",
+        "conversation_id": "1997573182526726526",
+        "created_at": "2025-12-07T07:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T08:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997573182526726526"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997573182526726526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2798,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "没见过傻福的可以去翻自己以前的QQ个性签名"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是一个死人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1985888956073066671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2500,
+          "following_count": 278,
+          "like_count": 23070,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 6436
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-11T01:53:18.000Z",
+        "description": "我是年糕（四爱版）关注我私信领闪电八连鞭。🚪52",
+        "id": "1579651217235378181",
+        "location": "距您3km",
+        "name": "超级无敌喵喵拳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996936988608626688/K1UAfMlP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 54,
+          "like_count": 719,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 889
+        },
+        "username": "maomaomao520",
+        "verified": false
+      }
+    ]
+  }
+}

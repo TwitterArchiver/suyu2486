@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2083839591409422670",
+    "created_at": "2026-08-03T02:04:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T03:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084098125204226546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2036602937296953344",
+          "start": 0,
+          "username": "dyxwysbh"
+        },
+        {
+          "end": 21,
+          "id": "1788237544590823424",
+          "start": 10,
+          "username": "Bzg1680475"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084098125204226546",
+    "in_reply_to_user_id": "2036602937296953344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083998238055788850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dyxwysbh @Bzg1680475 tmd笑死我了真的，怎么还有咒回的事？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2083839591409422670",
+        "created_at": "2026-08-03T02:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084098125204226546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2036602937296953344",
+              "start": 0,
+              "username": "dyxwysbh"
+            },
+            {
+              "end": 21,
+              "id": "1788237544590823424",
+              "start": 10,
+              "username": "Bzg1680475"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084098125204226546",
+        "in_reply_to_user_id": "2036602937296953344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083998238055788850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dyxwysbh @Bzg1680475 tmd笑死我了真的，怎么还有咒回的事？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036602937296953344",
+        "conversation_id": "2083839591409422670",
+        "created_at": "2026-08-02T19:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T20:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083998238055788850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1788237544590823424",
+              "start": 0,
+              "username": "Bzg1680475"
+            },
+            {
+              "end": 21,
+              "id": "1910715228523831296",
+              "start": 12,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083998238055788850",
+        "in_reply_to_user_id": "1788237544590823424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083909673527500875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bzg1680475 @suyu2486 福黑啊....不是禅院就行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2066,
+          "following_count": 189,
+          "like_count": 21239,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6638
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-25T00:36:17.000Z",
+        "description": "",
+        "id": "2036602937296953344",
+        "name": "路菲尔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036603038476156929/yzzxMlMQ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 45,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "dyxwysbh",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "这个世界全都是神经病，只是有的显性有的隐性\n我要当一棵树，沉稳 从容 平静 坚定。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tree72872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tree72872",
+                "start": 0,
+                "url": "https://t.co/ZHVLQJ4evf"
+              }
+            ]
+          }
+        },
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2082418374953578529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 24,
+          "like_count": 1152,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 553
+        },
+        "url": "https://t.co/ZHVLQJ4evf",
+        "username": "Bzg1680475",
+        "verified": false
+      }
+    ]
+  }
+}

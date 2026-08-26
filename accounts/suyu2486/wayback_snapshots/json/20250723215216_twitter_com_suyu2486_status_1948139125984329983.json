@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1947908239867449376",
+    "created_at": "2025-07-23T21:52:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T22:52:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948139125984329983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1801122519161921536",
+          "start": 0,
+          "username": "huaizuo12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948139125984329983",
+    "in_reply_to_user_id": "1801122519161921536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947908239867449376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huaizuo12 好好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1947908233571799042",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwhcN80bEAIEBO4.jpg",
+        "width": 710
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1947908239867449376",
+        "created_at": "2025-07-23T21:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T22:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948139125984329983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1801122519161921536",
+              "start": 0,
+              "username": "huaizuo12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948139125984329983",
+        "in_reply_to_user_id": "1801122519161921536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947908239867449376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huaizuo12 好好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947908233571799042"
+          ]
+        },
+        "author_id": "1801122519161921536",
+        "conversation_id": "1947908239867449376",
+        "created_at": "2025-07-23T06:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T07:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947908239867449376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eFcRlWDDeX",
+              "end": 26,
+              "expanded_url": "https://x.com/huaizuo12/status/1947908239867449376/photo/1",
+              "media_key": "3_1947908233571799042",
+              "start": 3,
+              "url": "https://t.co/eFcRlWDDeX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947908239867449376",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 610,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🦭🦭 https://t.co/eFcRlWDDeX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 200,
+          "like_count": 11842,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 3360
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T05:20:56.000Z",
+        "description": "这是我的使用说明书｜04-181｜intp｜没回可能是不在线｜关注一般都会回关🥹｜不是男同❌｜1i｜白羊♈️｜认出煮啵的话欢迎友善打招呼🫰｜欢迎来找我提问🤗🤗👇👇｜下面链接是匿名📪｜互关欢迎+v｜人类样本观察中｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huaizuoxi1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huaizuoxi1",
+                "start": 0,
+                "url": "https://t.co/WgvZ1wfaVM"
+              }
+            ]
+          }
+        },
+        "id": "1801122519161921536",
+        "location": "生活",
+        "name": "淮左（忙碌版）",
+        "pinned_tweet_id": "1945347247371387065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946409296146644992/Ufw3s3bd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 187,
+          "like_count": 10608,
+          "listed_count": 0,
+          "media_count": 280,
+          "tweet_count": 1558
+        },
+        "url": "https://t.co/WgvZ1wfaVM",
+        "username": "huaizuo12",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1996156838157688890",
+    "created_at": "2025-12-03T12:24:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T13:24:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996193733663244763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1770054684600053760",
+          "start": 0,
+          "username": "wang041600"
+        },
+        {
+          "end": 25,
+          "id": "18174355",
+          "start": 12,
+          "username": "jerrynettuno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996193733663244763",
+    "in_reply_to_user_id": "1770054684600053760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996193599726432351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wang041600 @jerrynettuno 当个事办"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1996156838157688890",
+        "created_at": "2025-12-03T12:24:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T13:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996193733663244763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1770054684600053760",
+              "start": 0,
+              "username": "wang041600"
+            },
+            {
+              "end": 25,
+              "id": "18174355",
+              "start": 12,
+              "username": "jerrynettuno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996193733663244763",
+        "in_reply_to_user_id": "1770054684600053760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996193599726432351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wang041600 @jerrynettuno 当个事办"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1770054684600053760",
+        "conversation_id": "1996156838157688890",
+        "created_at": "2025-12-03T12:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T13:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996193599726432351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            },
+            {
+              "end": 23,
+              "id": "18174355",
+              "start": 10,
+              "username": "jerrynettuno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996193599726432351",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996186023391596817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 @jerrynettuno 行 我说他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是一个死人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1985888956073066671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2448,
+          "following_count": 268,
+          "like_count": 22741,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 6349
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-19T11:48:48.000Z",
+        "description": "大学生 喜欢所有有趣的事物\n可以找我聊天 我看到会回",
+        "id": "1770054684600053760",
+        "location": "男 拒绝男同 拒绝sb",
+        "name": "抽子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995019167813308420/nQEBKkHi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 25,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 107
+        },
+        "username": "wang041600",
+        "verified": false
+      },
+      {
+        "created_at": "2008-12-16T22:10:50.000Z",
+        "description": "来和我一起碎碎念！",
+        "id": "18174355",
+        "name": "熊出没-熊大",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916726880780087296/MlTdQcuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9708,
+          "following_count": 3,
+          "like_count": 62,
+          "listed_count": 10,
+          "media_count": 142,
+          "tweet_count": 196
+        },
+        "username": "jerrynettuno",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1977439230432555047",
+    "created_at": "2025-10-12T18:50:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T19:50:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977446831752896568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1827016495307898880",
+          "start": 0,
+          "username": "ikemesaigo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977446831752896568",
+    "in_reply_to_user_id": "1827016495307898880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977446616979341312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ikemesaigo 我没说不是我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1977439230432555047",
+        "created_at": "2025-10-12T18:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T19:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977446831752896568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1827016495307898880",
+              "start": 0,
+              "username": "ikemesaigo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977446831752896568",
+        "in_reply_to_user_id": "1827016495307898880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977446616979341312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ikemesaigo 我没说不是我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827016495307898880",
+        "conversation_id": "1977439230432555047",
+        "created_at": "2025-10-12T18:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T19:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977446616979341312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977446616979341312",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977446529188429908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 我说的是我🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我玊玉，叫玉是因为英文名是jade，玊（su）是有瑕疵的玉的意思，男的，infp，装逼让你飞起来，机舱开🚪中，座位费20一位（一包黑兰州的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗     🎼  转帖、置顶推广关评自辩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1977439230432555047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2160,
+          "following_count": 261,
+          "like_count": 21204,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 5885
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T16:14:28.000Z",
+        "description": "我声音很难听 具体表现为王者低端局的开麦小学生猴子 我长得很难看 具体参考吉他张 我好色 我喜欢玩逼 我喜欢腹肌",
+        "id": "1827016495307898880",
+        "location": "珠海",
+        "name": "阴蒂神",
+        "pinned_tweet_id": "1967277800534266202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971025896619282432/Fu7kyHuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 699,
+          "like_count": 5767,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 3195
+        },
+        "username": "ikemesaigo",
+        "verified": false
+      }
+    ]
+  }
+}

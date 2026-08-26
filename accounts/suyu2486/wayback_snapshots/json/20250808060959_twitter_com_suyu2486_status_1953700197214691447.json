@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1953616065029976381",
+    "created_at": "2025-08-08T06:09:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T07:09:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953700197214691447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1939330946358210560",
+          "start": 0,
+          "username": "SukiXiaozhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953700197214691447",
+    "in_reply_to_user_id": "1939330946358210560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953699972525719810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SukiXiaozhi 不给"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1953616065029976381",
+        "created_at": "2025-08-08T06:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T07:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953700197214691447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1939330946358210560",
+              "start": 0,
+              "username": "SukiXiaozhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953700197214691447",
+        "in_reply_to_user_id": "1939330946358210560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953699972525719810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SukiXiaozhi 不给"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939330946358210560",
+        "conversation_id": "1953616065029976381",
+        "created_at": "2025-08-08T06:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T07:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953699972525719810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953699972525719810",
+        "in_reply_to_user_id": "1939330946358210560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953699886601523548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 给我来一口"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1953423119017758926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1133,
+          "following_count": 200,
+          "like_count": 13849,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 3799
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T14:31:54.000Z",
+        "description": "仅记录体重、分享日常 少量碎碎念 / 暴露狂/ 倒苦水大王/ 贴脸拉黑 / 88.88门槛无上限 / 顺便蹲一下谁能教我拍照片 我拍的咋恁粗旷 / 欢迎找我聊天 欢迎投喂💞",
+        "id": "1939330946358210560",
+        "location": "私の愛から",
+        "name": "小智の日记薄",
+        "pinned_tweet_id": "1952332683960537439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945138788977577984/2aTt7b7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 16,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 129
+        },
+        "username": "SukiXiaozhi",
+        "verified": false
+      }
+    ]
+  }
+}

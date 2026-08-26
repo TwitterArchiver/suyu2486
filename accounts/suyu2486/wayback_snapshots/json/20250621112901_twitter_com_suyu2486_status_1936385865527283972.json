@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1936348252112408868",
+    "created_at": "2025-06-21T11:29:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T12:29:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936385865527283972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1674007936732131333",
+          "start": 0,
+          "username": "x_x_x_x_x_x_x01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936385865527283972",
+    "in_reply_to_user_id": "1674007936732131333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936348252112408868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x_x_x_x_x_x_x01 办走读了？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1549,
+        "media_key": "3_1936348241123069952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt9Kd1GX0AA-Ima.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1541,
+        "media_key": "3_1936348240951365632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt9Kd0db0AAvD7c.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1936348252112408868",
+        "created_at": "2025-06-21T11:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T12:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936385865527283972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1674007936732131333",
+              "start": 0,
+              "username": "x_x_x_x_x_x_x01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936385865527283972",
+        "in_reply_to_user_id": "1674007936732131333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936348252112408868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_x_x_x_x_x_x01 办走读了？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936348241123069952",
+            "3_1936348240951365632"
+          ]
+        },
+        "author_id": "1674007936732131333",
+        "conversation_id": "1936348252112408868",
+        "created_at": "2025-06-21T08:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T09:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936348252112408868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9sABrKHNql",
+              "end": 33,
+              "expanded_url": "https://x.com/x_x_x_x_x_x_x01/status/1936348252112408868/photo/1",
+              "media_key": "3_1936348241123069952",
+              "start": 10,
+              "url": "https://t.co/9sABrKHNql"
+            },
+            {
+              "display_url": "pic.x.com/9sABrKHNql",
+              "end": 33,
+              "expanded_url": "https://x.com/x_x_x_x_x_x_x01/status/1936348252112408868/photo/1",
+              "media_key": "3_1936348240951365632",
+              "start": 10,
+              "url": "https://t.co/9sABrKHNql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936348252112408868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 795,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "劳资组长是 吴亦凡 https://t.co/9sABrKHNql"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的，我将做回神鹰，爱说点c语言，不喜欢可以喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 191,
+          "like_count": 7025,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 2028
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-28T10:53:07.000Z",
+        "description": "ins：lingyang816/请礼貌私信喜欢的会回复/谢谢关注/推❕广❕自❕辩❕关评为广",
+        "id": "1674007936732131333",
+        "location": "🚪188/388/520/1314/5200zfb口令",
+        "name": "羚羊公主",
+        "pinned_tweet_id": "1934884817679860050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893517101169811456/nETfGVo4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12928,
+          "following_count": 65,
+          "like_count": 675,
+          "listed_count": 25,
+          "media_count": 275,
+          "tweet_count": 1210
+        },
+        "username": "x_x_x_x_x_x_x01",
+        "verified": false
+      }
+    ]
+  }
+}

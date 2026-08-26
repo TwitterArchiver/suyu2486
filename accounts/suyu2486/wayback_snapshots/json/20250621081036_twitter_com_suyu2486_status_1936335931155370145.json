@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1936327707513831740",
+    "created_at": "2025-06-21T08:10:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T09:10:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936335931155370145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1903167131619037187",
+          "start": 0,
+          "username": "Shayuyuyuyu0306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936335931155370145",
+    "in_reply_to_user_id": "1903167131619037187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936327707513831740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shayuyuyuyu0306 那再等等吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1936327693760389120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt83x0NW4AAahDn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1936327707513831740",
+        "created_at": "2025-06-21T08:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T09:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936335931155370145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1903167131619037187",
+              "start": 0,
+              "username": "Shayuyuyuyu0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936335931155370145",
+        "in_reply_to_user_id": "1903167131619037187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936327707513831740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shayuyuyuyu0306 那再等等吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936327693760389120"
+          ]
+        },
+        "author_id": "1903167131619037187",
+        "conversation_id": "1936327707513831740",
+        "created_at": "2025-06-21T07:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T08:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936327707513831740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lGPNy9LLuu",
+              "end": 38,
+              "expanded_url": "https://x.com/Shayuyuyuyu0306/status/1936327707513831740/photo/1",
+              "media_key": "3_1936327693760389120",
+              "start": 15,
+              "url": "https://t.co/lGPNy9LLuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936327707513831740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要分手吗 可是我现在很漂亮诶 https://t.co/lGPNy9LLuu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的，我将做回神鹰，爱说点c语言，不喜欢可以喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 185,
+          "like_count": 6879,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1962
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T19:30:17.000Z",
+        "description": "乌！呀！咦！哈！",
+        "id": "1903167131619037187",
+        "name": "超级无敌的乌萨奇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903829769336328192/Q2LMFX8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1608,
+          "following_count": 207,
+          "like_count": 3127,
+          "listed_count": 3,
+          "media_count": 125,
+          "tweet_count": 649
+        },
+        "username": "Shayuyuyuyu0306",
+        "verified": false
+      }
+    ]
+  }
+}

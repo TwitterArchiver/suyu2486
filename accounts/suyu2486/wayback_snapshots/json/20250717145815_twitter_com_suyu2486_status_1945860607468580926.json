@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945860604742209536"
+      ]
+    },
+    "author_id": "1910715228523831296",
+    "conversation_id": "1945860607468580926",
+    "created_at": "2025-07-17T14:58:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T15:58:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945860607468580926"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DF9XnrjNiR",
+          "end": 42,
+          "expanded_url": "https://x.com/suyu2486/status/1945860607468580926/photo/1",
+          "media_key": "3_1945860604742209536",
+          "start": 19,
+          "url": "https://t.co/DF9XnrjNiR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945860607468580926",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 114,
+      "like_count": 7,
+      "quote_count": 0,
+      "reply_count": 4,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "无聊到打开多邻国怒学一个小时英语…😱 https://t.co/DF9XnrjNiR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1012,
+        "media_key": "3_1945860604742209536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwEV6RAWEAAf14L.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945860604742209536"
+          ]
+        },
+        "author_id": "1910715228523831296",
+        "conversation_id": "1945860607468580926",
+        "created_at": "2025-07-17T14:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T15:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945860607468580926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DF9XnrjNiR",
+              "end": 42,
+              "expanded_url": "https://x.com/suyu2486/status/1945860607468580926/photo/1",
+              "media_key": "3_1945860604742209536",
+              "start": 19,
+              "url": "https://t.co/DF9XnrjNiR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945860607468580926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无聊到打开多邻国怒学一个小时英语…😱 https://t.co/DF9XnrjNiR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 202,
+          "like_count": 11704,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 3334
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      }
+    ]
+  }
+}

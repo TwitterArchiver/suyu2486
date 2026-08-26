@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1943110513296134368",
+    "created_at": "2025-07-10T10:36:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T11:36:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943257947464724652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1932859825156993028",
+          "start": 0,
+          "username": "chuhezhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943257947464724652",
+    "in_reply_to_user_id": "1932859825156993028",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943233921228906528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuhezhi 啊啊啊补药再说了…要是这样说的话实在恶心…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1943110513296134368",
+        "created_at": "2025-07-10T10:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T11:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943257947464724652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1932859825156993028",
+              "start": 0,
+              "username": "chuhezhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943257947464724652",
+        "in_reply_to_user_id": "1932859825156993028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943233921228906528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuhezhi 啊啊啊补药再说了…要是这样说的话实在恶心…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932859825156993028",
+        "conversation_id": "1943110513296134368",
+        "created_at": "2025-07-10T09:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T10:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943233921228906528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943233921228906528",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943110513296134368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 因为蟑螂很脏很恶心很多细菌，踩死了内脏和卵到处飞，拖鞋飞过去小力了死不掉，大力了扣墙上，加上小时后半夜被蟑螂飞身子上，喝可乐喝进蟑螂，导致我一看到蟑螂就犯恶心想吐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 201,
+          "like_count": 11215,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 3232
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-11T17:58:03.000Z",
+        "description": "我的抑郁症是微信免费小程序自测的",
+        "id": "1932859825156993028",
+        "name": "拉屎要擦屁股",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935403004116484096/yb-wXzdR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 51,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 82
+        },
+        "username": "chuhezhi",
+        "verified": false
+      }
+    ]
+  }
+}

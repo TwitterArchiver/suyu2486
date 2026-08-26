@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1961076010155401314",
+    "created_at": "2025-08-29T06:51:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T07:51:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961320900999147770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1642558972778676227",
+          "start": 0,
+          "username": "SwangSw48719998"
+        },
+        {
+          "end": 25,
+          "id": "1321141952960626689",
+          "start": 17,
+          "username": "Chen1un"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961320900999147770",
+    "in_reply_to_user_id": "1642558972778676227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961315897844682977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SwangSw48719998 @Chen1un 我也觉得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1961076010155401314",
+        "created_at": "2025-08-29T06:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T07:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961320900999147770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1642558972778676227",
+              "start": 0,
+              "username": "SwangSw48719998"
+            },
+            {
+              "end": 25,
+              "id": "1321141952960626689",
+              "start": 17,
+              "username": "Chen1un"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961320900999147770",
+        "in_reply_to_user_id": "1642558972778676227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961315897844682977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SwangSw48719998 @Chen1un 我也觉得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642558972778676227",
+        "conversation_id": "1961076010155401314",
+        "created_at": "2025-08-29T06:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T07:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961315897844682977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            },
+            {
+              "end": 18,
+              "id": "1321141952960626689",
+              "start": 10,
+              "username": "Chen1un"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961315897844682977",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961091689709289549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 @Chen1un 小玉你太棒了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个好色的sb男的，双相情感障碍，情感漠视，精神失常，都滚远点别来烦我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "小玉",
+        "pinned_tweet_id": "1961296394242965841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1363,
+          "following_count": 199,
+          "like_count": 17260,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 4596
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-02T16:05:58.000Z",
+        "description": "",
+        "id": "1642558972778676227",
+        "name": "Wann",
+        "pinned_tweet_id": "1958884269209628698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769622867237285888/qyuR2qo9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 119,
+          "like_count": 617,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 872
+        },
+        "username": "SwangSw48719998",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-27T17:29:33.000Z",
+        "description": "推广自辨丨間接发騷小號：@liulengdan12丨有🚪丨匿名问答https://t.co/fotsrxBgvb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "liulengdan12"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/chen1un",
+                "end": 56,
+                "expanded_url": "https://ngl.link/chen1un",
+                "start": 33,
+                "url": "https://t.co/fotsrxBgvb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/sdmonecl",
+                "end": 23,
+                "expanded_url": "http://bit.ly/sdmonecl",
+                "start": 0,
+                "url": "https://t.co/s77w5D1VYT"
+              }
+            ]
+          }
+        },
+        "id": "1321141952960626689",
+        "location": "闪电猫VPN ➡",
+        "name": "沉沦",
+        "pinned_tweet_id": "1946059103421530176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1321153252679806977/TKnA-_Zv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333972,
+          "following_count": 97,
+          "like_count": 966,
+          "listed_count": 743,
+          "media_count": 321,
+          "tweet_count": 1838
+        },
+        "url": "https://t.co/s77w5D1VYT",
+        "username": "Chen1un",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

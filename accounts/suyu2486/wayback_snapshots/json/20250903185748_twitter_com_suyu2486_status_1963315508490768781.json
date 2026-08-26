@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1963199947601482032",
+    "created_at": "2025-09-03T18:57:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T19:57:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963315508490768781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1799839125211922432",
+          "start": 0,
+          "username": "Oioclaire"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963315508490768781",
+    "in_reply_to_user_id": "1799839125211922432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963199947601482032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oioclaire 爱了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1963199939502284801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz6v8YkaIAEASw6.jpg",
+        "width": 658
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1963199947601482032",
+        "created_at": "2025-09-03T18:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T19:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963315508490768781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1799839125211922432",
+              "start": 0,
+              "username": "Oioclaire"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963315508490768781",
+        "in_reply_to_user_id": "1799839125211922432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963199947601482032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oioclaire 爱了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963199939502284801"
+          ]
+        },
+        "author_id": "1799839125211922432",
+        "conversation_id": "1963199947601482032",
+        "created_at": "2025-09-03T11:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T12:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963199947601482032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/88Z6Y2uzoG",
+              "end": 23,
+              "expanded_url": "https://x.com/Oioclaire/status/1963199947601482032/photo/1",
+              "media_key": "3_1963199939502284801",
+              "start": 0,
+              "url": "https://t.co/88Z6Y2uzoG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963199947601482032",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 5496,
+          "like_count": 251,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/88Z6Y2uzoG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱无章，不定期活跃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "飞向全宇宙",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1422,
+          "following_count": 210,
+          "like_count": 18469,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 4950
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T16:21:13.000Z",
+        "description": "19 intp 会看私信 不接线下！",
+        "id": "1799839125211922432",
+        "location": "🚪188 /520",
+        "name": "Oio",
+        "pinned_tweet_id": "1956066780415451525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901564033645613056/65lRG2HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16091,
+          "following_count": 174,
+          "like_count": 18324,
+          "listed_count": 53,
+          "media_count": 217,
+          "tweet_count": 2221
+        },
+        "username": "Oioclaire",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1963124866581717386",
+    "created_at": "2025-09-03T17:57:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T18:57:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963300252095766538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1395246669596299264",
+          "start": 0,
+          "username": "wsndrm"
+        },
+        {
+          "end": 15,
+          "id": "1168658583048904705",
+          "start": 8,
+          "username": "DRC_EB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963300252095766538",
+    "in_reply_to_user_id": "1395246669596299264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963299332087767447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wsndrm @DRC_EB 狗粮这一块，祝幸福哦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1963124866581717386",
+        "created_at": "2025-09-03T17:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T18:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963300252095766538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1395246669596299264",
+              "start": 0,
+              "username": "wsndrm"
+            },
+            {
+              "end": 15,
+              "id": "1168658583048904705",
+              "start": 8,
+              "username": "DRC_EB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963300252095766538",
+        "in_reply_to_user_id": "1395246669596299264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963299332087767447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wsndrm @DRC_EB 狗粮这一块，祝幸福哦！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1395246669596299264",
+        "conversation_id": "1963124866581717386",
+        "created_at": "2025-09-03T17:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T18:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963299332087767447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            },
+            {
+              "end": 17,
+              "id": "1168658583048904705",
+              "start": 10,
+              "username": "DRC_EB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963299332087767447",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963124866581717386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 @DRC_EB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗不定期活跃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "飞向全宇宙",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1416,
+          "following_count": 209,
+          "like_count": 18324,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 4898
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-20T05:15:10.000Z",
+        "description": "存图存视频 盗我图的死全家",
+        "id": "1395246669596299264",
+        "name": "^-^👊🏻",
+        "pinned_tweet_id": "1963160706557087910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952870179786113024/_pImk1w2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224100,
+          "following_count": 12,
+          "like_count": 238,
+          "listed_count": 1010,
+          "media_count": 21,
+          "tweet_count": 78
+        },
+        "username": "wsndrm",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-02T22:55:02.000Z",
+        "description": "请明确私信目的",
+        "id": "1168658583048904705",
+        "location": "USA",
+        "name": "DRBLANE315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885389412432846849/IR90e2_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34634,
+          "following_count": 2,
+          "like_count": 6550,
+          "listed_count": 117,
+          "media_count": 95,
+          "tweet_count": 176
+        },
+        "username": "DRC_EB",
+        "verified": false
+      }
+    ]
+  }
+}

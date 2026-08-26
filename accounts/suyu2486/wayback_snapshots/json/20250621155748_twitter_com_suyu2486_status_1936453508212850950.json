@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1936439476034933158",
+    "created_at": "2025-06-21T15:57:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T16:57:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936453508212850950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1889200694986756096",
+          "start": 0,
+          "username": "OvOxiaomi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936453508212850950",
+    "in_reply_to_user_id": "1889200694986756096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936439476034933158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvOxiaomi 啊啊啊啊啊，美我一大跳"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7966,
+        "height": 1280,
+        "media_key": "13_1936439414273806336",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1936439414273806336/img/zI75uCYGbGPiGLFg.jpg",
+        "public_metrics": {
+          "view_count": 29
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936439414273806336/vid/avc1/320x568/fHMTNpw0727PG89K.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936439414273806336/vid/avc1/480x852/H5bxTtVD3c4Ak9gv.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936439414273806336/vid/avc1/720x1280/oRq-DFIPWE8fXqN9.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1936439414273806336/pl/_6S1Q87flIjjt4RC.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1936439476034933158",
+        "created_at": "2025-06-21T15:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T16:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936453508212850950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1889200694986756096",
+              "start": 0,
+              "username": "OvOxiaomi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936453508212850950",
+        "in_reply_to_user_id": "1889200694986756096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936439476034933158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvOxiaomi 啊啊啊啊啊，美我一大跳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1936439414273806336"
+          ]
+        },
+        "author_id": "1889200694986756096",
+        "conversation_id": "1936439476034933158",
+        "created_at": "2025-06-21T15:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T16:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936439476034933158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d1TAIUSc5K",
+              "end": 29,
+              "expanded_url": "https://x.com/OvOxiaomi/status/1936439476034933158/video/1",
+              "media_key": "13_1936439414273806336",
+              "start": 6,
+              "url": "https://t.co/d1TAIUSc5K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936439476034933158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🔥借个火🔥 https://t.co/d1TAIUSc5K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，不喜欢可以喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 194,
+          "like_count": 7130,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 2070
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T06:32:08.000Z",
+        "description": "infp04双子｜只回小女孩私信o(≧v≦)o｜互关+v｜@OnOxiaomi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 29,
+                "username": "OnOxiaomi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%96%B5%E5%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%96%B5%E5%96%B5%E5%96%B556588",
+                "start": 0,
+                "url": "https://t.co/bFvbqgw3Nk"
+              }
+            ]
+          }
+        },
+        "id": "1889200694986756096",
+        "location": "瓦罗兰特",
+        "name": "一只只只只只咪",
+        "pinned_tweet_id": "1932070847780663584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930649745632231425/LhVTFJZC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 146,
+          "like_count": 8789,
+          "listed_count": 5,
+          "media_count": 180,
+          "tweet_count": 2676
+        },
+        "url": "https://t.co/bFvbqgw3Nk",
+        "username": "OvOxiaomi",
+        "verified": false
+      }
+    ]
+  }
+}

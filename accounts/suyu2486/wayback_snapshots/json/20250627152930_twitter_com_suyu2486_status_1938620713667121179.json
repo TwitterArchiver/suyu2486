@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1938611562777854290",
+    "created_at": "2025-06-27T15:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T16:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938620713667121179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1803642368949886976",
+          "start": 0,
+          "username": "xiaoguai041003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938620713667121179",
+    "in_reply_to_user_id": "1803642368949886976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938611562777854290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoguai041003 爷爷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1844,
+        "media_key": "3_1938611400605106176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GudUzDKXAAAslpX.jpg",
+        "width": 2044
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1938611562777854290",
+        "created_at": "2025-06-27T15:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T16:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938620713667121179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1803642368949886976",
+              "start": 0,
+              "username": "xiaoguai041003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938620713667121179",
+        "in_reply_to_user_id": "1803642368949886976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938611562777854290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoguai041003 爷爷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938611400605106176"
+          ]
+        },
+        "author_id": "1803642368949886976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1938611562777854290",
+        "created_at": "2025-06-27T14:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T15:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938611562777854290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sIrUtrYJ0C",
+              "end": 54,
+              "expanded_url": "https://x.com/xiaoguai041003/status/1938611562777854290/photo/1",
+              "media_key": "3_1938611400605106176",
+              "start": 31,
+              "url": "https://t.co/sIrUtrYJ0C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938611562777854290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 644,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以叫我一声那个嘛？就两个一模一样的字的那个\n   🥺\n👉👈 https://t.co/sIrUtrYJ0C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1938601372837913057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 196,
+          "like_count": 8763,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2463
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T04:14:02.000Z",
+        "description": "毛儿的日记本|属性brat  星座天秤 | 需要有礼貌的小女孩吻上来|🚪52/188（没有区别就是想圈钱）纯绿 |日常and碎碎念| 私信只回口令红包和有礼貌的 | 不线下不约 | 推广自辨（会关评论区）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=vnxE36SC",
+                "start": 0,
+                "url": "https://t.co/NtKvOP3zLM"
+              }
+            ]
+          }
+        },
+        "id": "1803642368949886976",
+        "location": " Tokyo 无广告干扰，机场节点随便挑，蜂鸟VPN",
+        "name": "小毛米",
+        "pinned_tweet_id": "1927400284998828489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803642443193262081/5F50MW09_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6398,
+          "following_count": 179,
+          "like_count": 21810,
+          "listed_count": 9,
+          "media_count": 255,
+          "tweet_count": 4810
+        },
+        "url": "https://t.co/NtKvOP3zLM",
+        "username": "xiaoguai041003",
+        "verified": false
+      }
+    ]
+  }
+}

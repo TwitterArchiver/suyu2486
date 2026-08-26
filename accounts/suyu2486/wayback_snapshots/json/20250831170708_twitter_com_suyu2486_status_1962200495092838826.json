@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1962118078919213370",
+    "created_at": "2025-08-31T17:07:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T18:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962200495092838826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1708115434376138752",
+          "start": 0,
+          "username": "he666YG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962200495092838826",
+    "in_reply_to_user_id": "1708115434376138752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962118078919213370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@he666YG 有几率，但特别小"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1962118078919213370",
+        "created_at": "2025-08-31T17:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T18:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962200495092838826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1708115434376138752",
+              "start": 0,
+              "username": "he666YG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962200495092838826",
+        "in_reply_to_user_id": "1708115434376138752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962118078919213370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@he666YG 有几率，但特别小"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708115434376138752",
+        "conversation_id": "1962118078919213370",
+        "created_at": "2025-08-31T11:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T12:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962118078919213370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962118078919213370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6534,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果无套但不内射 会怀孕吗 ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "叫我小玉，男的，infp，可以匿名信或者直接私信找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "地狱",
+        "name": "小玉",
+        "pinned_tweet_id": "1961524810619748717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1363,
+          "following_count": 202,
+          "like_count": 17568,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 4698
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-30T13:44:37.000Z",
+        "description": "INFJ 不是s 不聊骚 不线下 不见面 不收门槛 不卖原味 不加联系方式",
+        "id": "1708115434376138752",
+        "name": "¿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811061096884953088/tPITgd32_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5362,
+          "following_count": 3,
+          "like_count": 2266,
+          "listed_count": 15,
+          "media_count": 27,
+          "tweet_count": 161
+        },
+        "username": "he666YG",
+        "verified": false
+      }
+    ]
+  }
+}

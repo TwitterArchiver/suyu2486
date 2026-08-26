@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1996118459625935063",
+    "created_at": "2025-12-03T09:52:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T10:52:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996155675576279174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929598660561805312",
+          "start": 0,
+          "username": "GunNiMa_886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996155675576279174",
+    "in_reply_to_user_id": "1929598660561805312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996118459625935063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GunNiMa_886 猜到了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996118447261188097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7OjJuKbgAEarXD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996118447265382400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7OjJuLbgAAAEJx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1996118459625935063",
+        "created_at": "2025-12-03T09:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T10:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996155675576279174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929598660561805312",
+              "start": 0,
+              "username": "GunNiMa_886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996155675576279174",
+        "in_reply_to_user_id": "1929598660561805312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996118459625935063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GunNiMa_886 猜到了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996118447261188097",
+            "3_1996118447265382400"
+          ]
+        },
+        "author_id": "1929598660561805312",
+        "conversation_id": "1996118459625935063",
+        "created_at": "2025-12-03T07:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T08:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996118459625935063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fEL1fC3HPg",
+              "end": 34,
+              "expanded_url": "https://x.com/GunNiMa_886/status/1996118459625935063/photo/1",
+              "media_key": "3_1996118447261188097",
+              "start": 11,
+              "url": "https://t.co/fEL1fC3HPg"
+            },
+            {
+              "display_url": "pic.x.com/fEL1fC3HPg",
+              "end": 34,
+              "expanded_url": "https://x.com/GunNiMa_886/status/1996118459625935063/photo/1",
+              "media_key": "3_1996118447265382400",
+              "start": 11,
+              "url": "https://t.co/fEL1fC3HPg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996118459625935063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 259,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的真实身份是美人鱼 https://t.co/fEL1fC3HPg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是一个死人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1985888956073066671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2447,
+          "following_count": 268,
+          "like_count": 22667,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 6316
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T17:59:25.000Z",
+        "description": "我很穷 加v🚪52/188/288，互关免，口令赞赏码都可以，不接线下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%86%9C%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%86%9C%E6%B0%91",
+                "start": 0,
+                "url": "https://t.co/b3bJJHxuxc"
+              }
+            ]
+          }
+        },
+        "id": "1929598660561805312",
+        "location": "田里",
+        "name": "一个老实农民",
+        "pinned_tweet_id": "1972933752512024840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996118982576013321/SayakwjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6626,
+          "following_count": 85,
+          "like_count": 1112,
+          "listed_count": 14,
+          "media_count": 60,
+          "tweet_count": 854
+        },
+        "url": "https://t.co/b3bJJHxuxc",
+        "username": "GunNiMa_886",
+        "verified": false
+      }
+    ]
+  }
+}

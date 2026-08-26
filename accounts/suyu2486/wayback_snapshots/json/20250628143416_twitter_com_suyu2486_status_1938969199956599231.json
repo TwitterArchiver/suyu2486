@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1938964565288444113",
+    "created_at": "2025-06-28T14:34:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T15:34:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938969199956599231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1912572144074256389",
+          "start": 0,
+          "username": "TSUKI_TTKAWA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938969199956599231",
+    "in_reply_to_user_id": "1912572144074256389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 42,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938968096599093674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TSUKI_TTKAWA 我真抽烟抽的声音就这b样了乖乖😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1938964565288444113",
+        "created_at": "2025-06-28T14:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T15:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938969199956599231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1912572144074256389",
+              "start": 0,
+              "username": "TSUKI_TTKAWA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938969199956599231",
+        "in_reply_to_user_id": "1912572144074256389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938968096599093674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TSUKI_TTKAWA 我真抽烟抽的声音就这b样了乖乖😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912572144074256389",
+        "conversation_id": "1938964565288444113",
+        "created_at": "2025-06-28T14:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T15:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938968096599093674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938968096599093674",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938964565288444113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 再来一个超绝气泡音试试呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1938601372837913057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 198,
+          "like_count": 9233,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2649
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T18:21:57.000Z",
+        "description": "⊹ ꔫ ⊹ 𝓣𝓼𝓾𝓴𝓲 つき ⊹ ꔫ ⊹ 165｜switch｜1i｜没有🚪｜不线下｜不加v｜⚠️关评推广自辩⚠️｜色色怪｜妹宝互关｜手冲大王｜青叔音的狗｜照片直接看媒体｜不站队不吵架不参与｜自用蜂鸟VPN：https://t.co/idjSKj0QLI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 127,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=wWiKnyoC",
+                "start": 104,
+                "url": "https://t.co/idjSKj0QLI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tsuki29631",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tsuki29631",
+                "start": 0,
+                "url": "https://t.co/7MkWIU9aIV"
+              }
+            ]
+          }
+        },
+        "id": "1912572144074256389",
+        "location": "春日部 欢迎匿名：",
+        "name": "-Tsuki月",
+        "pinned_tweet_id": "1938531365940855239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913542548427292673/DiTWLPse_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6859,
+          "following_count": 194,
+          "like_count": 8410,
+          "listed_count": 20,
+          "media_count": 87,
+          "tweet_count": 1081
+        },
+        "url": "https://t.co/7MkWIU9aIV",
+        "username": "TSUKI_TTKAWA",
+        "verified": false
+      }
+    ]
+  }
+}

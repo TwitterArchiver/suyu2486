@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1939847270284890437",
+    "created_at": "2025-07-01T06:49:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T07:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939939313422057561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1883727989671944192",
+          "start": 0,
+          "username": "linnyii8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939939313422057561",
+    "in_reply_to_user_id": "1883727989671944192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939915685620326700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linnyii8964 别哭别哭，摸摸你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1939847270284890437",
+        "created_at": "2025-07-01T06:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T07:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939939313422057561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883727989671944192",
+              "start": 0,
+              "username": "linnyii8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939939313422057561",
+        "in_reply_to_user_id": "1883727989671944192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939915685620326700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linnyii8964 别哭别哭，摸摸你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883727989671944192",
+        "conversation_id": "1939847270284890437",
+        "created_at": "2025-07-01T05:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T06:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939915685620326700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939915685620326700",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939847270284890437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 神鹰我哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1923458019305660813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 199,
+          "like_count": 9879,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2880
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T04:05:33.000Z",
+        "description": "🚪52/188 我要守护的女孩:@jiangqidawang 另一个我:@nidiemasile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "jiangqidawang"
+              },
+              {
+                "end": 48,
+                "start": 36,
+                "username": "nidiemasile"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=XQd8EqLh",
+                "start": 0,
+                "url": "https://t.co/ZxG5Lco8Fc"
+              }
+            ]
+          }
+        },
+        "id": "1883727989671944192",
+        "location": "无广告干扰，机场节点随便挑，蜂鸟VPN",
+        "name": "只是爱乱说话",
+        "pinned_tweet_id": "1939731922797961580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883728141543436288/FoLOuEY8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2723,
+          "following_count": 700,
+          "like_count": 9721,
+          "listed_count": 2,
+          "media_count": 650,
+          "tweet_count": 7585
+        },
+        "url": "https://t.co/ZxG5Lco8Fc",
+        "username": "linnyii8964",
+        "verified": false
+      }
+    ]
+  }
+}

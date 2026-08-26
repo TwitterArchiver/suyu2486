@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1936762098455138617",
+    "created_at": "2025-06-22T13:02:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T14:02:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936771881861869959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1800387712098459648",
+          "start": 0,
+          "username": "nappeunsagwa_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936771881861869959",
+    "in_reply_to_user_id": "1800387712098459648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936762098455138617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nappeunsagwa_ 依旧外圈…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1936762093929439232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuDC3O8bIAAALLJ.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1936762098455138617",
+        "created_at": "2025-06-22T13:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T14:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936771881861869959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1800387712098459648",
+              "start": 0,
+              "username": "nappeunsagwa_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936771881861869959",
+        "in_reply_to_user_id": "1800387712098459648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936762098455138617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nappeunsagwa_ 依旧外圈…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936762093929439232"
+          ]
+        },
+        "author_id": "1800387712098459648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1936762098455138617",
+        "created_at": "2025-06-22T12:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T13:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936762098455138617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Discover your closest Twitter connections! 🎯 This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.com/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.com/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1933393968072699904/oQbqe9yK?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1933393968072699904/oQbqe9yK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.com/interaction-circle?lang=zh",
+              "url": "https://t.co/0DGu7EKSpW"
+            },
+            {
+              "display_url": "pic.x.com/0dv7B4mcqg",
+              "end": 64,
+              "expanded_url": "https://x.com/nappeunsagwa_/status/1936762098455138617/photo/1",
+              "media_key": "3_1936762093929439232",
+              "start": 41,
+              "url": "https://t.co/0dv7B4mcqg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936762098455138617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/0DGu7EKSpW https://t.co/0dv7B4mcqg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1936571107319980306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 194,
+          "like_count": 7529,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 2157
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-11T04:41:39.000Z",
+        "description": "皮下是脂肪。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nappeunsagwa",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nappeunsagwa",
+                "start": 0,
+                "url": "https://t.co/ZUo4lanlMn"
+              }
+            ]
+          }
+        },
+        "id": "1800387712098459648",
+        "name": "Jaean",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930597054927282176/o0k7qgBQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 259,
+          "like_count": 23129,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1443
+        },
+        "url": "https://t.co/ZUo4lanlMn",
+        "username": "nappeunsagwa_",
+        "verified": false
+      }
+    ]
+  }
+}

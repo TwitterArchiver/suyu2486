@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1954402811954999352",
+    "created_at": "2025-08-10T06:35:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T07:35:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954431331183595982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1758759707769208832",
+          "start": 0,
+          "username": "xiaogouOVO_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954431331183595982",
+    "in_reply_to_user_id": "1758759707769208832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954402811954999352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaogouOVO_ 奶一口…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1073,
+        "media_key": "3_1954402799682519040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx9u_c8bAAAK01t.jpg",
+        "width": 1082
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1954402811954999352",
+        "created_at": "2025-08-10T06:35:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T07:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954431331183595982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758759707769208832",
+              "start": 0,
+              "username": "xiaogouOVO_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954431331183595982",
+        "in_reply_to_user_id": "1758759707769208832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954402811954999352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaogouOVO_ 奶一口…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954402799682519040"
+          ]
+        },
+        "author_id": "1758759707769208832",
+        "conversation_id": "1954402811954999352",
+        "created_at": "2025-08-10T04:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T05:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954402811954999352"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "瓦罗兰特"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kxuJtHZ52j",
+              "end": 40,
+              "expanded_url": "https://x.com/xiaogouOVO_/status/1954402811954999352/photo/1",
+              "media_key": "3_1954402799682519040",
+              "start": 17,
+              "url": "https://t.co/kxuJtHZ52j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954402811954999352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真贤者—— 极品奶妈\n#瓦罗兰特 https://t.co/kxuJtHZ52j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1953423119017758926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1143,
+          "following_count": 200,
+          "like_count": 14269,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 3912
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-17T07:46:15.000Z",
+        "description": "欢迎光临我的主页🫶 ENTJ Sub BBW 少女音 🉑瓦/铲 陪🥣  XP是被爱 好运常在🩷",
+        "id": "1758759707769208832",
+        "location": "🚪100-～",
+        "name": "乌萨奇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925868351202435072/eiNx8sE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2613,
+          "following_count": 27,
+          "like_count": 1348,
+          "listed_count": 4,
+          "media_count": 19,
+          "tweet_count": 42
+        },
+        "username": "xiaogouOVO_",
+        "verified": false
+      }
+    ]
+  }
+}

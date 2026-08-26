@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959652018387042304"
+      ]
+    },
+    "author_id": "1910715228523831296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1959643617448075614",
+    "created_at": "2025-08-24T16:20:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T17:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959652038792384537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1688397365336850432",
+          "start": 0,
+          "username": "hongpigu980"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Ak0FMBfDs",
+          "end": 50,
+          "expanded_url": "https://x.com/suyu2486/status/1959652038792384537/photo/1",
+          "media_key": "3_1959652018387042304",
+          "start": 27,
+          "url": "https://t.co/7Ak0FMBfDs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959652038792384537",
+    "in_reply_to_user_id": "1688397365336850432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959643617448075614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hongpigu980 上厕所，厕所没网无聊画的… https://t.co/7Ak0FMBfDs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1959652018387042304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzIVIMdWQAAbOJ9.jpg",
+        "width": 849
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959652018387042304"
+          ]
+        },
+        "author_id": "1910715228523831296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1959643617448075614",
+        "created_at": "2025-08-24T16:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T17:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959652038792384537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1688397365336850432",
+              "start": 0,
+              "username": "hongpigu980"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Ak0FMBfDs",
+              "end": 50,
+              "expanded_url": "https://x.com/suyu2486/status/1959652038792384537/photo/1",
+              "media_key": "3_1959652018387042304",
+              "start": 27,
+              "url": "https://t.co/7Ak0FMBfDs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959652038792384537",
+        "in_reply_to_user_id": "1688397365336850432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959643617448075614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongpigu980 上厕所，厕所没网无聊画的… https://t.co/7Ak0FMBfDs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688397365336850432",
+        "conversation_id": "1959643617448075614",
+        "created_at": "2025-08-24T15:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T16:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959643617448075614"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959643617448075614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2811,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“近期最喜欢的一张照片大赛”📸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个好色的sb男的，双相情感障碍，情感漠视，精神失常，都滚远点别来烦我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1355,
+          "following_count": 198,
+          "like_count": 16730,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 4443
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”推广自辨/关评为广",
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1954880852925780106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71148,
+          "following_count": 59,
+          "like_count": 75,
+          "listed_count": 66,
+          "media_count": 1060,
+          "tweet_count": 1374
+        },
+        "username": "hongpigu980",
+        "verified": true
+      }
+    ]
+  }
+}

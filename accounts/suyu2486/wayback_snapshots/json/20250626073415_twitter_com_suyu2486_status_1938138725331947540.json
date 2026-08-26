@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1938137362858655991",
+    "created_at": "2025-06-26T07:34:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T08:34:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938138725331947540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1926115911276146688",
+          "start": 0,
+          "username": "mirro50150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938138725331947540",
+    "in_reply_to_user_id": "1926115911276146688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938137362858655991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mirro50150 休息一会呢？但是又会好热"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8235,
+        "height": 1280,
+        "media_key": "13_1938137190560894979",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1938137190560894979/img/PCCXZvHZkibPjscr.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938137190560894979/vid/avc1/320x568/7TpkkhjD49W6QdIV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938137190560894979/vid/avc1/480x852/0ocozqdIbNlH0GkG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938137190560894979/vid/avc1/720x1280/217wjfTsCWxVpnpk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1938137190560894979/pl/jPXuJPGHpKnp4nPM.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1938137362858655991",
+        "created_at": "2025-06-26T07:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T08:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938138725331947540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1926115911276146688",
+              "start": 0,
+              "username": "mirro50150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938138725331947540",
+        "in_reply_to_user_id": "1926115911276146688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938137362858655991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mirro50150 休息一会呢？但是又会好热"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1938137190560894979"
+          ]
+        },
+        "author_id": "1926115911276146688",
+        "conversation_id": "1938137362858655991",
+        "created_at": "2025-06-26T07:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T08:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938137362858655991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WgEuQEgsIp",
+              "end": 61,
+              "expanded_url": "https://x.com/mirro50150/status/1938137362858655991/video/1",
+              "media_key": "13_1938137190560894979",
+              "start": 38,
+              "url": "https://t.co/WgEuQEgsIp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938137362858655991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "穿这个逼鞋走了一天 我操 现在痛得不行没办法要回酒店了，妈的毁了我的一整天 https://t.co/WgEuQEgsIp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1936734143804735662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 198,
+          "like_count": 8516,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 2407
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T03:20:05.000Z",
+        "description": "我的情绪垃圾桶。没有福利不磕炮不找鸡 私信看情况回 互关随缘 蜂鸟VPN在下面👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=24cHl6Sm",
+                "start": 0,
+                "url": "https://t.co/EajfOmnfoY"
+              }
+            ]
+          }
+        },
+        "id": "1926115911276146688",
+        "name": "ivee",
+        "pinned_tweet_id": "1937954082762985669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929532345033564160/70Usr7wy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1623,
+          "following_count": 46,
+          "like_count": 4781,
+          "listed_count": 6,
+          "media_count": 46,
+          "tweet_count": 881
+        },
+        "url": "https://t.co/EajfOmnfoY",
+        "username": "mirro50150",
+        "verified": false
+      }
+    ]
+  }
+}

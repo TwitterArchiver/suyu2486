@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1956680995933241530",
+    "created_at": "2025-08-17T00:00:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T01:00:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956868710830063775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1571835424729104385",
+          "start": 0,
+          "username": "xing50062753"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956868710830063775",
+    "in_reply_to_user_id": "1571835424729104385",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956680995933241530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xing50062753 羡慕前台"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1086,
+        "media_key": "3_1956680987129356288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyeG_aibIAA3Ysn.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1956680995933241530",
+        "created_at": "2025-08-17T00:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T01:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956868710830063775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1571835424729104385",
+              "start": 0,
+              "username": "xing50062753"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956868710830063775",
+        "in_reply_to_user_id": "1571835424729104385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956680995933241530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xing50062753 羡慕前台"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956680987129356288"
+          ]
+        },
+        "author_id": "1571835424729104385",
+        "conversation_id": "1956680995933241530",
+        "created_at": "2025-08-16T11:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T12:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956680995933241530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mXxh6JgbF2",
+              "end": 28,
+              "expanded_url": "https://x.com/xing50062753/status/1956680995933241530/photo/1",
+              "media_key": "3_1956680987129356288",
+              "start": 5,
+              "url": "https://t.co/mXxh6JgbF2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956680995933241530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 206,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "干会前台 https://t.co/mXxh6JgbF2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1298,
+          "following_count": 199,
+          "like_count": 15950,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 4230
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-19T12:15:58.000Z",
+        "description": "",
+        "id": "1571835424729104385",
+        "location": "❤️",
+        "name": "空",
+        "pinned_tweet_id": "1954191100052197410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955211777375100929/RFcku6R0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 283,
+          "like_count": 27572,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 199
+        },
+        "username": "xing50062753",
+        "verified": false
+      }
+    ]
+  }
+}

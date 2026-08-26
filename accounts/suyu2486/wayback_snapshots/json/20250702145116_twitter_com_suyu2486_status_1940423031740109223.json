@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1940252100526842369",
+    "created_at": "2025-07-02T14:51:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T15:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940423031740109223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1442162878929199107",
+          "start": 0,
+          "username": "xshwdzxn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940423031740109223",
+    "in_reply_to_user_id": "1442162878929199107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940252100526842369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xshwdzxn 你们都是怎么刷到的，求教程…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1940252100526842369",
+        "created_at": "2025-07-02T14:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T15:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940423031740109223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1442162878929199107",
+              "start": 0,
+              "username": "xshwdzxn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940423031740109223",
+        "in_reply_to_user_id": "1442162878929199107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940252100526842369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xshwdzxn 你们都是怎么刷到的，求教程…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442162878929199107",
+        "conversation_id": "1940252100526842369",
+        "created_at": "2025-07-02T03:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T04:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940252100526842369"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1940252100526842369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4118,
+          "like_count": 61,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "够了 我真的说够了 我冲浪了二十多年也没想到能看到给蟑螂用炮机的视频"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1923458019305660813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 199,
+          "like_count": 10374,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 2996
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-26T16:23:32.000Z",
+        "description": "我的存在会让你觉得开心一点吗？",
+        "id": "1442162878929199107",
+        "location": "027",
+        "name": "小蛇和我都在想你",
+        "pinned_tweet_id": "1929772182810644486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899377637317128192/zbtSFzdk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8444,
+          "following_count": 350,
+          "like_count": 4918,
+          "listed_count": 18,
+          "media_count": 114,
+          "tweet_count": 5767
+        },
+        "username": "xshwdzxn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1962473202460078199",
+    "created_at": "2025-09-01T16:02:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T17:02:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962546583503065304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1528176879496310784",
+          "start": 0,
+          "username": "min_s0ng2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962546583503065304",
+    "in_reply_to_user_id": "1528176879496310784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962537761032032501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@min_s0ng2 喜欢吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1962473202460078199",
+        "created_at": "2025-09-01T16:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T17:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962546583503065304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1528176879496310784",
+              "start": 0,
+              "username": "min_s0ng2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962546583503065304",
+        "in_reply_to_user_id": "1528176879496310784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962537761032032501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@min_s0ng2 喜欢吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528176879496310784",
+        "conversation_id": "1962473202460078199",
+        "created_at": "2025-09-01T15:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T16:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962537761032032501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962537761032032501",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962473202460078199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 最爱看的双男主"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "叫我小玉，男的，infp，可以匿名信或者直接私信找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "地狱",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 202,
+          "like_count": 17643,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 4714
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-22T00:53:22.000Z",
+        "description": "叭叭啦叭叭，欢迎光临",
+        "id": "1528176879496310784",
+        "location": "想我了就给我发神秘数字ᐢ⩌  ̫ ⩌ᐢ",
+        "name": "苏噶苏噶",
+        "pinned_tweet_id": "1915081782845911351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927688679046492160/sq1cpIIy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 231,
+          "like_count": 10885,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 141
+        },
+        "username": "min_s0ng2",
+        "verified": false
+      }
+    ]
+  }
+}

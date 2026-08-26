@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1942746010838544861",
+    "created_at": "2025-07-09T15:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T16:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942976052982358220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1875207553141096448",
+          "start": 0,
+          "username": "DOo699023291906"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942976052982358220",
+    "in_reply_to_user_id": "1875207553141096448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942933508277567769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DOo699023291906 不给"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1942746010838544861",
+        "created_at": "2025-07-09T15:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T16:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942976052982358220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1875207553141096448",
+              "start": 0,
+              "username": "DOo699023291906"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942976052982358220",
+        "in_reply_to_user_id": "1875207553141096448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942933508277567769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOo699023291906 不给"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875207553141096448",
+        "conversation_id": "1942746010838544861",
+        "created_at": "2025-07-09T13:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T14:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942933508277567769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942933508277567769",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942746010838544861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 特别棒呀，想锁尼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 200,
+          "like_count": 11019,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 3204
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T15:48:28.000Z",
+        "description": "06/处不能插屌/xp复杂/喜欢我就投喂或者给我买小玩具(O_O)/不线下…防丢小号@ooo_du45787",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 42,
+                "username": "ooo_du45787"
+              }
+            ]
+          }
+        },
+        "id": "1875207553141096448",
+        "location": "-20cm",
+        "name": "DuOo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932395545068466176/QYgmtU8i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3672,
+          "following_count": 33,
+          "like_count": 421,
+          "listed_count": 4,
+          "media_count": 28,
+          "tweet_count": 189
+        },
+        "username": "DOo699023291906",
+        "verified": true
+      }
+    ]
+  }
+}

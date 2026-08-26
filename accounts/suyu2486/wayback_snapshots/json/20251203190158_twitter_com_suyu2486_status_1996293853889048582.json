@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1996245458692575630",
+    "created_at": "2025-12-03T19:01:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T20:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996293853889048582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1644761277900951552",
+          "start": 0,
+          "username": "IMLoneyLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996293853889048582",
+    "in_reply_to_user_id": "1644761277900951552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996245458692575630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IMLoneyLiu 我爱你"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15250,
+        "height": 186,
+        "media_key": "13_1996245435221164032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1996245435221164032/img/ffgIUkMRP6cfEEHK.jpg",
+        "public_metrics": {
+          "view_count": 489
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996245435221164032/vid/avc1/526x186/fpBynENLEiU5m7TD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1996245435221164032/pl/jShD4GJpoKpuPedj.m3u8"
+          }
+        ],
+        "width": 526
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1996245458692575630",
+        "created_at": "2025-12-03T19:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T20:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996293853889048582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1644761277900951552",
+              "start": 0,
+              "username": "IMLoneyLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996293853889048582",
+        "in_reply_to_user_id": "1644761277900951552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996245458692575630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IMLoneyLiu 我爱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996245435221164032"
+          ]
+        },
+        "author_id": "1644761277900951552",
+        "conversation_id": "1996245458692575630",
+        "created_at": "2025-12-03T15:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T16:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996245458692575630"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "粗口"
+            },
+            {
+              "end": 6,
+              "start": 4,
+              "tag": "S"
+            },
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "dom"
+            },
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "女性向"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X8qJzH5Muh",
+              "end": 40,
+              "expanded_url": "https://x.com/IMLoneyLiu/status/1996245458692575630/video/1",
+              "media_key": "13_1996245435221164032",
+              "start": 17,
+              "url": "https://t.co/X8qJzH5Muh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996245458692575630",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 970,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#粗口 #S #dom #女性向 https://t.co/X8qJzH5Muh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是一个死人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1985888956073066671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2467,
+          "following_count": 271,
+          "like_count": 22837,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 6372
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T17:57:16.000Z",
+        "description": "乐意骚扰人，给钱随便你骂，整抽象的，乐意说点屌话，喜欢看美女",
+        "id": "1644761277900951552",
+        "location": "🚪52/520/5200",
+        "name": "建龙哥",
+        "pinned_tweet_id": "1994346071615525012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920824521441046528/hyICLTe0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7296,
+          "following_count": 423,
+          "like_count": 51622,
+          "listed_count": 6,
+          "media_count": 292,
+          "tweet_count": 21200
+        },
+        "username": "IMLoneyLiu",
+        "verified": false
+      }
+    ]
+  }
+}

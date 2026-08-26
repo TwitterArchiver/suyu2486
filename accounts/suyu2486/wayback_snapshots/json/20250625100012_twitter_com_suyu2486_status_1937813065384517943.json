@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1937643248690106762",
+    "created_at": "2025-06-25T10:00:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T11:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937813065384517943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1840457463348506624",
+          "start": 0,
+          "username": "CaTvTui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937813065384517943",
+    "in_reply_to_user_id": "1840457463348506624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937812718972502092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CaTvTui 我早上起来，拿吉他就开始弹，他问我怎么了我说7点了迟到了，他就赶紧起来收拾，然后我说才六点半～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1937643248690106762",
+        "created_at": "2025-06-25T10:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T11:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937813065384517943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1840457463348506624",
+              "start": 0,
+              "username": "CaTvTui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937813065384517943",
+        "in_reply_to_user_id": "1840457463348506624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937812718972502092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CaTvTui 我早上起来，拿吉他就开始弹，他问我怎么了我说7点了迟到了，他就赶紧起来收拾，然后我说才六点半～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840457463348506624",
+        "conversation_id": "1937643248690106762",
+        "created_at": "2025-06-25T09:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T10:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937812718972502092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937812718972502092",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937643248690106762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 弟好命苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1936734143804735662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 196,
+          "like_count": 8277,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 2301
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-29T18:23:58.000Z",
+        "description": "",
+        "id": "1840457463348506624",
+        "name": "小猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933617748417925120/Ez4fIt6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 54,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 187
+        },
+        "username": "CaTvTui",
+        "verified": false
+      }
+    ]
+  }
+}

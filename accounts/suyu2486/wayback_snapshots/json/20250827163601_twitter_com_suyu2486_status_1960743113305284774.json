@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1960691438116855898",
+    "created_at": "2025-08-27T16:36:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T17:36:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960743113305284774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1877350892707655684",
+          "start": 0,
+          "username": "anbuzhongle12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960743113305284774",
+    "in_reply_to_user_id": "1877350892707655684",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960735914931499091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anbuzhongle12 死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1960691438116855898",
+        "created_at": "2025-08-27T16:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T17:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960743113305284774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1877350892707655684",
+              "start": 0,
+              "username": "anbuzhongle12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960743113305284774",
+        "in_reply_to_user_id": "1877350892707655684",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960735914931499091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anbuzhongle12 死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877350892707655684",
+        "conversation_id": "1960691438116855898",
+        "created_at": "2025-08-27T16:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T17:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960735914931499091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960735914931499091",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960691438116855898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 胡。。。巴。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个好色的sb男的，双相情感障碍，情感漠视，精神失常，都滚远点别来烦我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "小玉",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 198,
+          "like_count": 16947,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 4498
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-09T13:45:15.000Z",
+        "description": "只是上来发疯谢谢。。。",
+        "id": "1877350892707655684",
+        "name": "芋块y",
+        "pinned_tweet_id": "1953089238741741620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897663606495596544/wTaaOZ1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 39,
+          "like_count": 1038,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 312
+        },
+        "username": "anbuzhongle12",
+        "verified": false
+      }
+    ]
+  }
+}

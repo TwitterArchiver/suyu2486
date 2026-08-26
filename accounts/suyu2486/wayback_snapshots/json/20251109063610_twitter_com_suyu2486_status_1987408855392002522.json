@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1975948986357030990",
+    "created_at": "2025-11-09T06:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T07:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987408855392002522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1788854643163877376",
+          "start": 0,
+          "username": "fffffffx286556"
+        },
+        {
+          "end": 32,
+          "id": "1809089867604971521",
+          "start": 16,
+          "username": "Barbie774170831"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987408855392002522",
+    "in_reply_to_user_id": "1788854643163877376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987201705868456372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fffffffx286556 @Barbie774170831 这个账号很神秘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1975948986357030990",
+        "created_at": "2025-11-09T06:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T07:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987408855392002522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1788854643163877376",
+              "start": 0,
+              "username": "fffffffx286556"
+            },
+            {
+              "end": 32,
+              "id": "1809089867604971521",
+              "start": 16,
+              "username": "Barbie774170831"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987408855392002522",
+        "in_reply_to_user_id": "1788854643163877376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987201705868456372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fffffffx286556 @Barbie774170831 这个账号很神秘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788854643163877376",
+        "conversation_id": "1975948986357030990",
+        "created_at": "2025-11-08T16:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T17:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987201705868456372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1809089867604971521",
+              "start": 0,
+              "username": "Barbie774170831"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987201705868456372",
+        "in_reply_to_user_id": "1809089867604971521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 393,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975948986357030990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Barbie774170831 回不去了吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "06，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1977439230432555047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2160,
+          "following_count": 263,
+          "like_count": 22010,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 6180
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-10T08:52:45.000Z",
+        "description": "希望你每天开心^_^",
+        "id": "1788854643163877376",
+        "name": "伤心猕猴桃",
+        "pinned_tweet_id": "1985392697398751305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890388842987077633/LeBW2kFV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25717,
+          "following_count": 64,
+          "like_count": 2440,
+          "listed_count": 41,
+          "media_count": 149,
+          "tweet_count": 1030
+        },
+        "username": "fffffffx286556",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T05:00:22.000Z",
+        "description": "上一個號怎麼忘記密碼忘記名字了⋯",
+        "id": "1809089867604971521",
+        "location": "Japan",
+        "name": "qqqqqqq7",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809091254950768642/XofdMhas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 28,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 18
+        },
+        "username": "Barbie774170831",
+        "verified": false
+      }
+    ]
+  }
+}

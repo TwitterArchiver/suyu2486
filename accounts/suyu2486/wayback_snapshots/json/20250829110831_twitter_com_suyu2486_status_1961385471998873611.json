@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1961366784814321802",
+    "created_at": "2025-08-29T11:08:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T12:08:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961385471998873611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1573169818345172992",
+          "start": 0,
+          "username": "gaga20220923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961385471998873611",
+    "in_reply_to_user_id": "1573169818345172992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961366784814321802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaga20220923 疯子吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1961366784814321802",
+        "created_at": "2025-08-29T11:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T12:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961385471998873611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1573169818345172992",
+              "start": 0,
+              "username": "gaga20220923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961385471998873611",
+        "in_reply_to_user_id": "1573169818345172992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961366784814321802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaga20220923 疯子吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573169818345172992",
+        "conversation_id": "1961366784814321802",
+        "created_at": "2025-08-29T09:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T10:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961366784814321802"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961366784814321802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 488,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想射你鼻孔里面，这样你每次呼吸的时候都是我的味道了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个好色的sb男的，双相情感障碍，情感漠视，精神失常，欢迎骚扰！🤗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "小玉",
+        "pinned_tweet_id": "1961296394242965841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1359,
+          "following_count": 199,
+          "like_count": 17409,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 4627
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-23T04:38:15.000Z",
+        "description": "业余男喘   🚪13145200     \n欢迎投稿猎奇文案，有空就读。\n一天拉屎五次纪录保持者。\n自用蜂鸟VPN：https://t.co/CYB6lgRXK0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 81,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=bCYCjNHY",
+                "start": 58,
+                "url": "https://t.co/CYB6lgRXK0"
+              }
+            ]
+          }
+        },
+        "id": "1573169818345172992",
+        "location": "厕所",
+        "name": "牛逼的人名字都要取13个字（还有17天离职版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915059386894123008/blcEBMv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2373,
+          "following_count": 545,
+          "like_count": 83177,
+          "listed_count": 11,
+          "media_count": 150,
+          "tweet_count": 8043
+        },
+        "username": "gaga20220923",
+        "verified": false
+      }
+    ]
+  }
+}

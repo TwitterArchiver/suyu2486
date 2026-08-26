@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1942974808955764752",
+    "created_at": "2025-07-09T16:13:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T17:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942980520561746325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1883157644711796736",
+          "start": 0,
+          "username": "aayan369820"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942980520561746325",
+    "in_reply_to_user_id": "1883157644711796736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942974808955764752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aayan369820 怎会如此萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "16_1942974695315218432",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GvbVMOnWIAALO6g.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GvbVMOnWIAALO6g.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1942974808955764752",
+        "created_at": "2025-07-09T16:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T17:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942980520561746325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883157644711796736",
+              "start": 0,
+              "username": "aayan369820"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942980520561746325",
+        "in_reply_to_user_id": "1883157644711796736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942974808955764752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aayan369820 怎会如此萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1942974695315218432"
+          ]
+        },
+        "author_id": "1883157644711796736",
+        "conversation_id": "1942974808955764752",
+        "created_at": "2025-07-09T15:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T16:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942974808955764752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xURfiZY3rk",
+              "end": 29,
+              "expanded_url": "https://x.com/aayan369820/status/1942974808955764752/photo/1",
+              "media_key": "16_1942974695315218432",
+              "start": 6,
+              "url": "https://t.co/xURfiZY3rk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942974808955764752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卖萌ing https://t.co/xURfiZY3rk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 200,
+          "like_count": 11084,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 3215
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T14:19:15.000Z",
+        "description": "自用蜂鸟VPN ：https://t.co/0dx1NUYdTX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 32,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=aFjp42Dc",
+                "start": 9,
+                "url": "https://t.co/0dx1NUYdTX"
+              }
+            ]
+          }
+        },
+        "id": "1883157644711796736",
+        "location": "喜欢我请给我钱",
+        "name": "薄情寡义之人",
+        "pinned_tweet_id": "1933480364896555259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942290668874760192/tfU0RhU2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2774,
+          "following_count": 87,
+          "like_count": 4717,
+          "listed_count": 10,
+          "media_count": 71,
+          "tweet_count": 2023
+        },
+        "username": "aayan369820",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1964369087762747528",
+    "created_at": "2025-09-06T17:19:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T18:19:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964377928403472726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1796082949261287424",
+          "start": 0,
+          "username": "Cc_cat5566"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964377928403472726",
+    "in_reply_to_user_id": "1796082949261287424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964369087762747528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cc_cat5566 可以，这都被看出来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1964369087762747528",
+        "created_at": "2025-09-06T17:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T18:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964377928403472726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1796082949261287424",
+              "start": 0,
+              "username": "Cc_cat5566"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964377928403472726",
+        "in_reply_to_user_id": "1796082949261287424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964369087762747528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cc_cat5566 可以，这都被看出来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796082949261287424",
+        "conversation_id": "1964369087762747528",
+        "created_at": "2025-09-06T16:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T17:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964369087762747528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/suyu2486/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/suyu2486/status/1964305775418859654",
+              "start": 9,
+              "url": "https://t.co/tUyuGJlKpJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964369087762747528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964305775418859654",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为多线做铺垫准备 https://t.co/tUyuGJlKpJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。我三观有问题，是个烂人，本身就是废墟🤗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1963477103296614437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1557,
+          "following_count": 221,
+          "like_count": 19155,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 5122
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T07:35:35.000Z",
+        "description": "不卖专注达⭐游荡在互联网的电子猫猫 ，来这里就是发牢骚 ⭐哥哥、主人、daddy、爸爸、对象都是同一人 ⭐和哥哥无血缘关系，只是小情侣之间的情趣⭐提问箱： https://t.co/WpVoVouVf1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cc_cat",
+                "end": 101,
+                "expanded_url": "https://ngl.link/cc_cat",
+                "start": 78,
+                "url": "https://t.co/WpVoVouVf1"
+              }
+            ]
+          }
+        },
+        "id": "1796082949261287424",
+        "location": "擅长逃跑星球",
+        "name": "W的猫猫猫猫",
+        "pinned_tweet_id": "1960254603444080779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935726447232184320/8dzdx6h7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 57,
+          "like_count": 3246,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 3715
+        },
+        "username": "Cc_cat5566",
+        "verified": false
+      }
+    ]
+  }
+}

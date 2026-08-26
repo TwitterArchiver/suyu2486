@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1998054165533405267",
+    "created_at": "2025-12-08T18:09:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T19:09:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998092606426001451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1811235709082279936",
+          "start": 0,
+          "username": "Rarity15641351"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998092606426001451",
+    "in_reply_to_user_id": "1811235709082279936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998054165533405267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rarity15641351 来吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1998054156742119424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7qDq16bUAAXq-y.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1998054165533405267",
+        "created_at": "2025-12-08T18:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T19:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998092606426001451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1811235709082279936",
+              "start": 0,
+              "username": "Rarity15641351"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998092606426001451",
+        "in_reply_to_user_id": "1811235709082279936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998054165533405267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rarity15641351 来吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998054156742119424"
+          ]
+        },
+        "author_id": "1811235709082279936",
+        "conversation_id": "1998054165533405267",
+        "created_at": "2025-12-08T15:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T16:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998054165533405267"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 4,
+              "tag": "4iiii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SqFxeal1e4",
+              "end": 34,
+              "expanded_url": "https://x.com/Rarity15641351/status/1998054165533405267/photo/1",
+              "media_key": "3_1998054156742119424",
+              "start": 11,
+              "url": "https://t.co/SqFxeal1e4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998054165533405267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 910,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "欠调教\n#4iiii https://t.co/SqFxeal1e4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是一个死人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1985888956073066671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997944714021216256/QFoLaxLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2497,
+          "following_count": 279,
+          "like_count": 23177,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 6464
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T03:07:15.000Z",
+        "description": "「181/104 ｜iiii&i｜sub｜无自介不回｜随缘更新」",
+        "id": "1811235709082279936",
+        "location": "无🚪",
+        "name": "lamb",
+        "pinned_tweet_id": "1965454171311948100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811235997738545152/eUo-NyN0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5995,
+          "following_count": 59,
+          "like_count": 499,
+          "listed_count": 26,
+          "media_count": 85,
+          "tweet_count": 335
+        },
+        "username": "Rarity15641351",
+        "verified": false
+      }
+    ]
+  }
+}

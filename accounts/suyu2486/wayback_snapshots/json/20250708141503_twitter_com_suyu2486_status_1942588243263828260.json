@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1942254895588851934",
+    "created_at": "2025-07-08T14:15:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T15:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942588243263828260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1921799747654029312",
+          "start": 0,
+          "username": "huisanguan_238"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942588243263828260",
+    "in_reply_to_user_id": "1921799747654029312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942581817145786581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huisanguan_238 你是傻逼啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1942254895588851934",
+        "created_at": "2025-07-08T14:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T15:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942588243263828260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1921799747654029312",
+              "start": 0,
+              "username": "huisanguan_238"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942588243263828260",
+        "in_reply_to_user_id": "1921799747654029312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942581817145786581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huisanguan_238 你是傻逼啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921799747654029312",
+        "conversation_id": "1942254895588851934",
+        "created_at": "2025-07-08T13:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T14:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942581817145786581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942581817145786581",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942254895588851934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 难道你不觉得怀着孕和别的男人做爱很刺激吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 198,
+          "like_count": 10760,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 3126
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T05:29:16.000Z",
+        "description": "那些优良的老式价值观在哪里?",
+        "id": "1921799747654029312",
+        "location": "看看你的后面吧",
+        "name": "全糖Stewie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921806215903842304/YFjNZv4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 83,
+          "like_count": 4293,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 975
+        },
+        "username": "huisanguan_238",
+        "verified": false
+      }
+    ]
+  }
+}

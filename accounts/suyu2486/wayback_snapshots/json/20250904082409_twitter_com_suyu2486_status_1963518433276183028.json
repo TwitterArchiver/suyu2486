@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1963124866581717386",
+    "created_at": "2025-09-04T08:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T09:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963518433276183028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1802268249670991872",
+          "start": 0,
+          "username": "lucky_yueqi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963518433276183028",
+    "in_reply_to_user_id": "1802268249670991872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963509915831734492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lucky_yueqi 别整"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1963124866581717386",
+        "created_at": "2025-09-04T08:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T09:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963518433276183028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1802268249670991872",
+              "start": 0,
+              "username": "lucky_yueqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963518433276183028",
+        "in_reply_to_user_id": "1802268249670991872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963509915831734492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lucky_yueqi 别整"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802268249670991872",
+        "conversation_id": "1963124866581717386",
+        "created_at": "2025-09-04T07:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T08:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963509915831734492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963509915831734492",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963124866581717386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 我无聊的时候喜欢捏对方牛牛……真的很像捏捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱无章，不定期活跃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "飞向全宇宙",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1963477103296614437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1469,
+          "following_count": 217,
+          "like_count": 18749,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 5029
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-16T09:13:46.000Z",
+        "description": "喵",
+        "id": "1802268249670991872",
+        "location": "Hong Kong",
+        "name": "Elune",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953533049343553540/dMTQCv67_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 42,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 35
+        },
+        "username": "lucky_yueqi",
+        "verified": false
+      }
+    ]
+  }
+}

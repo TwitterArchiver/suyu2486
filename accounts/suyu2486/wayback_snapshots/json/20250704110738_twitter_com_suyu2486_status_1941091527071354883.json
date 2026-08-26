@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1941037782853734618",
+    "created_at": "2025-07-04T11:07:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T12:07:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941091527071354883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1903167131619037187",
+          "start": 0,
+          "username": "Shayuyuyuyu0306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941091527071354883",
+    "in_reply_to_user_id": "1903167131619037187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941037782853734618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shayuyuyuyu0306 照片中有两个萌物"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1368,
+        "media_key": "3_1941037732106543104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu_ziIXXIAAgbME.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1941037782853734618",
+        "created_at": "2025-07-04T11:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T12:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941091527071354883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1903167131619037187",
+              "start": 0,
+              "username": "Shayuyuyuyu0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941091527071354883",
+        "in_reply_to_user_id": "1903167131619037187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941037782853734618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shayuyuyuyu0306 照片中有两个萌物"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941037732106543104"
+          ]
+        },
+        "author_id": "1903167131619037187",
+        "conversation_id": "1941037782853734618",
+        "created_at": "2025-07-04T07:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T08:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941037782853734618"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "依旧小熊卡包",
+              "probability": 0.367,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QhkoykFTKV",
+              "end": 32,
+              "expanded_url": "https://x.com/Shayuyuyuyu0306/status/1941037782853734618/photo/1",
+              "media_key": "3_1941037732106543104",
+              "start": 9,
+              "url": "https://t.co/QhkoykFTKV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941037782853734618",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧小熊卡包回家 https://t.co/QhkoykFTKV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 199,
+          "like_count": 10563,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 3072
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T19:30:17.000Z",
+        "description": "乌！呀！咦！哈！",
+        "id": "1903167131619037187",
+        "name": "超级无敌的乌萨奇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903829769336328192/Q2LMFX8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1816,
+          "following_count": 221,
+          "like_count": 3494,
+          "listed_count": 3,
+          "media_count": 139,
+          "tweet_count": 708
+        },
+        "username": "Shayuyuyuyu0306",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1953679705481392632",
+    "created_at": "2025-08-08T13:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T14:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953814459178205277"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 15,
+          "normalized_text": "恭喜",
+          "probability": 0.6438,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1899021424121065472",
+          "start": 0,
+          "username": "Tom_joseph23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953814459178205277",
+    "in_reply_to_user_id": "1899021424121065472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953679705481392632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tom_joseph23 恭喜"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6566,
+        "height": 1278,
+        "media_key": "7_1953679681963839488",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1953679681963839488/pu/img/2wj2IQEExJhnlDE7.jpg",
+        "public_metrics": {
+          "view_count": 159
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1953679681963839488/pu/vid/avc1/320x622/hzuucTdIesugrodk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1953679681963839488/pu/vid/avc1/480x934/D1A5RRt4RNFMm7Si.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1953679681963839488/pu/vid/avc1/656x1278/fWEtTrWS54Quw2Tv.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1953679681963839488/pu/pl/qJ84aCeDSfxm-57W.m3u8?tag=12"
+          }
+        ],
+        "width": 656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1953679705481392632",
+        "created_at": "2025-08-08T13:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T14:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953814459178205277"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "恭喜",
+              "probability": 0.6438,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1899021424121065472",
+              "start": 0,
+              "username": "Tom_joseph23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953814459178205277",
+        "in_reply_to_user_id": "1899021424121065472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953679705481392632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tom_joseph23 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1953679681963839488"
+          ]
+        },
+        "author_id": "1899021424121065472",
+        "conversation_id": "1953679705481392632",
+        "created_at": "2025-08-08T04:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T05:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953679705481392632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YTnyqQpVi2",
+              "end": 41,
+              "expanded_url": "https://x.com/Tom_joseph23/status/1953679705481392632/video/1",
+              "media_key": "7_1953679681963839488",
+              "start": 18,
+              "url": "https://t.co/YTnyqQpVi2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953679705481392632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 444,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我！离！职！了！！！！！！！！！！ https://t.co/YTnyqQpVi2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1953423119017758926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 200,
+          "like_count": 13964,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 3858
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-10T08:56:14.000Z",
+        "description": "2月水瓶♒entp  switch  可以叫我joseph也可以叫我小jo\n\n 自用蜂鸟vpn:https://t.co/g3Qk6OmDQy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 71,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=beNPB4NZ",
+                "start": 48,
+                "url": "https://t.co/g3Qk6OmDQy"
+              }
+            ]
+          }
+        },
+        "id": "1899021424121065472",
+        "name": "joseph",
+        "pinned_tweet_id": "1949627046231195913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923779133554761728/Vic_4C2m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 293,
+          "like_count": 41866,
+          "listed_count": 0,
+          "media_count": 660,
+          "tweet_count": 5185
+        },
+        "username": "Tom_joseph23",
+        "verified": false
+      }
+    ]
+  }
+}

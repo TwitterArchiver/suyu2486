@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1937915341818015840",
+    "created_at": "2025-06-25T19:04:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T20:04:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937950026040246314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1389502174242037763",
+          "start": 0,
+          "username": "wtryk1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937950026040246314",
+    "in_reply_to_user_id": "1389502174242037763",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937949771089752526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wtryk1 ？靠取关引起我的注意吗？有点意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1937915341818015840",
+        "created_at": "2025-06-25T19:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T20:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937950026040246314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1389502174242037763",
+              "start": 0,
+              "username": "wtryk1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937950026040246314",
+        "in_reply_to_user_id": "1389502174242037763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937949771089752526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wtryk1 ？靠取关引起我的注意吗？有点意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389502174242037763",
+        "conversation_id": "1937915341818015840",
+        "created_at": "2025-06-25T19:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T20:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937949771089752526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937949771089752526",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937915341818015840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 长太帅，取关了，你给不了我我想要的抽象"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1936734143804735662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 198,
+          "like_count": 8464,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 2378
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-04T08:48:36.000Z",
+        "description": "我想想我要立什么人设",
+        "id": "1389502174242037763",
+        "location": "广州",
+        "name": "椒盐虾别睡觉了(day1)",
+        "pinned_tweet_id": "1770999767952462294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770998764301692928/ZZfv0iq__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 537,
+          "like_count": 3767,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 1400
+        },
+        "username": "wtryk1",
+        "verified": false
+      }
+    ]
+  }
+}

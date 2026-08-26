@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1961464053307789727",
+    "created_at": "2025-08-29T18:35:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T19:35:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961497836551639330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1442110910256934918",
+          "start": 0,
+          "username": "25paletteTou"
+        },
+        {
+          "end": 27,
+          "id": "1906976722286948353",
+          "start": 14,
+          "username": "1174924469To"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961497836551639330",
+    "in_reply_to_user_id": "1442110910256934918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961492463694025192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@25paletteTou @1174924469To 上电视了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1961464053307789727",
+        "created_at": "2025-08-29T18:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T19:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961497836551639330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1442110910256934918",
+              "start": 0,
+              "username": "25paletteTou"
+            },
+            {
+              "end": 27,
+              "id": "1906976722286948353",
+              "start": 14,
+              "username": "1174924469To"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961497836551639330",
+        "in_reply_to_user_id": "1442110910256934918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961492463694025192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@25paletteTou @1174924469To 上电视了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442110910256934918",
+        "conversation_id": "1961464053307789727",
+        "created_at": "2025-08-29T18:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T19:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961492463694025192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1906976722286948353",
+              "start": 0,
+              "username": "1174924469To"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961492463694025192",
+        "in_reply_to_user_id": "1906976722286948353",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961464053307789727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1174924469To ？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个死人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "亚海悬城",
+        "name": "小玉",
+        "pinned_tweet_id": "1961296394242965841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 201,
+          "like_count": 17482,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 4662
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-26T12:56:58.000Z",
+        "description": "🫧太在意别人的看法 会变成别人的裤衩 /喜欢发高高p的漂亮照片和漂亮身体 /匿名箱 请和我玩👉：https://t.co/llhnNAFnrQ关评推广自辨‼️‼️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zzzhooi/",
+                "end": 71,
+                "expanded_url": "https://ngl.link/zzzhooi/",
+                "start": 48,
+                "url": "https://t.co/llhnNAFnrQ"
+              }
+            ]
+          }
+        },
+        "id": "1442110910256934918",
+        "location": "🚪",
+        "name": "薄荷糖",
+        "pinned_tweet_id": "1961102475865555354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935712679487774720/OVxyxv4F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15668,
+          "following_count": 384,
+          "like_count": 17773,
+          "listed_count": 36,
+          "media_count": 233,
+          "tweet_count": 12916
+        },
+        "username": "25paletteTou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T07:47:44.000Z",
+        "description": "",
+        "id": "1906976722286948353",
+        "name": "Jasson",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959059543369121792/qLKCZhiA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 83,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 16
+        },
+        "username": "1174924469To",
+        "verified": false
+      }
+    ]
+  }
+}

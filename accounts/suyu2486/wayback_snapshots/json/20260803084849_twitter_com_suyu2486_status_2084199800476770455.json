@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2084177004971331778",
+    "created_at": "2026-08-03T08:48:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T09:48:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084199800476770455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1938108852752502784",
+          "start": 0,
+          "username": "520Seulgi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084199800476770455",
+    "in_reply_to_user_id": "1938108852752502784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084177004971331778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520Seulgi 我靠，好牛逼的两张脸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3088,
+        "media_key": "3_2084176907353157632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOx72tPbcAAHPfA.jpg",
+        "width": 2320
+      },
+      {
+        "height": 3087,
+        "media_key": "3_2084176908410089472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOx72xLa8AA6h-H.jpg",
+        "width": 2320
+      },
+      {
+        "height": 3087,
+        "media_key": "3_2084176907822882816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOx72u_a4AAOY2w.jpg",
+        "width": 2320
+      },
+      {
+        "height": 3087,
+        "media_key": "3_2084176907348922368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOx72tOa0AAq--A.jpg",
+        "width": 2320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2084177004971331778",
+        "created_at": "2026-08-03T08:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084199800476770455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1938108852752502784",
+              "start": 0,
+              "username": "520Seulgi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084199800476770455",
+        "in_reply_to_user_id": "1938108852752502784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084177004971331778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520Seulgi 我靠，好牛逼的两张脸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084176907353157632",
+            "3_2084176908410089472",
+            "3_2084176907822882816",
+            "3_2084176907348922368"
+          ]
+        },
+        "author_id": "1938108852752502784",
+        "conversation_id": "2084177004971331778",
+        "created_at": "2026-08-03T07:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:17:55.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084176923375337952",
+          "2084177004971331778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RBCJLvlRNw",
+              "end": 48,
+              "expanded_url": "https://x.com/520Seulgi/status/2084177004971331778/photo/1",
+              "media_key": "3_2084176907353157632",
+              "start": 25,
+              "url": "https://t.co/RBCJLvlRNw"
+            },
+            {
+              "display_url": "pic.x.com/RBCJLvlRNw",
+              "end": 48,
+              "expanded_url": "https://x.com/520Seulgi/status/2084177004971331778/photo/1",
+              "media_key": "3_2084176908410089472",
+              "start": 25,
+              "url": "https://t.co/RBCJLvlRNw"
+            },
+            {
+              "display_url": "pic.x.com/RBCJLvlRNw",
+              "end": 48,
+              "expanded_url": "https://x.com/520Seulgi/status/2084177004971331778/photo/1",
+              "media_key": "3_2084176907822882816",
+              "start": 25,
+              "url": "https://t.co/RBCJLvlRNw"
+            },
+            {
+              "display_url": "pic.x.com/RBCJLvlRNw",
+              "end": 48,
+              "expanded_url": "https://x.com/520Seulgi/status/2084177004971331778/photo/1",
+              "media_key": "3_2084176907348922368",
+              "start": 25,
+              "url": "https://t.co/RBCJLvlRNw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084177004971331778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就这样拍一万张照片同一个表情😊\n我俩激情批图版 https://t.co/RBCJLvlRNw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "pinned_tweet_id": "2084166896371511380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2067,
+          "following_count": 192,
+          "like_count": 21313,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6665
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T05:35:41.000Z",
+        "description": "我的生活需要 音乐 美食 和姜涩琪\n恋人：@Moguchaozhurou\ndy🎵：520Seulgi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 21,
+                "username": "Moguchaozhurou"
+              }
+            ]
+          }
+        },
+        "id": "1938108852752502784",
+        "location": "≦10m",
+        "name": "鸡腿加点辣",
+        "pinned_tweet_id": "2065064205238321443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016692815770890240/wMgnuoLj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5083,
+          "following_count": 418,
+          "like_count": 13398,
+          "listed_count": 2,
+          "media_count": 2611,
+          "tweet_count": 8640
+        },
+        "url": "",
+        "username": "520Seulgi",
+        "verified": true
+      }
+    ]
+  }
+}

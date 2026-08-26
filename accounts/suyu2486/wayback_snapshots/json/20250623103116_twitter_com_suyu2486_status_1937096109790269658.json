@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1936980898463002855",
+    "created_at": "2025-06-23T10:31:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T11:31:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937096109790269658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1926115911276146688",
+          "start": 0,
+          "username": "mirro50150"
+        },
+        {
+          "end": 24,
+          "id": "1534187424678498304",
+          "start": 12,
+          "username": "xihuanni030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937096109790269658",
+    "in_reply_to_user_id": "1926115911276146688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937084566411649273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mirro50150 @xihuanni030 更痛了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1936980898463002855",
+        "created_at": "2025-06-23T10:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T11:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937096109790269658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1926115911276146688",
+              "start": 0,
+              "username": "mirro50150"
+            },
+            {
+              "end": 24,
+              "id": "1534187424678498304",
+              "start": 12,
+              "username": "xihuanni030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937096109790269658",
+        "in_reply_to_user_id": "1926115911276146688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937084566411649273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mirro50150 @xihuanni030 更痛了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926115911276146688",
+        "conversation_id": "1936980898463002855",
+        "created_at": "2025-06-23T09:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T10:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937084566411649273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            },
+            {
+              "end": 22,
+              "id": "1534187424678498304",
+              "start": 10,
+              "username": "xihuanni030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937084566411649273",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937035672487166418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 @xihuanni030 鸟哥长美甲记得做好建构就不会很容易断了🤓不过还是要及时换 不然会整个掀开…."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1936734143804735662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 193,
+          "like_count": 7717,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 2185
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T03:20:05.000Z",
+        "description": "06喵喵喵。没有福利不磕炮不找鸡 私信看情况回 互关随缘 谢谢泥萌 蜂鸟VPN在下面👇☺️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=24cHl6Sm",
+                "start": 0,
+                "url": "https://t.co/EajfOmnfoY"
+              }
+            ]
+          }
+        },
+        "id": "1926115911276146688",
+        "location": "纯圈🚪88😋",
+        "name": "ivee",
+        "pinned_tweet_id": "1934841626268192845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929532345033564160/70Usr7wy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 45,
+          "like_count": 4318,
+          "listed_count": 6,
+          "media_count": 48,
+          "tweet_count": 817
+        },
+        "url": "https://t.co/EajfOmnfoY",
+        "username": "mirro50150",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-07T14:56:14.000Z",
+        "description": "别嫌我话多好嘛｜brat｜isfp｜04-162-109 🎯90｜分享日常🧩&一些奇奇怪怪的想法💭｜提问👉 https://t.co/UlL9D1Kp4T ｜喜欢我可以给我打钱了(´▽｀)｜🚪66/188/288/520",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/poeowo",
+                "end": 77,
+                "expanded_url": "http://ngl.link/poeowo",
+                "start": 54,
+                "url": "https://t.co/UlL9D1Kp4T"
+              }
+            ]
+          }
+        },
+        "id": "1534187424678498304",
+        "location": "跪求神秘数字",
+        "name": "糯米侠（今天好好液断了吗）",
+        "pinned_tweet_id": "1930235138421731338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926636590253686784/y5qd0Lx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 81,
+          "like_count": 1596,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 1090
+        },
+        "username": "xihuanni030",
+        "verified": false
+      }
+    ]
+  }
+}

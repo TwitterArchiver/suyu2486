@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1961822616274276758",
+    "created_at": "2025-08-30T16:11:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T17:11:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961824209103126614"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1961824209103126614",
+    "in_reply_to_user_id": "1910715228523831296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961822616274276758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "跳河，从岸边或桥上一跃而下，入水时明确知道目的是想死，不会挣扎，直到冰冷刺骨的河水湿润每一寸肌肤，呼吸不了，猛灌进嘴里一口水，开始缺氧，畏惧死亡的本能，开始挣扎，疯狂想浮上水面，没有方向感，慌乱，挣扎到精疲力尽，溺亡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1961822616274276758",
+        "created_at": "2025-08-30T16:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T17:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961824209103126614"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961824209103126614",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961822616274276758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跳河，从岸边或桥上一跃而下，入水时明确知道目的是想死，不会挣扎，直到冰冷刺骨的河水湿润每一寸肌肤，呼吸不了，猛灌进嘴里一口水，开始缺氧，畏惧死亡的本能，开始挣扎，疯狂想浮上水面，没有方向感，慌乱，挣扎到精疲力尽，溺亡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1961822616274276758",
+        "created_at": "2025-08-30T16:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T17:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961822616274276758"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961822616274276758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以后这条帖子更新小玉的100种死法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "叫我小玉，男的，infp，可以匿名信或者直接私信找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "🤗",
+        "name": "小玉",
+        "pinned_tweet_id": "1961524810619748717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1362,
+          "following_count": 200,
+          "like_count": 17532,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 4674
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      }
+    ]
+  }
+}

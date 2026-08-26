@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1952799052837613694",
+    "created_at": "2025-08-06T04:33:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T05:33:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952951104020324717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597240703070793731",
+          "start": 0,
+          "username": "sngzhhu21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952951104020324717",
+    "in_reply_to_user_id": "1597240703070793731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952799052837613694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sngzhhu21 不是不抽了吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1952799041743638529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxm8YdDaUAEn1jJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1952799052837613694",
+        "created_at": "2025-08-06T04:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T05:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952951104020324717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597240703070793731",
+              "start": 0,
+              "username": "sngzhhu21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952951104020324717",
+        "in_reply_to_user_id": "1597240703070793731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952799052837613694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sngzhhu21 不是不抽了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952799041743638529"
+          ]
+        },
+        "author_id": "1597240703070793731",
+        "conversation_id": "1952799052837613694",
+        "created_at": "2025-08-05T18:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T19:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952799052837613694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kxLL8AJJHK",
+              "end": 39,
+              "expanded_url": "https://x.com/sngzhhu21/status/1952799052837613694/photo/1",
+              "media_key": "3_1952799041743638529",
+              "start": 16,
+              "url": "https://t.co/kxLL8AJJHK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952799052837613694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1579,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱是一根会烧完的烟 雾散缘尽。 https://t.co/kxLL8AJJHK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1952327381869338999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 201,
+          "like_count": 13311,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 3670
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T14:47:35.000Z",
+        "description": "清水 碎碎念｜🚪88 188纯绿｜不闲聊｜锁评为广｜ngl提问箱：https://t.co/869Xl9yltY｜碎碎念：@S0216hg88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 61,
+                "username": "S0216hg88"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ava61847",
+                "end": 56,
+                "expanded_url": "https://ngl.link/ava61847",
+                "start": 33,
+                "url": "https://t.co/869Xl9yltY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=6wLtTtBQ",
+                "start": 0,
+                "url": "https://t.co/gKDXuamcSQ"
+              }
+            ]
+          }
+        },
+        "id": "1597240703070793731",
+        "location": "自用蜂鸟VPN👉",
+        "name": "一枚纯净的屌丝",
+        "pinned_tweet_id": "1952734719143198851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952827110529118208/euLkaH1t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1968,
+          "following_count": 402,
+          "like_count": 15588,
+          "listed_count": 3,
+          "media_count": 374,
+          "tweet_count": 11226
+        },
+        "url": "https://t.co/gKDXuamcSQ",
+        "username": "sngzhhu21",
+        "verified": false
+      }
+    ]
+  }
+}

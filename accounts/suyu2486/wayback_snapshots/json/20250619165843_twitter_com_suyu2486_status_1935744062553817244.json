@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1935213892084580718",
+    "created_at": "2025-06-19T16:58:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T17:58:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935744062553817244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1699445300950093824",
+          "start": 0,
+          "username": "linlin444444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935744062553817244",
+    "in_reply_to_user_id": "1699445300950093824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935213892084580718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linlin444444 接"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12166,
+        "height": 1280,
+        "media_key": "13_1935213800204156933",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1935213800204156933/img/PL6JSRIQFqZfFg11.jpg",
+        "public_metrics": {
+          "view_count": 919
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935213800204156933/vid/avc1/320x568/JViWyAN6FSH2rWPu.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935213800204156933/vid/avc1/480x852/vFQeh4YZAvY1L0Kv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935213800204156933/vid/avc1/720x1280/vv63hDHxel6UeBee.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1935213800204156933/pl/L4qXHxNLCPG4Ln-I.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1935213892084580718",
+        "created_at": "2025-06-19T16:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T17:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935744062553817244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699445300950093824",
+              "start": 0,
+              "username": "linlin444444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935744062553817244",
+        "in_reply_to_user_id": "1699445300950093824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935213892084580718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linlin444444 接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1935213800204156933"
+          ]
+        },
+        "author_id": "1699445300950093824",
+        "conversation_id": "1935213892084580718",
+        "created_at": "2025-06-18T05:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T06:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935213892084580718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j4TKZ9Zq8B",
+              "end": 34,
+              "expanded_url": "https://x.com/linlin444444/status/1935213892084580718/video/1",
+              "media_key": "13_1935213800204156933",
+              "start": 11,
+              "url": "https://t.co/j4TKZ9Zq8B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935213892084580718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2626,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "改花刀好痛 能刀你吗 https://t.co/j4TKZ9Zq8B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "name": "小玉",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928709552171610112/x9fXi0Ew_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 175,
+          "like_count": 6430,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 1818
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "overspeed副wiki主 | 药物圈第一个地雷女科普系博主 | 很好说话 会回复用药咨询 |",
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林讨厌你",
+        "pinned_tweet_id": "1907251008314687503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5150,
+          "following_count": 59,
+          "like_count": 357,
+          "listed_count": 10,
+          "media_count": 21,
+          "tweet_count": 39
+        },
+        "username": "linlin444444",
+        "verified": false
+      }
+    ]
+  }
+}

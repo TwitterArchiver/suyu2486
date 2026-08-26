@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1951568072386425203",
+    "created_at": "2025-08-02T13:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T14:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951629347292664304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597240703070793731",
+          "start": 0,
+          "username": "sngzhhu21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951629347292664304",
+    "in_reply_to_user_id": "1597240703070793731",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951582498024300931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sngzhhu21 真假的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1951568072386425203",
+        "created_at": "2025-08-02T13:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T14:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951629347292664304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597240703070793731",
+              "start": 0,
+              "username": "sngzhhu21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951629347292664304",
+        "in_reply_to_user_id": "1597240703070793731",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951582498024300931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sngzhhu21 真假的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597240703070793731",
+        "conversation_id": "1951568072386425203",
+        "created_at": "2025-08-02T09:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T10:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951582498024300931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951582498024300931",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951568072386425203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 我感觉我好久没见到你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男，可以叫我小玉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1948457851778990521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 199,
+          "like_count": 12635,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 3495
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T14:47:35.000Z",
+        "description": "清水 碎碎念｜🚪88 188纯绿｜推广自辨 不是本人｜ngl提问箱：https://t.co/869Xl9yltY｜碎碎念：@S0216hg88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "S0216hg88"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ava61847",
+                "end": 57,
+                "expanded_url": "https://ngl.link/ava61847",
+                "start": 34,
+                "url": "https://t.co/869Xl9yltY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=6wLtTtBQ",
+                "start": 0,
+                "url": "https://t.co/gKDXuamcSQ"
+              }
+            ]
+          }
+        },
+        "id": "1597240703070793731",
+        "location": "自用蜂鸟VPN👉",
+        "name": "一枚纯净的屌丝",
+        "pinned_tweet_id": "1949443842534724055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948742298415624192/21n1862l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1709,
+          "following_count": 391,
+          "like_count": 14460,
+          "listed_count": 4,
+          "media_count": 353,
+          "tweet_count": 10540
+        },
+        "url": "https://t.co/gKDXuamcSQ",
+        "username": "sngzhhu21",
+        "verified": false
+      }
+    ]
+  }
+}

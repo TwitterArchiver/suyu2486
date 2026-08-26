@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1952038585592406486",
+    "created_at": "2025-08-03T16:26:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T17:26:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952043389714849964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1486968452296298497",
+          "start": 0,
+          "username": "chenxianyin1410"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952043389714849964",
+    "in_reply_to_user_id": "1486968452296298497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952043233900745053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenxianyin1410 人之常情，没关系的，看看牛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1952038585592406486",
+        "created_at": "2025-08-03T16:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T17:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952043389714849964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1486968452296298497",
+              "start": 0,
+              "username": "chenxianyin1410"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952043389714849964",
+        "in_reply_to_user_id": "1486968452296298497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952043233900745053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenxianyin1410 人之常情，没关系的，看看牛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486968452296298497",
+        "conversation_id": "1952038585592406486",
+        "created_at": "2025-08-03T16:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T17:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952043233900745053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952043233900745053",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952042395086032911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 其实我是看黄楠来着，觉得神鹰哥太 man 了所以做了错饭…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1951649210652135765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 200,
+          "like_count": 12945,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 3559
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-28T07:44:58.000Z",
+        "description": "我推：果茶和芋泥麻薯奶茶。\n里推：熟人可以给🥹🥹🥹",
+        "id": "1486968452296298497",
+        "location": "Hong Kong",
+        "name": "芋泥麻薯豆乳奶盖大王",
+        "pinned_tweet_id": "1947966762408169694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902220917981495296/-9IfcgrK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 6213,
+          "like_count": 20685,
+          "listed_count": 10,
+          "media_count": 531,
+          "tweet_count": 3065
+        },
+        "username": "chenxianyin1410",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1936481312430240107",
+    "created_at": "2025-06-21T18:18:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T19:18:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936489033066336711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1825808151935070210",
+          "start": 0,
+          "username": "strawberry_0zz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936489033066336711",
+    "in_reply_to_user_id": "1825808151935070210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936481312430240107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@strawberry_0zz 谁让你睡了，控制欲来了，不许睡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1572,
+        "media_key": "3_1936481303399923712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt_DfEtWgAA9pC8.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1936481312430240107",
+        "created_at": "2025-06-21T18:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T19:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936489033066336711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1825808151935070210",
+              "start": 0,
+              "username": "strawberry_0zz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936489033066336711",
+        "in_reply_to_user_id": "1825808151935070210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936481312430240107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@strawberry_0zz 谁让你睡了，控制欲来了，不许睡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936481303399923712"
+          ]
+        },
+        "author_id": "1825808151935070210",
+        "conversation_id": "1936481312430240107",
+        "created_at": "2025-06-21T17:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T18:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936481312430240107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k10gONKJzk",
+              "end": 28,
+              "expanded_url": "https://x.com/strawberry_0zz/status/1936481312430240107/photo/1",
+              "media_key": "3_1936481303399923712",
+              "start": 5,
+              "url": "https://t.co/k10gONKJzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936481312430240107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 366,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "洗澡碎觉 https://t.co/k10gONKJzk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，不喜欢可以喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 194,
+          "like_count": 7205,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 2088
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T08:13:13.000Z",
+        "description": "下水道鼠鼠的碎碎念 | 负能量max | 大号@Rosabel_0养一个吧，超气人的 | 剑三在双梦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Rosabel_0"
+              }
+            ]
+          }
+        },
+        "id": "1825808151935070210",
+        "location": "🚪288无福利",
+        "name": "茗烟",
+        "pinned_tweet_id": "1932381246719447184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902997870719946752/aW185lup_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11919,
+          "following_count": 57,
+          "like_count": 472,
+          "listed_count": 44,
+          "media_count": 432,
+          "tweet_count": 3362
+        },
+        "username": "strawberry_0zz",
+        "verified": false
+      }
+    ]
+  }
+}

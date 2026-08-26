@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1958219906153128310",
+    "created_at": "2025-08-21T06:43:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T07:43:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958419752826610054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1954500072517103617",
+          "start": 0,
+          "username": "dtxx333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958419752826610054",
+    "in_reply_to_user_id": "1954500072517103617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958219906153128310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dtxx333 不要啊😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1475,
+        "media_key": "3_1958219894887190528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyz-norakAAD-yH.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1958219906153128310",
+        "created_at": "2025-08-21T06:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T07:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958419752826610054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1954500072517103617",
+              "start": 0,
+              "username": "dtxx333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958419752826610054",
+        "in_reply_to_user_id": "1954500072517103617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958219906153128310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dtxx333 不要啊😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958219894887190528"
+          ]
+        },
+        "author_id": "1954500072517103617",
+        "conversation_id": "1958219906153128310",
+        "created_at": "2025-08-20T17:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T18:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958219906153128310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7qkBiYtJDz",
+              "end": 44,
+              "expanded_url": "https://x.com/dtxx333/status/1958219906153128310/photo/1",
+              "media_key": "3_1958219894887190528",
+              "start": 21,
+              "url": "https://t.co/7qkBiYtJDz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958219906153128310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3205,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "停停停这期涉黄了吧（我操我锁骨胖没了？！ https://t.co/7qkBiYtJDz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 201,
+          "like_count": 16475,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 4356
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T11:09:01.000Z",
+        "description": "嗯我没招了｜盗图死全家",
+        "id": "1954500072517103617",
+        "name": "善待蛋挞熊吧",
+        "pinned_tweet_id": "1954608688418926904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954607190750396416/OthEAx5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 151,
+          "like_count": 239,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 135
+        },
+        "username": "dtxx333",
+        "verified": false
+      }
+    ]
+  }
+}

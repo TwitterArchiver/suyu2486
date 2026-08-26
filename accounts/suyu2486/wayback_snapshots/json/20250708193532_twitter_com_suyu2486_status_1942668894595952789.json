@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1942575998840565834",
+    "created_at": "2025-07-08T19:35:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T20:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942668894595952789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1899483974897913856",
+          "start": 0,
+          "username": "miemiem001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942668894595952789",
+    "in_reply_to_user_id": "1899483974897913856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942629041086906475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miemiem001 被发现了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1942575998840565834",
+        "created_at": "2025-07-08T19:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T20:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942668894595952789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1899483974897913856",
+              "start": 0,
+              "username": "miemiem001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942668894595952789",
+        "in_reply_to_user_id": "1899483974897913856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942629041086906475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miemiem001 被发现了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899483974897913856",
+        "conversation_id": "1942575998840565834",
+        "created_at": "2025-07-08T16:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T17:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942629041086906475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942629041086906475",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942575998840565834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 红大爷简介吗这是？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 198,
+          "like_count": 10772,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 3134
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-11T15:34:34.000Z",
+        "description": "",
+        "id": "1899483974897913856",
+        "name": "mie",
+        "pinned_tweet_id": "1929877613721358780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899485589566582784/KStWWe8Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2436,
+          "following_count": 11,
+          "like_count": 693,
+          "listed_count": 10,
+          "media_count": 53,
+          "tweet_count": 1219
+        },
+        "username": "miemiem001",
+        "verified": false
+      }
+    ]
+  }
+}

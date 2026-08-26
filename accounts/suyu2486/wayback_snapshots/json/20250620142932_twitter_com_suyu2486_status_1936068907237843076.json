@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1935697112819552500",
+    "created_at": "2025-06-20T14:29:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T15:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936068907237843076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1707074946273587200",
+          "start": 0,
+          "username": "edithjoe8511"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936068907237843076",
+    "in_reply_to_user_id": "1707074946273587200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936063498985128413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@edithjoe8511 张嘴有急事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1935697112819552500",
+        "created_at": "2025-06-20T14:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T15:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936068907237843076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1707074946273587200",
+              "start": 0,
+              "username": "edithjoe8511"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936068907237843076",
+        "in_reply_to_user_id": "1707074946273587200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936063498985128413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@edithjoe8511 张嘴有急事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707074946273587200",
+        "conversation_id": "1935697112819552500",
+        "created_at": "2025-06-20T14:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T15:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936063498985128413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936063498985128413",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936010510056726711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 鹰酱你可要喂我花生啊😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的，我将做回神鹰，爱说点c语言，不喜欢可以喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 179,
+          "like_count": 6703,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1902
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-27T16:49:35.000Z",
+        "description": "只回互关宝宝私信。不聊骚不爱骂人。无事消遣看腹肌男巨根的女大brat（主人重度依赖）（丑的短的细的不许发 发了屏蔽。）/内🐍瘾者/喜欢跟有趣的互关宝宝们互动，互关敲小窗➕v看到秒过/现生愉快刷推频率不高 取关随意🫶🏻/打王者（专辅）平安京（上中辅） 三角洲（手游版）找我（水平仅供娱乐只跟有礼貌的好宝宝玩）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/edithjoe8511",
+                "end": 23,
+                "expanded_url": "https://ngl.link/edithjoe8511",
+                "start": 0,
+                "url": "https://t.co/twOhb2xS0v"
+              }
+            ]
+          }
+        },
+        "id": "1707074946273587200",
+        "location": "粤A山区",
+        "name": "荔枝龙眼味夹心泡芙",
+        "pinned_tweet_id": "1929068970541195310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920425357305417728/n4euwSWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1040,
+          "following_count": 488,
+          "like_count": 12931,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 3003
+        },
+        "url": "https://t.co/twOhb2xS0v",
+        "username": "edithjoe8511",
+        "verified": false
+      }
+    ]
+  }
+}

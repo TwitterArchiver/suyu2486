@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2083201413749076089",
+    "created_at": "2026-08-01T03:25:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T04:25:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083393613942465001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1564088613427712000",
+          "start": 0,
+          "username": "FicoKts"
+        },
+        {
+          "end": 20,
+          "id": "1645453106573115392",
+          "start": 9,
+          "username": "yuan0528TT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083393613942465001",
+    "in_reply_to_user_id": "1564088613427712000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083207982012301794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FicoKts @yuan0528TT 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2083201413749076089",
+        "created_at": "2026-08-01T03:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083393613942465001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1564088613427712000",
+              "start": 0,
+              "username": "FicoKts"
+            },
+            {
+              "end": 20,
+              "id": "1645453106573115392",
+              "start": 9,
+              "username": "yuan0528TT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083393613942465001",
+        "in_reply_to_user_id": "1564088613427712000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083207982012301794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FicoKts @yuan0528TT 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564088613427712000",
+        "conversation_id": "2083201413749076089",
+        "created_at": "2026-07-31T15:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083207982012301794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1645453106573115392",
+              "start": 0,
+              "username": "yuan0528TT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083207982012301794",
+        "in_reply_to_user_id": "1645453106573115392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083201413749076089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuan0528TT 依旧可以做爱的好朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2062,
+          "following_count": 195,
+          "like_count": 21200,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6615
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-29T03:12:49.000Z",
+        "description": "",
+        "id": "1564088613427712000",
+        "name": "Gemini",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075875380444241920/2FdxLwTE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 147,
+          "like_count": 10222,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 987
+        },
+        "url": "",
+        "username": "FicoKts",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-10T15:46:29.000Z",
+        "description": "tired",
+        "id": "1645453106573115392",
+        "name": "寧",
+        "pinned_tweet_id": "1978918865007477016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051026536334274560/jxblFzN2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1416,
+          "following_count": 88,
+          "like_count": 1240,
+          "listed_count": 1,
+          "media_count": 275,
+          "tweet_count": 4748
+        },
+        "url": "",
+        "username": "yuan0528TT",
+        "verified": false
+      }
+    ]
+  }
+}

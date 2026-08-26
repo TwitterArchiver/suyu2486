@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940108870766006273"
+      ]
+    },
+    "author_id": "1910715228523831296",
+    "conversation_id": "1940108875782390074",
+    "created_at": "2025-07-01T18:02:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T19:02:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940108875782390074"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Orvrj0modZ",
+          "end": 145,
+          "expanded_url": "https://x.com/suyu2486/status/1940108875782390074/photo/1",
+          "media_key": "3_1940108870766006273",
+          "start": 122,
+          "url": "https://t.co/Orvrj0modZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940108875782390074",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真服了自己的嘴巴了，处于一个干湿的交界点，一抽烟嘴唇粘在烟嘴上，不取下来就一直粘着，取下来又会带走我的一点点嘴皮，痛的慌，这个烟嘴上的皮肤组织就是我的一部分嘴唇了，这一切怎会如此？！！被烟草公司做局了…谁来亲个嘴，拯救我的嘴皮于水火之中…😔 https://t.co/Orvrj0modZ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1940108875782390074].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1940108875782390074",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1940108875782390074"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 705,
+        "media_key": "3_1940108870766006273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuymvSOXkAEhR4w.jpg",
+        "width": 788
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1923458019305660813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 198,
+          "like_count": 10177,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 2954
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      }
+    ]
+  }
+}

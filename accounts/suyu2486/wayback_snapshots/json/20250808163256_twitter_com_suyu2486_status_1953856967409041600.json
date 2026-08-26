@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1953616065029976381",
+    "created_at": "2025-08-08T16:32:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T17:32:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953856967409041600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1590872504943276032",
+          "start": 0,
+          "username": "seven0119__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953856967409041600",
+    "in_reply_to_user_id": "1590872504943276032",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 19,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953824376559636599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seven0119__ 6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1953616065029976381",
+        "created_at": "2025-08-08T16:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T17:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953856967409041600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1590872504943276032",
+              "start": 0,
+              "username": "seven0119__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953856967409041600",
+        "in_reply_to_user_id": "1590872504943276032",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953824376559636599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seven0119__ 6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590872504943276032",
+        "conversation_id": "1953616065029976381",
+        "created_at": "2025-08-08T14:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T15:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953824376559636599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953824376559636599",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953616065029976381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 免费入珠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1953423119017758926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1140,
+          "following_count": 200,
+          "like_count": 14046,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 3877
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-11T01:02:17.000Z",
+        "description": "性别男",
+        "id": "1590872504943276032",
+        "name": "七七",
+        "pinned_tweet_id": "1787325147902603515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928285446012030978/zMpKsU2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5663,
+          "following_count": 1321,
+          "like_count": 86665,
+          "listed_count": 9,
+          "media_count": 849,
+          "tweet_count": 44823
+        },
+        "username": "seven0119__",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1960974549249327236",
+    "created_at": "2025-08-28T15:37:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T16:37:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961090850492153863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1898675806966341632",
+          "start": 0,
+          "username": "Lillcuainil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961090850492153863",
+    "in_reply_to_user_id": "1898675806966341632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960974549249327236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lillcuainil 我们不合适"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7900,
+        "height": 960,
+        "media_key": "13_1960974429804224514",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1960974429804224514/img/Ey4_0GaCAgV2qsi1.jpg",
+        "public_metrics": {
+          "view_count": 100
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960974429804224514/vid/avc1/320x426/Lo70AZxl-iFZUThW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960974429804224514/vid/avc1/480x640/XEWzBVfbCRkWXZzL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960974429804224514/vid/avc1/720x960/meFbFiO0zWTYysEH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1960974429804224514/pl/4d2g6aXYmUFaHIla.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1960974549249327236",
+        "created_at": "2025-08-28T15:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T16:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961090850492153863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1898675806966341632",
+              "start": 0,
+              "username": "Lillcuainil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961090850492153863",
+        "in_reply_to_user_id": "1898675806966341632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960974549249327236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lillcuainil 我们不合适"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1960974429804224514"
+          ]
+        },
+        "author_id": "1898675806966341632",
+        "conversation_id": "1960974549249327236",
+        "created_at": "2025-08-28T07:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T08:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960974549249327236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iMpJSfQMWA",
+              "end": 30,
+              "expanded_url": "https://x.com/Lillcuainil/status/1960974549249327236/video/1",
+              "media_key": "13_1960974429804224514",
+              "start": 7,
+              "url": "https://t.co/iMpJSfQMWA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960974549249327236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 448,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁接受我表白 https://t.co/iMpJSfQMWA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个好色的sb男的，双相情感障碍，情感漠视，精神失常，都滚远点别来烦我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "小玉",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1362,
+          "following_count": 198,
+          "like_count": 17142,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 4555
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T10:03:06.000Z",
+        "description": "我是小礼呀！碎碎念日常、不约不约🤗，别骚扰我了吧！互关可以加wx找我玩！我很可爱请给我发腹肌照好吗？好的！😈 我爱发啥发啥别他妈来贴脸。｜置顶锁评推广自辨 非本人｜自用蜂鸟VPN https://t.co/eXg64PaLYj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 113,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=E9vmBwfD",
+                "start": 90,
+                "url": "https://t.co/eXg64PaLYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lill19761",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lill19761",
+                "start": 0,
+                "url": "https://t.co/AiQNlOcvfJ"
+              }
+            ]
+          }
+        },
+        "id": "1898675806966341632",
+        "location": "想向我提问请戳👉🏻",
+        "name": "lii",
+        "pinned_tweet_id": "1949447799474708689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959631143554502656/7q0lh2Fi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3168,
+          "following_count": 235,
+          "like_count": 162,
+          "listed_count": 6,
+          "media_count": 1056,
+          "tweet_count": 17156
+        },
+        "url": "https://t.co/AiQNlOcvfJ",
+        "username": "Lillcuainil",
+        "verified": false
+      }
+    ]
+  }
+}

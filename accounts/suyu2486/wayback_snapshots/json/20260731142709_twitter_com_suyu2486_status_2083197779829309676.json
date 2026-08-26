@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2083152282175299882",
+    "created_at": "2026-07-31T14:27:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T15:27:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083197779829309676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1564088613427712000",
+          "start": 0,
+          "username": "FicoKts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083197779829309676",
+    "in_reply_to_user_id": "1564088613427712000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083152282175299882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FicoKts 又意淫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2083152282175299882",
+        "created_at": "2026-07-31T14:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083197779829309676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1564088613427712000",
+              "start": 0,
+              "username": "FicoKts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083197779829309676",
+        "in_reply_to_user_id": "1564088613427712000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083152282175299882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FicoKts 又意淫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564088613427712000",
+        "conversation_id": "2083152282175299882",
+        "created_at": "2026-07-31T11:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083152282175299882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/scrollpics/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/scrollpics/status/2082934079344017552",
+              "start": 5,
+              "url": "https://t.co/abw83hFWa4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083152282175299882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 474,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082934079344017552",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我和谁… https://t.co/abw83hFWa4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2063,
+          "following_count": 193,
+          "like_count": 21178,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6606
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-29T03:12:49.000Z",
+        "description": "",
+        "id": "1564088613427712000",
+        "name": "Gemini",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075875380444241920/2FdxLwTE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 146,
+          "like_count": 10198,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 979
+        },
+        "url": "",
+        "username": "FicoKts",
+        "verified": false
+      }
+    ]
+  }
+}

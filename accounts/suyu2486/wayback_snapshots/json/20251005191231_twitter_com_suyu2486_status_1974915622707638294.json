@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1974893452757467458",
+    "created_at": "2025-10-05T19:12:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T20:12:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974915622707638294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1863041923604180992",
+          "start": 0,
+          "username": "leow_0508"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974915622707638294",
+    "in_reply_to_user_id": "1863041923604180992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974915566013165816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leow_0508 收到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1974893452757467458",
+        "created_at": "2025-10-05T19:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T20:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974915622707638294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863041923604180992",
+              "start": 0,
+              "username": "leow_0508"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974915622707638294",
+        "in_reply_to_user_id": "1863041923604180992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974915566013165816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leow_0508 收到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863041923604180992",
+        "conversation_id": "1974893452757467458",
+        "created_at": "2025-10-05T19:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T20:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974915566013165816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974915566013165816",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974915316108149222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 😭😭不管怎么样一定要幸福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我玊玉，叫玉是因为英文名是jade，玊（su）是有瑕疵的玉的意思，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗\n         \n已婚，我的妻子@uxehNv2zpB70937",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 141,
+                "username": "uxehNv2zpB70937"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1972598608924143996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2067,
+          "following_count": 254,
+          "like_count": 20638,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 5722
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T02:06:44.000Z",
+        "description": "师范在读，高中生初中生有什么需要帮助的可以直接私信我。心情好会发红包 小号 @kikikiw0320 性别男，爱好女，直男。男同滚！男同骚扰我先发888🚪不发直接拉黑！畅联世界！无广告干扰，机场节点随便挑，自用蜂鸟VPN https://t.co/6zwwsSPhho",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 38,
+                "username": "kikikiw0320"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 134,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=zFzTtDmx",
+                "start": 111,
+                "url": "https://t.co/6zwwsSPhho"
+              }
+            ]
+          }
+        },
+        "id": "1863041923604180992",
+        "location": "天天开心",
+        "name": "Leo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892661925818810369/BSDA1LEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243,
+          "following_count": 2704,
+          "like_count": 31393,
+          "listed_count": 3,
+          "media_count": 524,
+          "tweet_count": 5083
+        },
+        "username": "leow_0508",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1988408882667086151",
+    "created_at": "2025-11-12T16:48:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T17:48:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988650007130694107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1907743714987937792",
+          "start": 0,
+          "username": "gunnimagvb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988650007130694107",
+    "in_reply_to_user_id": "1907743714987937792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988649362214502409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gunnimagvb 实则不然"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1988649362214502409].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1988649362214502409",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1988649362214502409"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1988408882667086151",
+        "created_at": "2025-11-12T16:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T17:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988650007130694107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1907743714987937792",
+              "start": 0,
+              "username": "gunnimagvb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988650007130694107",
+        "in_reply_to_user_id": "1907743714987937792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988649362214502409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gunnimagvb 实则不然"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "06，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2370,
+          "following_count": 263,
+          "like_count": 22298,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 6282
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T10:35:30.000Z",
+        "description": "istj ✨｜射手♐️｜女宝我们多多贴贴我啃啃啃啃啃｜(｡◝ᴗ◜｡)ಣ｜清水推 没有🚪｜祝大家天天开心🦋｜置顶锁评 推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/eddxgf",
+                "end": 23,
+                "expanded_url": "https://ngl.link/eddxgf",
+                "start": 0,
+                "url": "https://t.co/1GFPRb1r35"
+              }
+            ]
+          }
+        },
+        "id": "1907743714987937792",
+        "location": "拜托彗星一件愿望",
+        "name": "小杳",
+        "pinned_tweet_id": "1967989682001912042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945345257081556992/7m7LFdOh_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2261,
+          "following_count": 129,
+          "like_count": 7675,
+          "listed_count": 8,
+          "media_count": 243,
+          "tweet_count": 2041
+        },
+        "url": "https://t.co/1GFPRb1r35",
+        "username": "gunnimagvb",
+        "verified": false
+      }
+    ]
+  }
+}

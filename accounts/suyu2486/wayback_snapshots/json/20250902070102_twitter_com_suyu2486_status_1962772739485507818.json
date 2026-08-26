@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1962741541816148131",
+    "created_at": "2025-09-02T07:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T08:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962772739485507818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1634854273724076034",
+          "start": 0,
+          "username": "asahiTT24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962772739485507818",
+    "in_reply_to_user_id": "1634854273724076034",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962748888751972588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asahiTT24 可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1962741541816148131",
+        "created_at": "2025-09-02T07:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T08:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962772739485507818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1634854273724076034",
+              "start": 0,
+              "username": "asahiTT24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962772739485507818",
+        "in_reply_to_user_id": "1634854273724076034",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962748888751972588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asahiTT24 可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634854273724076034",
+        "conversation_id": "1962741541816148131",
+        "created_at": "2025-09-02T05:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T06:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962748888751972588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962748888751972588",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962741541816148131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 我一般说“不错”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "飞向全宇宙",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 206,
+          "like_count": 17803,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 4759
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T09:50:16.000Z",
+        "description": "操全世界",
+        "id": "1634854273724076034",
+        "location": "家里蹲",
+        "name": "藏青盐奶绿",
+        "pinned_tweet_id": "1822750960789426567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942766330383421440/xLdab_9M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 134,
+          "like_count": 4387,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 765
+        },
+        "username": "asahiTT24",
+        "verified": false
+      }
+    ]
+  }
+}

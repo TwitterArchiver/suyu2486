@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1953616065029976381",
+    "created_at": "2025-08-08T06:03:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T07:03:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953698479366086959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1834931258461503495",
+          "start": 0,
+          "username": "imnotsoojin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953698479366086959",
+    "in_reply_to_user_id": "1834931258461503495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953619250045960400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imnotsoojin 口了就口了吧，事情已经发生了，我会负责的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1953616065029976381",
+        "created_at": "2025-08-08T06:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T07:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953698479366086959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1834931258461503495",
+              "start": 0,
+              "username": "imnotsoojin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953698479366086959",
+        "in_reply_to_user_id": "1834931258461503495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953619250045960400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imnotsoojin 口了就口了吧，事情已经发生了，我会负责的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834931258461503495",
+        "conversation_id": "1953616065029976381",
+        "created_at": "2025-08-08T00:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T01:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953619250045960400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953619250045960400",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953616065029976381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 被蚊子口了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1953423119017758926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1133,
+          "following_count": 200,
+          "like_count": 13823,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 3793
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-14T12:24:47.000Z",
+        "description": "性 购物 睡觉 宅家老鼠人 偶尔会很想出去玩",
+        "id": "1834931258461503495",
+        "name": "我不是小猫",
+        "pinned_tweet_id": "1929980051396985310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953131885472956419/fhmd1IH2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 74,
+          "like_count": 2840,
+          "listed_count": 2,
+          "media_count": 1109,
+          "tweet_count": 5011
+        },
+        "username": "imnotsoojin",
+        "verified": false
+      }
+    ]
+  }
+}

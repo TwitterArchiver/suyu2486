@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1962788714591277547",
+    "created_at": "2025-09-03T19:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T20:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963321361407054179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1699680752894427136",
+          "start": 0,
+          "username": "baobaobao268"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963321361407054179",
+    "in_reply_to_user_id": "1699680752894427136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962788714591277547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baobaobao268 可以"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8280,
+        "height": 976,
+        "media_key": "13_1962788653224337409",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1962788653224337409/img/kmoRldwQaKExEkla.jpg",
+        "public_metrics": {
+          "view_count": 41583
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962788653224337409/vid/avc1/320x432/quR3IkGC0taR_0Dp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962788653224337409/vid/avc1/480x650/I6NzIGZ-3d-cbFSD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962788653224337409/vid/avc1/720x976/Hj9lFWV4MIbM1k_E.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1962788653224337409/pl/0gepfdPVUAm_nZzI.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1962788714591277547",
+        "created_at": "2025-09-03T19:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T20:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963321361407054179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699680752894427136",
+              "start": 0,
+              "username": "baobaobao268"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963321361407054179",
+        "in_reply_to_user_id": "1699680752894427136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962788714591277547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baobaobao268 可以"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1962788653224337409"
+          ]
+        },
+        "author_id": "1699680752894427136",
+        "conversation_id": "1962788714591277547",
+        "created_at": "2025-09-02T08:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T09:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962788714591277547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/otsVCZD5QY",
+              "end": 42,
+              "expanded_url": "https://x.com/baobaobao268/status/1962788714591277547/video/1",
+              "media_key": "13_1962788653224337409",
+              "start": 19,
+              "url": "https://t.co/otsVCZD5QY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962788714591277547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 111978,
+          "like_count": 919,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "剪了短发 \n果然有个BGM没那么干巴 https://t.co/otsVCZD5QY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱无章，不定期活跃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "飞向全宇宙",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1422,
+          "following_count": 212,
+          "like_count": 18486,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 4955
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-07T07:07:25.000Z",
+        "description": "一些碎碎念|🐱|🐑|照片存放地|美好的肉体就是艺术|卷甲虫|和我的好朋友马纳纳@Manana2029",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "Manana2029"
+              }
+            ]
+          }
+        },
+        "id": "1699680752894427136",
+        "name": "包包包好运",
+        "pinned_tweet_id": "1804095541522935892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731699775005933568/uqPXckil_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32546,
+          "following_count": 332,
+          "like_count": 19527,
+          "listed_count": 76,
+          "media_count": 1953,
+          "tweet_count": 6183
+        },
+        "username": "baobaobao268",
+        "verified": false
+      }
+    ]
+  }
+}

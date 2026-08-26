@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1986121495119339736",
+    "created_at": "2025-11-07T20:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T21:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986887628294398398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1827416305038987264",
+          "start": 0,
+          "username": "candf0131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986887628294398398",
+    "in_reply_to_user_id": "1827416305038987264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986121495119339736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@candf0131 维密的对吗，还是聚拢款对吗💅🏼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986121484017016835",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Ae93-bIAMnLZc.jpg",
+        "width": 1495
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1986121495119339736",
+        "created_at": "2025-11-07T20:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T21:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986887628294398398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1827416305038987264",
+              "start": 0,
+              "username": "candf0131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986887628294398398",
+        "in_reply_to_user_id": "1827416305038987264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986121495119339736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@candf0131 维密的对吗，还是聚拢款对吗💅🏼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986121484017016835"
+          ]
+        },
+        "author_id": "1827416305038987264",
+        "conversation_id": "1986121495119339736",
+        "created_at": "2025-11-05T17:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T18:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986121495119339736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dpJcIuYqDo",
+              "end": 41,
+              "expanded_url": "https://x.com/candf0131/status/1986121495119339736/photo/1",
+              "media_key": "3_1986121484017016835",
+              "start": 18,
+              "url": "https://t.co/dpJcIuYqDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986121495119339736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 162957,
+          "like_count": 436,
+          "quote_count": 3,
+          "reply_count": 133,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "十分之美丽。。哪个天才想出来的搭配 https://t.co/dpJcIuYqDo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "06，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1977439230432555047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2151,
+          "following_count": 263,
+          "like_count": 21939,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 6170
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T18:43:02.000Z",
+        "description": "高p 我只是个丑逼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/haochi2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/haochi2",
+                "start": 0,
+                "url": "https://t.co/AwAYrB4j88"
+              }
+            ]
+          }
+        },
+        "id": "1827416305038987264",
+        "location": "🚪52000",
+        "name": "土豆泥世界第一",
+        "pinned_tweet_id": "1986440714117652638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931728963258167298/d2jb9icu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9753,
+          "following_count": 117,
+          "like_count": 5137,
+          "listed_count": 11,
+          "media_count": 722,
+          "tweet_count": 9290
+        },
+        "url": "https://t.co/AwAYrB4j88",
+        "username": "candf0131",
+        "verified": false
+      }
+    ]
+  }
+}

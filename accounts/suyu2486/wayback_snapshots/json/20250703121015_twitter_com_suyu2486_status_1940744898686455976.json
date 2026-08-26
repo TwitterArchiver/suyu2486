@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1940695894455996862",
+    "created_at": "2025-07-03T12:10:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T13:10:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940744898686455976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1422457573358202883",
+          "start": 0,
+          "username": "boliangkiying_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940744898686455976",
+    "in_reply_to_user_id": "1422457573358202883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940695894455996862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boliangkiying_ 谢谢刀哥！（我吃！）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1940695894455996862",
+        "created_at": "2025-07-03T12:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T13:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940744898686455976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1422457573358202883",
+              "start": 0,
+              "username": "boliangkiying_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940744898686455976",
+        "in_reply_to_user_id": "1422457573358202883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940695894455996862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boliangkiying_ 谢谢刀哥！（我吃！）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422457573358202883",
+        "conversation_id": "1940695894455996862",
+        "created_at": "2025-07-03T08:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T09:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940695894455996862"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1940695894455996862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 385,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请大家来拿肯德基疯狂星期四套餐：一人一份不要多拿！我拿了第一排第一个\n\n                          🍔🍟          🍔🍟\n————        ————    ————  \n🍔🍟                🍔🍟         🍔🍟\n————        ————    ————    \n🍔🍟               🍔🍟          🍔🍟\n————        ————    ————"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 200,
+          "like_count": 10455,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 3048
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-03T07:21:38.000Z",
+        "description": "大家好我是二次元刀哥/全是干货/提问箱https://t.co/4tI8bh4O7a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/erciyuandoge",
+                "end": 42,
+                "expanded_url": "https://ngl.link/erciyuandoge",
+                "start": 19,
+                "url": "https://t.co/4tI8bh4O7a"
+              }
+            ]
+          }
+        },
+        "id": "1422457573358202883",
+        "location": "0.7km",
+        "name": "二次元刀哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928069675637952517/nmiD9jVn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 268,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 601
+        },
+        "username": "boliangkiying_",
+        "verified": false
+      }
+    ]
+  }
+}

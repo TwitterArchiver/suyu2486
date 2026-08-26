@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2082944486720811219",
+    "created_at": "2026-08-01T03:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T04:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083392922108727501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1389396065485398018",
+          "start": 0,
+          "username": "Yily_cici"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083392922108727501",
+    "in_reply_to_user_id": "1389396065485398018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082944486720811219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yily_cici 像ai一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2082944486720811219",
+        "created_at": "2026-08-01T03:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083392922108727501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1389396065485398018",
+              "start": 0,
+              "username": "Yily_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083392922108727501",
+        "in_reply_to_user_id": "1389396065485398018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082944486720811219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yily_cici 像ai一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389396065485398018",
+        "conversation_id": "2082944486720811219",
+        "created_at": "2026-07-30T21:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T22:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082944486720811219"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082944486720811219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 37995,
+          "like_count": 1815,
+          "quote_count": 11,
+          "reply_count": 90,
+          "retweet_count": 166
+        },
+        "reply_settings": "everyone",
+        "text": "好想大喊一声“钱！”然后身体里爆发出一阵炫目的金光，几万张人民币发射出来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2062,
+          "following_count": 194,
+          "like_count": 21195,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6614
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo丨owo请礼貌私信 选回 互关可加v\n最后。谢谢你们喜欢我 我也喜欢你们",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2082159648132792777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 30,
+          "like_count": 1604,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 124
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      }
+    ]
+  }
+}

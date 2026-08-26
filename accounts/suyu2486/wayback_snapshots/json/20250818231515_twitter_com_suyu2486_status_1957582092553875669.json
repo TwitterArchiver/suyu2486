@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1957364005779189975",
+    "created_at": "2025-08-18T23:15:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T00:15:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957582092553875669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1839708200628858880",
+          "start": 0,
+          "username": "sulimeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957582092553875669",
+    "in_reply_to_user_id": "1839708200628858880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957364005779189975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sulimeow 你好，污吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1957364005779189975",
+        "created_at": "2025-08-18T23:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T00:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957582092553875669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1839708200628858880",
+              "start": 0,
+              "username": "sulimeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957582092553875669",
+        "in_reply_to_user_id": "1839708200628858880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957364005779189975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sulimeow 你好，污吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839708200628858880",
+        "conversation_id": "1957364005779189975",
+        "created_at": "2025-08-18T08:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T09:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957364005779189975"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957364005779189975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 19061,
+          "like_count": 273,
+          "quote_count": 6,
+          "reply_count": 39,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“你好污啊”，突然想起来初中的时候特别流行这个词，现在看起来好尴尬。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 200,
+          "like_count": 15987,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 4247
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-27T16:46:46.000Z",
+        "description": "其他人类我不关心",
+        "id": "1839708200628858880",
+        "location": "🚪40 接纯绿",
+        "name": "suli",
+        "pinned_tweet_id": "1956588487932613056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950399707689193472/gthwbDlA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 115,
+          "like_count": 10684,
+          "listed_count": 4,
+          "media_count": 96,
+          "tweet_count": 1025
+        },
+        "username": "sulimeow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1995856082053574895",
+    "created_at": "2025-12-02T17:47:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T18:47:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995912816172339514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1769970739413667840",
+          "start": 0,
+          "username": "h66y5_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995912816172339514",
+    "in_reply_to_user_id": "1769970739413667840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995856082053574895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h66y5_ 我吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1069,
+        "media_key": "3_1995856075384385536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7K0hqwXcAApG8t.jpg",
+        "width": 767
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1995856082053574895",
+        "created_at": "2025-12-02T17:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T18:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995912816172339514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1769970739413667840",
+              "start": 0,
+              "username": "h66y5_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995912816172339514",
+        "in_reply_to_user_id": "1769970739413667840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995856082053574895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h66y5_ 我吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995856075384385536"
+          ]
+        },
+        "author_id": "1769970739413667840",
+        "conversation_id": "1995856082053574895",
+        "created_at": "2025-12-02T14:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T15:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995856082053574895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n7SzNLQUve",
+              "end": 23,
+              "expanded_url": "https://x.com/h66y5_/status/1995856082053574895/photo/1",
+              "media_key": "3_1995856075384385536",
+              "start": 0,
+              "url": "https://t.co/n7SzNLQUve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995856082053574895",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2258,
+          "impression_count": 282103,
+          "like_count": 17831,
+          "quote_count": 94,
+          "reply_count": 84,
+          "retweet_count": 643
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/n7SzNLQUve"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是一个死人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1985888956073066671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2444,
+          "following_count": 268,
+          "like_count": 22628,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6308
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-19T06:14:56.000Z",
+        "description": "Golden boy 🕷️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/h6y55_?igsh=cn…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/h6y55_?igsh=cnc2NnhiNXo2YXRo",
+                "start": 0,
+                "url": "https://t.co/fHFGnELMdD"
+              }
+            ]
+          }
+        },
+        "id": "1769970739413667840",
+        "name": "𝐇𝐚𝐦𝐳𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982510769154535424/UHLg5MBE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7364,
+          "following_count": 247,
+          "like_count": 9691,
+          "listed_count": 10,
+          "media_count": 63,
+          "tweet_count": 5641
+        },
+        "url": "https://t.co/fHFGnELMdD",
+        "username": "h66y5_",
+        "verified": true
+      }
+    ]
+  }
+}

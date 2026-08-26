@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1937915341818015840",
+    "created_at": "2025-06-25T17:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T18:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937918906213273927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1899021424121065472",
+          "start": 0,
+          "username": "Tom_joseph23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937918906213273927",
+    "in_reply_to_user_id": "1899021424121065472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937918147849556245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tom_joseph23 你别管了…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 852,
+        "media_key": "3_1937918137527373824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuTeR08bEAAMc4t.jpg",
+        "width": 1280
+      },
+      {
+        "height": 852,
+        "media_key": "3_1937918138232016897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuTeR3kbEAE4tzM.jpg",
+        "width": 1280
+      },
+      {
+        "height": 852,
+        "media_key": "3_1937918137657397250",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuTeR1bbEAIEssq.jpg",
+        "width": 1280
+      },
+      {
+        "height": 852,
+        "media_key": "3_1937918138223628288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuTeR3ibEAAWooY.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1937915341818015840",
+        "created_at": "2025-06-25T17:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T18:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937918906213273927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1899021424121065472",
+              "start": 0,
+              "username": "Tom_joseph23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937918906213273927",
+        "in_reply_to_user_id": "1899021424121065472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937918147849556245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tom_joseph23 你别管了…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937918137527373824",
+            "3_1937918138232016897",
+            "3_1937918137657397250",
+            "3_1937918138223628288"
+          ]
+        },
+        "author_id": "1899021424121065472",
+        "conversation_id": "1937915341818015840",
+        "created_at": "2025-06-25T16:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T17:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937918147849556245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9pcZQcrDTN",
+              "end": 54,
+              "expanded_url": "https://x.com/Tom_joseph23/status/1937918147849556245/photo/1",
+              "media_key": "3_1937918137527373824",
+              "start": 31,
+              "url": "https://t.co/9pcZQcrDTN"
+            },
+            {
+              "display_url": "pic.x.com/9pcZQcrDTN",
+              "end": 54,
+              "expanded_url": "https://x.com/Tom_joseph23/status/1937918147849556245/photo/1",
+              "media_key": "3_1937918138232016897",
+              "start": 31,
+              "url": "https://t.co/9pcZQcrDTN"
+            },
+            {
+              "display_url": "pic.x.com/9pcZQcrDTN",
+              "end": 54,
+              "expanded_url": "https://x.com/Tom_joseph23/status/1937918147849556245/photo/1",
+              "media_key": "3_1937918137657397250",
+              "start": 31,
+              "url": "https://t.co/9pcZQcrDTN"
+            },
+            {
+              "display_url": "pic.x.com/9pcZQcrDTN",
+              "end": 54,
+              "expanded_url": "https://x.com/Tom_joseph23/status/1937918147849556245/photo/1",
+              "media_key": "3_1937918138223628288",
+              "start": 31,
+              "url": "https://t.co/9pcZQcrDTN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937918147849556245",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937915341818015840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 卧槽你不是长这样吗鹰哥，塌房了呵呵。。。 https://t.co/9pcZQcrDTN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1936734143804735662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 198,
+          "like_count": 8436,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 2363
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-10T08:56:14.000Z",
+        "description": "🤓🤓🤓",
+        "id": "1899021424121065472",
+        "name": "joseph",
+        "pinned_tweet_id": "1914921082857119869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923779133554761728/Vic_4C2m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 184,
+          "like_count": 13365,
+          "listed_count": 0,
+          "media_count": 371,
+          "tweet_count": 1826
+        },
+        "username": "Tom_joseph23",
+        "verified": false
+      }
+    ]
+  }
+}

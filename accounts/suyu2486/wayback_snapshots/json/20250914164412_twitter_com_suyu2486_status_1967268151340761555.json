@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1967255268447969355",
+    "created_at": "2025-09-14T16:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T17:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967268151340761555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1925122887310262272",
+          "start": 0,
+          "username": "Hexuqing_0505"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967268151340761555",
+    "in_reply_to_user_id": "1925122887310262272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967255268447969355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hexuqing_0505 给我推整的骚了哄的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10399,
+        "height": 720,
+        "media_key": "7_1967254894089490432",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1967254894089490432/pu/img/MXOxOqHINvAf50bq.jpg",
+        "public_metrics": {
+          "view_count": 79
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1967254894089490432/pu/vid/avc1/360x270/IxU0iPOY2NRPwLrf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1967254894089490432/pu/vid/avc1/480x360/AzjbgBAd_OX8yv51.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1967254894089490432/pu/vid/avc1/960x720/ZievviyfDko4aKNU.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1967254894089490432/pu/pl/zb_8VAKAYpWQG9ks.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1967255268447969355",
+        "created_at": "2025-09-14T16:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T17:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967268151340761555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1925122887310262272",
+              "start": 0,
+              "username": "Hexuqing_0505"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967268151340761555",
+        "in_reply_to_user_id": "1925122887310262272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967255268447969355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hexuqing_0505 给我推整的骚了哄的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1967254894089490432"
+          ]
+        },
+        "author_id": "1925122887310262272",
+        "conversation_id": "1967255268447969355",
+        "created_at": "2025-09-14T15:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T16:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967255268447969355"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "磨逼"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HPJKRTIwRa",
+              "end": 27,
+              "expanded_url": "https://x.com/Hexuqing_0505/status/1967255268447969355/video/1",
+              "media_key": "7_1967254894089490432",
+              "start": 4,
+              "url": "https://t.co/HPJKRTIwRa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967255268447969355",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 241,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#磨逼 https://t.co/HPJKRTIwRa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗七个小号其中之一@dante82682",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "dante82682"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1577,
+          "following_count": 233,
+          "like_count": 19391,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 5337
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-21T09:34:23.000Z",
+        "description": "09 infp 开学淡推",
+        "id": "1925122887310262272",
+        "location": "死无葬身之地",
+        "name": "H",
+        "pinned_tweet_id": "1958558666363453488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952364232458268672/PkoAj4c5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2419,
+          "following_count": 42,
+          "like_count": 2809,
+          "listed_count": 17,
+          "media_count": 64,
+          "tweet_count": 110
+        },
+        "username": "Hexuqing_0505",
+        "verified": false
+      }
+    ]
+  }
+}

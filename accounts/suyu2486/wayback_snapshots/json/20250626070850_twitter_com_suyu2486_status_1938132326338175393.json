@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1938103550523150421",
+    "created_at": "2025-06-26T07:08:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T08:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938132326338175393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1422457573358202883",
+          "start": 0,
+          "username": "boliangkiying_"
+        },
+        {
+          "end": 24,
+          "id": "1644761277900951552",
+          "start": 16,
+          "username": "4rocky9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938132326338175393",
+    "in_reply_to_user_id": "1422457573358202883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938116206084620719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boliangkiying_ @4rocky9 有点意思，我也要！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1938103550523150421",
+        "created_at": "2025-06-26T07:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T08:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938132326338175393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1422457573358202883",
+              "start": 0,
+              "username": "boliangkiying_"
+            },
+            {
+              "end": 24,
+              "id": "1644761277900951552",
+              "start": 16,
+              "username": "4rocky9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938132326338175393",
+        "in_reply_to_user_id": "1422457573358202883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938116206084620719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boliangkiying_ @4rocky9 有点意思，我也要！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422457573358202883",
+        "conversation_id": "1938103550523150421",
+        "created_at": "2025-06-26T06:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T07:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938116206084620719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1644761277900951552",
+              "start": 0,
+              "username": "4rocky9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938116206084620719",
+        "in_reply_to_user_id": "1644761277900951552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938103550523150421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4rocky9 意思是睡醒了就给我发口令红包吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1936734143804735662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 198,
+          "like_count": 8490,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 2400
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-03T07:21:38.000Z",
+        "description": "大家好我是二次元刀哥/全是干货/",
+        "id": "1422457573358202883",
+        "location": "0.7km",
+        "name": "二次元刀哥",
+        "pinned_tweet_id": "1931866155830112566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928069675637952517/nmiD9jVn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1691,
+          "following_count": 263,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 474
+        },
+        "username": "boliangkiying_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T17:57:16.000Z",
+        "description": "乐意骚扰人，随便你骂，整抽象的，乐意说点屌话，喜欢看美女",
+        "id": "1644761277900951552",
+        "location": "🚪52/520/5200",
+        "name": "建龙哥",
+        "pinned_tweet_id": "1670098097735860259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920824521441046528/hyICLTe0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2906,
+          "following_count": 394,
+          "like_count": 37056,
+          "listed_count": 3,
+          "media_count": 295,
+          "tweet_count": 14185
+        },
+        "username": "4rocky9",
+        "verified": false
+      }
+    ]
+  }
+}

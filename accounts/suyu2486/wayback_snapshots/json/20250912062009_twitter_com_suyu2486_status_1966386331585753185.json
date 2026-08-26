@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1966105651232567734",
+    "created_at": "2025-09-12T06:20:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T07:20:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966386331585753185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1850941944454840320",
+          "start": 0,
+          "username": "lili80781876138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966386331585753185",
+    "in_reply_to_user_id": "1850941944454840320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966105651232567734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lili80781876138 不是哥们你女的啊，还这么漂亮…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14365,
+        "height": 1280,
+        "media_key": "13_1966105539748016128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1966105539748016128/img/xjec-C8mHDcZ1KV1.jpg",
+        "public_metrics": {
+          "view_count": 82
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966105539748016128/vid/avc1/320x568/pWHPL6eeg-BlBb-A.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966105539748016128/vid/avc1/480x852/g2zaefj4sf-uBQRB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966105539748016128/vid/avc1/720x1280/3hoEi1i_SLOE-JTR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1966105539748016128/pl/167_-HGYNcS7oxha.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1966105651232567734",
+        "created_at": "2025-09-12T06:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T07:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966386331585753185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850941944454840320",
+              "start": 0,
+              "username": "lili80781876138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966386331585753185",
+        "in_reply_to_user_id": "1850941944454840320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966105651232567734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lili80781876138 不是哥们你女的啊，还这么漂亮…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1966105539748016128"
+          ]
+        },
+        "author_id": "1850941944454840320",
+        "conversation_id": "1966105651232567734",
+        "created_at": "2025-09-11T11:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T12:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966105651232567734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/foZdeF3rQI",
+              "end": 23,
+              "expanded_url": "https://x.com/lili80781876138/status/1966105651232567734/video/1",
+              "media_key": "13_1966105539748016128",
+              "start": 0,
+              "url": "https://t.co/foZdeF3rQI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966105651232567734",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 222,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/foZdeF3rQI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗七个小号其中之一@dante82682",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "dante82682"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1965715048162275657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1580,
+          "following_count": 229,
+          "like_count": 19198,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 5261
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-28T16:45:32.000Z",
+        "description": "已婚",
+        "id": "1850941944454840320",
+        "name": "玉",
+        "pinned_tweet_id": "1924169821941305487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962449386052681728/wAe55C-w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 355,
+          "like_count": 8306,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 2344
+        },
+        "username": "lili80781876138",
+        "verified": false
+      }
+    ]
+  }
+}

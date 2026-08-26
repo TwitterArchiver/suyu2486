@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1971628902553735262",
+    "created_at": "2025-09-26T19:22:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T20:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971656521881968835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1664120419711074304",
+          "start": 0,
+          "username": "SeYU1eScwt52054"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971656521881968835",
+    "in_reply_to_user_id": "1664120419711074304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971628902553735262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeYU1eScwt52054 有没有aaa建材李姐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1971628902553735262",
+        "created_at": "2025-09-26T19:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T20:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971656521881968835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1664120419711074304",
+              "start": 0,
+              "username": "SeYU1eScwt52054"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971656521881968835",
+        "in_reply_to_user_id": "1664120419711074304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971628902553735262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeYU1eScwt52054 有没有aaa建材李姐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664120419711074304",
+        "conversation_id": "1971628902553735262",
+        "created_at": "2025-09-26T17:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T18:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971628902553735262"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971628902553735262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 341,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的微信列表里缺一个AAA建材王哥，然后他动不动就乐意给我点神秘数字，王哥，你在哪里，我等你等的好苦，呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗七个小号其中之一@dante82682",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "dante82682"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥 day1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2014,
+          "following_count": 241,
+          "like_count": 20119,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 5549
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-01T04:03:36.000Z",
+        "description": "我有病看不惯我就去死｜🚪520｜",
+        "id": "1664120419711074304",
+        "location": "南京",
+        "name": "悲伤的前妻",
+        "pinned_tweet_id": "1971479889632211177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872986534871482369/BQGtRX-r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5797,
+          "following_count": 89,
+          "like_count": 8231,
+          "listed_count": 6,
+          "media_count": 609,
+          "tweet_count": 7580
+        },
+        "username": "SeYU1eScwt52054",
+        "verified": false
+      }
+    ]
+  }
+}

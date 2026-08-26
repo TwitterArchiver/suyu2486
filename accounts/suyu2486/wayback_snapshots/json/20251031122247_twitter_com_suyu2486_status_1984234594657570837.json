@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1983963663884284166",
+    "created_at": "2025-10-31T12:22:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T13:22:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984234594657570837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1601060397523402752",
+          "start": 0,
+          "username": "Ryyyyyyyuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984234594657570837",
+    "in_reply_to_user_id": "1601060397523402752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984209455257645392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ryyyyyyyuv 想的美"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1983963663884284166",
+        "created_at": "2025-10-31T12:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T13:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984234594657570837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1601060397523402752",
+              "start": 0,
+              "username": "Ryyyyyyyuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984234594657570837",
+        "in_reply_to_user_id": "1601060397523402752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984209455257645392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ryyyyyyyuv 想的美"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601060397523402752",
+        "conversation_id": "1983963663884284166",
+        "created_at": "2025-10-31T10:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T11:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984209455257645392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984209455257645392",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 341,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983963663884284166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 老师你要赔偿我看到这段文字的费用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "神鹰🦅，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "pinned_tweet_id": "1977439230432555047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981015242827087872/axAcZvEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2153,
+          "following_count": 261,
+          "like_count": 21705,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 6082
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-09T03:45:32.000Z",
+        "description": "盗图挡灾｜推广自辨｜588纯绿🚪爱过过不过别烦我",
+        "id": "1601060397523402752",
+        "location": "不线下",
+        "name": "Ryu",
+        "pinned_tweet_id": "1979150990608941552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952591247602020352/85DjaI5n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53039,
+          "following_count": 42,
+          "like_count": 12771,
+          "listed_count": 92,
+          "media_count": 70,
+          "tweet_count": 296
+        },
+        "username": "Ryyyyyyyuv",
+        "verified": false
+      }
+    ]
+  }
+}

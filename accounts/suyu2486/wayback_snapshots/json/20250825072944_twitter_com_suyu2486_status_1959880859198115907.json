@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959880825786236928",
+        "3_1959880826054737920",
+        "3_1959880825769541633",
+        "3_1959880825740140544"
+      ]
+    },
+    "author_id": "1910715228523831296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1959880859198115907",
+    "created_at": "2025-08-25T07:29:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T08:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959880859198115907"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 18,
+          "tag": "H漫画"
+        },
+        {
+          "end": 26,
+          "start": 23,
+          "tag": "重口"
+        },
+        {
+          "end": 30,
+          "start": 27,
+          "tag": "猎奇"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VSqEwIYsBm",
+          "end": 54,
+          "expanded_url": "https://x.com/suyu2486/status/1959880859198115907/photo/1",
+          "media_key": "3_1959880825786236928",
+          "start": 31,
+          "url": "https://t.co/VSqEwIYsBm"
+        },
+        {
+          "display_url": "pic.x.com/VSqEwIYsBm",
+          "end": 54,
+          "expanded_url": "https://x.com/suyu2486/status/1959880859198115907/photo/1",
+          "media_key": "3_1959880826054737920",
+          "start": 31,
+          "url": "https://t.co/VSqEwIYsBm"
+        },
+        {
+          "display_url": "pic.x.com/VSqEwIYsBm",
+          "end": 54,
+          "expanded_url": "https://x.com/suyu2486/status/1959880859198115907/photo/1",
+          "media_key": "3_1959880825769541633",
+          "start": 31,
+          "url": "https://t.co/VSqEwIYsBm"
+        },
+        {
+          "display_url": "pic.x.com/VSqEwIYsBm",
+          "end": 54,
+          "expanded_url": "https://x.com/suyu2486/status/1959880859198115907/photo/1",
+          "media_key": "3_1959880825740140544",
+          "start": 31,
+          "url": "https://t.co/VSqEwIYsBm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959880859198115907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "《守护地球的奥特曼背地居然是这样》 #H漫画 #重口 #猎奇 https://t.co/VSqEwIYsBm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1355,
+        "media_key": "3_1959880825786236928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzLlOicWgAAYO8x.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1383,
+        "media_key": "3_1959880826054737920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzLlOjcXgAAoXgG.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1442,
+        "media_key": "3_1959880825769541633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzLlOiYXwAENdb_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1959880825740140544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzLlOiRXIAAHAvi.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959880825786236928",
+            "3_1959880826054737920",
+            "3_1959880825769541633",
+            "3_1959880825740140544"
+          ]
+        },
+        "author_id": "1910715228523831296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1959880859198115907",
+        "created_at": "2025-08-25T07:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T08:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959880859198115907"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "H漫画"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "重口"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "猎奇"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VSqEwIYsBm",
+              "end": 54,
+              "expanded_url": "https://x.com/suyu2486/status/1959880859198115907/photo/1",
+              "media_key": "3_1959880825786236928",
+              "start": 31,
+              "url": "https://t.co/VSqEwIYsBm"
+            },
+            {
+              "display_url": "pic.x.com/VSqEwIYsBm",
+              "end": 54,
+              "expanded_url": "https://x.com/suyu2486/status/1959880859198115907/photo/1",
+              "media_key": "3_1959880826054737920",
+              "start": 31,
+              "url": "https://t.co/VSqEwIYsBm"
+            },
+            {
+              "display_url": "pic.x.com/VSqEwIYsBm",
+              "end": 54,
+              "expanded_url": "https://x.com/suyu2486/status/1959880859198115907/photo/1",
+              "media_key": "3_1959880825769541633",
+              "start": 31,
+              "url": "https://t.co/VSqEwIYsBm"
+            },
+            {
+              "display_url": "pic.x.com/VSqEwIYsBm",
+              "end": 54,
+              "expanded_url": "https://x.com/suyu2486/status/1959880859198115907/photo/1",
+              "media_key": "3_1959880825740140544",
+              "start": 31,
+              "url": "https://t.co/VSqEwIYsBm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959880859198115907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《守护地球的奥特曼背地居然是这样》 #H漫画 #重口 #猎奇 https://t.co/VSqEwIYsBm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个好色的sb男的，双相情感障碍，情感漠视，精神失常，都滚远点别来烦我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1356,
+          "following_count": 197,
+          "like_count": 16756,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 4448
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      }
+    ]
+  }
+}

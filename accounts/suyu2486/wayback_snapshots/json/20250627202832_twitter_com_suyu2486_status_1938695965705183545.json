@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1938608818105319472",
+    "created_at": "2025-06-27T20:28:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T21:28:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938695965705183545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1794355854545948672",
+          "start": 0,
+          "username": "kkbeibe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938695965705183545",
+    "in_reply_to_user_id": "1794355854545948672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938608818105319472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkbeibe 这个真的惨，就是不知道活动还在吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1938608818105319472",
+        "created_at": "2025-06-27T20:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T21:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938695965705183545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1794355854545948672",
+              "start": 0,
+              "username": "kkbeibe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938695965705183545",
+        "in_reply_to_user_id": "1794355854545948672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938608818105319472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkbeibe 这个真的惨，就是不知道活动还在吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794355854545948672",
+        "conversation_id": "1938608818105319472",
+        "created_at": "2025-06-27T14:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T15:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938608818105319472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938608818105319472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1217,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为什么要骗我为什么要骗我😭😭骗感情也可以骗色也可以为什么骗我钱😭😭😭还我3百块😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1938601372837913057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 196,
+          "like_count": 8873,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2516
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T13:12:39.000Z",
+        "description": "不定时在线👁️👁️👁️有🚪把推特当朋友圈发👅👅",
+        "id": "1794355854545948672",
+        "name": "吻痕（高考落榜的寡妇）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938125443812446208/W4stVdIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 234,
+          "like_count": 11339,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 1303
+        },
+        "username": "kkbeibe",
+        "verified": false
+      }
+    ]
+  }
+}

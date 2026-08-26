@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1939321984258646230",
+    "created_at": "2025-06-30T05:37:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T06:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939558923641487716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1812461386523648001",
+          "start": 0,
+          "username": "teaichiboluo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939558923641487716",
+    "in_reply_to_user_id": "1812461386523648001",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939539505645776952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teaichiboluo 那我不知道了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1939321984258646230",
+        "created_at": "2025-06-30T05:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T06:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939558923641487716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1812461386523648001",
+              "start": 0,
+              "username": "teaichiboluo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939558923641487716",
+        "in_reply_to_user_id": "1812461386523648001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939539505645776952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teaichiboluo 那我不知道了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812461386523648001",
+        "conversation_id": "1939321984258646230",
+        "created_at": "2025-06-30T04:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T05:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939539505645776952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939539505645776952",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939321984258646230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 万一她偏咸口呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1923458019305660813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 200,
+          "like_count": 9538,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2775
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T12:17:36.000Z",
+        "description": "男｜牙控｜喜美好｜不講礼貌｜卤煮爱好者｜被认可的青叔音",
+        "id": "1812461386523648001",
+        "name": "宋宝雷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853052977831194625/PbriVQOq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 163,
+          "like_count": 732,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1178
+        },
+        "username": "teaichiboluo",
+        "verified": false
+      }
+    ]
+  }
+}

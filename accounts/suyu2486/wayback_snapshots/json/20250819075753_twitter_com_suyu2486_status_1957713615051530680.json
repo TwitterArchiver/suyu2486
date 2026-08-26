@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1957709639656849908",
+    "created_at": "2025-08-19T07:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T08:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957713615051530680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1870067454765838336",
+          "start": 0,
+          "username": "chessi1a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957713615051530680",
+    "in_reply_to_user_id": "1870067454765838336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957709639656849908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chessi1a 会不会太萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1957709631977095168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GysuibNbAAAT5gH.jpg",
+        "width": 1036
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1957709639656849908",
+        "created_at": "2025-08-19T07:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T08:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957713615051530680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1870067454765838336",
+              "start": 0,
+              "username": "chessi1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957713615051530680",
+        "in_reply_to_user_id": "1870067454765838336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957709639656849908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chessi1a 会不会太萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957709631977095168"
+          ]
+        },
+        "author_id": "1870067454765838336",
+        "conversation_id": "1957709639656849908",
+        "created_at": "2025-08-19T07:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T08:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957709639656849908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GYCclv9ENU",
+              "end": 31,
+              "expanded_url": "https://x.com/chessi1a/status/1957709639656849908/photo/1",
+              "media_key": "3_1957709631977095168",
+              "start": 8,
+              "url": "https://t.co/GYCclv9ENU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957709639656849908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "混过社会卖过萌 https://t.co/GYCclv9ENU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1322,
+          "following_count": 200,
+          "like_count": 16123,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 4267
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T11:23:27.000Z",
+        "description": "08/叫我小娅/私信仅回复过🚪相关/主人@航站楼 /自用vpn：https://t.co/QnxWbh1SjM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn.fnwebnet.sbs/#/register?cod…",
+                "end": 55,
+                "expanded_url": "https://vpn.fnwebnet.sbs/#/register?code=TdtMGihT",
+                "start": 32,
+                "url": "https://t.co/QnxWbh1SjM"
+              }
+            ]
+          }
+        },
+        "id": "1870067454765838336",
+        "location": "🚪88/188/288口令即可",
+        "name": "生物损伤科",
+        "pinned_tweet_id": "1952269408459694174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891054663161565184/LboD5koF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4135,
+          "following_count": 564,
+          "like_count": 10982,
+          "listed_count": 7,
+          "media_count": 386,
+          "tweet_count": 2835
+        },
+        "username": "chessi1a",
+        "verified": false
+      }
+    ]
+  }
+}

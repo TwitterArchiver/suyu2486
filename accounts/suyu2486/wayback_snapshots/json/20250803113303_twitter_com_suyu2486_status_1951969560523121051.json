@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1951695132505571829",
+    "created_at": "2025-08-03T11:33:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T12:33:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951969560523121051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1629869215812296704",
+          "start": 0,
+          "username": "Asuka_Rivers"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951969560523121051",
+    "in_reply_to_user_id": "1629869215812296704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951695132505571829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asuka_Rivers 高考输给这些人的难受去吧（还好我没高考）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1951695099462860800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxXQWjlawAAhxWo.jpg",
+        "width": 960
+      },
+      {
+        "height": 754,
+        "media_key": "3_1951695102596046848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxXQWvQbYAABvsn.jpg",
+        "width": 1080
+      },
+      {
+        "height": 360,
+        "media_key": "16_1951695113471836160",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GxXQXXxawAAFKZn.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GxXQXXxawAAFKZn.mp4"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1951695132505571829",
+        "created_at": "2025-08-03T11:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T12:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951969560523121051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1629869215812296704",
+              "start": 0,
+              "username": "Asuka_Rivers"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951969560523121051",
+        "in_reply_to_user_id": "1629869215812296704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951695132505571829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asuka_Rivers 高考输给这些人的难受去吧（还好我没高考）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951695099462860800",
+            "3_1951695102596046848",
+            "16_1951695113471836160"
+          ]
+        },
+        "author_id": "1629869215812296704",
+        "conversation_id": "1951695132505571829",
+        "created_at": "2025-08-02T17:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T18:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951695132505571829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BfUL2pOnU7",
+              "end": 84,
+              "expanded_url": "https://x.com/Asuka_Rivers/status/1951695132505571829/photo/1",
+              "media_key": "3_1951695099462860800",
+              "start": 61,
+              "url": "https://t.co/BfUL2pOnU7"
+            },
+            {
+              "display_url": "pic.x.com/BfUL2pOnU7",
+              "end": 84,
+              "expanded_url": "https://x.com/Asuka_Rivers/status/1951695132505571829/photo/1",
+              "media_key": "3_1951695102596046848",
+              "start": 61,
+              "url": "https://t.co/BfUL2pOnU7"
+            },
+            {
+              "display_url": "pic.x.com/BfUL2pOnU7",
+              "end": 84,
+              "expanded_url": "https://x.com/Asuka_Rivers/status/1951695132505571829/photo/1",
+              "media_key": "16_1951695113471836160",
+              "start": 61,
+              "url": "https://t.co/BfUL2pOnU7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951695132505571829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 22241,
+          "like_count": 165,
+          "quote_count": 17,
+          "reply_count": 82,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "武汉大学“诬告”事件真相：\n肖明瑫同学在图书馆对女同学打手冲被发现录视频并心虚写下道歉信（甚至还有其他女生发现，字条二） https://t.co/BfUL2pOnU7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1951649210652135765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 200,
+          "like_count": 12803,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 3532
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-26T15:41:28.000Z",
+        "description": "无病呻吟\nNon-binary gender",
+        "id": "1629869215812296704",
+        "location": "New York, USA",
+        "name": "Asuka_Luxemburg🚩",
+        "pinned_tweet_id": "1951950983564820736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944650577046065152/rP8hpltf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 799,
+          "like_count": 18507,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 2171
+        },
+        "username": "Asuka_Rivers",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1935660489175920640"
+      ]
+    },
+    "author_id": "1910715228523831296",
+    "conversation_id": "1935660510898462992",
+    "created_at": "2025-06-19T11:26:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T12:26:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935660510898462992"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/P0QUHXmnwO",
+          "end": 38,
+          "expanded_url": "https://x.com/suyu2486/status/1935660510898462992/video/1",
+          "media_key": "7_1935660489175920640",
+          "start": 15,
+          "url": "https://t.co/P0QUHXmnwO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935660510898462992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近不太舒服只能尿这么高了😢 https://t.co/P0QUHXmnwO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2266,
+        "height": 720,
+        "media_key": "7_1935660489175920640",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1935660489175920640/pu/img/SXVJ2D5vnXDJEzry.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1935660489175920640/pu/vid/avc1/360x270/2kyK1BPzKK5g6KID.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1935660489175920640/pu/vid/avc1/480x360/A044Elr6W0VrSrhI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1935660489175920640/pu/vid/avc1/960x720/R-4PLq0A0UTUTYKf.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1935660489175920640/pu/pl/zqdaWMde7jCvW36i.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1935660489175920640"
+          ]
+        },
+        "author_id": "1910715228523831296",
+        "conversation_id": "1935660510898462992",
+        "created_at": "2025-06-19T11:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T12:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935660510898462992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P0QUHXmnwO",
+              "end": 38,
+              "expanded_url": "https://x.com/suyu2486/status/1935660510898462992/video/1",
+              "media_key": "7_1935660489175920640",
+              "start": 15,
+              "url": "https://t.co/P0QUHXmnwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935660510898462992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近不太舒服只能尿这么高了😢 https://t.co/P0QUHXmnwO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "name": "小玉",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928709552171610112/x9fXi0Ew_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 174,
+          "like_count": 6345,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 1776
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      }
+    ]
+  }
+}

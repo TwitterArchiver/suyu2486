@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1962795398462074967",
+    "created_at": "2025-09-02T08:31:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T09:31:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962795398462074967"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1962795398462074967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "原来大家聊骚都是互发奶逼几把打视频啊…我以为聊骚就是一直问别人问题…我聊骚就是问，你做过（爱）吗，你自（慰）过吗，啥感觉，爽吗，喜欢什么姿势，有没有什么性癖…最后要张照片或视频。就基本结束了。括号里的是不好意思直接打出来的，问的话 就问 你做过吗，别人不理解再去解释…😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1962795398462074967",
+        "created_at": "2025-09-02T08:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T09:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962795398462074967"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962795398462074967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来大家聊骚都是互发奶逼几把打视频啊…我以为聊骚就是一直问别人问题…我聊骚就是问，你做过（爱）吗，你自（慰）过吗，啥感觉，爽吗，喜欢什么姿势，有没有什么性癖…最后要张照片或视频。就基本结束了。括号里的是不好意思直接打出来的，问的话 就问 你做过吗，别人不理解再去解释…😔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "飞向全宇宙",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 206,
+          "like_count": 17802,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 4762
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      }
+    ]
+  }
+}

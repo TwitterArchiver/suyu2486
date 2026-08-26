@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1988984105917407280",
+    "created_at": "2025-11-13T15:08:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T16:08:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988987338144489702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1957100959902941184",
+          "start": 0,
+          "username": "7Ff_777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988987338144489702",
+    "in_reply_to_user_id": "1957100959902941184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988984105917407280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7Ff_777 牛逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_1988984088829841408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5pKfZ6bUAAVPKt.jpg",
+        "width": 846
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1988984105917407280",
+        "created_at": "2025-11-13T15:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T16:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988987338144489702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1957100959902941184",
+              "start": 0,
+              "username": "7Ff_777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988987338144489702",
+        "in_reply_to_user_id": "1957100959902941184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988984105917407280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7Ff_777 牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988984088829841408"
+          ]
+        },
+        "author_id": "1957100959902941184",
+        "conversation_id": "1988984105917407280",
+        "created_at": "2025-11-13T14:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T15:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988984105917407280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JYv16Xlu8c",
+              "end": 48,
+              "expanded_url": "https://x.com/7Ff_777/status/1988984105917407280/photo/1",
+              "media_key": "3_1988984088829841408",
+              "start": 25,
+              "url": "https://t.co/JYv16Xlu8c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988984105917407280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "减干臂围40 腿围63  腰围66 真的太自然了 https://t.co/JYv16Xlu8c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "06，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2438,
+          "following_count": 265,
+          "like_count": 22445,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 6309
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-17T15:23:38.000Z",
+        "description": "直男 扳不弯 ｜盗图的不如自己去健身房练练呢 ｜ https://t.co/KL6j2czlja",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/7ff_777",
+                "end": 48,
+                "expanded_url": "https://ngl.link/7ff_777",
+                "start": 25,
+                "url": "https://t.co/KL6j2czlja"
+              }
+            ]
+          }
+        },
+        "id": "1957100959902941184",
+        "name": "喝粉练的死肌肉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957101432659755010/oBqUEpcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3381,
+          "following_count": 102,
+          "like_count": 1195,
+          "listed_count": 9,
+          "media_count": 24,
+          "tweet_count": 140
+        },
+        "username": "7Ff_777",
+        "verified": false
+      }
+    ]
+  }
+}

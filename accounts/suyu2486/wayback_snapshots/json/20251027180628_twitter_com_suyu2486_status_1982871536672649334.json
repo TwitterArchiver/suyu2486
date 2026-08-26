@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1982810469283803177",
+    "created_at": "2025-10-27T18:06:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T19:06:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982871536672649334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1833422682039455746",
+          "start": 0,
+          "username": "autu00000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982871536672649334",
+    "in_reply_to_user_id": "1833422682039455746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982810469283803177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@autu00000 这不是外挂？（cxy口音）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7133,
+        "height": 720,
+        "media_key": "13_1982810034145734657",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1982810034145734657/img/UcOITQ1lO4r7KK8M.jpg",
+        "public_metrics": {
+          "view_count": 431
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982810034145734657/vid/avc1/480x270/VPVgMRV8IsIAxCoB.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982810034145734657/vid/avc1/640x360/8b-KdzL1mfeDxqwZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982810034145734657/vid/avc1/1280x720/IQVkAcBDB7a7WLBp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1982810034145734657/pl/Zg12n0cyOv6WJ16N.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 3466,
+        "height": 720,
+        "media_key": "13_1982810034158305282",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1982810034158305282/img/7CwHs3Tdqx4wqVho.jpg",
+        "public_metrics": {
+          "view_count": 44
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982810034158305282/vid/avc1/432x270/bK1jtUJlEoUGHiZd.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982810034158305282/vid/avc1/576x360/25IpTc6W834-c2Tj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982810034158305282/vid/avc1/1152x720/fNffvreUnZwY01nc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1982810034158305282/pl/RCc9olLMGG85g1-h.m3u8"
+          }
+        ],
+        "width": 1152
+      },
+      {
+        "duration_ms": 7366,
+        "height": 720,
+        "media_key": "13_1982810034145824768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1982810034145824768/img/yQ7w6D158sNetVYl.jpg",
+        "public_metrics": {
+          "view_count": 22
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982810034145824768/vid/avc1/432x270/3vQqjPYwQx3qaehw.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982810034145824768/vid/avc1/576x360/DuhkivOKBGESG05r.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982810034145824768/vid/avc1/1152x720/fHOWG-NDoncUkCuR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1982810034145824768/pl/UKSH6caxc-uyQ3Tw.m3u8"
+          }
+        ],
+        "width": 1152
+      },
+      {
+        "duration_ms": 8800,
+        "height": 720,
+        "media_key": "13_1982810034141634561",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1982810034141634561/img/M-gl5J_6311zkj-X.jpg",
+        "public_metrics": {
+          "view_count": 12
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982810034141634561/vid/avc1/432x270/IsDrX1PmDn77OhMH.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982810034141634561/vid/avc1/576x360/h4F_CdRRToZn1E6O.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982810034141634561/vid/avc1/1152x720/LGFGhKmMkNjbwR0h.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1982810034141634561/pl/nWS4zPVe_9nfjB7A.m3u8"
+          }
+        ],
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1982810469283803177",
+        "created_at": "2025-10-27T18:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T19:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982871536672649334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1833422682039455746",
+              "start": 0,
+              "username": "autu00000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982871536672649334",
+        "in_reply_to_user_id": "1833422682039455746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982810469283803177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@autu00000 这不是外挂？（cxy口音）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1982810034145734657",
+            "13_1982810034158305282",
+            "13_1982810034145824768",
+            "13_1982810034141634561"
+          ]
+        },
+        "author_id": "1833422682039455746",
+        "conversation_id": "1982810469283803177",
+        "created_at": "2025-10-27T14:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T15:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982810469283803177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bvNWAN3N2N",
+              "end": 34,
+              "expanded_url": "https://x.com/autu00000/status/1982810469283803177/video/1",
+              "media_key": "13_1982810034145734657",
+              "start": 11,
+              "url": "https://t.co/bvNWAN3N2N"
+            },
+            {
+              "display_url": "pic.x.com/bvNWAN3N2N",
+              "end": 34,
+              "expanded_url": "https://x.com/autu00000/status/1982810469283803177/video/1",
+              "media_key": "13_1982810034158305282",
+              "start": 11,
+              "url": "https://t.co/bvNWAN3N2N"
+            },
+            {
+              "display_url": "pic.x.com/bvNWAN3N2N",
+              "end": 34,
+              "expanded_url": "https://x.com/autu00000/status/1982810469283803177/video/1",
+              "media_key": "13_1982810034145824768",
+              "start": 11,
+              "url": "https://t.co/bvNWAN3N2N"
+            },
+            {
+              "display_url": "pic.x.com/bvNWAN3N2N",
+              "end": 34,
+              "expanded_url": "https://x.com/autu00000/status/1982810469283803177/video/1",
+              "media_key": "13_1982810034141634561",
+              "start": 11,
+              "url": "https://t.co/bvNWAN3N2N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982810469283803177",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1557,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "bro懂不懂我的空摘 https://t.co/bvNWAN3N2N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "神鹰🦅，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉（戒酒day3）",
+        "pinned_tweet_id": "1977439230432555047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981015242827087872/axAcZvEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2150,
+          "following_count": 262,
+          "like_count": 21532,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 6006
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-10T08:30:35.000Z",
+        "description": "我最最最最最最最爱的老婆@yyi77701",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "yyi77701"
+              }
+            ]
+          }
+        },
+        "id": "1833422682039455746",
+        "location": "🚪88",
+        "name": "小喵",
+        "pinned_tweet_id": "1967622448641458461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958208848449417216/qXsKtf75_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2979,
+          "following_count": 81,
+          "like_count": 226,
+          "listed_count": 8,
+          "media_count": 61,
+          "tweet_count": 278
+        },
+        "username": "autu00000",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1943174159468794196",
+    "created_at": "2025-07-10T19:41:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T20:41:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943395176489050121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1900466634957160449",
+          "start": 0,
+          "username": "lmng5986051"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943395176489050121",
+    "in_reply_to_user_id": "1900466634957160449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943174159468794196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lmng5986051 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 697,
+        "media_key": "3_1943174064488747011",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GveKhCqakAMGZS8.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1943174159468794196",
+        "created_at": "2025-07-10T19:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T20:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943395176489050121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1900466634957160449",
+              "start": 0,
+              "username": "lmng5986051"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943395176489050121",
+        "in_reply_to_user_id": "1900466634957160449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943174159468794196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lmng5986051 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943174064488747011"
+          ]
+        },
+        "author_id": "1900466634957160449",
+        "conversation_id": "1943174159468794196",
+        "created_at": "2025-07-10T05:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T06:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943174159468794196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IWT6MlUdZH",
+              "end": 26,
+              "expanded_url": "https://x.com/lmng5986051/status/1943174159468794196/photo/1",
+              "media_key": "3_1943174064488747011",
+              "start": 3,
+              "url": "https://t.co/IWT6MlUdZH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943174159468794196",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇塞 https://t.co/IWT6MlUdZH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 201,
+          "like_count": 11297,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 3242
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T08:39:01.000Z",
+        "description": "",
+        "id": "1900466634957160449",
+        "name": "小萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900470497026121728/ZJmxo2Go_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 99,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 467
+        },
+        "username": "lmng5986051",
+        "verified": false
+      }
+    ]
+  }
+}

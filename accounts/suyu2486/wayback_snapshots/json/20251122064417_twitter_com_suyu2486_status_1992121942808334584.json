@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1992111593304576330",
+    "created_at": "2025-11-22T06:44:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T07:44:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992121942808334584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1575662267756007424",
+          "start": 0,
+          "username": "OpheliaFalls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992121942808334584",
+    "in_reply_to_user_id": "1575662267756007424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992111593304576330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OpheliaFalls 谁有他抖音号？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992111574044360704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Vm7APbwAAtwjB.jpg",
+        "width": 1534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1992111593304576330",
+        "created_at": "2025-11-22T06:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T07:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992121942808334584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1575662267756007424",
+              "start": 0,
+              "username": "OpheliaFalls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992121942808334584",
+        "in_reply_to_user_id": "1575662267756007424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992111593304576330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OpheliaFalls 谁有他抖音号？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992111574044360704"
+          ]
+        },
+        "author_id": "1575662267756007424",
+        "conversation_id": "1992111593304576330",
+        "created_at": "2025-11-22T06:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T07:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992111593304576330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x9fzYhCMpk",
+              "end": 26,
+              "expanded_url": "https://x.com/OpheliaFalls/status/1992111593304576330/photo/1",
+              "media_key": "3_1992111574044360704",
+              "start": 3,
+              "url": "https://t.co/x9fzYhCMpk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992111593304576330",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯。 https://t.co/x9fzYhCMpk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "已婚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1989396880938410150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2473,
+          "following_count": 272,
+          "like_count": 22690,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 6389
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T01:42:23.000Z",
+        "description": "愛小蛇是終身幸福的開始。 | 生活瑣碎@chiiisnak | 自用蜂鳥vpn:https://t.co/ff955u2WSK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "chiiisnak"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 63,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=JkRZsyt8",
+                "start": 40,
+                "url": "https://t.co/ff955u2WSK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cheesnake",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cheesnake",
+                "start": 0,
+                "url": "https://t.co/rs6E7AGmch"
+              }
+            ]
+          }
+        },
+        "id": "1575662267756007424",
+        "location": "信者得愛",
+        "name": "小蛇至上主義",
+        "pinned_tweet_id": "1988231079946580440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990259172634681344/2zesrDcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5335,
+          "following_count": 348,
+          "like_count": 10061,
+          "listed_count": 17,
+          "media_count": 205,
+          "tweet_count": 4900
+        },
+        "url": "https://t.co/rs6E7AGmch",
+        "username": "OpheliaFalls",
+        "verified": false
+      }
+    ]
+  }
+}

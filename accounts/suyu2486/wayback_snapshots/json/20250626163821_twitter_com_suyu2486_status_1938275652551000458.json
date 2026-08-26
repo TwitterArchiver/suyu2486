@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1938218419834568902",
+    "created_at": "2025-06-26T16:38:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T17:38:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938275652551000458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1921187003766632451",
+          "start": 0,
+          "username": "Joey65106044170"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938275652551000458",
+    "in_reply_to_user_id": "1921187003766632451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938273809783787997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Joey65106044170 关灯都一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1938218419834568902",
+        "created_at": "2025-06-26T16:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T17:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938275652551000458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1921187003766632451",
+              "start": 0,
+              "username": "Joey65106044170"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938275652551000458",
+        "in_reply_to_user_id": "1921187003766632451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938273809783787997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Joey65106044170 关灯都一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921187003766632451",
+        "conversation_id": "1938218419834568902",
+        "created_at": "2025-06-26T16:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T17:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938273809783787997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938273809783787997",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938264708231962964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 鹰你也太不挑食了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1936734143804735662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 197,
+          "like_count": 8674,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 2468
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-10T12:54:22.000Z",
+        "description": "没什么好看的，一头大飞祝\n操这个世界，操所有人",
+        "id": "1921187003766632451",
+        "name": "苯人尸块9.9元/斤",
+        "pinned_tweet_id": "1938156578529804737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937523206505566208/x53afYdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 120,
+          "like_count": 2709,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 793
+        },
+        "username": "Joey65106044170",
+        "verified": false
+      }
+    ]
+  }
+}

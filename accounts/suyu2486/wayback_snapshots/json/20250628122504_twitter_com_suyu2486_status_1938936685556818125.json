@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1938747196263846022",
+    "created_at": "2025-06-28T12:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T13:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938936685556818125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1874667641681649664",
+          "start": 0,
+          "username": "jigua231706"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938936685556818125",
+    "in_reply_to_user_id": "1874667641681649664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 32,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938917766834331906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jigua231706 的确是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1938747196263846022",
+        "created_at": "2025-06-28T12:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T13:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938936685556818125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874667641681649664",
+              "start": 0,
+              "username": "jigua231706"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938936685556818125",
+        "in_reply_to_user_id": "1874667641681649664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938917766834331906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jigua231706 的确是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874667641681649664",
+        "conversation_id": "1938747196263846022",
+        "created_at": "2025-06-28T11:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T12:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938917766834331906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938917766834331906",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938747196263846022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 这不就是大多数中推人来推的原因吗😀😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1938601372837913057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 197,
+          "like_count": 9171,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 2634
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T04:03:08.000Z",
+        "description": "情绪垃圾桶，谨慎关注｜大一电信狗 | 喜欢小猫小狗 | Art激推 | cult片",
+        "id": "1874667641681649664",
+        "name": "gua_ji",
+        "pinned_tweet_id": "1914222311604990046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911412845142515712/cotHG_hR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 34,
+          "like_count": 572,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 714
+        },
+        "username": "jigua231706",
+        "verified": false
+      }
+    ]
+  }
+}

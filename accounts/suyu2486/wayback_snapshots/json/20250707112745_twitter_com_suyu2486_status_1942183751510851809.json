@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1942182893033226745",
+    "created_at": "2025-07-07T11:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T12:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942183751510851809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1877720203876069376",
+          "start": 0,
+          "username": "Heichuanyou124"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942183751510851809",
+    "in_reply_to_user_id": "1877720203876069376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942183499882258758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Heichuanyou124 想凿…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1942182893033226745",
+        "created_at": "2025-07-07T11:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T12:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942183751510851809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1877720203876069376",
+              "start": 0,
+              "username": "Heichuanyou124"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942183751510851809",
+        "in_reply_to_user_id": "1877720203876069376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942183499882258758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Heichuanyou124 想凿…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877720203876069376",
+        "conversation_id": "1942182893033226745",
+        "created_at": "2025-07-07T11:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T12:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942183499882258758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942183499882258758",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942182893033226745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 msk是岳父吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 197,
+          "like_count": 10690,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 3103
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-10T14:12:57.000Z",
+        "description": "艺术国际生｜水瓶座♒️｜养成系账号 在这里发碎碎念，喜欢你来听我说话🫶 我的提问箱随时欢迎你🤲请随意提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%BD%9122542",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%BD%9122542",
+                "start": 0,
+                "url": "https://t.co/7Yfaf7u8Ow"
+              }
+            ]
+          }
+        },
+        "id": "1877720203876069376",
+        "location": "我的名字、有水蒸氣的含義",
+        "name": "佑",
+        "pinned_tweet_id": "1938922507274457492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877720288915533824/sfiDxfRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 83,
+          "like_count": 8115,
+          "listed_count": 0,
+          "media_count": 409,
+          "tweet_count": 2304
+        },
+        "url": "https://t.co/7Yfaf7u8Ow",
+        "username": "Heichuanyou124",
+        "verified": false
+      }
+    ]
+  }
+}

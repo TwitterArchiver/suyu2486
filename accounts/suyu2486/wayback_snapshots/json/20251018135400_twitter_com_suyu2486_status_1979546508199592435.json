@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1979518163554611446",
+    "created_at": "2025-10-18T13:54:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T14:54:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979546508199592435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929598660561805312",
+          "start": 0,
+          "username": "GunNiMa_886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979546508199592435",
+    "in_reply_to_user_id": "1929598660561805312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979546353404694837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GunNiMa_886 你咋这样！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1979518163554611446",
+        "created_at": "2025-10-18T13:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T14:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979546508199592435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929598660561805312",
+              "start": 0,
+              "username": "GunNiMa_886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979546508199592435",
+        "in_reply_to_user_id": "1929598660561805312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979546353404694837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GunNiMa_886 你咋这样！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929598660561805312",
+        "conversation_id": "1979518163554611446",
+        "created_at": "2025-10-18T13:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T14:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979546353404694837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979546353404694837",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979518163554611446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 我也喜欢她"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我玊玉，叫玉是因为英文名是jade，玊（su）是有瑕疵的玉的意思，男的，infp，装逼让你飞起来，机舱开🚪中，座位费20一位（一包黑兰州的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗     🎼  转帖、置顶推广关评自辩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥（戒酒day1）",
+        "pinned_tweet_id": "1977439230432555047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2171,
+          "following_count": 261,
+          "like_count": 21400,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 5943
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T17:59:25.000Z",
+        "description": "我很穷 加v🚪52/188/288，没区别我就想捞钱，口令赞赏码都可以，不入门不回，我不出原味，不接线下，互关可以免费加我这是我给你们的偏爱和例外",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%86%9C%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%86%9C%E6%B0%91",
+                "start": 0,
+                "url": "https://t.co/b3bJJHxuxc"
+              }
+            ]
+          }
+        },
+        "id": "1929598660561805312",
+        "location": "0.1km",
+        "name": "一个老实农民",
+        "pinned_tweet_id": "1976208983112417369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929598843827769352/CpA13yM-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6832,
+          "following_count": 83,
+          "like_count": 1087,
+          "listed_count": 16,
+          "media_count": 86,
+          "tweet_count": 855
+        },
+        "url": "https://t.co/b3bJJHxuxc",
+        "username": "GunNiMa_886",
+        "verified": false
+      }
+    ]
+  }
+}

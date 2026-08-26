@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1961296394242965841",
+    "created_at": "2025-08-29T06:50:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T07:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961320528683421970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1597026591850184704",
+          "start": 0,
+          "username": "FreeFree777777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961320528683421970",
+    "in_reply_to_user_id": "1597026591850184704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961311366465425855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FreeFree777777 真假的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1961296394242965841",
+        "created_at": "2025-08-29T06:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T07:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961320528683421970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1597026591850184704",
+              "start": 0,
+              "username": "FreeFree777777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961320528683421970",
+        "in_reply_to_user_id": "1597026591850184704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961311366465425855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreeFree777777 真假的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597026591850184704",
+        "conversation_id": "1961296394242965841",
+        "created_at": "2025-08-29T06:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T07:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961311366465425855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961311366465425855",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961296394242965841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 点了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个好色的sb男的，双相情感障碍，情感漠视，精神失常，都滚远点别来烦我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "小玉",
+        "pinned_tweet_id": "1961296394242965841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1363,
+          "following_count": 199,
+          "like_count": 17259,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 4594
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T00:37:06.000Z",
+        "description": "",
+        "id": "1597026591850184704",
+        "name": "摩伦",
+        "pinned_tweet_id": "1950478216688500819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597026894422999042/SI_zebGr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 92,
+          "like_count": 5448,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 1953
+        },
+        "username": "FreeFree777777",
+        "verified": false
+      }
+    ]
+  }
+}

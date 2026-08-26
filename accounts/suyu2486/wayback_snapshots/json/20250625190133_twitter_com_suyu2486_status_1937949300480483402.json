@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1937900320505622711",
+    "created_at": "2025-06-25T19:01:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T20:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937949300480483402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1909779557151887360",
+          "start": 0,
+          "username": "mm_ya83944"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937949300480483402",
+    "in_reply_to_user_id": "1909779557151887360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937900320505622711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mm_ya83944 好听"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25233,
+        "height": 720,
+        "media_key": "13_1937900251719016450",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1937900251719016450/img/IbESMiOknaopVFd9.jpg",
+        "public_metrics": {
+          "view_count": 65
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937900251719016450/vid/avc1/302x270/DyoZnH67UT3N5g4s.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937900251719016450/vid/avc1/404x360/kaNOF76pgZm6sX3F.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937900251719016450/vid/avc1/810x720/GsDD6-I_xCFRk7vU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1937900251719016450/pl/bm8-ONW8m1xQKW70.m3u8"
+          }
+        ],
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1937900320505622711",
+        "created_at": "2025-06-25T19:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T20:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937949300480483402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1909779557151887360",
+              "start": 0,
+              "username": "mm_ya83944"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937949300480483402",
+        "in_reply_to_user_id": "1909779557151887360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937900320505622711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mm_ya83944 好听"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1937900251719016450"
+          ]
+        },
+        "author_id": "1909779557151887360",
+        "conversation_id": "1937900320505622711",
+        "created_at": "2025-06-25T15:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T16:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937900320505622711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SL6LbIRAnf",
+              "end": 48,
+              "expanded_url": "https://x.com/mm_ya83944/status/1937900320505622711/video/1",
+              "media_key": "13_1937900251719016450",
+              "start": 25,
+              "url": "https://t.co/SL6LbIRAnf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937900320505622711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 296,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上帝给我关的门太多了 目前还没找到一扇窗适合我。 https://t.co/SL6LbIRAnf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1936734143804735662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 198,
+          "like_count": 8459,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 2375
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T01:25:14.000Z",
+        "description": "发疯日记/我的老公@cellokai11/私信回不回看心情/没🚪不加v",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "cellokai11"
+              }
+            ]
+          }
+        },
+        "id": "1909779557151887360",
+        "location": "不可以认识",
+        "name": "ya mm y",
+        "pinned_tweet_id": "1934548905783615566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920875365259472901/bBnBs_Dk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 106,
+          "like_count": 1759,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1736
+        },
+        "username": "mm_ya83944",
+        "verified": false
+      }
+    ]
+  }
+}

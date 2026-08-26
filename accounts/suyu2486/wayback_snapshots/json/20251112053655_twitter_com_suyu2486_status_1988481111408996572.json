@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1988294490483053023",
+    "created_at": "2025-11-12T05:36:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T06:36:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988481111408996572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1930584456873828352",
+          "start": 0,
+          "username": "uaiee77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988481111408996572",
+    "in_reply_to_user_id": "1930584456873828352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988294490483053023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uaiee77 是这样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988294481121247232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5fXS9AaAAAoye3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1988294490483053023",
+        "created_at": "2025-11-12T05:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T06:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988481111408996572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1930584456873828352",
+              "start": 0,
+              "username": "uaiee77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988481111408996572",
+        "in_reply_to_user_id": "1930584456873828352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988294490483053023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uaiee77 是这样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988294481121247232"
+          ]
+        },
+        "author_id": "1930584456873828352",
+        "conversation_id": "1988294490483053023",
+        "created_at": "2025-11-11T17:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T18:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988294490483053023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ntyChKyHi8",
+              "end": 54,
+              "expanded_url": "https://x.com/uaiee77/status/1988294490483053023/photo/1",
+              "media_key": "3_1988294481121247232",
+              "start": 31,
+              "url": "https://t.co/ntyChKyHi8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988294490483053023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 13216,
+          "like_count": 136,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把手放在鼻子下面 有呼吸的话就是觉得我很萌(｡ì _ í｡) https://t.co/ntyChKyHi8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "06，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2267,
+          "following_count": 263,
+          "like_count": 22121,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 6221
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-05T11:16:29.000Z",
+        "description": "谢谢你关注我 没有🚪 只➕互关@auiee77u",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "auiee77u"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cmespeed.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://cmespeed.com/#/register?code=F0vy1gc7",
+                "start": 0,
+                "url": "https://t.co/5Gvrysc6sU"
+              }
+            ]
+          }
+        },
+        "id": "1930584456873828352",
+        "location": "自用稳定vnp👉",
+        "name": "沈什么妍^",
+        "pinned_tweet_id": "1988230165495951539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979118117671309312/ApO63csw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3902,
+          "following_count": 48,
+          "like_count": 996,
+          "listed_count": 4,
+          "media_count": 99,
+          "tweet_count": 1500
+        },
+        "url": "https://t.co/5Gvrysc6sU",
+        "username": "uaiee77",
+        "verified": false
+      }
+    ]
+  }
+}

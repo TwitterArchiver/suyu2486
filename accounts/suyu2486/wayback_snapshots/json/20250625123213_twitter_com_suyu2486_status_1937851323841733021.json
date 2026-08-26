@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1937566992166453278",
+    "created_at": "2025-06-25T12:32:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T13:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937851323841733021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1409446659956699136",
+          "start": 0,
+          "username": "zZliliya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937851323841733021",
+    "in_reply_to_user_id": "1409446659956699136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937566992166453278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zZliliya 一眼泡的不是煮的对吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1937566970146357252",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuOe5MgagAQJZLq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1937566992166453278",
+        "created_at": "2025-06-25T12:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T13:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937851323841733021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1409446659956699136",
+              "start": 0,
+              "username": "zZliliya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937851323841733021",
+        "in_reply_to_user_id": "1409446659956699136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937566992166453278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zZliliya 一眼泡的不是煮的对吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937566970146357252"
+          ]
+        },
+        "author_id": "1409446659956699136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1937566992166453278",
+        "created_at": "2025-06-24T17:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T18:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937566992166453278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mfJnnRyxyT",
+              "end": 38,
+              "expanded_url": "https://x.com/zZliliya/status/1937566992166453278/photo/1",
+              "media_key": "3_1937566970146357252",
+              "start": 15,
+              "url": "https://t.co/mfJnnRyxyT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937566992166453278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9090,
+          "like_count": 207,
+          "quote_count": 0,
+          "reply_count": 42,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "泡面果然是在晚上最好吃…！！ https://t.co/mfJnnRyxyT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1936734143804735662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 198,
+          "like_count": 8304,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 2316
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T09:40:52.000Z",
+        "description": "分享我的乱七八糟。ᶻz ₍𓏼˙ ᴥ ˙𓏼 ₎ 不接推广 没有门槛 不闲聊 不加任何联系方式。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=ktN06c5O",
+                "start": 0,
+                "url": "https://t.co/m7vJjXVwbT"
+              }
+            ]
+          }
+        },
+        "id": "1409446659956699136",
+        "location": "自用蜂鸟VPN ",
+        "name": "海盐荔枝",
+        "pinned_tweet_id": "1838201894721699943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918013302594256901/JreXno0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5068,
+          "following_count": 238,
+          "like_count": 10132,
+          "listed_count": 10,
+          "media_count": 462,
+          "tweet_count": 3478
+        },
+        "url": "https://t.co/m7vJjXVwbT",
+        "username": "zZliliya",
+        "verified": false
+      }
+    ]
+  }
+}

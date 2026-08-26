@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1992139786807844982",
+    "created_at": "2025-11-22T10:45:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T11:45:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992182539763814552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1534187424678498304",
+          "start": 0,
+          "username": "xihuanni030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992182539763814552",
+    "in_reply_to_user_id": "1534187424678498304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992139786807844982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xihuanni030 辛苦了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992139773394534400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6WAkbAbwAA2F1l.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1992139786807844982",
+        "created_at": "2025-11-22T10:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T11:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992182539763814552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1534187424678498304",
+              "start": 0,
+              "username": "xihuanni030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992182539763814552",
+        "in_reply_to_user_id": "1534187424678498304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992139786807844982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xihuanni030 辛苦了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992139773394534400"
+          ]
+        },
+        "author_id": "1534187424678498304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1992139786807844982",
+        "created_at": "2025-11-22T07:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T08:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992139786807844982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ACccjRU8n7",
+              "end": 48,
+              "expanded_url": "https://x.com/xihuanni030/status/1992139786807844982/photo/1",
+              "media_key": "3_1992139773394534400",
+              "start": 25,
+              "url": "https://t.co/ACccjRU8n7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992139786807844982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2117,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "超级无敌巨大的苹果 可以当一顿吃 吃完好饱！！！ https://t.co/ACccjRU8n7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "已婚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1989396880938410150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2467,
+          "following_count": 272,
+          "like_count": 22697,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 6392
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-07T14:56:14.000Z",
+        "description": "可以叫我糯米｜有男朋友啦🥰｜关评置顶不是本人 宝宝们请自行辨别",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=Qtnpi4fi",
+                "start": 0,
+                "url": "https://t.co/yExu57pcdi"
+              }
+            ]
+          }
+        },
+        "id": "1534187424678498304",
+        "location": "自用蜂鸟vpn，海量节点任你选",
+        "name": "糯米侠",
+        "pinned_tweet_id": "1978804145629905099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926636590253686784/y5qd0Lx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13892,
+          "following_count": 135,
+          "like_count": 4622,
+          "listed_count": 25,
+          "media_count": 71,
+          "tweet_count": 4889
+        },
+        "url": "https://t.co/yExu57pcdi",
+        "username": "xihuanni030",
+        "verified": false
+      }
+    ]
+  }
+}

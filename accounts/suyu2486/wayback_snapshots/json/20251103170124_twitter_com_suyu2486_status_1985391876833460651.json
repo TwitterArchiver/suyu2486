@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1985358875353366616",
+    "created_at": "2025-11-03T17:01:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T18:01:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985391876833460651"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "南空直美",
+          "probability": 0.4159,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929598660561805312",
+          "start": 0,
+          "username": "GunNiMa_886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985391876833460651",
+    "in_reply_to_user_id": "1929598660561805312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985358875353366616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GunNiMa_886 南空直美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985358859285000192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G41pXRdbcAAf7Ov.jpg",
+        "width": 1480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1985358875353366616",
+        "created_at": "2025-11-03T17:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T18:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985391876833460651"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "南空直美",
+              "probability": 0.4159,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929598660561805312",
+              "start": 0,
+              "username": "GunNiMa_886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985391876833460651",
+        "in_reply_to_user_id": "1929598660561805312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985358875353366616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GunNiMa_886 南空直美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985358859285000192"
+          ]
+        },
+        "author_id": "1929598660561805312",
+        "conversation_id": "1985358875353366616",
+        "created_at": "2025-11-03T14:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T15:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985358875353366616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UeTauj1fig",
+              "end": 38,
+              "expanded_url": "https://x.com/GunNiMa_886/status/1985358875353366616/photo/1",
+              "media_key": "3_1985358859285000192",
+              "start": 15,
+              "url": "https://t.co/UeTauj1fig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985358875353366616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 602,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无奖竞猜今日穿搭参考文献是谁 https://t.co/UeTauj1fig"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "神鹰🦅，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "pinned_tweet_id": "1977439230432555047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981015242827087872/axAcZvEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2162,
+          "following_count": 261,
+          "like_count": 21739,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 6126
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T17:59:25.000Z",
+        "description": "我很穷 加v🚪52/188/288，互关免，口令赞赏码都可以，我不出原味，不接线下，广告自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%86%9C%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%86%9C%E6%B0%91",
+                "start": 0,
+                "url": "https://t.co/b3bJJHwWHE"
+              }
+            ]
+          }
+        },
+        "id": "1929598660561805312",
+        "location": "田里",
+        "name": "一个老实农民",
+        "pinned_tweet_id": "1982397803579257057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929598843827769352/CpA13yM-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6826,
+          "following_count": 86,
+          "like_count": 1126,
+          "listed_count": 15,
+          "media_count": 95,
+          "tweet_count": 883
+        },
+        "url": "https://t.co/b3bJJHwWHE",
+        "username": "GunNiMa_886",
+        "verified": false
+      }
+    ]
+  }
+}

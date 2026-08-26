@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1935952232245342417",
+    "created_at": "2025-06-20T14:34:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T15:34:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936070224098288090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1913884589724258304",
+          "start": 0,
+          "username": "321Tttjj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936070224098288090",
+    "in_reply_to_user_id": "1913884589724258304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936066688459702571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@321Tttjj 算你有眼色"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1935952232245342417",
+        "created_at": "2025-06-20T14:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T15:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936070224098288090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913884589724258304",
+              "start": 0,
+              "username": "321Tttjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936070224098288090",
+        "in_reply_to_user_id": "1913884589724258304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936066688459702571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@321Tttjj 算你有眼色"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913884589724258304",
+        "conversation_id": "1935952232245342417",
+        "created_at": "2025-06-20T14:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T15:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936066688459702571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936066688459702571",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935996786054664587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 好的神鹰哥 我帮你牵线搭桥🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的，我将做回神鹰，爱说点c语言，不喜欢可以喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 179,
+          "like_count": 6705,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1903
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T09:17:16.000Z",
+        "description": "大部分人都只是我生命的玻璃窗上缓缓划过的雨水…",
+        "id": "1913884589724258304",
+        "location": "等你懂我的隐喻",
+        "name": "malala_jiajiajiajia",
+        "pinned_tweet_id": "1931979058793062667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913980604221362176/uOxdWJDc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 291,
+          "like_count": 2845,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 56
+        },
+        "username": "321Tttjj",
+        "verified": false
+      }
+    ]
+  }
+}

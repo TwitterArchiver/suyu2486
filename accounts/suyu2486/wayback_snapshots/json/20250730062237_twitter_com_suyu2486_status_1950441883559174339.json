@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1950440649209077883",
+    "created_at": "2025-07-30T06:22:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T07:22:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950441883559174339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1868864401564110848",
+          "start": 0,
+          "username": "JiZhouu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950441883559174339",
+    "in_reply_to_user_id": "1868864401564110848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950440649209077883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiZhouu 舔一口"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1950440646348853249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxFbbxkbUAEe2SC.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1950440649209077883",
+        "created_at": "2025-07-30T06:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T07:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950441883559174339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1868864401564110848",
+              "start": 0,
+              "username": "JiZhouu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950441883559174339",
+        "in_reply_to_user_id": "1868864401564110848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950440649209077883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiZhouu 舔一口"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950440646348853249"
+          ]
+        },
+        "author_id": "1868864401564110848",
+        "conversation_id": "1950440649209077883",
+        "created_at": "2025-07-30T06:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T07:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950440649209077883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jeqOdu8OQy",
+              "end": 23,
+              "expanded_url": "https://x.com/JiZhouu/status/1950440649209077883/photo/1",
+              "media_key": "3_1950440646348853249",
+              "start": 0,
+              "url": "https://t.co/jeqOdu8OQy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950440649209077883",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jeqOdu8OQy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男，可以叫我小玉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1948457851778990521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 199,
+          "like_count": 12336,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 3432
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-17T03:43:02.000Z",
+        "description": "07 switch 平常喜欢看看球⚽私信随缘回 🚪129│ 自用蜂鸟vpn 畅联世界⬇️⬇️\n没钱恰饭了接点转推│不约线下不卖b不会在网上发露点照不玩tele",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=2fivvyow",
+                "start": 0,
+                "url": "https://t.co/WTPdtW6Cdr"
+              }
+            ]
+          }
+        },
+        "id": "1868864401564110848",
+        "name": "极昼",
+        "pinned_tweet_id": "1948256344257277982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868864643818831876/YO0iXCiB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 39,
+          "like_count": 3100,
+          "listed_count": 2,
+          "media_count": 235,
+          "tweet_count": 876
+        },
+        "url": "https://t.co/WTPdtW6Cdr",
+        "username": "JiZhouu",
+        "verified": false
+      }
+    ]
+  }
+}

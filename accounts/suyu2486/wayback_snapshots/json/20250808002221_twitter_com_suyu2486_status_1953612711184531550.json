@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1953461404817571975",
+    "created_at": "2025-08-08T00:22:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T01:22:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953612711184531550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1611322522670346241",
+          "start": 0,
+          "username": "caixiayu1hao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953612711184531550",
+    "in_reply_to_user_id": "1611322522670346241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953461404817571975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caixiayu1hao 才下雨这个萌😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9936,
+        "height": 1280,
+        "media_key": "13_1953461296592027648",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1953461296592027648/img/kXIEFzAo3zSDSZ8a.jpg",
+        "public_metrics": {
+          "view_count": 395
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953461296592027648/vid/avc1/320x568/wLK_9mgMRAhlCkew.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953461296592027648/vid/avc1/480x852/Cy08Ef91bEp91Whu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953461296592027648/vid/avc1/720x1280/7yMoxpfms-0lrZHQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1953461296592027648/pl/fpLnbx_FEBEEiVnY.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1953461404817571975",
+        "created_at": "2025-08-08T00:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T01:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953612711184531550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1611322522670346241",
+              "start": 0,
+              "username": "caixiayu1hao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953612711184531550",
+        "in_reply_to_user_id": "1611322522670346241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953461404817571975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caixiayu1hao 才下雨这个萌😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1953461296592027648"
+          ]
+        },
+        "author_id": "1611322522670346241",
+        "conversation_id": "1953461404817571975",
+        "created_at": "2025-08-07T14:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T15:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953461404817571975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xAVknETwlo",
+              "end": 47,
+              "expanded_url": "https://x.com/caixiayu1hao/status/1953461404817571975/video/1",
+              "media_key": "13_1953461296592027648",
+              "start": 24,
+              "url": "https://t.co/xAVknETwlo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953461404817571975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2060,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这期顶光有点丑（喜不喜欢我贴着止血贴的手指头） https://t.co/xAVknETwlo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1953423119017758926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1126,
+          "following_count": 200,
+          "like_count": 13782,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 3774
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T11:23:30.000Z",
+        "description": "07/你可以叫我小虾🦐/纯文，完蛋了我被工科录取了……/两只🐶两只🐭两只🦔/喜欢我就给我打钱。/挑战每一条评论都回，如果没回就是没看到不是故意的，你可以跟我说/近期在打工。心情不美丽，感觉会发很多吐槽的阴暗面，不要讨厌我好吗😢/欢迎和我玩，但是不欢迎骚扰🐱@caixiayu2hao 可以向我小号点歌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 128,
+                "username": "caixiayu2hao"
+              }
+            ]
+          }
+        },
+        "id": "1611322522670346241",
+        "location": "主动关注你就是喜欢你……",
+        "name": "才下雨🌧️⛈️☔️（距离打工结束还有18天版）",
+        "pinned_tweet_id": "1942631010954535261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947951383032016896/5O7eO2sQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4648,
+          "following_count": 533,
+          "like_count": 2965,
+          "listed_count": 6,
+          "media_count": 213,
+          "tweet_count": 4930
+        },
+        "username": "caixiayu1hao",
+        "verified": false
+      }
+    ]
+  }
+}

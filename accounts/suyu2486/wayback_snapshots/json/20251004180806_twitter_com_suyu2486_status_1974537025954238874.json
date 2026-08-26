@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1974521688261046572",
+    "created_at": "2025-10-04T18:08:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T19:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974537025954238874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1947634203358543873",
+          "start": 0,
+          "username": "uxehNv2zpB70937"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974537025954238874",
+    "in_reply_to_user_id": "1947634203358543873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974521688261046572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uxehNv2zpB70937 他是钉是啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1974521688261046572",
+        "created_at": "2025-10-04T18:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T19:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974537025954238874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1947634203358543873",
+              "start": 0,
+              "username": "uxehNv2zpB70937"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974537025954238874",
+        "in_reply_to_user_id": "1947634203358543873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974521688261046572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uxehNv2zpB70937 他是钉是啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947634203358543873",
+        "conversation_id": "1974521688261046572",
+        "created_at": "2025-10-04T17:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T18:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974521688261046572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "岁星’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1eaKb…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1eaKbjBzBOQKX",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1974521730753593345/0U0z8A6Y?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1974521730753593345/0U0z8A6Y?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 呀米",
+              "unwound_url": "https://twitter.com/i/spaces/1eaKbjBzBOQKX/peek",
+              "url": "https://t.co/Nnb4UytmVU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974521688261046572",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Nnb4UytmVU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我玊玉，叫玉是因为英文名是jade，玊（su）是有瑕疵的玉的意思，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗七个小号其中之一@dante82682",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 131,
+                "username": "dante82682"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1972598608924143996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2057,
+          "following_count": 251,
+          "like_count": 20495,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 5674
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T12:26:11.000Z",
+        "description": "幸福日记本/欢迎来找我聊天/会发身材照且不定期删除/成分极其复杂无法表达 全是乱七八糟的回复和推文/请多夸夸我好吗 我是夸夸脑/骂我就销号跑路/本来就是废墟别对我有期待/只想搞黄 冒犯到你我只能说抱歉 屏蔽双取随意🙇",
+        "id": "1947634203358543873",
+        "location": "距离您0.1km",
+        "name": "岁星",
+        "pinned_tweet_id": "1970800409485905956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955658680114044928/OlfF5_8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 176,
+          "like_count": 785,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1794
+        },
+        "username": "uxehNv2zpB70937",
+        "verified": false
+      }
+    ]
+  }
+}

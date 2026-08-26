@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1959527437315854623",
+    "created_at": "2025-08-24T08:13:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T09:13:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959529485427986773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1898675806966341632",
+          "start": 0,
+          "username": "Lillcuainil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959529485427986773",
+    "in_reply_to_user_id": "1898675806966341632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959527437315854623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lillcuainil 就蹬，怎么了吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1959527437315854623",
+        "created_at": "2025-08-24T08:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T09:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959529485427986773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1898675806966341632",
+              "start": 0,
+              "username": "Lillcuainil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959529485427986773",
+        "in_reply_to_user_id": "1898675806966341632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959527437315854623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lillcuainil 就蹬，怎么了吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898675806966341632",
+        "conversation_id": "1959527437315854623",
+        "created_at": "2025-08-24T08:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T09:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959527437315854623"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959527437315854623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有些人疑似我给好脸色给太多 开始对我蹬鼻子上脸了😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个好色的sb男的，双相情感障碍，情感漠视，精神失常，都滚远点别来烦我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1354,
+          "following_count": 198,
+          "like_count": 16689,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 4436
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T10:03:06.000Z",
+        "description": "我是小礼呀！碎碎念日常、不约不约🤗，别骚扰我了吧！互关可以加wx找我玩！我爱发啥发啥别他妈来贴脸。｜置顶锁评推广自辨 非本人｜自用蜂鸟VPN https://t.co/eXg64PaLYj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 94,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=E9vmBwfD",
+                "start": 71,
+                "url": "https://t.co/eXg64PaLYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lill19761",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lill19761",
+                "start": 0,
+                "url": "https://t.co/AiQNlOcvfJ"
+              }
+            ]
+          }
+        },
+        "id": "1898675806966341632",
+        "location": "想向我提问请戳👉🏻",
+        "name": "lii",
+        "pinned_tweet_id": "1949447799474708689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950087013111349248/UH0FeHIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3233,
+          "following_count": 225,
+          "like_count": 160,
+          "listed_count": 4,
+          "media_count": 1012,
+          "tweet_count": 16238
+        },
+        "url": "https://t.co/AiQNlOcvfJ",
+        "username": "Lillcuainil",
+        "verified": false
+      }
+    ]
+  }
+}

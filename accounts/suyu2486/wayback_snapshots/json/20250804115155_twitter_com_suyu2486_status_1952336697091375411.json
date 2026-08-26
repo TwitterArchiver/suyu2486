@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1952327381869338999",
+    "created_at": "2025-08-04T11:51:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T12:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952336697091375411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1768270228532965376",
+          "start": 0,
+          "username": "zhuma2005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952336697091375411",
+    "in_reply_to_user_id": "1768270228532965376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952335852786549111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhuma2005 彳亍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1952327381869338999",
+        "created_at": "2025-08-04T11:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T12:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952336697091375411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1768270228532965376",
+              "start": 0,
+              "username": "zhuma2005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952336697091375411",
+        "in_reply_to_user_id": "1768270228532965376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952335852786549111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhuma2005 彳亍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768270228532965376",
+        "conversation_id": "1952327381869338999",
+        "created_at": "2025-08-04T11:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T12:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952335852786549111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952335852786549111",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952327381869338999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 下次我也要这么硬气的要饭🚬🚬🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1952327381869338999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 201,
+          "like_count": 13210,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 3632
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T13:37:39.000Z",
+        "description": "可以叫我小星",
+        "id": "1768270228532965376",
+        "location": "ENFP",
+        "name": "西伯利亚花果山蕾丝猴子考四普累女仆勾引壮壮妈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778456248310022145/olhQ_eKc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 303,
+          "like_count": 6287,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 2327
+        },
+        "username": "zhuma2005",
+        "verified": false
+      }
+    ]
+  }
+}

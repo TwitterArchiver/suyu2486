@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2087068178237272077",
+    "created_at": "2026-08-13T05:56:28.000Z",
+    "display_text_range": [
+      15,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T06:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087780306401239332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1909534265148403712",
+          "start": 0,
+          "username": "wcnm991314520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087780306401239332",
+    "in_reply_to_user_id": "1909534265148403712",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087068178237272077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wcnm991314520 666"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2087068178237272077].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2087068178237272077",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2087068178237272077"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2087068178237272077",
+        "created_at": "2026-08-13T05:56:28.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T06:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087780306401239332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1909534265148403712",
+              "start": 0,
+              "username": "wcnm991314520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087780306401239332",
+        "in_reply_to_user_id": "1909534265148403712",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087068178237272077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wcnm991314520 666"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "is_identity_verified": false,
+        "location": "自用蜂鸟vpn",
+        "most_recent_tweet_id": "2087780306401239332",
+        "name": "小玉",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910715228523831296/1766048126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2056,
+          "following_count": 184,
+          "like_count": 21433,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6702
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-08T09:10:36.000Z",
+        "description": "@FicoKts\n防炸小小号@Locogiribor",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "FicoKts"
+              },
+              {
+                "end": 26,
+                "start": 14,
+                "username": "Locogiribor"
+              }
+            ]
+          }
+        },
+        "id": "1909534265148403712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086189102081400962",
+        "name": "一朵风中摇曳的小学生",
+        "pinned_tweet_id": "2083442629891768334",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1909534265148403712/1746984685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043365118164271105/-vO2WLa0_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 55,
+          "like_count": 1292,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 127
+        },
+        "url": "",
+        "username": "wcnm991314520",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

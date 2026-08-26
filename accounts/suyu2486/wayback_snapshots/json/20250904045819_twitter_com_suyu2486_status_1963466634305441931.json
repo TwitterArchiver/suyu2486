@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1962932126019682619",
+    "created_at": "2025-09-04T04:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T05:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963466634305441931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1823651514814226438",
+          "start": 0,
+          "username": "puppyrvr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963466634305441931",
+    "in_reply_to_user_id": "1823651514814226438",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963425535121657877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@puppyrvr 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1962932126019682619",
+        "created_at": "2025-09-04T04:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T05:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963466634305441931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1823651514814226438",
+              "start": 0,
+              "username": "puppyrvr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963466634305441931",
+        "in_reply_to_user_id": "1823651514814226438",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963425535121657877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puppyrvr 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823651514814226438",
+        "conversation_id": "1962932126019682619",
+        "created_at": "2025-09-04T02:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T03:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963425535121657877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963425535121657877",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962932126019682619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 爱说自己没行情 好像一个道理 我得改改"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱无章，不定期活跃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "飞向全宇宙",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 212,
+          "like_count": 18614,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 4984
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T09:23:05.000Z",
+        "description": "「Switch」🚪888888",
+        "id": "1823651514814226438",
+        "name": "屁股缝痒痒的",
+        "pinned_tweet_id": "1823663873913970746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960876172516130816/d7Bj530s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 85,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 303
+        },
+        "username": "puppyrvr",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1942569860187447575",
+    "created_at": "2025-07-08T19:43:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T20:43:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942670953575768415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1926260885363769344",
+          "start": 0,
+          "username": "Sakiooo424463"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942670953575768415",
+    "in_reply_to_user_id": "1926260885363769344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942569860187447575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakiooo424463 早看到早回关了，下次注意嗷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1170,
+        "media_key": "3_1942569849755955200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvVk_HYWcAAKw3n.jpg",
+        "width": 1810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1942569860187447575",
+        "created_at": "2025-07-08T19:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T20:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942670953575768415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1926260885363769344",
+              "start": 0,
+              "username": "Sakiooo424463"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942670953575768415",
+        "in_reply_to_user_id": "1926260885363769344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942569860187447575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakiooo424463 早看到早回关了，下次注意嗷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942569849755955200"
+          ]
+        },
+        "author_id": "1926260885363769344",
+        "conversation_id": "1942569860187447575",
+        "created_at": "2025-07-08T13:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T14:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942569860187447575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c5yTerEO4V",
+              "end": 36,
+              "expanded_url": "https://x.com/Sakiooo424463/status/1942569860187447575/photo/1",
+              "media_key": "3_1942569849755955200",
+              "start": 13,
+              "url": "https://t.co/c5yTerEO4V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942569860187447575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6786,
+          "like_count": 117,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实这个造型出了很多神图 https://t.co/c5yTerEO4V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 199,
+          "like_count": 10797,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 3141
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T12:56:40.000Z",
+        "description": "会自主使用智能手机，早上会刷牙洗脸，困了会睡觉，饿了会吃饭，匿名提问箱https://t.co/yznfindKdJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakio10704",
+                "end": 58,
+                "expanded_url": "https://ngl.link/sakio10704",
+                "start": 35,
+                "url": "https://t.co/yznfindKdJ"
+              }
+            ]
+          }
+        },
+        "id": "1926260885363769344",
+        "name": "丘比中式油醋汁",
+        "pinned_tweet_id": "1934255666367213852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926262045604802560/EpKS3J3H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1375,
+          "following_count": 255,
+          "like_count": 3935,
+          "listed_count": 4,
+          "media_count": 98,
+          "tweet_count": 1047
+        },
+        "username": "Sakiooo424463",
+        "verified": false
+      }
+    ]
+  }
+}

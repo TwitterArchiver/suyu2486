@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2084307789812523341",
+    "created_at": "2026-08-03T16:40:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T17:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084318539218096261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1576265636409675777",
+          "start": 0,
+          "username": "nexmizu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084318539218096261",
+    "in_reply_to_user_id": "1576265636409675777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084307789812523341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nexmizu_ 如果没有被表白就不用说什么，不要暧昧，表白的话就直接拒绝，并且说些什么一直把你当做很好的朋友看待，这样…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2084307789812523341",
+        "created_at": "2026-08-03T16:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084318539218096261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1576265636409675777",
+              "start": 0,
+              "username": "nexmizu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084318539218096261",
+        "in_reply_to_user_id": "1576265636409675777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084307789812523341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nexmizu_ 如果没有被表白就不用说什么，不要暧昧，表白的话就直接拒绝，并且说些什么一直把你当做很好的朋友看待，这样…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576265636409675777",
+        "conversation_id": "2084307789812523341",
+        "created_at": "2026-08-03T15:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084307789812523341"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084307789812523341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 305,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎呀 被朋友喜欢就不会是朋友了真的好烦啊啊啊啊啊啊啊 其实我挺内向的 交朋友交的挺少( ﾉД`)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "pinned_tweet_id": "2084166896371511380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2072,
+          "following_count": 192,
+          "like_count": 21367,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6681
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-01T17:40:11.000Z",
+        "description": "@unnn_ovo 都只发绿 社交方式是点赞 我不发黄不发黄不发黄 只发日常说废话 能给我发点正常的问题不。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "unnn_ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nexmizu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nexmizu",
+                "start": 0,
+                "url": "https://t.co/nhV3af4jxf"
+              }
+            ]
+          }
+        },
+        "id": "1576265636409675777",
+        "name": "N",
+        "pinned_tweet_id": "1959347155480817831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006477803500486656/U4EzXTJf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1354,
+          "following_count": 137,
+          "like_count": 11152,
+          "listed_count": 1,
+          "media_count": 569,
+          "tweet_count": 6554
+        },
+        "url": "https://t.co/nhV3af4jxf",
+        "username": "nexmizu_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1961367299601908179",
+    "created_at": "2025-08-29T14:55:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T15:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961442634473562392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592865779241734144",
+          "start": 0,
+          "username": "yuanyuan774"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961442634473562392",
+    "in_reply_to_user_id": "1592865779241734144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961367299601908179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanyuan774 戒了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1961367299601908179",
+        "created_at": "2025-08-29T14:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T15:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961442634473562392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592865779241734144",
+              "start": 0,
+              "username": "yuanyuan774"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961442634473562392",
+        "in_reply_to_user_id": "1592865779241734144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961367299601908179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanyuan774 戒了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592865779241734144",
+        "conversation_id": "1961367299601908179",
+        "created_at": "2025-08-29T09:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T10:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961367299601908179"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961367299601908179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1379,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去我发现我好久没冲了。今天奖励自己一次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个好色的sb男的，双相情感障碍，情感漠视，精神失常，欢迎骚扰！🤗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "小玉",
+        "pinned_tweet_id": "1961296394242965841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 199,
+          "like_count": 17385,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 4638
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T13:03:00.000Z",
+        "description": "小号 转喜欢看的片的。@CaTwTuoo。 有🚪💚 喜欢就打钱😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "CaTwTuoo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pan.quark.cn/s/543a993bb2b4",
+                "end": 23,
+                "expanded_url": "https://pan.quark.cn/s/543a993bb2b4",
+                "start": 0,
+                "url": "https://t.co/TWDgw2qLmx"
+              }
+            ]
+          }
+        },
+        "id": "1592865779241734144",
+        "location": "放了些小福利在网盘里，喜欢的话自取👇🏻",
+        "name": "欠",
+        "pinned_tweet_id": "1960838307564412954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956501546482421760/f-zpB3QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32024,
+          "following_count": 294,
+          "like_count": 27750,
+          "listed_count": 52,
+          "media_count": 1416,
+          "tweet_count": 25713
+        },
+        "url": "https://t.co/TWDgw2qLmx",
+        "username": "yuanyuan774",
+        "verified": false
+      }
+    ]
+  }
+}

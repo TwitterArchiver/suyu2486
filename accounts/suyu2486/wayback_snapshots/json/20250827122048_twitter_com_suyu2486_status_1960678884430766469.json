@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1960597602992337066",
+    "created_at": "2025-08-27T12:20:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T13:20:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960678884430766469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1144970362523795457",
+          "start": 0,
+          "username": "YJWTHHC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960678884430766469",
+    "in_reply_to_user_id": "1144970362523795457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960600784837759097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YJWTHHC 本来就没多少，被吃光了！😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1960597602992337066",
+        "created_at": "2025-08-27T12:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T13:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960678884430766469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1144970362523795457",
+              "start": 0,
+              "username": "YJWTHHC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960678884430766469",
+        "in_reply_to_user_id": "1144970362523795457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960600784837759097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YJWTHHC 本来就没多少，被吃光了！😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1144970362523795457",
+        "conversation_id": "1960597602992337066",
+        "created_at": "2025-08-27T07:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T08:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960600784837759097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960600784837759097",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960597602992337066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 ？。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个好色的sb男的，双相情感障碍，情感漠视，精神失常，都滚远点别来烦我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "小玉",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1362,
+          "following_count": 198,
+          "like_count": 16901,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 4479
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-29T14:06:21.000Z",
+        "description": "我是神",
+        "id": "1144970362523795457",
+        "location": "王者峡谷",
+        "name": "今天早点睡",
+        "pinned_tweet_id": "1926814368940929027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893251367528976385/n39lrYY-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 48,
+          "like_count": 594,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 1083
+        },
+        "username": "YJWTHHC",
+        "verified": false
+      }
+    ]
+  }
+}

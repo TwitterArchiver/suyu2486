@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1936010049689993370",
+    "created_at": "2025-06-20T10:47:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T11:47:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936013035514007593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1727748567555837953",
+          "start": 0,
+          "username": "hvyfjj70529"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936013035514007593",
+    "in_reply_to_user_id": "1727748567555837953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936010049689993370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hvyfjj70529 自打我有一次一个避孕套放口袋里没拿出来洗衣服被我妈发现了，我现在每次都掏…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1936010049689993370",
+        "created_at": "2025-06-20T10:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T11:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936013035514007593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1727748567555837953",
+              "start": 0,
+              "username": "hvyfjj70529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936013035514007593",
+        "in_reply_to_user_id": "1727748567555837953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936010049689993370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hvyfjj70529 自打我有一次一个避孕套放口袋里没拿出来洗衣服被我妈发现了，我现在每次都掏…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727748567555837953",
+        "conversation_id": "1936010049689993370",
+        "created_at": "2025-06-20T10:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T11:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936010049689993370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936010049689993370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我什么时候能认真掏过口袋再把裤子丢进洗衣机。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的，我将做回神鹰，爱说点c语言，不喜欢可以喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 181,
+          "like_count": 6666,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1893
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-23T17:59:03.000Z",
+        "description": "欢迎提问👇🏻我是男的 直男！！\n就是发牢骚 碎碎念 点点赞 发发言 看看美女帅哥 可以取关我\n小号发点日常照片 和生活琐事 眼熟的会放@M22lso\n只有这两个号！！其他的是假的！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 67,
+                "username": "M22lso"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chaoren2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chaoren2",
+                "start": 0,
+                "url": "https://t.co/1SvsPkyBTY"
+              }
+            ]
+          }
+        },
+        "id": "1727748567555837953",
+        "location": "西安",
+        "name": "迈迈迈卡",
+        "pinned_tweet_id": "1918965840579641703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916383035324518400/8olq74GV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2641,
+          "following_count": 432,
+          "like_count": 52676,
+          "listed_count": 5,
+          "media_count": 865,
+          "tweet_count": 14090
+        },
+        "url": "https://t.co/1SvsPkyBTY",
+        "username": "hvyfjj70529",
+        "verified": false
+      }
+    ]
+  }
+}

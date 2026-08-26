@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1938628723022156162",
+    "created_at": "2025-06-27T16:12:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T17:12:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938631424858341405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1644761277900951552",
+          "start": 0,
+          "username": "4rocky9"
+        },
+        {
+          "end": 22,
+          "id": "1777373512904454145",
+          "start": 9,
+          "username": "zhaominizhao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938631424858341405",
+    "in_reply_to_user_id": "1644761277900951552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938629773531770909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4rocky9 @zhaominizhao 你不是11点就睡吗？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1938628723022156162",
+        "created_at": "2025-06-27T16:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T17:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938631424858341405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1644761277900951552",
+              "start": 0,
+              "username": "4rocky9"
+            },
+            {
+              "end": 22,
+              "id": "1777373512904454145",
+              "start": 9,
+              "username": "zhaominizhao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938631424858341405",
+        "in_reply_to_user_id": "1644761277900951552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938629773531770909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4rocky9 @zhaominizhao 你不是11点就睡吗？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644761277900951552",
+        "conversation_id": "1938628723022156162",
+        "created_at": "2025-06-27T16:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T17:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938629773531770909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1777373512904454145",
+              "start": 0,
+              "username": "zhaominizhao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938629773531770909",
+        "in_reply_to_user_id": "1777373512904454145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938628723022156162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhaominizhao 我去我也在纠结，但是我有点困了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1938601372837913057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 196,
+          "like_count": 8788,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2471
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T17:57:16.000Z",
+        "description": "乐意骚扰人，随便你骂，整抽象的，乐意说点屌话，喜欢看美女",
+        "id": "1644761277900951552",
+        "location": "🚪52/520/5200",
+        "name": "建龙哥",
+        "pinned_tweet_id": "1670098097735860259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920824521441046528/hyICLTe0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2940,
+          "following_count": 395,
+          "like_count": 37729,
+          "listed_count": 3,
+          "media_count": 296,
+          "tweet_count": 14407
+        },
+        "username": "4rocky9",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T16:31:35.000Z",
+        "description": "🍧想分享的话会一直分享 碎碎碎碎碎念 喜欢我欢迎投喂 不线下不kp  声音好听的都来给我唱歌好么🥺匿名箱：https://t.co/8kHruPgL9y 自用蜂鸟VPN：https://t.co/9O7Bi7LxI6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhaominizhao",
+                "end": 76,
+                "expanded_url": "https://ngl.link/zhaominizhao",
+                "start": 53,
+                "url": "https://t.co/8kHruPgL9y"
+              },
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 108,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=YmFeTCn3",
+                "start": 85,
+                "url": "https://t.co/9O7Bi7LxI6"
+              }
+            ]
+          }
+        },
+        "id": "1777373512904454145",
+        "location": "在小猫很多的地方",
+        "name": "mini昭",
+        "pinned_tweet_id": "1902942735935607054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915636843414249474/G-3tK9Li_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1737,
+          "following_count": 57,
+          "like_count": 2000,
+          "listed_count": 9,
+          "media_count": 189,
+          "tweet_count": 1592
+        },
+        "username": "zhaominizhao",
+        "verified": false
+      }
+    ]
+  }
+}

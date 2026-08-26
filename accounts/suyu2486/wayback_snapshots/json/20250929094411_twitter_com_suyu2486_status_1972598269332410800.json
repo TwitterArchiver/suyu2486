@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1972512566225318364",
+    "created_at": "2025-09-29T09:44:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T10:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972598269332410800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1462285623943966720",
+          "start": 0,
+          "username": "Ruiuiui2002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972598269332410800",
+    "in_reply_to_user_id": "1462285623943966720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972512566225318364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruiuiui2002 艳丽的痦子"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3344,
+        "height": 1280,
+        "media_key": "7_1972512545773887488",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1972512545773887488/pu/img/83gFy2WYSOpcsP2X.jpg",
+        "public_metrics": {
+          "view_count": 952
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1972512545773887488/pu/vid/avc1/320x568/xkLauYZEob8snma6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1972512545773887488/pu/vid/avc1/480x852/ow1a68IaI3TV6xDN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1972512545773887488/pu/vid/avc1/720x1280/bN8UdNysPZ0JzUVZ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1972512545773887488/pu/pl/Yxx70fJmlFTc44tp.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1972512566225318364",
+        "created_at": "2025-09-29T09:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T10:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972598269332410800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1462285623943966720",
+              "start": 0,
+              "username": "Ruiuiui2002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972598269332410800",
+        "in_reply_to_user_id": "1462285623943966720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972512566225318364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruiuiui2002 艳丽的痦子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1972512545773887488"
+          ]
+        },
+        "author_id": "1462285623943966720",
+        "conversation_id": "1972512566225318364",
+        "created_at": "2025-09-29T04:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T05:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972512566225318364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XXvwF4hlBE",
+              "end": 30,
+              "expanded_url": "https://x.com/Ruiuiui2002/status/1972512566225318364/video/1",
+              "media_key": "7_1972512545773887488",
+              "start": 7,
+              "url": "https://t.co/XXvwF4hlBE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972512566225318364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2655,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给老子吓惨了 https://t.co/XXvwF4hlBE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "最近淡推，因为在减肥，加上上班，可能淡淡的，虽然平时也不怎么活跃吧…喜欢我的给我打点钱好吗…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥 day2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2043,
+          "following_count": 242,
+          "like_count": 20244,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 5589
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T05:04:06.000Z",
+        "description": "鸡鸡不论是做成红烧鸡鸡还是爆炒鸡鸡都风味十足，是一道绝佳美食，滋阴补阳，对于家庭聚餐来说是一个不错的选择|不接推广｜过🚪只能加微信无任何福利｜自用VPN高速稳定https://t.co/GvBsCvfrjV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "so.sulink.life/#/register?cod…",
+                "end": 103,
+                "expanded_url": "https://so.sulink.life/#/register?code=ayQjF6nx",
+                "start": 80,
+                "url": "https://t.co/GvBsCvfrjV"
+              }
+            ]
+          }
+        },
+        "id": "1462285623943966720",
+        "location": "精神病院",
+        "name": "我为鸡鸡狂",
+        "pinned_tweet_id": "1860458766967406659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966524165521092608/pRvxsfbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25483,
+          "following_count": 297,
+          "like_count": 43281,
+          "listed_count": 23,
+          "media_count": 2872,
+          "tweet_count": 11527
+        },
+        "username": "Ruiuiui2002",
+        "verified": false
+      }
+    ]
+  }
+}

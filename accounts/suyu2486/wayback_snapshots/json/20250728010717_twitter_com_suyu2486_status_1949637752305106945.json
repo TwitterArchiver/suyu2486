@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1949188095200596269",
+    "created_at": "2025-07-28T01:07:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T02:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949637752305106945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1858928423256944640",
+          "start": 0,
+          "username": "jingjing139174"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949637752305106945",
+    "in_reply_to_user_id": "1858928423256944640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949188095200596269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingjing139174 还有机会吗？西太后我真想要！😱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1949188087244087296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwzoPPSbYAAlqKs.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1949188095200596269",
+        "created_at": "2025-07-28T01:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T02:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949637752305106945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1858928423256944640",
+              "start": 0,
+              "username": "jingjing139174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949637752305106945",
+        "in_reply_to_user_id": "1858928423256944640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949188095200596269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingjing139174 还有机会吗？西太后我真想要！😱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949188087244087296"
+          ]
+        },
+        "author_id": "1858928423256944640",
+        "conversation_id": "1949188095200596269",
+        "created_at": "2025-07-26T19:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T20:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949188095200596269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jEEzlOjedG",
+              "end": 54,
+              "expanded_url": "https://x.com/jingjing139174/status/1949188095200596269/photo/1",
+              "media_key": "3_1949188087244087296",
+              "start": 31,
+              "url": "https://t.co/jEEzlOjedG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949188095200596269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40387,
+          "like_count": 361,
+          "quote_count": 2,
+          "reply_count": 254,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "品牌邀请来噜\n抽个西太后胸针吧\n一起发货（我发快递比登天还慢 https://t.co/jEEzlOjedG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男，可以叫我小玉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1948457851778990521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 200,
+          "like_count": 12059,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 3387
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T17:40:56.000Z",
+        "description": "和陆总恋爱ing❤️‍🔥我爱和妹宝们贴贴🧸日常存档/江浙沪独生女大🤤💕男的别叫我宝宝❌不线下不闲聊🙅‍♀️老子不是黄推 也不搞门槛😅",
+        "id": "1858928423256944640",
+        "name": "酱酱",
+        "pinned_tweet_id": "1884998584900448340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864737285092368384/kqJkE6f5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12533,
+          "following_count": 186,
+          "like_count": 92,
+          "listed_count": 18,
+          "media_count": 244,
+          "tweet_count": 1108
+        },
+        "username": "jingjing139174",
+        "verified": false
+      }
+    ]
+  }
+}

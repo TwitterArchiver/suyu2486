@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1962935625025519937",
+    "created_at": "2025-09-02T17:50:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T18:50:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962936253554598054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1768558050615668736",
+          "start": 0,
+          "username": "nhzj_ooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962936253554598054",
+    "in_reply_to_user_id": "1768558050615668736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962935625025519937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nhzj_ooo 不是蓝色的吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1459,
+        "media_key": "3_1962935607182938112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz2_iN8a0AAj6x9.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1962935625025519937",
+        "created_at": "2025-09-02T17:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T18:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962936253554598054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1768558050615668736",
+              "start": 0,
+              "username": "nhzj_ooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962936253554598054",
+        "in_reply_to_user_id": "1768558050615668736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962935625025519937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nhzj_ooo 不是蓝色的吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962935607182938112"
+          ]
+        },
+        "author_id": "1768558050615668736",
+        "conversation_id": "1962935625025519937",
+        "created_at": "2025-09-02T17:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T18:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962935625025519937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xLLtWk47qH",
+              "end": 27,
+              "expanded_url": "https://x.com/nhzj_ooo/status/1962935625025519937/photo/1",
+              "media_key": "3_1962935607182938112",
+              "start": 4,
+              "url": "https://t.co/xLLtWk47qH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962935625025519937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "粉不粉 https://t.co/xLLtWk47qH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "飞向全宇宙",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1385,
+          "following_count": 206,
+          "like_count": 18038,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 4802
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T08:41:21.000Z",
+        "description": "此女子负能量爆棚\n不约不线下(*´I`*)\n不接推广",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/Vera3766995223…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/Vera3766995223781763",
+                "start": 0,
+                "url": "https://t.co/9tyHlvRapu"
+              }
+            ]
+          }
+        },
+        "id": "1768558050615668736",
+        "location": "🚪 88 💚好友位 可闲聊，pyq开放",
+        "name": "黄金薯饼",
+        "pinned_tweet_id": "1916316501243793487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951313587097546757/tfJaZwXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2461,
+          "following_count": 611,
+          "like_count": 48857,
+          "listed_count": 5,
+          "media_count": 215,
+          "tweet_count": 9253
+        },
+        "url": "https://t.co/9tyHlvRapu",
+        "username": "nhzj_ooo",
+        "verified": false
+      }
+    ]
+  }
+}

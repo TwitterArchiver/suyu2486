@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1942839097716007326",
+    "created_at": "2025-07-09T12:44:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T13:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942927799175843843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1478766383593046018",
+          "start": 0,
+          "username": "hatenagenns"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942927799175843843",
+    "in_reply_to_user_id": "1478766383593046018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942895308838699508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hatenagenns 就是不熟的话，熟了包是疯的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1942839097716007326",
+        "created_at": "2025-07-09T12:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T13:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942927799175843843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1478766383593046018",
+              "start": 0,
+              "username": "hatenagenns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942927799175843843",
+        "in_reply_to_user_id": "1478766383593046018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942895308838699508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hatenagenns 就是不熟的话，熟了包是疯的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1478766383593046018",
+        "conversation_id": "1942839097716007326",
+        "created_at": "2025-07-09T10:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T11:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942895308838699508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942895308838699508",
+        "in_reply_to_user_id": "1478766383593046018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942893069277536433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 哦不过我见面不玩手机！最低限度看消息可以接受，最讨厌见面了还低头玩很久手机的了……都见面了还玩手机，感觉并没有重视面前的人也不想和对方度过开心的时间，真的很会让人失望，见面玩手机不如不见面，不如人际关系都完结在手机上🙄（跑题了）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 200,
+          "like_count": 10972,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 3194
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-05T16:32:51.000Z",
+        "description": "20⬆️、センシティブ雑多自分用デス。都是假的、全てフィクション。⚠️呟きは中文日本語両方、ごちゃ混ぜもある。只为了满足恋爱脑会堆各种梦向、夢関連もただひたすら積み上げるだけ",
+        "id": "1478766383593046018",
+        "location": "竹とバラの香る部屋",
+        "name": "ハテナ",
+        "pinned_tweet_id": "1929199041864221138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929523672303501312/7IWR0XEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 156,
+          "like_count": 2580,
+          "listed_count": 0,
+          "media_count": 307,
+          "tweet_count": 1908
+        },
+        "username": "hatenagenns",
+        "verified": false
+      }
+    ]
+  }
+}

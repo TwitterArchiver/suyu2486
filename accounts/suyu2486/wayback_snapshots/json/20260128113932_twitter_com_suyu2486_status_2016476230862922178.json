@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2015808054114349272",
+    "created_at": "2026-01-28T11:39:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T12:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016476230862922178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1970457934212841472",
+          "start": 0,
+          "username": "ttBratOvO"
+        },
+        {
+          "end": 23,
+          "id": "1892288849595994112",
+          "start": 11,
+          "username": "mimixixi711"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016476230862922178",
+    "in_reply_to_user_id": "1970457934212841472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015808054114349272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ttBratOvO @mimixixi711 我不举"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015808045733855232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_mWvMVXQAA3U6H.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2015808054114349272",
+        "created_at": "2026-01-28T11:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T12:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016476230862922178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1970457934212841472",
+              "start": 0,
+              "username": "ttBratOvO"
+            },
+            {
+              "end": 23,
+              "id": "1892288849595994112",
+              "start": 11,
+              "username": "mimixixi711"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016476230862922178",
+        "in_reply_to_user_id": "1970457934212841472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015808054114349272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ttBratOvO @mimixixi711 我不举"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015808045733855232"
+          ]
+        },
+        "author_id": "1970457934212841472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2015808054114349272",
+        "created_at": "2026-01-26T15:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T16:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015808054114349272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1892288849595994112",
+              "start": 7,
+              "username": "mimixixi711"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D5tM2e9NyM",
+              "end": 52,
+              "expanded_url": "https://x.com/ttBratOvO/status/2015808054114349272/photo/1",
+              "media_key": "3_2015808045733855232",
+              "start": 29,
+              "url": "https://t.co/D5tM2e9NyM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015808054114349272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 730,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这个人盗图，偷@mimixixi711 的图帮忙举报一下 https://t.co/D5tM2e9NyM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2351,
+          "following_count": 274,
+          "like_count": 22663,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 6522
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T11:59:29.000Z",
+        "description": "另一个我@weibaweiba123不礼貌回关，有个人一直偷我图，偷图的死母死爹死全家了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 4,
+                "username": "weibaweiba123"
+              }
+            ]
+          }
+        },
+        "id": "1970457934212841472",
+        "location": "🚪",
+        "name": "kitten",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003484819775504385/Yz4yrj-D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1612,
+          "following_count": 93,
+          "like_count": 1321,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 524
+        },
+        "username": "ttBratOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T19:03:33.000Z",
+        "description": "咪咪2.0版本（1.0暴毙）现在只有这个号mimixixi711是正版号，xp是大叔所以不跟年下玩，本人05年158/78 1i或者互攻只跟特别喜欢的或者钞能力 匿名小邮箱https://t.co/TBRyd4X8Ag",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iii62504",
+                "end": 109,
+                "expanded_url": "https://ngl.link/iii62504",
+                "start": 86,
+                "url": "https://t.co/TBRyd4X8Ag"
+              }
+            ]
+          }
+        },
+        "id": "1892288849595994112",
+        "location": "🚪52/99/520",
+        "name": "古手梨花",
+        "pinned_tweet_id": "1988205750976737691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892289227242754048/ym7P8n9H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24004,
+          "following_count": 16,
+          "like_count": 164,
+          "listed_count": 102,
+          "media_count": 276,
+          "tweet_count": 1173
+        },
+        "username": "mimixixi711",
+        "verified": false
+      }
+    ]
+  }
+}

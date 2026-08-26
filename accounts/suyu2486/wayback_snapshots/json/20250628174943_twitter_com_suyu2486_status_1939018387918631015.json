@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1939007008369528946",
+    "created_at": "2025-06-28T17:49:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T18:49:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939018387918631015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1801270531255357440",
+          "start": 0,
+          "username": "GraceW895519"
+        },
+        {
+          "end": 27,
+          "id": "961459548480524289",
+          "start": 14,
+          "username": "Eiiiiiion_23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939018387918631015",
+    "in_reply_to_user_id": "1801270531255357440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 22,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939017463095754770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GraceW895519 @Eiiiiiion_23 捉迷糊老师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1939007008369528946",
+        "created_at": "2025-06-28T17:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T18:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939018387918631015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1801270531255357440",
+              "start": 0,
+              "username": "GraceW895519"
+            },
+            {
+              "end": 27,
+              "id": "961459548480524289",
+              "start": 14,
+              "username": "Eiiiiiion_23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939018387918631015",
+        "in_reply_to_user_id": "1801270531255357440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939017463095754770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GraceW895519 @Eiiiiiion_23 捉迷糊老师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801270531255357440",
+        "conversation_id": "1939007008369528946",
+        "created_at": "2025-06-28T17:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T18:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939017463095754770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "961459548480524289",
+              "start": 0,
+              "username": "Eiiiiiion_23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939017463095754770",
+        "in_reply_to_user_id": "961459548480524289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939007008369528946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eiiiiiion_23 玉米八！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1938601372837913057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 198,
+          "like_count": 9286,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2663
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T15:09:06.000Z",
+        "description": "INFP DS DDLG ♋️我就是一个普通的小女孩 私信会看 一般不回 想说的可以发ngl信箱 /不参与任何争执 互相包容 be nice /谢谢大家喜欢我（不接置顶推广 不回复",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miaaa_yuyi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miaaa_yuyi",
+                "start": 0,
+                "url": "https://t.co/4VcjyfuVUN"
+              }
+            ]
+          }
+        },
+        "id": "1801270531255357440",
+        "location": "暂无🚪不约不卖 信箱➡️",
+        "name": "Graceee🐾（养胃版）",
+        "pinned_tweet_id": "1936095458814050707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913204319949905920/u2Bhv3Yz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3781,
+          "following_count": 173,
+          "like_count": 8186,
+          "listed_count": 14,
+          "media_count": 132,
+          "tweet_count": 828
+        },
+        "url": "https://t.co/4VcjyfuVUN",
+        "username": "GraceW895519",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-08T04:39:54.000Z",
+        "description": "随便发发｜偷我照片死全家｜我的日记本 想到什么说什么｜v有🚪 纯绿无福利不线下 互关随便｜自用🪜👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=yOglUBSv",
+                "start": 0,
+                "url": "https://t.co/tCmfR0J8gG"
+              }
+            ]
+          }
+        },
+        "id": "961459548480524289",
+        "location": "🍨",
+        "name": "芝士咖喱面包鸡",
+        "pinned_tweet_id": "1936819334393049417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920061804027478016/unE8mPBU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8047,
+          "following_count": 401,
+          "like_count": 3919,
+          "listed_count": 17,
+          "media_count": 1020,
+          "tweet_count": 9602
+        },
+        "url": "https://t.co/tCmfR0J8gG",
+        "username": "Eiiiiiion_23",
+        "verified": false
+      }
+    ]
+  }
+}

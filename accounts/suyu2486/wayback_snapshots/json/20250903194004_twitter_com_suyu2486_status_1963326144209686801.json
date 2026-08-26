@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1963005696947241173",
+    "created_at": "2025-09-03T19:40:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T20:40:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963326144209686801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1790518363262701568",
+          "start": 0,
+          "username": "xiaominaichi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963326144209686801",
+    "in_reply_to_user_id": "1790518363262701568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963005696947241173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaominaichi 可以"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1382,
+        "media_key": "3_1963005692219887616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz3_RtDWEAAlmIJ.jpg",
+        "width": 1895
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1963005696947241173",
+        "created_at": "2025-09-03T19:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T20:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963326144209686801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1790518363262701568",
+              "start": 0,
+              "username": "xiaominaichi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963326144209686801",
+        "in_reply_to_user_id": "1790518363262701568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963005696947241173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaominaichi 可以"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963005692219887616"
+          ]
+        },
+        "author_id": "1790518363262701568",
+        "conversation_id": "1963005696947241173",
+        "created_at": "2025-09-02T22:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T23:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963005696947241173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5UZ7xFBO2s",
+              "end": 35,
+              "expanded_url": "https://x.com/xiaominaichi/status/1963005696947241173/photo/1",
+              "media_key": "3_1963005692219887616",
+              "start": 12,
+              "url": "https://t.co/5UZ7xFBO2s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963005696947241173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 6540,
+          "like_count": 114,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看见的来亲亲我的嘴巴👄 https://t.co/5UZ7xFBO2s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱无章，不定期活跃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "飞向全宇宙",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1422,
+          "following_count": 212,
+          "like_count": 18518,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 4960
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T23:03:48.000Z",
+        "description": "英国留子～来到国外没有人管我了～就要放纵自己。",
+        "id": "1790518363262701568",
+        "name": "千千🇬🇧",
+        "pinned_tweet_id": "1962167665876717718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834289337954885632/KdzabPQA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11749,
+          "following_count": 49,
+          "like_count": 45,
+          "listed_count": 16,
+          "media_count": 87,
+          "tweet_count": 538
+        },
+        "username": "xiaominaichi",
+        "verified": false
+      }
+    ]
+  }
+}

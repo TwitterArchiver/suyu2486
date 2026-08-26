@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1943835079790538769",
+    "created_at": "2025-07-12T02:21:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T03:21:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943858203546333394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "543948695",
+          "start": 0,
+          "username": "MoreLicona"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943858203546333394",
+    "in_reply_to_user_id": "543948695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943857912428081428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MoreLicona 血魔战士吗…有点意思哈，没副作用吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1943835079790538769",
+        "created_at": "2025-07-12T02:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T03:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943858203546333394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "543948695",
+              "start": 0,
+              "username": "MoreLicona"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943858203546333394",
+        "in_reply_to_user_id": "543948695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943857912428081428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoreLicona 血魔战士吗…有点意思哈，没副作用吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "543948695",
+        "conversation_id": "1943835079790538769",
+        "created_at": "2025-07-12T02:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T03:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943857912428081428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943857912428081428",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943835079790538769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 我之前看到说这个东西应该是有两种类型，一种是所谓的肉牛，初始就比较大比较粗，但是硬了也不会大特别多，另外一种是什么“血魔战士”，初始比较小，但是根据状态已经充血程度可以大3-5倍哈哈哈哈哈哈，虽然名字起的很中二但确实很形象"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 201,
+          "like_count": 11463,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 3280
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-03T03:46:02.000Z",
+        "description": "恨明月高悬不独照我\n提问箱https://t.co/y7WGvbrvFF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gabriel92000",
+                "end": 36,
+                "expanded_url": "https://ngl.link/gabriel92000",
+                "start": 13,
+                "url": "https://t.co/y7WGvbrvFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gabriel92000",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gabriel92000",
+                "start": 0,
+                "url": "https://t.co/y7WGvbrvFF"
+              }
+            ]
+          }
+        },
+        "id": "543948695",
+        "name": "加加加百列（被封两次版）",
+        "pinned_tweet_id": "1936987165474643982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936827192261963776/s9xMyqnb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 144,
+          "like_count": 7136,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 873
+        },
+        "url": "https://t.co/y7WGvbrvFF",
+        "username": "MoreLicona",
+        "verified": false
+      }
+    ]
+  }
+}

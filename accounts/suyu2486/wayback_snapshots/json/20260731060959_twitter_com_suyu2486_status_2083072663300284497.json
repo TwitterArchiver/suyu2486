@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2082853882074644859",
+    "created_at": "2026-07-31T06:09:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T07:09:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083072663300284497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1950475198190551040",
+          "start": 0,
+          "username": "NnP1b5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083072663300284497",
+    "in_reply_to_user_id": "1950475198190551040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082853882074644859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NnP1b5 中国人能飞！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2082853882074644859",
+        "created_at": "2026-07-31T06:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083072663300284497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1950475198190551040",
+              "start": 0,
+              "username": "NnP1b5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083072663300284497",
+        "in_reply_to_user_id": "1950475198190551040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082853882074644859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NnP1b5 中国人能飞！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950475198190551040",
+        "conversation_id": "2082853882074644859",
+        "created_at": "2026-07-30T15:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082853882074644859"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082853882074644859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 61794,
+          "like_count": 798,
+          "quote_count": 7,
+          "reply_count": 206,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "中国人 请克制住每一个想飞的瞬间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 194,
+          "like_count": 21171,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6602
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T08:35:31.000Z",
+        "description": "拥抱我直至肋骨断裂\n我只是一个很呆萌的农村人。好懵逼啊。\n双性恋｜switch\n⬇️匿名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B2%811",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B2%811",
+                "start": 0,
+                "url": "https://t.co/LlW2uRDXS3"
+              }
+            ]
+          }
+        },
+        "id": "1950475198190551040",
+        "location": "距离1314米",
+        "name": "一只邪恶的肋骨",
+        "pinned_tweet_id": "2080235336438034720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059337103264092161/ak5lpiFh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2060,
+          "following_count": 89,
+          "like_count": 1835,
+          "listed_count": 4,
+          "media_count": 79,
+          "tweet_count": 607
+        },
+        "url": "https://t.co/LlW2uRDXS3",
+        "username": "NnP1b5",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1937915341818015840",
+    "created_at": "2025-06-25T16:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T17:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937916461655183424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1452161302118363142",
+          "start": 0,
+          "username": "haimianxz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937916461655183424",
+    "in_reply_to_user_id": "1452161302118363142",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937916073753432266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haimianxz 快，急需"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 693,
+        "media_key": "3_1937916070309826560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuTcZf9WkAAjJ4X.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1937915341818015840",
+        "created_at": "2025-06-25T16:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T17:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937916461655183424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1452161302118363142",
+              "start": 0,
+              "username": "haimianxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937916461655183424",
+        "in_reply_to_user_id": "1452161302118363142",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937916073753432266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haimianxz 快，急需"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937916070309826560"
+          ]
+        },
+        "author_id": "1452161302118363142",
+        "conversation_id": "1937915341818015840",
+        "created_at": "2025-06-25T16:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T17:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937916073753432266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/09KFq3VJuI",
+              "end": 33,
+              "expanded_url": "https://x.com/haimianxz/status/1937916073753432266/photo/1",
+              "media_key": "3_1937916070309826560",
+              "start": 10,
+              "url": "https://t.co/09KFq3VJuI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937916073753432266",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937915341818015840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 https://t.co/09KFq3VJuI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1936734143804735662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 198,
+          "like_count": 8422,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 2359
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-24T06:33:42.000Z",
+        "description": "画中世界的燃料已经烧尽，洛斯里克的高墙即将倒塌。奴隶举起骑士的剑，望眼欲穿群山之顶的王。吸干所有污秽的恶鬼，终究不能踏上巡礼之路。唯有死神永生。听到了嘛？唯有死神永生。当钟声再度响起之时，无火的余灰也将直面薪王。",
+        "id": "1452161302118363142",
+        "location": "Toronto, Ontario",
+        "name": "Mr.Meeseeks!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922403981285871617/6jv5Mwrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 764,
+          "like_count": 6698,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 1613
+        },
+        "username": "haimianxz",
+        "verified": true
+      }
+    ]
+  }
+}

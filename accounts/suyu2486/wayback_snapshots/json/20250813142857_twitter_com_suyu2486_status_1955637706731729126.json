@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1955484644750790958",
+    "created_at": "2025-08-13T14:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T15:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955637706731729126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1688397365336850432",
+          "start": 0,
+          "username": "hongpigu980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955637706731729126",
+    "in_reply_to_user_id": "1688397365336850432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955484644750790958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hongpigu980 咋这么美！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10126,
+        "height": 1920,
+        "media_key": "13_1955484523493462018",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1955484523493462018/img/oPvo-uL3uXTK8NAe.jpg",
+        "public_metrics": {
+          "view_count": 2855
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955484523493462018/vid/avc1/320x568/FCoOXfUJMsAPYckK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1955484523493462018/pl/7EuAJ0iQTPDauwBm.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955484523493462018/vid/avc1/1080x1920/A5l3nN316EOa-Qk7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955484523493462018/vid/avc1/720x1280/KXUwqHtzkBxWVKBR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955484523493462018/vid/avc1/480x852/yCQvI_cHGkbQQDNa.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1955484644750790958",
+        "created_at": "2025-08-13T14:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T15:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955637706731729126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1688397365336850432",
+              "start": 0,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955637706731729126",
+        "in_reply_to_user_id": "1688397365336850432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955484644750790958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongpigu980 咋这么美！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1955484523493462018"
+          ]
+        },
+        "author_id": "1688397365336850432",
+        "conversation_id": "1955484644750790958",
+        "created_at": "2025-08-13T04:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T05:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955484644750790958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GC47ontS6w",
+              "end": 23,
+              "expanded_url": "https://x.com/hongpigu980/status/1955484644750790958/video/1",
+              "media_key": "13_1955484523493462018",
+              "start": 0,
+              "url": "https://t.co/GC47ontS6w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955484644750790958",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9190,
+          "like_count": 146,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GC47ontS6w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1953423119017758926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 198,
+          "like_count": 15271,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 4144
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”推广自辨/关评为广",
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1954880852925780106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66171,
+          "following_count": 57,
+          "like_count": 68,
+          "listed_count": 61,
+          "media_count": 994,
+          "tweet_count": 1279
+        },
+        "username": "hongpigu980",
+        "verified": true
+      }
+    ]
+  }
+}

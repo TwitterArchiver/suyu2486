@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1988789257742491973",
+    "created_at": "2025-11-13T07:18:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T08:18:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988868957445447981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1905243767898316800",
+          "start": 0,
+          "username": "ttBratOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988868957445447981",
+    "in_reply_to_user_id": "1905243767898316800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988868059520459159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ttBratOvO 真的吗？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1988789257742491973",
+        "created_at": "2025-11-13T07:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T08:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988868957445447981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1905243767898316800",
+              "start": 0,
+              "username": "ttBratOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988868957445447981",
+        "in_reply_to_user_id": "1905243767898316800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988868059520459159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ttBratOvO 真的吗？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905243767898316800",
+        "conversation_id": "1988789257742491973",
+        "created_at": "2025-11-13T07:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T08:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988868059520459159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988868059520459159",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988867979556044900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 蹭你也行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "06，男，infp…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2407,
+          "following_count": 264,
+          "like_count": 22389,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 6297
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T13:01:35.000Z",
+        "description": "有纯绿🚪 小猫2号@xiaoNAN080423",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "xiaoNAN080423"
+              }
+            ]
+          }
+        },
+        "id": "1905243767898316800",
+        "location": "喵喵",
+        "name": "kitten",
+        "pinned_tweet_id": "1980988765943538020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979982347488329729/nF2no135_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7471,
+          "following_count": 309,
+          "like_count": 9861,
+          "listed_count": 18,
+          "media_count": 349,
+          "tweet_count": 4498
+        },
+        "username": "ttBratOvO",
+        "verified": false
+      }
+    ]
+  }
+}

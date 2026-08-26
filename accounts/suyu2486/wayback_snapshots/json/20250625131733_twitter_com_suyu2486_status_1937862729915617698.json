@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1937850762031415524",
+    "created_at": "2025-06-25T13:17:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T14:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937862729915617698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1548944533412773889",
+          "start": 0,
+          "username": "hywqnl"
+        },
+        {
+          "end": 17,
+          "id": "1864946257481158656",
+          "start": 8,
+          "username": "Ash1nzou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937862729915617698",
+    "in_reply_to_user_id": "1548944533412773889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937862152007618854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hywqnl @Ash1nzou 一眼陕西，额贼，崽批紧过火，美过火，额就是个日啊，美死咧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1937850762031415524",
+        "created_at": "2025-06-25T13:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T14:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937862729915617698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1548944533412773889",
+              "start": 0,
+              "username": "hywqnl"
+            },
+            {
+              "end": 17,
+              "id": "1864946257481158656",
+              "start": 8,
+              "username": "Ash1nzou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937862729915617698",
+        "in_reply_to_user_id": "1548944533412773889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937862152007618854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hywqnl @Ash1nzou 一眼陕西，额贼，崽批紧过火，美过火，额就是个日啊，美死咧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548944533412773889",
+        "conversation_id": "1937850762031415524",
+        "created_at": "2025-06-25T13:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T14:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937862152007618854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            },
+            {
+              "end": 19,
+              "id": "1864946257481158656",
+              "start": 10,
+              "username": "Ash1nzou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937862152007618854",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937853852109402458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 @Ash1nzou 那不应该是：额贼，太美咧哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1936734143804735662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 198,
+          "like_count": 8330,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 2329
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-18T08:15:40.000Z",
+        "description": "废话篓子｜发泄性欲｜欣赏美好肉体｜见识多样生物｜不聊骚❗️数学我爱你 丑猪我打死你 骗子我打死你 性压抑我打死你",
+        "id": "1548944533412773889",
+        "location": "想你的夜",
+        "name": "Vo1d",
+        "pinned_tweet_id": "1937494342043611276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931387650545451009/oR2sz8M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 237,
+          "like_count": 687,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 394
+        },
+        "username": "hywqnl",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T08:13:43.000Z",
+        "description": "恶人脸/虚伪肥宅/真实垃圾/精神病患/社会边缘人士",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ash1nzou",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ash1nzou",
+                "start": 0,
+                "url": "https://t.co/qPDE4JNKvH"
+              }
+            ]
+          }
+        },
+        "id": "1864946257481158656",
+        "location": "提问箱",
+        "name": "饮冰的刃",
+        "pinned_tweet_id": "1929083145543959017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864946632820953092/_edfRZMJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3784,
+          "following_count": 164,
+          "like_count": 10688,
+          "listed_count": 2,
+          "media_count": 139,
+          "tweet_count": 2413
+        },
+        "url": "https://t.co/qPDE4JNKvH",
+        "username": "Ash1nzou",
+        "verified": false
+      }
+    ]
+  }
+}

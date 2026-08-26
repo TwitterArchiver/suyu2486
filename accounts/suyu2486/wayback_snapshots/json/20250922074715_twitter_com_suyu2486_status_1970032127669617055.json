@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1970021821958475854",
+    "created_at": "2025-09-22T07:47:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T08:47:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970032127669617055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1688397365336850432",
+          "start": 0,
+          "username": "hongpigu980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970032127669617055",
+    "in_reply_to_user_id": "1688397365336850432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970021821958475854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hongpigu980 不要"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10174,
+        "height": 640,
+        "media_key": "13_1970021810046726144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1970021810046726144/img/k6nL3EyQUhSvcQoJ.jpg",
+        "public_metrics": {
+          "view_count": 385
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970021810046726144/vid/avc1/304x640/a0eTEtf7ZdzK4XvZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1970021810046726144/pl/RmsnV73prVolZ0EY.m3u8"
+          }
+        ],
+        "width": 304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1970021821958475854",
+        "created_at": "2025-09-22T07:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T08:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970032127669617055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1688397365336850432",
+              "start": 0,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970032127669617055",
+        "in_reply_to_user_id": "1688397365336850432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970021821958475854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongpigu980 不要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1970021810046726144"
+          ]
+        },
+        "author_id": "1688397365336850432",
+        "conversation_id": "1970021821958475854",
+        "created_at": "2025-09-22T07:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T08:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970021821958475854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R5E40S5II1",
+              "end": 27,
+              "expanded_url": "https://x.com/hongpigu980/status/1970021821958475854/video/1",
+              "media_key": "13_1970021810046726144",
+              "start": 4,
+              "url": "https://t.co/R5E40S5II1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970021821958475854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1194,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "叫妈妈 https://t.co/R5E40S5II1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗七个小号其中之一@dante82682",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "dante82682"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1634,
+          "following_count": 239,
+          "like_count": 19686,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 5425
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "dy：yiyiio3o “用性对抗平庸的生活”推广自辨/关评为广 🥇全球外围质量最高选➡️ @yunle111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "yunle111"
+              }
+            ]
+          }
+        },
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1967533836109267312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80618,
+          "following_count": 69,
+          "like_count": 82,
+          "listed_count": 81,
+          "media_count": 1227,
+          "tweet_count": 1592
+        },
+        "username": "hongpigu980",
+        "verified": true
+      }
+    ]
+  }
+}

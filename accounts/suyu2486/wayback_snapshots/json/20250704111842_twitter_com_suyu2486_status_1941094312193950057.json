@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1941092165037498868",
+    "created_at": "2025-07-04T11:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T12:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941094312193950057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1834931258461503495",
+          "start": 0,
+          "username": "imnotsoojin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941094312193950057",
+    "in_reply_to_user_id": "1834931258461503495",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941092165037498868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imnotsoojin 祈祷上到鸽子蛋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_1941092151540006912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvAlBwjXQAAFxwX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1941092165037498868",
+        "created_at": "2025-07-04T11:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T12:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941094312193950057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1834931258461503495",
+              "start": 0,
+              "username": "imnotsoojin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941094312193950057",
+        "in_reply_to_user_id": "1834931258461503495",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941092165037498868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imnotsoojin 祈祷上到鸽子蛋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941092151540006912"
+          ]
+        },
+        "author_id": "1834931258461503495",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1941092165037498868",
+        "created_at": "2025-07-04T11:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T12:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941092165037498868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0CBKNbWIRZ",
+              "end": 27,
+              "expanded_url": "https://x.com/imnotsoojin/status/1941092165037498868/photo/1",
+              "media_key": "3_1941092151540006912",
+              "start": 4,
+              "url": "https://t.co/0CBKNbWIRZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941092165037498868",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "休息！ https://t.co/0CBKNbWIRZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男的，是s（屎）文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你，不喜欢的可以随便喷，全当调教了，装b让你们飞起来🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1939847270284890437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 199,
+          "like_count": 10570,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 3075
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-14T12:24:47.000Z",
+        "description": "小孩子不懂事发着玩的",
+        "id": "1834931258461503495",
+        "name": "我不是小猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918727550794395648/mjvtIVsO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 106,
+          "like_count": 2561,
+          "listed_count": 2,
+          "media_count": 1087,
+          "tweet_count": 4729
+        },
+        "username": "imnotsoojin",
+        "verified": false
+      }
+    ]
+  }
+}

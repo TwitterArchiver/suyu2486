@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1937586182642192585",
+    "created_at": "2025-06-24T19:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T20:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937591084596519378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1858054876212903936",
+          "start": 0,
+          "username": "liuqqql"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937591084596519378",
+    "in_reply_to_user_id": "1858054876212903936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937590686083416413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuqqql 为了追爱，把电脑挂二手卖了，买了机票就那样浑身几千块钱就飞去了另一个城市生活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1937586182642192585",
+        "created_at": "2025-06-24T19:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T20:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937591084596519378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1858054876212903936",
+              "start": 0,
+              "username": "liuqqql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937591084596519378",
+        "in_reply_to_user_id": "1858054876212903936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937590686083416413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuqqql 为了追爱，把电脑挂二手卖了，买了机票就那样浑身几千块钱就飞去了另一个城市生活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858054876212903936",
+        "conversation_id": "1937586182642192585",
+        "created_at": "2025-06-24T19:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T20:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937590686083416413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937590686083416413",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937586182642192585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 100"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1936734143804735662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 193,
+          "like_count": 8091,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 2249
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T07:49:47.000Z",
+        "description": "我要稳稳的幸福/喜欢自言自语/ggfc我好想你你看到了回来找我好不好/不加任何人墙外联系方式 除非钞能力…/十分鱿鱼的一个入",
+        "id": "1858054876212903936",
+        "location": "超级菠萝包",
+        "name": "小想",
+        "pinned_tweet_id": "1919734614140322173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911473594430783489/2R9CrSeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 53,
+          "like_count": 5939,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 1215
+        },
+        "username": "liuqqql",
+        "verified": false
+      }
+    ]
+  }
+}

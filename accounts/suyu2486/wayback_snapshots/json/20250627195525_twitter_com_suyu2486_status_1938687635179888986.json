@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1938662611438182484",
+    "created_at": "2025-06-27T19:55:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T20:55:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938687635179888986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1727748567555837953",
+          "start": 0,
+          "username": "hvyfjj70529"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938687635179888986",
+    "in_reply_to_user_id": "1727748567555837953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938669116807888963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hvyfjj70529 整地上了吗…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36309,
+        "height": 1280,
+        "media_key": "7_1938669039372640257",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1938669039372640257/pu/img/HCmCJaQeFB57WXXZ.jpg",
+        "public_metrics": {
+          "view_count": 146
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1938669039372640257/pu/vid/avc1/320x568/dF3x8S7VEsvackcm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1938669039372640257/pu/vid/avc1/480x852/oejecZ2xyC7A0jH0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1938669039372640257/pu/vid/avc1/720x1280/gz9sx8-MUktmColx.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1938669039372640257/pu/pl/GQet8YfXoCE-a92R.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1938662611438182484",
+        "created_at": "2025-06-27T19:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T20:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938687635179888986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1727748567555837953",
+              "start": 0,
+              "username": "hvyfjj70529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938687635179888986",
+        "in_reply_to_user_id": "1727748567555837953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938669116807888963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hvyfjj70529 整地上了吗…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1938669039372640257"
+          ]
+        },
+        "author_id": "1727748567555837953",
+        "conversation_id": "1938662611438182484",
+        "created_at": "2025-06-27T18:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T19:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938669116807888963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k4CNCxcEfy",
+              "end": 23,
+              "expanded_url": "https://x.com/hvyfjj70529/status/1938669116807888963/video/1",
+              "media_key": "7_1938669039372640257",
+              "start": 0,
+              "url": "https://t.co/k4CNCxcEfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938669116807888963",
+        "in_reply_to_user_id": "1727748567555837953",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 374,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938662611438182484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/k4CNCxcEfy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1938601372837913057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 196,
+          "like_count": 8854,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2509
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-23T17:59:03.000Z",
+        "description": "牛子/男喘/碎碎念/点赞机器人/吃喝拉撒报备/doi技巧/抽象画/学习向\n\n说话带。因为。是👁️👁️👁️👁️👁️👁️视奸你们\n小号发点日常照片 和生活琐事 眼熟的会放@M22lso",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "M22lso"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chaoren2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chaoren2",
+                "start": 0,
+                "url": "https://t.co/1SvsPkyBTY"
+              }
+            ]
+          }
+        },
+        "id": "1727748567555837953",
+        "location": "看看那个。",
+        "name": "迈迈迈卡",
+        "pinned_tweet_id": "1937075422623359339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916383035324518400/8olq74GV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3400,
+          "following_count": 466,
+          "like_count": 60184,
+          "listed_count": 6,
+          "media_count": 951,
+          "tweet_count": 16686
+        },
+        "url": "https://t.co/1SvsPkyBTY",
+        "username": "hvyfjj70529",
+        "verified": false
+      }
+    ]
+  }
+}

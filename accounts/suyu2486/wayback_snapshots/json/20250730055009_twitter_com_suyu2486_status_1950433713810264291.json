@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1950321712588820908",
+    "created_at": "2025-07-30T05:50:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T06:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950433713810264291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1900466634957160449",
+          "start": 0,
+          "username": "lmng5986051"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950433713810264291",
+    "in_reply_to_user_id": "1900466634957160449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950364707015315487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lmng5986051 呵呵，这种还是因为好奇心点进去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1950321712588820908",
+        "created_at": "2025-07-30T05:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T06:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950433713810264291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1900466634957160449",
+              "start": 0,
+              "username": "lmng5986051"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950433713810264291",
+        "in_reply_to_user_id": "1900466634957160449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950364707015315487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lmng5986051 呵呵，这种还是因为好奇心点进去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900466634957160449",
+        "conversation_id": "1950321712588820908",
+        "created_at": "2025-07-30T01:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T02:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950364707015315487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950364707015315487",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950321712588820908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 吓死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个恶臭男，可以叫我小玉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1948457851778990521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 199,
+          "like_count": 12276,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 3414
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T08:39:01.000Z",
+        "description": "",
+        "id": "1900466634957160449",
+        "name": "小萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900470497026121728/ZJmxo2Go_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 105,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 553
+        },
+        "username": "lmng5986051",
+        "verified": false
+      }
+    ]
+  }
+}

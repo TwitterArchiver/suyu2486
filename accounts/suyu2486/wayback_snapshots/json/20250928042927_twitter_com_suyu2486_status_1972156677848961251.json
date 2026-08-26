@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1965088388987727877",
+    "created_at": "2025-09-28T04:29:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T05:29:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972156677848961251"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "仰拍好美",
+          "probability": 0.316,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1957571738759528448",
+          "start": 0,
+          "username": "Missouolsian2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972156677848961251",
+    "in_reply_to_user_id": "1957571738759528448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965088388987727877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Missouolsian2 仰拍好美"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36400,
+        "height": 1920,
+        "media_key": "13_1965087417301647360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1965087417301647360/img/NcGljLhU3XMo3uYt.jpg",
+        "public_metrics": {
+          "view_count": 548
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965087417301647360/vid/avc1/1080x1920/sJBnMMGJCyEjqlbA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1965087417301647360/pl/FgdXM5nO1RysUZYF.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965087417301647360/vid/avc1/480x852/i-FtnNNMXHftjdDs.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965087417301647360/vid/avc1/320x568/khXyskqCKNXsLZXB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965087417301647360/vid/avc1/720x1280/kbcdgPZgDwDVr5no.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1965088388987727877",
+        "created_at": "2025-09-28T04:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T05:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972156677848961251"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "仰拍好美",
+              "probability": 0.316,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1957571738759528448",
+              "start": 0,
+              "username": "Missouolsian2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972156677848961251",
+        "in_reply_to_user_id": "1957571738759528448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965088388987727877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Missouolsian2 仰拍好美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1965087417301647360"
+          ]
+        },
+        "author_id": "1957571738759528448",
+        "conversation_id": "1965088388987727877",
+        "created_at": "2025-09-08T16:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T17:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965088388987727877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GIPJ8G6s4J",
+              "end": 28,
+              "expanded_url": "https://x.com/Missouolsian2/status/1965088388987727877/video/1",
+              "media_key": "13_1965087417301647360",
+              "start": 5,
+              "url": "https://t.co/GIPJ8G6s4J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965088388987727877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2960,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "仰拍好丑 https://t.co/GIPJ8G6s4J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗七个小号其中之一@dante82682\n手黑，小⭕️微大",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "dante82682"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥 day1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2042,
+          "following_count": 240,
+          "like_count": 20143,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 5565
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-18T22:34:15.000Z",
+        "description": "我的主人@Missouolsian 我的仆人@aouoyulin_0|我需要空间独处单方面输出|视奸我的宝子能不能私信我我给你们账号给我点赞|我就这么自恋你能把我咋滴😭|盗我图我就操死你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "Missouolsian"
+              },
+              {
+                "end": 34,
+                "start": 22,
+                "username": "aouoyulin_0"
+              }
+            ]
+          }
+        },
+        "id": "1957571738759528448",
+        "location": "🚪纯绿好友位100",
+        "name": "白毛红瞳狗狗厨2.0",
+        "pinned_tweet_id": "1967629531851919400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962030409681969152/KGCKY4x2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 55,
+          "like_count": 2437,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1642
+        },
+        "username": "Missouolsian2",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1992549334874034176"
+      ]
+    },
+    "author_id": "1910715228523831296",
+    "conversation_id": "1992549371884495264",
+    "created_at": "2025-11-23T11:02:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T12:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992549371884495264"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/g9QEAekcp7",
+          "end": 49,
+          "expanded_url": "https://x.com/suyu2486/status/1992549371884495264/video/1",
+          "media_key": "7_1992549334874034176",
+          "start": 26,
+          "url": "https://t.co/g9QEAekcp7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992549371884495264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "它咋不硬…（亵渎鸡也是一种错误，对不起，请勿模仿） https://t.co/g9QEAekcp7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1992549371884495264].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1992549371884495264",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1992549371884495264"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2496,
+        "height": 1280,
+        "media_key": "7_1992549334874034176",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1992549334874034176/pu/img/MiEdO-p1fbYUwYI9.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1992549334874034176/pu/vid/avc1/320x568/Y1RaMCk9ieRn0KgY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1992549334874034176/pu/vid/avc1/480x852/vV2PQWIlGl3TZgm0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1992549334874034176/pu/vid/avc1/720x1280/R_m7mHMYWi3-IBrD.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1992549334874034176/pu/pl/5cNwS6h8aik9FesI.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是一个死人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1989396880938410150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986090362746933248/VgFdpUSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2464,
+          "following_count": 270,
+          "like_count": 22707,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 6398
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      }
+    ]
+  }
+}

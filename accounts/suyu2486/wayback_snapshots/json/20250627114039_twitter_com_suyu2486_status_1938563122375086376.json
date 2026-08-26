@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1938542358955786372",
+    "created_at": "2025-06-27T11:40:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T12:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938563122375086376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1793273469637111808",
+          "start": 0,
+          "username": "hui_0024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938563122375086376",
+    "in_reply_to_user_id": "1793273469637111808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938542358955786372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hui_0024 你居然有身位控制，模糊的画质清晰的实力"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28060,
+        "height": 720,
+        "media_key": "13_1938542029564526594",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1938542029564526594/img/pTfwCPsHr5qQAmD_.jpg",
+        "public_metrics": {
+          "view_count": 37
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938542029564526594/vid/avc1/480x270/8jHIviJqnbSIwigN.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938542029564526594/vid/avc1/640x360/42pH3mVguteuOJM-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938542029564526594/vid/avc1/1280x720/wRsjyiPGViDw3TDx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1938542029564526594/pl/25TZ46Ov-1reEMVu.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1938542358955786372",
+        "created_at": "2025-06-27T11:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T12:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938563122375086376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1793273469637111808",
+              "start": 0,
+              "username": "hui_0024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938563122375086376",
+        "in_reply_to_user_id": "1793273469637111808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938542358955786372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hui_0024 你居然有身位控制，模糊的画质清晰的实力"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1938542029564526594"
+          ]
+        },
+        "author_id": "1793273469637111808",
+        "conversation_id": "1938542358955786372",
+        "created_at": "2025-06-27T10:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T11:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938542358955786372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VDIkEb7vHU",
+              "end": 33,
+              "expanded_url": "https://x.com/hui_0024/status/1938542358955786372/video/1",
+              "media_key": "13_1938542029564526594",
+              "start": 10,
+              "url": "https://t.co/VDIkEb7vHU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938542358955786372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "饭点再发一个👊👊👊 https://t.co/VDIkEb7vHU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1930824661660516687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 196,
+          "like_count": 8657,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 2426
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-22T13:31:41.000Z",
+        "description": "高p 随意分享日常 无门槛喜欢可以投喂（纯绿不会发生什么） 不约不露三点 私信会看 只回感兴趣 美少女互关贴贴",
+        "id": "1793273469637111808",
+        "name": "绘",
+        "pinned_tweet_id": "1934980901110472889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938387523388178432/u6ozdOU0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 605,
+          "like_count": 894,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 2952
+        },
+        "username": "hui_0024",
+        "verified": false
+      }
+    ]
+  }
+}

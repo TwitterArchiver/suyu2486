@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1954746744291627398",
+    "created_at": "2025-08-11T08:15:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T09:15:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954819054075621769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1440186041143418895",
+          "start": 0,
+          "username": "ICYI3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954819054075621769",
+    "in_reply_to_user_id": "1440186041143418895",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954756139754914168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ICYI3 ？！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1954746744291627398",
+        "created_at": "2025-08-11T08:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T09:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954819054075621769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1440186041143418895",
+              "start": 0,
+              "username": "ICYI3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954819054075621769",
+        "in_reply_to_user_id": "1440186041143418895",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954756139754914168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ICYI3 ？！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1440186041143418895",
+        "conversation_id": "1954746744291627398",
+        "created_at": "2025-08-11T04:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T05:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954756139754914168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954756139754914168",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954746744291627398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 ？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1953423119017758926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 200,
+          "like_count": 14366,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 3938
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-21T05:28:18.000Z",
+        "description": "拒绝双标，不喜欢可以随意取关、屏蔽。低质量yap小号：@ICYI333",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 27,
+                "username": "ICYI333"
+              }
+            ]
+          }
+        },
+        "id": "1440186041143418895",
+        "location": "8号下水道-105老鼠洞",
+        "name": "ICYI3",
+        "pinned_tweet_id": "1906336598293467234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920845982008512512/667xDOpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 210,
+          "like_count": 115030,
+          "listed_count": 5,
+          "media_count": 68,
+          "tweet_count": 12035
+        },
+        "username": "ICYI3",
+        "verified": false
+      }
+    ]
+  }
+}

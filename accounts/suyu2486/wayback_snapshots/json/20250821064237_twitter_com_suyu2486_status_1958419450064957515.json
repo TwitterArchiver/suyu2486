@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1958411466161144167",
+    "created_at": "2025-08-21T06:42:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T07:42:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958419450064957515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592865779241734144",
+          "start": 0,
+          "username": "yuanyuan774"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958419450064957515",
+    "in_reply_to_user_id": "1592865779241734144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958419287900602411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanyuan774 ？…咋这样！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1958411466161144167",
+        "created_at": "2025-08-21T06:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T07:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958419450064957515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592865779241734144",
+              "start": 0,
+              "username": "yuanyuan774"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958419450064957515",
+        "in_reply_to_user_id": "1592865779241734144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958419287900602411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanyuan774 ？…咋这样！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592865779241734144",
+        "conversation_id": "1958411466161144167",
+        "created_at": "2025-08-21T06:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T07:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958419287900602411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958419287900602411",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958417872864026923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 动词吗🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1942146301199614396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 201,
+          "like_count": 16473,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 4354
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T13:03:00.000Z",
+        "description": "小号 转喜欢看的片的。@CaTwTuoo。 有🚪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "CaTwTuoo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pan.quark.cn/s/543a993bb2b4",
+                "end": 23,
+                "expanded_url": "https://pan.quark.cn/s/543a993bb2b4",
+                "start": 0,
+                "url": "https://t.co/TWDgw2qLmx"
+              }
+            ]
+          }
+        },
+        "id": "1592865779241734144",
+        "location": "放了些小福利在网盘里，喜欢的话自取👇🏻",
+        "name": "欠",
+        "pinned_tweet_id": "1954424521848410592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956501546482421760/f-zpB3QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30027,
+          "following_count": 289,
+          "like_count": 27877,
+          "listed_count": 48,
+          "media_count": 1395,
+          "tweet_count": 25507
+        },
+        "url": "https://t.co/TWDgw2qLmx",
+        "username": "yuanyuan774",
+        "verified": false
+      }
+    ]
+  }
+}

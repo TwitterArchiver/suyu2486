@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1939536981484290535",
+    "created_at": "2025-06-30T11:35:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T12:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939649066629296156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1745396254446862336",
+          "start": 0,
+          "username": "Bread_ka0723"
+        },
+        {
+          "end": 30,
+          "id": "1802116593767284736",
+          "start": 14,
+          "username": "xiaoshe_xiaoshe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939649066629296156",
+    "in_reply_to_user_id": "1745396254446862336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939644468338319614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bread_ka0723 @xiaoshe_xiaoshe 一般"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1939536981484290535",
+        "created_at": "2025-06-30T11:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T12:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939649066629296156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1745396254446862336",
+              "start": 0,
+              "username": "Bread_ka0723"
+            },
+            {
+              "end": 30,
+              "id": "1802116593767284736",
+              "start": 14,
+              "username": "xiaoshe_xiaoshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939649066629296156",
+        "in_reply_to_user_id": "1745396254446862336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939644468338319614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bread_ka0723 @xiaoshe_xiaoshe 一般"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745396254446862336",
+        "conversation_id": "1939536981484290535",
+        "created_at": "2025-06-30T11:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T12:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939644468338319614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            },
+            {
+              "end": 26,
+              "id": "1802116593767284736",
+              "start": 10,
+              "username": "xiaoshe_xiaoshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939644468338319614",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939563696428130494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 @xiaoshe_xiaoshe 讲话太有水平了 我他妈笑死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1923458019305660813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 200,
+          "like_count": 9686,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2820
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-11T10:45:03.000Z",
+        "description": "如果有人愿意送我白色桔梗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/breadka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/breadka",
+                "start": 0,
+                "url": "https://t.co/Do10uBfNtO"
+              }
+            ]
+          }
+        },
+        "id": "1745396254446862336",
+        "location": "面包加工厂",
+        "name": "面包小ka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935385253352456194/mT1-0sUL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 135,
+          "like_count": 1689,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 148
+        },
+        "url": "https://t.co/Do10uBfNtO",
+        "username": "Bread_ka0723",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T23:11:01.000Z",
+        "description": "叫我小舌就好｜不聊骚｜女的｜骂我的等着被毕业吧🎓",
+        "id": "1802116593767284736",
+        "location": "૮₍ ´ ꒳ `₎ა",
+        "name": "小小小小舌",
+        "pinned_tweet_id": "1867560062975180937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937628490461003776/wkUuBviq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 250,
+          "like_count": 1568,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 437
+        },
+        "username": "xiaoshe_xiaoshe",
+        "verified": false
+      }
+    ]
+  }
+}

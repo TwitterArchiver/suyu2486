@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1963536300952490353",
+    "created_at": "2025-09-04T09:47:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T10:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963539301129752872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1831042430449471488",
+          "start": 0,
+          "username": "x57688"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963539301129752872",
+    "in_reply_to_user_id": "1831042430449471488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963536300952490353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x57688 可能因为不敏感吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1963536300952490353",
+        "created_at": "2025-09-04T09:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T10:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963539301129752872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1831042430449471488",
+              "start": 0,
+              "username": "x57688"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963539301129752872",
+        "in_reply_to_user_id": "1831042430449471488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963536300952490353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x57688 可能因为不敏感吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831042430449471488",
+        "conversation_id": "1963536300952490353",
+        "created_at": "2025-09-04T09:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T10:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963536300952490353"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963536300952490353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发照片怎么打不上敏感标签了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱无章，不定期活跃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "飞向全宇宙",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1963477103296614437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1476,
+          "following_count": 217,
+          "like_count": 18760,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 5035
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T18:52:28.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=W1K03lm9",
+                "start": 0,
+                "url": "https://t.co/Vdo50AAOrZ"
+              }
+            ]
+          }
+        },
+        "id": "1831042430449471488",
+        "location": "自用蜂鸟VPN",
+        "name": "香芋派",
+        "pinned_tweet_id": "1926365201269444810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928837612439220232/7cwXX9oR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5749,
+          "following_count": 240,
+          "like_count": 13544,
+          "listed_count": 3,
+          "media_count": 197,
+          "tweet_count": 8690
+        },
+        "url": "https://t.co/Vdo50AAOrZ",
+        "username": "x57688",
+        "verified": false
+      }
+    ]
+  }
+}

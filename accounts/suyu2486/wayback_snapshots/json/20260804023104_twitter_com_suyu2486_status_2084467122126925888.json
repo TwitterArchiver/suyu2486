@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2084306629814874115",
+    "created_at": "2026-08-04T02:31:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T03:31:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084467122126925888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1788237544590823424",
+          "start": 0,
+          "username": "Bzg1680475"
+        },
+        {
+          "end": 23,
+          "id": "1934302404922810369",
+          "start": 12,
+          "username": "ChenY47047"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084467122126925888",
+    "in_reply_to_user_id": "1788237544590823424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084440344364831121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bzg1680475 @ChenY47047 来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2084306629814874115",
+        "created_at": "2026-08-04T02:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T03:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084467122126925888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1788237544590823424",
+              "start": 0,
+              "username": "Bzg1680475"
+            },
+            {
+              "end": 23,
+              "id": "1934302404922810369",
+              "start": 12,
+              "username": "ChenY47047"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084467122126925888",
+        "in_reply_to_user_id": "1788237544590823424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084440344364831121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bzg1680475 @ChenY47047 来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788237544590823424",
+        "conversation_id": "2084306629814874115",
+        "created_at": "2026-08-04T00:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T01:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084440344364831121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934302404922810369",
+              "start": 0,
+              "username": "ChenY47047"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084440344364831121",
+        "in_reply_to_user_id": "1934302404922810369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084306629814874115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenY47047 我下面长个摇杆可以吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "小玉",
+        "pinned_tweet_id": "2084166896371511380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2074,
+          "following_count": 192,
+          "like_count": 21377,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6684
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T16:00:37.000Z",
+        "description": "这个世界全都是神经病，只是有的显性有的隐性\n我要当一棵树，沉稳 从容 平静 坚定。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tree72872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tree72872",
+                "start": 0,
+                "url": "https://t.co/ZHVLQJ4evf"
+              }
+            ]
+          }
+        },
+        "id": "1788237544590823424",
+        "location": "外太空",
+        "name": "一棵树",
+        "pinned_tweet_id": "2082418374953578529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080119409730002944/NJz2FaOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 25,
+          "like_count": 1167,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 578
+        },
+        "url": "https://t.co/ZHVLQJ4evf",
+        "username": "Bzg1680475",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T17:30:20.000Z",
+        "description": "cn御风🚪52 不是健全b 09 偶尔zc 经常缺爱/发牢骚/负能 诚招一位打三角洲厉害的姐姐 入门的小宝宝都会被我关爱被我哄的 接定制 有想我念的台本可以私发给我呀 匿名提问:https://t.co/tITXigjnoR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/suki",
+                "end": 112,
+                "expanded_url": "https://miyu.link/suki",
+                "start": 89,
+                "url": "https://t.co/tITXigjnoR"
+              }
+            ]
+          }
+        },
+        "id": "1934302404922810369",
+        "location": "距离487m",
+        "name": "suki！",
+        "pinned_tweet_id": "2080499323868238149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951431674119725060/rg9TZR5s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 37,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 625
+        },
+        "url": "",
+        "username": "ChenY47047",
+        "verified": false
+      }
+    ]
+  }
+}

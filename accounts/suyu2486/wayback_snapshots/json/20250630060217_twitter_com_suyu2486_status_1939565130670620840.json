@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1939312586849427950",
+    "created_at": "2025-06-30T06:02:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T07:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939565130670620840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1816907362898444288",
+          "start": 0,
+          "username": "Adrainfor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939565130670620840",
+    "in_reply_to_user_id": "1816907362898444288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939312586849427950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Adrainfor 手控和这样的人打麻将会看立吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1966,
+        "height": 1280,
+        "media_key": "13_1939312572374691840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1939312572374691840/img/naYM54tw8fjNKcwN.jpg",
+        "public_metrics": {
+          "view_count": 2009
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939312572374691840/vid/avc1/320x568/SZ8tyKZXCjuevVx-.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939312572374691840/vid/avc1/480x852/12gr4E-_p1sJTuA9.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939312572374691840/vid/avc1/720x1280/0hvxydntGxip4RFg.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1939312572374691840/pl/lkg8sZniLxDiP1Bb.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1939312586849427950",
+        "created_at": "2025-06-30T06:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T07:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939565130670620840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1816907362898444288",
+              "start": 0,
+              "username": "Adrainfor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939565130670620840",
+        "in_reply_to_user_id": "1816907362898444288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939312586849427950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Adrainfor 手控和这样的人打麻将会看立吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1939312572374691840"
+          ]
+        },
+        "author_id": "1816907362898444288",
+        "conversation_id": "1939312586849427950",
+        "created_at": "2025-06-29T13:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T14:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939312586849427950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/givxQhpbst",
+              "end": 30,
+              "expanded_url": "https://x.com/Adrainfor/status/1939312586849427950/video/1",
+              "media_key": "13_1939312572374691840",
+              "start": 7,
+              "url": "https://t.co/givxQhpbst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939312586849427950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6853,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再寄吧这样呢 https://t.co/givxQhpbst"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1923458019305660813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 200,
+          "like_count": 9595,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 2791
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-26T18:44:19.000Z",
+        "description": "爱因有差别而厚重｜不接线下不要给我发屌照谢谢",
+        "id": "1816907362898444288",
+        "location": "🚪99/188纯绿",
+        "name": "那你别活了",
+        "pinned_tweet_id": "1933624139874775536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931536012314058752/ZsPAFLJW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4961,
+          "following_count": 118,
+          "like_count": 1324,
+          "listed_count": 13,
+          "media_count": 110,
+          "tweet_count": 1483
+        },
+        "username": "Adrainfor",
+        "verified": false
+      }
+    ]
+  }
+}

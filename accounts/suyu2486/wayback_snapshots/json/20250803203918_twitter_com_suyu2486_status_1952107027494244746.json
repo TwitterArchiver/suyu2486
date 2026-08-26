@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1952103668267761748",
+    "created_at": "2025-08-03T20:39:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T21:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952107027494244746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1684106716911108096",
+          "start": 0,
+          "username": "ndsxrjwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952107027494244746",
+    "in_reply_to_user_id": "1684106716911108096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952106232531345772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ndsxrjwww 骂我干嘛，进不进啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1952103668267761748",
+        "created_at": "2025-08-03T20:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T21:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952107027494244746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1684106716911108096",
+              "start": 0,
+              "username": "ndsxrjwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952107027494244746",
+        "in_reply_to_user_id": "1684106716911108096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952106232531345772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ndsxrjwww 骂我干嘛，进不进啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684106716911108096",
+        "conversation_id": "1952103668267761748",
+        "created_at": "2025-08-03T20:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T21:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952106232531345772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952106232531345772",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952103668267761748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 笑死我了 你有病啊哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1951649210652135765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 200,
+          "like_count": 13083,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 3593
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T07:42:22.000Z",
+        "description": "esfp 的围脖",
+        "id": "1684106716911108096",
+        "name": "风中凌乱的孤狼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891431314785710080/QksCzK5A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 138,
+          "like_count": 551,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 680
+        },
+        "username": "ndsxrjwww",
+        "verified": false
+      }
+    ]
+  }
+}

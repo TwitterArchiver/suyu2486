@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1938546798055882911",
+    "created_at": "2025-06-27T11:35:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T12:35:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938561936221773967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1799839125211922432",
+          "start": 0,
+          "username": "Oioclaire"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938561936221773967",
+    "in_reply_to_user_id": "1799839125211922432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938546798055882911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Oioclaire 送我个原味，我去成都发展"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938546788652482560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GucaCI4bAAA3R8M.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1938546798055882911",
+        "created_at": "2025-06-27T11:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T12:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938561936221773967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1799839125211922432",
+              "start": 0,
+              "username": "Oioclaire"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938561936221773967",
+        "in_reply_to_user_id": "1799839125211922432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938546798055882911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Oioclaire 送我个原味，我去成都发展"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938546788652482560"
+          ]
+        },
+        "author_id": "1799839125211922432",
+        "conversation_id": "1938546798055882911",
+        "created_at": "2025-06-27T10:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T11:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938546798055882911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oCMGEiT0hi",
+              "end": 31,
+              "expanded_url": "https://x.com/Oioclaire/status/1938546798055882911/photo/1",
+              "media_key": "3_1938546788652482560",
+              "start": 8,
+              "url": "https://t.co/oCMGEiT0hi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938546798055882911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 401,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "谁喜欢的白袜。 https://t.co/oCMGEiT0hi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1930824661660516687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 196,
+          "like_count": 8651,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 2421
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T16:21:13.000Z",
+        "description": "19 intp 会看私信 不接线下！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=efRuX49O",
+                "start": 0,
+                "url": "https://t.co/FCgULsGsTx"
+              }
+            ]
+          }
+        },
+        "id": "1799839125211922432",
+        "location": "蜂鸟vpn超级超级好用^_^",
+        "name": "Oio",
+        "pinned_tweet_id": "1938169525121519998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901564033645613056/65lRG2HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12929,
+          "following_count": 161,
+          "like_count": 13588,
+          "listed_count": 42,
+          "media_count": 166,
+          "tweet_count": 1369
+        },
+        "url": "https://t.co/FCgULsGsTx",
+        "username": "Oioclaire",
+        "verified": false
+      }
+    ]
+  }
+}

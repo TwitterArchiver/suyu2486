@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1967048345429614743",
+    "created_at": "2025-09-14T19:38:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T20:38:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967311998955491474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1904202869831864320",
+          "start": 0,
+          "username": "yuyuovoiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967311998955491474",
+    "in_reply_to_user_id": "1904202869831864320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967048345429614743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyuovoiiii 谢谢"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17902,
+        "height": 1280,
+        "media_key": "7_1967048314890973186",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1967048314890973186/pu/img/AuGUhngOwzjk6Hgo.jpg",
+        "public_metrics": {
+          "view_count": 318
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1967048314890973186/pu/vid/avc1/320x568/zD4ymOUJBxK2Uv0Q.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1967048314890973186/pu/vid/avc1/480x852/Xvir90HmQjBRBWvI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1967048314890973186/pu/vid/avc1/720x1280/o0Savy2TkFsAbwTm.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1967048314890973186/pu/pl/Vm2Ya0JwD7OXcYP-.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1967048345429614743",
+        "created_at": "2025-09-14T19:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T20:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967311998955491474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1904202869831864320",
+              "start": 0,
+              "username": "yuyuovoiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967311998955491474",
+        "in_reply_to_user_id": "1904202869831864320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967048345429614743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyuovoiiii 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1967048314890973186"
+          ]
+        },
+        "author_id": "1904202869831864320",
+        "conversation_id": "1967048345429614743",
+        "created_at": "2025-09-14T02:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T03:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967048345429614743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0gZQ89vaLu",
+              "end": 37,
+              "expanded_url": "https://x.com/yuyuovoiiii/status/1967048345429614743/video/1",
+              "media_key": "7_1967048314890973186",
+              "start": 14,
+              "url": "https://t.co/0gZQ89vaLu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967048345429614743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1681,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "巴掌和吻痕都是我给你的礼物 https://t.co/0gZQ89vaLu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，男的，infp，装逼让你飞起来，机舱开🚪中，座位费15一位（一包红双喜莲香的价钱）全国可飞🤗发的比较杂乱，不定期活跃。双相情感障碍，焦虑症，情感漠视。我三观有问题，是个烂货🤗七个小号其中之一@dante82682",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "dante82682"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHWAw"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "自用蜂鸟vpn",
+        "name": "神鹰哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 233,
+          "like_count": 19418,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 5341
+        },
+        "url": "https://t.co/7QmOrkHWAw",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-24T16:05:28.000Z",
+        "description": "如果睡觉和哭可以解决一切问题就好了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yonie91716",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yonie91716",
+                "start": 0,
+                "url": "https://t.co/gHXMGElIwU"
+              }
+            ]
+          }
+        },
+        "id": "1904202869831864320",
+        "name": "我是小u（依旧绝望）",
+        "pinned_tweet_id": "1967048345429614743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961410270091513856/Um8ekt1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 70,
+          "like_count": 1373,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 1180
+        },
+        "url": "https://t.co/gHXMGElIwU",
+        "username": "yuyuovoiiii",
+        "verified": false
+      }
+    ]
+  }
+}

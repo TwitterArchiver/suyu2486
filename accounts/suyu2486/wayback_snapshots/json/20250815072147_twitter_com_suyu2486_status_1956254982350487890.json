@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1956225976226209869",
+    "created_at": "2025-08-15T07:21:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T08:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956254982350487890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1890983073216659456",
+          "start": 0,
+          "username": "caonimapixianan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956254982350487890",
+    "in_reply_to_user_id": "1890983073216659456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956225976226209869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caonimapixianan 你也爱看瓢虫雷迪吗…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1323,
+        "media_key": "3_1956225944265613315",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyXpIbxa4AMnmzb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1956225976226209869",
+        "created_at": "2025-08-15T07:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T08:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956254982350487890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1890983073216659456",
+              "start": 0,
+              "username": "caonimapixianan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956254982350487890",
+        "in_reply_to_user_id": "1890983073216659456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956225976226209869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caonimapixianan 你也爱看瓢虫雷迪吗…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956225944265613315"
+          ]
+        },
+        "author_id": "1890983073216659456",
+        "conversation_id": "1956225976226209869",
+        "created_at": "2025-08-15T05:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T06:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956225976226209869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KgbW8jookN",
+              "end": 40,
+              "expanded_url": "https://x.com/caonimapixianan/status/1956225976226209869/photo/1",
+              "media_key": "3_1956225944265613315",
+              "start": 17,
+              "url": "https://t.co/KgbW8jookN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956225976226209869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 642,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我被这个瓢虫雷迪的大香蕉笑晕了。 https://t.co/KgbW8jookN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个男的…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pHSC"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1955773434958352438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 201,
+          "like_count": 15741,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 4293
+        },
+        "url": "https://t.co/Nt4kx6pHSC",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-16T04:34:40.000Z",
+        "description": "ENTP🟡˃ʍ˂ 老子号没了泪牛满面了。@caonimabiefanwo 推广自辨💥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "caonimabiefanwo"
+              }
+            ]
+          }
+        },
+        "id": "1890983073216659456",
+        "name": "爆浆奶黄包（重生版。）",
+        "pinned_tweet_id": "1956003438464008442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950955757052309505/M75ad9qc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4635,
+          "following_count": 364,
+          "like_count": 4932,
+          "listed_count": 4,
+          "media_count": 61,
+          "tweet_count": 763
+        },
+        "username": "caonimapixianan",
+        "verified": false
+      }
+    ]
+  }
+}

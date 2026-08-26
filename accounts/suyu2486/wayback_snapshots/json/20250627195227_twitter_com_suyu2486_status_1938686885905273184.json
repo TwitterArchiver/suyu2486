@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1938601372837913057",
+    "created_at": "2025-06-27T19:52:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T20:52:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938686885905273184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1652342970677600257",
+          "start": 0,
+          "username": "xiaozhang11529"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938686885905273184",
+    "in_reply_to_user_id": "1652342970677600257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938686004350853245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaozhang11529 赔你三千万，千万要开心，千万要幸福，千万要健康"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1938601372837913057",
+        "created_at": "2025-06-27T19:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T20:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938686885905273184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1652342970677600257",
+              "start": 0,
+              "username": "xiaozhang11529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938686885905273184",
+        "in_reply_to_user_id": "1652342970677600257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938686004350853245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhang11529 赔你三千万，千万要开心，千万要幸福，千万要健康"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652342970677600257",
+        "conversation_id": "1938601372837913057",
+        "created_at": "2025-06-27T19:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T20:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938686004350853245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910715228523831296",
+              "start": 0,
+              "username": "suyu2486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938686004350853245",
+        "in_reply_to_user_id": "1910715228523831296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938685928391815228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyu2486 呵呵呵 赔钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1938601372837913057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 196,
+          "like_count": 8851,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2508
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T16:04:29.000Z",
+        "description": "想发什么发什么 高三在读 有想加我的可以来找我过 对不起本人是一个爱慕虚荣的人 非常非常的穷呀🚪88 大家多多关注我呀 女宝可以找我互动",
+        "id": "1652342970677600257",
+        "name": "小张",
+        "pinned_tweet_id": "1923032204256460826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929931824794611712/8SWA-jiz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 160,
+          "like_count": 1145,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 366
+        },
+        "username": "xiaozhang11529",
+        "verified": false
+      }
+    ]
+  }
+}

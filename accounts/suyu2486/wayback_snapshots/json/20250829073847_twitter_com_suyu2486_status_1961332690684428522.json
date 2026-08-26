@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1961133238858256641",
+    "created_at": "2025-08-29T07:38:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T08:38:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961332690684428522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1417004111363411968",
+          "start": 0,
+          "username": "XylocaineL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961332690684428522",
+    "in_reply_to_user_id": "1417004111363411968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961133238858256641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XylocaineL 给我弄个工作签"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1036,
+        "media_key": "3_1961133233237889028",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzdYSPxbkAQHYLa.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1961133238858256641",
+        "created_at": "2025-08-29T07:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T08:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961332690684428522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1417004111363411968",
+              "start": 0,
+              "username": "XylocaineL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961332690684428522",
+        "in_reply_to_user_id": "1417004111363411968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961133238858256641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XylocaineL 给我弄个工作签"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961133233237889028"
+          ]
+        },
+        "author_id": "1417004111363411968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1961133238858256641",
+        "created_at": "2025-08-28T18:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T19:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961133238858256641"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "悉尼"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZunVkZejkh",
+              "end": 43,
+              "expanded_url": "https://x.com/XylocaineL/status/1961133238858256641/photo/1",
+              "media_key": "3_1961133233237889028",
+              "start": 20,
+              "url": "https://t.co/ZunVkZejkh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961133238858256641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3586,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "悉尼来个人跟我凿一下 我破防了 #悉尼 https://t.co/ZunVkZejkh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "可以叫我小玉，一个好色的sb男的，双相情感障碍，情感漠视，精神失常，都滚远点别来烦我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "小玉",
+        "pinned_tweet_id": "1961296394242965841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1361,
+          "following_count": 199,
+          "like_count": 17328,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 4613
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-19T06:11:53.000Z",
+        "description": "¿? *ˢ ᵂ ⁱ ᵗ ᶜʰ  我就一色兰不卖b",
+        "id": "1417004111363411968",
+        "location": "🚪520",
+        "name": "Xylocaine",
+        "pinned_tweet_id": "1601143344783970304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1417004803293519872/ufJPHwwS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3880,
+          "following_count": 137,
+          "like_count": 2958,
+          "listed_count": 5,
+          "media_count": 350,
+          "tweet_count": 2070
+        },
+        "username": "XylocaineL",
+        "verified": true
+      }
+    ]
+  }
+}

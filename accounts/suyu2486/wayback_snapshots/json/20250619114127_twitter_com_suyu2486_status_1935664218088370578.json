@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935664214728650752",
+        "3_1935664211612389376"
+      ]
+    },
+    "author_id": "1910715228523831296",
+    "conversation_id": "1935664218088370578",
+    "created_at": "2025-06-19T11:41:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T12:41:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935664218088370578"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KoG0CNki3t",
+          "end": 42,
+          "expanded_url": "https://x.com/suyu2486/status/1935664218088370578/photo/1",
+          "media_key": "3_1935664214728650752",
+          "start": 19,
+          "url": "https://t.co/KoG0CNki3t"
+        },
+        {
+          "display_url": "pic.x.com/KoG0CNki3t",
+          "end": 42,
+          "expanded_url": "https://x.com/suyu2486/status/1935664218088370578/photo/1",
+          "media_key": "3_1935664211612389376",
+          "start": 19,
+          "url": "https://t.co/KoG0CNki3t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935664218088370578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个ai，小心让你飞起来👊🏻👊🏻👊🏻 https://t.co/KoG0CNki3t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935664214728650752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtzcWQNWMAAKgCx.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1935664211612389376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtzcWEmX0AAqDKy.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935664214728650752",
+            "3_1935664211612389376"
+          ]
+        },
+        "author_id": "1910715228523831296",
+        "conversation_id": "1935664218088370578",
+        "created_at": "2025-06-19T11:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T12:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935664218088370578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KoG0CNki3t",
+              "end": 42,
+              "expanded_url": "https://x.com/suyu2486/status/1935664218088370578/photo/1",
+              "media_key": "3_1935664214728650752",
+              "start": 19,
+              "url": "https://t.co/KoG0CNki3t"
+            },
+            {
+              "display_url": "pic.x.com/KoG0CNki3t",
+              "end": 42,
+              "expanded_url": "https://x.com/suyu2486/status/1935664218088370578/photo/1",
+              "media_key": "3_1935664211612389376",
+              "start": 19,
+              "url": "https://t.co/KoG0CNki3t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935664218088370578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个ai，小心让你飞起来👊🏻👊🏻👊🏻 https://t.co/KoG0CNki3t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，文案随便拿，因为我也是偷的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "name": "小玉",
+        "pinned_tweet_id": "1932841041314656753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928709552171610112/x9fXi0Ew_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 174,
+          "like_count": 6349,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1780
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      }
+    ]
+  }
+}

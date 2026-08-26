@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "1938929741903602079",
+    "created_at": "2025-06-28T13:18:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T14:18:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938950139936125111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1801534903626121216",
+          "start": 0,
+          "username": "qngshu988723424"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938950139936125111",
+    "in_reply_to_user_id": "1801534903626121216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938929741903602079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qngshu988723424 萌叔你究竟在看些什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "1938929741903602079",
+        "created_at": "2025-06-28T13:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T14:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938950139936125111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1801534903626121216",
+              "start": 0,
+              "username": "qngshu988723424"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938950139936125111",
+        "in_reply_to_user_id": "1801534903626121216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938929741903602079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qngshu988723424 萌叔你究竟在看些什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801534903626121216",
+        "conversation_id": "1938929741903602079",
+        "created_at": "2025-06-28T11:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T12:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938929741903602079"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938929741903602079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚才看到了一个sm刨肚脐漏出点肠子的。虽说事后会缝回去。。。。。。这真的是sm的范畴吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "我是小玉，我是男的一个恶臭男，叫小玉是因为英文名是jade直译是玉，文案随便拿，因为我也是偷的，我将做回神鹰，发点碎碎念，爱说点c语言，恶心到你不喜欢的可以随便喷😋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jade2486520",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jade2486520",
+                "start": 0,
+                "url": "https://t.co/Nt4kx6pa34"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "location": "鹰窝",
+        "name": "神鹰哥",
+        "pinned_tweet_id": "1938601372837913057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935753052192997376/HzH-7fdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 197,
+          "like_count": 9168,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 2633
+        },
+        "url": "https://t.co/Nt4kx6pa34",
+        "username": "suyu2486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-14T08:39:35.000Z",
+        "description": "和鸟每天抢吃的。\n匿名箱https://t.co/tm4URv7pxk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qngshu988723424",
+                "end": 35,
+                "expanded_url": "https://ngl.link/qngshu988723424",
+                "start": 12,
+                "url": "https://t.co/tm4URv7pxk"
+              }
+            ]
+          }
+        },
+        "id": "1801534903626121216",
+        "name": "rotaka",
+        "pinned_tweet_id": "1915208248921329773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886064402417475584/qFYmPUu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 204,
+          "like_count": 1549,
+          "listed_count": 0,
+          "media_count": 258,
+          "tweet_count": 2590
+        },
+        "username": "qngshu988723424",
+        "verified": false
+      }
+    ]
+  }
+}
