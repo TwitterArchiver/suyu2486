@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910715228523831296",
+    "conversation_id": "2099651976720167171",
+    "created_at": "2026-09-16T19:39:28.000Z",
+    "display_text_range": [
+      9,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T20:39:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100308607401427221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1794355854545948672",
+          "start": 0,
+          "username": "kkbeibe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100308607401427221",
+    "in_reply_to_user_id": "1794355854545948672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099651976720167171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkbeibe 耍起"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6098,
+        "height": 720,
+        "media_key": "13_2099651953223716864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099651953223716864/img/Na3Ze7vzhVHWAKP5.jpg",
+        "public_metrics": {
+          "view_count": 424
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099651953223716864/vid/avc1/480x270/jPiFevqE4NfW6Xsr.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099651953223716864/vid/avc1/640x360/v6D9krGSD3C9JvHY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099651953223716864/vid/avc1/1280x720/8WQlpPql5eOXZrE1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099651953223716864/pl/5BJFWzXfU8gJhWS2.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910715228523831296",
+        "conversation_id": "2099651976720167171",
+        "created_at": "2026-09-16T19:39:28.000Z",
+        "display_text_range": [
+          9,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T20:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100308607401427221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1794355854545948672",
+              "start": 0,
+              "username": "kkbeibe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100308607401427221",
+        "in_reply_to_user_id": "1794355854545948672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099651976720167171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkbeibe 耍起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099651953223716864"
+          ]
+        },
+        "author_id": "1794355854545948672",
+        "conversation_id": "2099651976720167171",
+        "created_at": "2026-09-15T00:10:15.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T01:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099651976720167171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Cgo0JQTHL",
+              "end": 33,
+              "expanded_url": "https://x.com/kkbeibe/status/2099651976720167171/video/1",
+              "media_key": "13_2099651953223716864",
+              "start": 10,
+              "url": "https://t.co/5Cgo0JQTHL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099651976720167171",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2099651953223716864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1021,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "耍起终于登上黑叉了 https://t.co/5Cgo0JQTHL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T15:23:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=LTvljRT1",
+                "start": 0,
+                "url": "https://t.co/7QmOrkHoKY"
+              }
+            ]
+          }
+        },
+        "id": "1910715228523831296",
+        "is_identity_verified": false,
+        "location": "自用蜂鸟vpn",
+        "most_recent_tweet_id": "2100308607401427221",
+        "name": "小玉",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910715228523831296/1766048126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011441195206184960/1Y96PmUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2031,
+          "following_count": 184,
+          "like_count": 21329,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 6722
+        },
+        "url": "https://t.co/7QmOrkHoKY",
+        "username": "suyu2486",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-25T13:12:39.000Z",
+        "description": "喜欢收集皮下男文案🚪喜欢就给我打钱吧（其实我是纯绿色，私信不闲聊，不接线下",
+        "id": "1794355854545948672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099741943702176167",
+        "name": "吻痕",
+        "pinned_tweet_id": "1946427954185060704",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1794355854545948672/1750920134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951563017683886080/_pzx02ic_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3103,
+          "following_count": 178,
+          "like_count": 14773,
+          "listed_count": 3,
+          "media_count": 27,
+          "tweet_count": 2748
+        },
+        "url": "",
+        "username": "kkbeibe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
